@@ -1,0 +1,81 @@
+\newif\ifblockingnotice
+\input{config/config}
+\input{config/preamble}
+
+\begin{document}
+
+\pagenumbering{Roman}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\fancyfoot[R]{\footer}
+\newpage
+\thispagestyle{empty}
+
+\include{template/titlepage}
+\include{template/declaration}
+
+\ifblockingnotice
+\include{template/blockingNotice}
+\fi
+
+% INHALTSVERZEICHNIS
+\tableofcontents
+\newpage
+
+% ABKÜRZUNGSVERZEICHNIS
+\include{text/acronym}
+
+% ABBILDUNGSVERZEICHNIS
+\listoffigures 
+\newpage
+
+% TABELLENVERZEICHNIS
+\listoftables
+\newpage
+
+\clearpage
+\setcounter{pageNumber}{\value{page}}
+\pagenumbering{arabic}
+
+
+% KAPITEL 1
+\include{text/chapter1}
+\newpage
+
+% KAPITEL 2
+\include{text/chapter2}
+\newpage
+
+% KAPITEL 3
+\include{text/chapter3}
+\newpage
+
+% KAPITEL 4
+\include{text/chapter4}
+\newpage
+
+% KAPITEL 5
+\include{text/chapter5}
+\newpage
+
+
+\label{pagesForDeclaration}
+
+\clearpage
+\pagenumbering{Roman}
+\setcounter{page}{\value{pageNumber}}
+
+% LITERATURVERZEICHNIS
+\newpage
+\printbibliography[heading=bibintoc]
+
+% FALLS DAS LITERATURVERZEICHNIS NACH LITERATURKATEGORIEN UNTERGLIEDERT WERDEN SOLL,
+% BITTE IN DIE FOLGENDE AUSKOMMENTIERTE DATEI SCHAUEN
+%\input{bib/references}
+\newpage
+
+% ANHANG
+\include{text/appendix}
+ 
+\end{document}

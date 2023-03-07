@@ -1,0 +1,103 @@
+\documentclass[a4paper,12pt]{article}
+
+% Korrekte Darstellung der Texte und Trennung der Wörter
+\usepackage[ngerman]{babel} % ggf. Sprache anpassen
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+
+%\setdefaultlanguage[spelling=new, babelshorthands=true]{german}
+% Mathematik
+\usepackage{mathtools}
+\usepackage{amssymb}
+
+% Anpassungen des Inhaltsverzeichnisses
+\usepackage[nottoc]{tocbibind}
+
+% Für eigene Grafiken
+
+\usepackage{tikz} 
+
+% Tabellen
+\usepackage{tabularx}
+
+% Anführungszeichen mit \enquote{...}
+\usepackage{csquotes}
+
+
+% Seitenränder
+\usepackage[	left=3.5cm, 
+			right=2.5cm, 
+			head=1.25cm, 
+			bottom=2cm, 
+			foot=1.25cm, 
+			includefoot ]{geometry}
+
+% Abkürzungsverzeichnis
+\usepackage[printonlyused]{acronym}
+
+% Abbildungen
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+
+% Fußzeile und Kopfzeile
+\usepackage{fancyhdr}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.5pt}
+
+\def\footer{
+	\begin{center}
+		\hfill
+		\fontsize{\footerFontSize}{\footerFontSize}\selectfont
+		\hfill
+		\thepage
+	\end{center}
+}
+
+\def\header{
+	\begin{center}
+		\hfill
+		\fontsize{\footerFontSize}{\footerFontSize}\selectfont
+		\hfill
+		\textit{\textsc{\leftmark}}
+	\end{center}
+}
+
+% Fußnoten
+\usepackage[bottom]{footmisc}
+
+% Zeilenabstand: 1.5
+\usepackage{setspace}
+\setstretch{1.5}
+
+% Literaturverzeichnis
+\newcommand{\position}{inline} 
+\newcommand{\indextype}{numeric}
+\usepackage[
+backend=biber,
+autocite=\position,
+defernumbers=true,
+style=\indextype,
+useprefix=true,
+%	firstinits=true -> Vorname abkürzen
+]{biblatex}
+\bibliography{bib/bibliography.bib}
+
+%Float-Option H für Grafiken
+\usepackage{float} 
+
+% Darstellung von Algorithmen
+\usepackage[ruled,vlined]{algorithm2e}
+
+% Links in Output-PDF
+\usepackage[hidelinks, unicode]{hyperref}
+\hypersetup{pdftitle = {\thesisTitle}, pdfauthor = {\name}}
+
+% Normale Schriftart für URLs
+\renewcommand{\UrlFont}{}
+
+% Variable für das Speichern der Seitenzahl (römisch -> arabisch -> römisch)
+\newcounter{pageNumber}
+
+% Nummerierung: 2.1, 2.2 usw.
+\renewcommand{\labelenumii}{\theenumii}
+\renewcommand{\theenumii}{\theenumi.\arabic{enumii}.}
