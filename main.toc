@@ -14,17 +14,17 @@
 \contentsline {subsection}{\numberline {2.2}Integrations- und Bereitstellungsautomatisierung \\von Software}{3}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Agile und DevOps als Anwendungsentwicklungskonzepte}{3}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}CI/CD-Pipelines zur Softwarebereitstellung}{6}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.3}Strategien zur Bereitstellung von Neuentwicklungen}{11}{subsubsection.2.2.3}%
-\contentsline {section}{\numberline {3}Methodische Vorgehensweise}{14}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Prototypische Entwicklung der CI/CD-Pipelines}{14}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Evaluation der CI/CD-Pipelines unter Anwendung des Analytischen Hierarchieprozess}{14}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Semistrukturierte Leitfadeninterviews}{14}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Anwendung der Methodik auf die theoretischen Grundlagen}{15}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Prototypische Entwicklung der CI/CD-Pipelines}{15}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Evaluation der CI/CD-Pipelines unter Anwendung des Analytischen Hierarchieprozess}{15}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Entwicklung einer ganzheitlichen Bereitstellungsstrategie}{15}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Schlussbetrachtung}{16}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Fazit und kritische Reflexion}{16}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Ausblick}{16}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Strategien zur Bereitstellung von Neuentwicklungen}{12}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}Methodische Vorgehensweise}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Prototypische Entwicklung der CI/CD-Pipelines}{15}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Evaluation der CI/CD-Pipelines unter Anwendung des Analytischen Hierarchieprozess}{15}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Semistrukturierte Leitfadeninterviews}{15}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Anwendung der Methodik auf die theoretischen Grundlagen}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Prototypische Entwicklung der CI/CD-Pipelines}{16}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Evaluation der CI/CD-Pipelines unter Anwendung des Analytischen Hierarchieprozess}{16}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Entwicklung einer ganzheitlichen Bereitstellungsstrategie}{16}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Schlussbetrachtung}{17}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Fazit und kritische Reflexion}{17}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ausblick}{17}{subsection.5.2}%
 \contentsline {section}{Literatur}{VIII}{section*.10}%
 \contentsline {section}{Anhang}{IX}{section*.11}%
