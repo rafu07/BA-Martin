@@ -12,6 +12,10 @@
 \newpage
 \thispagestyle{empty}
 
+
+% Overfull hbox Warnung austellen
+\hfuzz=25.002pt 
+
 \include{template/titlepage}
 \include{template/declaration}
 
@@ -25,6 +29,7 @@
 
 % ABKÜRZUNGSVERZEICHNIS
 \include{text/acronym}
+
 
 % ABBILDUNGSVERZEICHNIS
 \listoffigures 
@@ -68,7 +73,9 @@
 
 % LITERATURVERZEICHNIS
 \newpage
-\printbibliography[heading=bibintoc]
+\printbibheading
+\printbibliography[nottype=online, heading=subbibliography, title={Print-Quellen}]
+\printbibliography[type=online, heading=subbibliography, title={Online-Quellen}]
 
 % FALLS DAS LITERATURVERZEICHNIS NACH LITERATURKATEGORIEN UNTERGLIEDERT WERDEN SOLL,
 % BITTE IN DIE FOLGENDE AUSKOMMENTIERTE DATEI SCHAUEN

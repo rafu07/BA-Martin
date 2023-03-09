@@ -104,36 +104,43 @@
       \verb https://www.qentelli.com/thought-leadership/insights/evolution-agile-devops-continuous-delivery
       \endverb
     \endentry
-    \entry{Gloger.2016b}{book}{}
+    \entry{Bose.20230220}{online}{}
       \name{author}{1}{}{%
-        {{hash=b0163d7108498eccd9b0c1d6657ac8d0}{%
-           family={Gloger},
-           familyi={G\bibinitperiod},
-           given={Boris},
-           giveni={B\bibinitperiod}}}%
+        {{hash=8a7f21a41cb00fed7cf6932445aab422}{%
+           family={Bose},
+           familyi={B\bibinitperiod},
+           given={Shreya},
+           giveni={S\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {München}%
+      \list{organization}{1}{%
+        {BrowserStack}%
       }
-      \list{publisher}{1}{%
-        {Hanser}%
-      }
-      \strng{namehash}{b0163d7108498eccd9b0c1d6657ac8d0}
-      \strng{fullhash}{b0163d7108498eccd9b0c1d6657ac8d0}
-      \strng{bibnamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
-      \strng{authorbibnamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
-      \strng{authornamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
-      \strng{authorfullhash}{b0163d7108498eccd9b0c1d6657ac8d0}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \strng{namehash}{8a7f21a41cb00fed7cf6932445aab422}
+      \strng{fullhash}{8a7f21a41cb00fed7cf6932445aab422}
+      \strng{bibnamehash}{8a7f21a41cb00fed7cf6932445aab422}
+      \strng{authorbibnamehash}{8a7f21a41cb00fed7cf6932445aab422}
+      \strng{authornamehash}{8a7f21a41cb00fed7cf6932445aab422}
+      \strng{authorfullhash}{8a7f21a41cb00fed7cf6932445aab422}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Scrum in der Praxis einführen und leben Boris Gloger beschreibt leicht verständlich die Werte, Regeln, Strukturen und Rollen von Scrum. Egal ob Sie als Kunde, Führungskraft, ScrumMaster, Product Owner oder Teammitglied an einem Scrum-Projekt beteiligt sind oder aber erst wissen wollen, was Scrum eigentlich ist: - Sie erfahren, wie Teams durch weitgehende Selbstorganisation und kontinuierliches Planen Produkte schneller und erfolgreicher liefern können. - Umfassend wird dargestellt, wie Scrum mit mehreren Teams, die über viele Standorte verteilt sind, eingesetzt wird. - Zudem ist dieses Praxisbuch eine hervorragende Unterstützung für die Zertifizierung zum ScrumMaster. Hier erhalten Sie einen umfassenden Überblick und wertvolle Tipps, wie Sie Scrum in der Praxis einführen und leben können. Boris Gloger ist Deutschlands und Österreichs bekanntester Scrum-Berater. Namhafte deutsche und internationale Unternehmen setzen auf seinen Rat, wenn es darum geht, Scrum richtig einzusetzen. Seine Standards bei der Umsetzung von Scrum haben sich durchgesetzt.}
-      \field{edition}{5., überarbeitete Auflage}
-      \field{isbn}{9783446448360}
-      \field{series}{Hanser eLibrary}
-      \field{title}{Scrum: Produkte zuverlässig und schnell entwickeln}
-      \field{year}{2016}
+      \field{abstract}{Explore end to end testing, a software testing technique that tests an application's workflow from beginning to end in real user scenarios.}
+      \field{title}{What is End To End Testing?}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2023-02-20}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Bose 2023-02-20 - What is End To End:Attachments/Bose 2023-02-20 - What is End To End.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.browserstack.com/guide/end-to-end-testing
+      \endverb
+      \verb{url}
+      \verb https://www.browserstack.com/guide/end-to-end-testing
+      \endverb
     \endentry
     \entry{Goll.2015}{book}{}
       \name{author}{2}{}{%
@@ -147,6 +154,9 @@
            familyi={H\bibinitperiod},
            given={Daniel},
            giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ger}%
       }
       \list{location}{1}{%
         {Wiesbaden}%
@@ -165,8 +175,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9783658107208}
+      \field{pagetotal}{185}
       \field{title}{Mit Scrum zum gewünschten System}
       \field{year}{2015}
+      \verb{doi}
+      \verb 10.1007/978-3-658-10721-5
+      \endverb
+      \verb{file}
+      \verb Goll, Hommel 2015 - Mit Scrum zum gew{\"u}nschten System:Attachments/Goll, Hommel 2015 - Mit Scrum zum gew{\"u}nschten System.pdf:application/pdf
+      \endverb
     \endentry
     \entry{Halstenberg.2020}{book}{}
       \name{author}{1}{}{%
@@ -175,6 +192,21 @@
            familyi={H\bibinitperiod},
            given={Jürgen},
            giveni={J\bibinitperiod}}}%
+      }
+      \name{editorc}{2}{}{%
+        {{hash=9740a336d62dbed2ed6b11a6ce0e3f5f}{%
+           family={Pfitzinger},
+           familyi={P\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=82b8ee81b044391b9a2cff262597acfd}{%
+           family={Jestädt},
+           familyi={J\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ger}%
       }
       \list{location}{1}{%
         {Wiesbaden}%
@@ -188,15 +220,166 @@
       \strng{authorbibnamehash}{6f29f22d1ac9f6fb2e36ad4ed0f5ddf3}
       \strng{authornamehash}{6f29f22d1ac9f6fb2e36ad4ed0f5ddf3}
       \strng{authorfullhash}{6f29f22d1ac9f6fb2e36ad4ed0f5ddf3}
+      \strng{editorcbibnamehash}{f849083120ae11a604477b8b3d896de3}
+      \strng{editorcnamehash}{f849083120ae11a604477b8b3d896de3}
+      \strng{editorcfullhash}{f849083120ae11a604477b8b3d896de3}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Intro -- Was Sie in diesem essential finden können -- Vorwort -- Inhaltsverzeichnis -- 1 Einleitung - wozu DevOps? -- 2 Was ist DevOps? - Everything is a Remix -- 2.1 Ursprünge der DevOps-Bewegung -- 2.2 Grundzüge von DevOps -- 2.3 Der Mehrwert von DevOps in einer VUCA-Welt -- 2.4 Late Commitment -- 2.5 Three Ways und Value Streams -- 2.6 Was DevOps nicht ist -- 3 DevOps-Aktivitäten -- 3.1 Aktivitäten -- 3.2 IT Betrieb mal zwei -- 3.3 Automatisierung, DevOps-Tools -- 3.4 KPIs: Messung von Erfolg -- 3.5 Skalierung von DevOps -- 3.6 Ökonomie von DevOps -- 4 Kulturelle, organisationale und kommunikative Aspekte von DevOps -- 4.1 Muster des Scheiterns und Muster des Gelingens -- 4.2 Ideales Organigramm - oder: welche Team-Topologien für DevOps? -- 5 Wie führt man DevOps ein? - oder: Machen ist wie Wollen, nur krasser! -- 5.1 Grundsätze -- 5.2 Schritt 0: Das Fundament legen -- 5.3 Schritt 1: Die Technologie-Landschaft vereinheitlichen -- 5.4 Schritt 2: Varianz entlang der Value Streams verringern -- 5.5 Schritt 3: Die DevOps-Methoden ausweiten -- 5.6 Schritt 4: Automatisieren von Infrastruktur-Bereitstellung -- 5.7 Schritt 5: Die IT stellt dem Business einen umfassenden Service zur Verfügung -- 6 DevOps - Kritik -- 7 Zusammenfassung -- Was Sie aus diesem essential mitnehmen können -- Weiterführende Literatur.}
+      \field{editorctype}{collaborator}
       \field{isbn}{9783658314057}
+      \field{pagetotal}{159}
       \field{series}{Essentials Ser}
-      \field{title}{DevOps: Ein Überblick}
+      \field{subtitle}{Ein Überblick}
+      \field{title}{DevOps}
       \field{year}{2020}
+      \verb{urlraw}
+      \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6380828
+      \endverb
+      \verb{url}
+      \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6380828
+      \endverb
+    \endentry
+    \entry{Hambling.2015}{collection}{}
+      \name{editor}{2}{}{%
+        {{hash=51428578def06aa078ac03799d7fa550}{%
+           family={Hambling},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4d236810821e8e83a025f2a83ea31820}{%
+           family={Brian},
+           familyi={B\bibinitperiod}}}%
+      }
+      \name{editora}{1}{}{%
+        {{hash=51428578def06aa078ac03799d7fa550}{%
+           family={Hambling},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {BCS Learning {\&} Development Limited}%
+      }
+      \strng{namehash}{da4eb24a515428370f3e9a94ad6e9455}
+      \strng{fullhash}{da4eb24a515428370f3e9a94ad6e9455}
+      \strng{bibnamehash}{da4eb24a515428370f3e9a94ad6e9455}
+      \strng{editorbibnamehash}{da4eb24a515428370f3e9a94ad6e9455}
+      \strng{editornamehash}{da4eb24a515428370f3e9a94ad6e9455}
+      \strng{editorfullhash}{da4eb24a515428370f3e9a94ad6e9455}
+      \strng{editorabibnamehash}{51428578def06aa078ac03799d7fa550}
+      \strng{editoranamehash}{51428578def06aa078ac03799d7fa550}
+      \strng{editorafullhash}{51428578def06aa078ac03799d7fa550}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The best-selling software testing title is the only official textbook of the ISTQB-BCS Certified Tester Foundation Level. This third edition includes examples and exercises reflecting current technology and applications, such as the use of open source software, component-based and agile development and application building for mobile devices. It is ideal for those with a little experience of software testing who wish to cement their knowledge with industry-recognised techniques and theory. {"}Invaluable for anyone involved in testing and would lift the game of most VV{\&}T staff{"} (IT Training Magazine).}
+      \field{edition}{3rd ed.}
+      \field{editoratype}{collaborator}
+      \field{isbn}{9781780173016}
+      \field{note}{Hambling, Brian (MitwirkendeR) Brian, (author.) Hambling, Brian, (editor.)}
+      \field{pagetotal}{11}
+      \field{subtitle}{An ISTQB-BCS certified tester foundation guide}
+      \field{title}{Software testing}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://learning.oreilly.com/library/view/-/9781780172996/?ar
+      \endverb
+      \verb{url}
+      \verb https://learning.oreilly.com/library/view/-/9781780172996/?ar
+      \endverb
+    \endentry
+    \entry{Labouardy.2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3ce69913fa7b2d4c34a04522f0c6e157}{%
+           family={Labouardy},
+           familyi={L\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Shelter Island, New York}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publications Co}%
+      }
+      \strng{namehash}{3ce69913fa7b2d4c34a04522f0c6e157}
+      \strng{fullhash}{3ce69913fa7b2d4c34a04522f0c6e157}
+      \strng{bibnamehash}{3ce69913fa7b2d4c34a04522f0c6e157}
+      \strng{authorbibnamehash}{3ce69913fa7b2d4c34a04522f0c6e157}
+      \strng{authornamehash}{3ce69913fa7b2d4c34a04522f0c6e157}
+      \strng{authorfullhash}{3ce69913fa7b2d4c34a04522f0c6e157}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Intro -- inside front cover -- Pipeline as Code -- Copyright -- brief contents -- contents -- front matter -- preface -- acknowledgments -- about this book -- Who should read this book -- How this book is organized -- About the code -- liveBook discussion forum -- Other online resources -- about the author -- about the cover illustration -- Part 1. Getting started with Jenkins -- 1 What's CI/CD? -- 1.1 Going cloud native -- 1.1.1 Monolithic -- 1.1.2 Microservices -- 1.1.3 Cloud native -- 1.1.4 Serverless -- 1.2 Defining continuous integration -- 1.3 Defining continuous deployment -- 1.4 Defining continuous delivery -- 1.5 Embracing CI/CD practices -- 1.6 Using essential CI/CD tools -- 1.6.1 Choosing a CI/CD tool -- 1.6.2 Introducing Jenkins -- Summary -- 2 Pipeline as code with Jenkins -- 2.1 Introducing the Jenkinsfile -- 2.1.1 Blue Ocean plugin -- 2.1.2 Scripted pipeline -- 2.1.3 Declarative pipeline -- 2.2 Understanding multibranch pipelines -- 2.3 Exploring the GitFlow branch model -- 2.4 Test-driven development with Jenkins -- 2.4.1 The Jenkins Replay button -- 2.4.2 Command-line pipeline linter -- 2.4.3 IDE integrations -- Summary -- Part 2. Operating a self-healing Jenkins cluster -- 3 Defining Jenkins architecture -- 3.1 Understanding master-worker architecture -- 3.2 Managing Jenkins workers -- 3.2.1 SSH -- 3.2.2 Command line -- 3.2.3 JNLP -- 3.2.4 Windows service -- 3.3 Architecting Jenkins for scale in AWS -- 3.3.1 Preparing the AWS environment -- 3.3.2 Configuring the AWS CLI -- 3.3.3 Creating and managing the IAM user -- Summary -- 4 Baking machine images with Packer -- 4.1 Immutable infrastructure -- 4.2 Introducing Packer -- 4.2.1 How does it work? -- 4.2.2 Installation and configuration -- 4.2.3 Baking a machine image -- 4.3 Baking the Jenkins master AMI -- 4.3.1 Configuring Jenkins upon startup.}
+      \field{isbn}{9781638350378}
+      \field{pagetotal}{1333}
+      \field{subtitle}{Continuous delivery with Jenkins, Kubernetes, and Terraform}
+      \field{title}{Pipeline as code}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6785307
+      \endverb
+      \verb{url}
+      \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6785307
+      \endverb
+    \endentry
+    \entry{Loeliger.2012}{book}{}
+      \name{author}{2}{}{%
+        {{hash=796df46c31a6a51e18a1ab65954ae13b}{%
+           family={Loeliger},
+           familyi={L\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2d3edb1e97ce1a5679c681b3ceb27aa9}{%
+           family={McCullough},
+           familyi={M\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Sebastopol, CA.}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly}%
+      }
+      \strng{namehash}{6f6e1a840511606b68933edba4bfe4a8}
+      \strng{fullhash}{6f6e1a840511606b68933edba4bfe4a8}
+      \strng{bibnamehash}{6f6e1a840511606b68933edba4bfe4a8}
+      \strng{authorbibnamehash}{6f6e1a840511606b68933edba4bfe4a8}
+      \strng{authornamehash}{6f6e1a840511606b68933edba4bfe4a8}
+      \strng{authorfullhash}{6f6e1a840511606b68933edba4bfe4a8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Get up to speed on Git for tracking, branching, merging, and managing code revisions. Through a series of step-by-step tutorials, this practical guide takes you quickly from Git fundamentals to advanced techniques, and provides friendly yet rigorous advice for navigating the many functions of this open source version control system.{<}/p{>} This thoroughly revised edition also includes tips for manipulating trees, extended coverage of the reflog and stash, and a complete introduction to the GitHub repository. Git lets you manage code development in a virtually endless variety of ways, once you understand how to harness the system's flexibility. This book shows you how.{<}/p{>}{<}ul{>}{<}li{>}Learn how to use Git for several real-world development scenarios{<}/li{>}{<}li{>}Gain insight into Git's common-use cases, initial tasks, and basic functions{<}/li{>}{<}li{>}Use the system for both centralized and distributed version control{<}/li{>}{<}li{>}Learn how to manage merges, conflicts, patches, and diffs{<}/li{>}{<}li{>}Apply advanced techniques such as rebasing, hooks, and ways to handle submodules{<}/li{>}{<}li{>}Interact with Subversion (SVN) repositories---including SVN to Git conversions{<}/li{>}{<}li{>}Navigate, use, and contribute to open source projects though GitHub{<}/li{>}{<}/ul{>}}
+      \field{edition}{2nd ed.}
+      \field{isbn}{9781449345051}
+      \field{pagetotal}{434}
+      \field{subtitle}{Powerful tools and techniques for collaborative software development}
+      \field{title}{Version control with git}
+      \field{year}{2012}
+      \verb{file}
+      \verb Loeliger, McCullough 2012 - Version control with git:Attachments/Loeliger, McCullough 2012 - Version control with git.pdf:application/pdf
+      \endverb
     \endentry
     \entry{.20230305}{online}{}
       \name{editor}{1}{}{%
@@ -227,6 +410,149 @@
       \verb https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design
       \endverb
     \endentry
+    \entry{Exposit.2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ba2f7607ff078739f3154a853c30d35a}{%
+           family={Paspelava},
+           familyi={P\bibinitperiod},
+           given={Darya},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c18a32d1344cd576f3a026386d74a6df}{%
+           family={Exposit},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba2f7607ff078739f3154a853c30d35a}
+      \strng{fullhash}{ba2f7607ff078739f3154a853c30d35a}
+      \strng{bibnamehash}{ba2f7607ff078739f3154a853c30d35a}
+      \strng{authorbibnamehash}{ba2f7607ff078739f3154a853c30d35a}
+      \strng{authornamehash}{ba2f7607ff078739f3154a853c30d35a}
+      \strng{authorfullhash}{ba2f7607ff078739f3154a853c30d35a}
+      \strng{editorbibnamehash}{c18a32d1344cd576f3a026386d74a6df}
+      \strng{editornamehash}{c18a32d1344cd576f3a026386d74a6df}
+      \strng{editorfullhash}{c18a32d1344cd576f3a026386d74a6df}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Unit testing is an essential part of the software development process that helps you ensure the high quality of your product: it allows developers to check the performance of each unit and prevent possible problems in advance}
+      \field{subtitle}{Why Unit Testing is Important}
+      \field{title}{What is Unit Testing in Software}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.exposit.com/blog/what-unit-testing-software-testing-and-why-it-important/
+      \endverb
+      \verb{url}
+      \verb https://www.exposit.com/blog/what-unit-testing-software-testing-and-why-it-important/
+      \endverb
+    \endentry
+    \entry{.20230308}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=a82007c47b25723539a00ff94e8b3d27}{%
+           family={{Red Hat}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{fullhash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{bibnamehash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{editorbibnamehash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{editornamehash}{a82007c47b25723539a00ff94e8b3d27}
+      \strng{editorfullhash}{a82007c47b25723539a00ff94e8b3d27}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{CI/CD automatisiert alle Phasen der Anwendungsentwicklung und umfasst die Konzepte Continuous Integration, Continuous Delivery und Continuous Deployment.}
+      \field{title}{Was ist CI/CD? Konzepte und CI/CD Tools im Überblick}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2023-03-08}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.redhat.com/de/topics/devops/what-is-ci-cd
+      \endverb
+      \verb{url}
+      \verb https://www.redhat.com/de/topics/devops/what-is-ci-cd
+      \endverb
+    \endentry
+    \entry{.20230201}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=f02d2fd18e61198dd6c2fbf4509422f8}{%
+           family={Synopsys},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f02d2fd18e61198dd6c2fbf4509422f8}
+      \strng{fullhash}{f02d2fd18e61198dd6c2fbf4509422f8}
+      \strng{bibnamehash}{f02d2fd18e61198dd6c2fbf4509422f8}
+      \strng{editorbibnamehash}{f02d2fd18e61198dd6c2fbf4509422f8}
+      \strng{editornamehash}{f02d2fd18e61198dd6c2fbf4509422f8}
+      \strng{editorfullhash}{f02d2fd18e61198dd6c2fbf4509422f8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is CI/CD and How Does It Work?}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2023-02-01}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.synopsys.com/glossary/what-is-cicd.html
+      \endverb
+      \verb{url}
+      \verb https://www.synopsys.com/glossary/what-is-cicd.html
+      \endverb
+    \endentry
+    \entry{Ugochi.20220503}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bc85f4a085332eb41e579b60a7b92e09}{%
+           family={Ugochi},
+           familyi={U\bibinitperiod},
+           given={Ukpai},
+           giveni={U\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=36630bdaaa4d71b44de5d4bb1f2f1071}{%
+           family={Plutora},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc85f4a085332eb41e579b60a7b92e09}
+      \strng{fullhash}{bc85f4a085332eb41e579b60a7b92e09}
+      \strng{bibnamehash}{bc85f4a085332eb41e579b60a7b92e09}
+      \strng{authorbibnamehash}{bc85f4a085332eb41e579b60a7b92e09}
+      \strng{authornamehash}{bc85f4a085332eb41e579b60a7b92e09}
+      \strng{authorfullhash}{bc85f4a085332eb41e579b60a7b92e09}
+      \strng{editorbibnamehash}{36630bdaaa4d71b44de5d4bb1f2f1071}
+      \strng{editornamehash}{36630bdaaa4d71b44de5d4bb1f2f1071}
+      \strng{editorfullhash}{36630bdaaa4d71b44de5d4bb1f2f1071}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn more about Deployment Strategies: 6 Explained in Depth with online resources from Plutora, the leading provider of Value Stream Management solutions.}
+      \field{title}{Deployment Strategies: 6 Explained in Depth}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Ugochi 2022-05-03 - Deployment Strategies:Attachments/Ugochi 2022-05-03 - Deployment Strategies.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth
+      \endverb
+      \verb{url}
+      \verb https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth
+      \endverb
+    \endentry
     \entry{Vesey.1992}{article}{}
       \name{author}{1}{}{%
         {{hash=62437921288076a115495b60e67d5eb5}{%
@@ -245,13 +571,25 @@
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{issn}{0019-8501}
       \field{journaltitle}{Industrial Marketing Management}
+      \field{note}{PII: 001985019290010Q}
       \field{number}{2}
+      \field{pagination}{page}
       \field{title}{Time-to-market: Put speed in product development}
       \field{volume}{21}
       \field{year}{1992}
       \field{pages}{151\bibrangedash 158}
       \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/0019-8501(92)90010-Q
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/001985019290010q
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/001985019290010q
+      \endverb
     \endentry
     \entry{Vieweg.2015}{incollection}{}
       \name{author}{1}{}{%
@@ -260,6 +598,9 @@
            familyi={V\bibinitperiod},
            given={Wolfgang},
            giveni={W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {de}%
       }
       \list{publisher}{1}{%
         {Springer, Wiesbaden}%
@@ -275,19 +616,42 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Das klassische Projektmanagement folgt dem so genannten {\glq}Wasserfallmodell{\grq}. Hierbei handelt es sich um ein lineares (nicht iteratives) Vorgehensmodell, das in Phasen organisiert wird. Es startet immer mit der Erstellung und Verabschiedung eines...}
+      \field{bookpagination}{page}
       \field{booktitle}{Management in Komplexität und Unsicherheit}
       \field{title}{Agiles (Projekt-)Management}
       \field{year}{2015}
       \field{pages}{41\bibrangedash 42}
       \range{pages}{2}
+      \verb{doi}
+      \verb 10.1007/978-3-658-08250-5_11
+      \endverb
+      \verb{file}
+      \verb Vieweg 2015 - Agiles Projekt-Management:Attachments/Vieweg 2015 - Agiles Projekt-Management.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/chapter/10.1007/978-3-658-08250-5_11
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/chapter/10.1007/978-3-658-08250-5_11
+      \endverb
     \endentry
-    \entry{Vivenzio.2013}{book}{}
+    \entry{Vivenzio.2013}{collection}{}
       \name{editor}{1}{}{%
         {{hash=004016e4939d2b21e398ce55bdc5946f}{%
            family={Vivenzio},
            familyi={V\bibinitperiod},
            given={Alberto},
            giveni={A\bibinitperiod}}}%
+      }
+      \name{editora}{1}{}{%
+        {{hash=999ec6248ebf8e02da2a24914c179702}{%
+           family={Vivenzio},
+           familyi={V\bibinitperiod},
+           given={Domenico},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ger}%
       }
       \list{location}{1}{%
         {Wiesbaden}%
@@ -301,18 +665,77 @@
       \strng{editorbibnamehash}{004016e4939d2b21e398ce55bdc5946f}
       \strng{editornamehash}{004016e4939d2b21e398ce55bdc5946f}
       \strng{editorfullhash}{004016e4939d2b21e398ce55bdc5946f}
+      \strng{editorabibnamehash}{999ec6248ebf8e02da2a24914c179702}
+      \strng{editoranamehash}{999ec6248ebf8e02da2a24914c179702}
+      \strng{editorafullhash}{999ec6248ebf8e02da2a24914c179702}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{abstract}{Dieses Fachbuch vermittelt die grundlegenden Kenntnisse des Testmanagements. Von der Strategie und Planung über die verschiedenen Teststufen bis zum Reporting und der Abnahme~geben die Autoren Ihnen einen detaillierten Überblick über das Testen von Software und bieten eine strukturierte Anleitung zum richtigen Testen. Zahlreiche Beispiele zeigen anhand von SAP Banking die Umsetzung und Besonderheiten in der Praxis. Intro -- Vorwort -- Danksagung -- Inhaltsverzeichnis -- 1 Testmanagement! Warum? -- 2 Vorgehensmodelle in der Softwareentwicklung -- 2.1 Vorbemerkungen -- 2.2 Das Wasserfall-Modell -- 2.3 Das V-Modell -- 2.4 RUP - Rational Unified Process -- 3 Teststufen -- 3.1 Komponententest -- 3.2 Integrationstest -- 3.3 Systemtest -- 3.4 Abnahmetest -- 3.5 Generalprobe -- 4 Testprozess -- 4.1 Vorbemerkungen -- 4.2 Die fünf Stufen des allgemeinen Testprozesses -- 4.2.1 Stufe 1: Testplanung und Testüberwachung -- 4.2.2 Stufe 2: Testanalyse und Testentwurf -- 4.2.3 Stufe 3: Testfallerstellung und Testdurchführung -- 4.2.4 Stufe 4: Testinterpretation und Bericht -- 4.2.5 Stufe 5: Beenden der Testaktivität -- 5 Teststrategie -- 5.1 Testziele -- 5.2 Testumfang -- 5.2.1 Testobjekt -- 5.2.2 Testgruppe -- 5.2.3 Testfälle -- 5.3 Testorganisation -- 5.3.1 Rollen und Aufgaben -- 5.3.2 Regelkommunikation -- 5.4 Reporting -- 5.4.1 Berichtswesen -- 5.4.2 Key Performance Indikatoren (KPI´s) im Testmanagement -- 5.5 Testplanung -- 5.5.1 Generischer Testplan -- 5.5.2 Planungsvolatilität -- 6 Testdokumentation -- 6.1 Nutzung von Standards -- 6.2 Der Testplan -- 6.2.1 Test Plan ID -- 6.2.2 Einführung und Referenzen -- 6.2.3 Testobjekte -- 6.2.4 Zu testende Funktionalitäten -- 6.2.5 Nicht zu testende Funktionalitäten -- 6.2.6 Teststrategie -- 6.2.7 Prüfkriterien der Testobjekte -- 6.2.8 Abbruchund Wiederaufnahmekriterien -- 6.2.9 Verfügbare Testdokumente -- 6.2.10 Testaufgaben -- 6.2.11 Ressourcenanforderungen -- 6.2.12 Verantwortlichkeiten -- 6.2.13 Personal und Schulungsbedarf -- 6.2.14 Zeitplan -- 6.2.15 Risikoabschätzung und Möglichkeiten -- 6.2.16 Risiken und Funktionalitätshierarchie -- 6.2.17 Freigabe -- 6.3 Spezifikation des Testdesigns -- 6.4 Die Testfallbeschreibung -- 6.5 Spezifikation des Testablaufs -- 6.6 Konfigurationsbericht des Testobjektes -- 6.7 Der Testbericht.}
       \field{edition}{1st ed.}
+      \field{editoratype}{collaborator}
       \field{isbn}{978-3-8348-1623-8}
-      \field{title}{Testmanagement Bei SAP-Projekten: Erfolgreich Planen * Steuern * Reporten Bei der Einführung Von SAP-Banking}
+      \field{note}{Vivenzio, Alberto (VerfasserIn) Vivenzio, Domenico (MitwirkendeR)}
+      \field{pagetotal}{1175}
+      \field{subtitle}{Erfolgreich Planen * Steuern * Reporten Bei der Einführung Von SAP-Banking}
+      \field{title}{Testmanagement Bei SAP-Projekten}
       \field{year}{2013}
+      \verb{doi}
+      \verb 10.1007/978-3-8348-2142-3
+      \endverb
+    \endentry
+    \entry{Zampetti.92720211012021}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=9f26881606b33421acb3ab5da8de4711}{%
+           family={Zampetti},
+           familyi={Z\bibinitperiod},
+           given={Fiorella},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e9575fc4aaf0e19d9c480c0cda44c914}{%
+           family={Geremia},
+           familyi={G\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0d2cf4bc3dbc5d09d9d74296b8f60d57}{%
+           family={Bavota},
+           familyi={B\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod}}}%
+        {{hash=23b369e7cc1f828c942c8ba8778a7fdb}{%
+           family={{Di Penta}},
+           familyi={D\bibinitperiod},
+           given={Massimiliano},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{aec3ad9d3e0929aa99d3468885cc2301}
+      \strng{fullhash}{3d5a4c9fc482e9ccbd42803d95699765}
+      \strng{bibnamehash}{aec3ad9d3e0929aa99d3468885cc2301}
+      \strng{authorbibnamehash}{aec3ad9d3e0929aa99d3468885cc2301}
+      \strng{authornamehash}{aec3ad9d3e0929aa99d3468885cc2301}
+      \strng{authorfullhash}{3d5a4c9fc482e9ccbd42803d95699765}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)}
+      \field{eventtitle}{2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)}
+      \field{isbn}{978-1-6654-2882-8}
+      \field{title}{CI/CD Pipelines Evolution and Restructuring: A Qualitative and Quantitative Study}
+      \field{venue}{Luxembourg}
+      \field{year}{9/27/2021 - 10/1/2021}
+      \field{pages}{471\bibrangedash 482}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/ICSME52107.2021.00048
+      \endverb
+      \warn{\item Entry 'Zampetti.92720211012021' (bib/bibliography.bib): Invalid format '9/27/2021 - 10/1/2021' of date field 'eventdate' - ignoring}
     \endentry
   \enddatalist
-  \missing{KUC.2021}
 \endrefsection
 \endinput
 

@@ -17,11 +17,23 @@
 
 \usepackage{tikz} 
 
+\usepackage{caption}
+\captionsetup{
+    format=hang,
+    width=1\textwidth,
+    justification=justified,
+    singlelinecheck=false,
+}
+
+\DeclareCaptionFormat{myformat}{#1#2#3\hspace{-0.9em}}
+
+
 % Tabellen
 \usepackage{tabularx}
 
 % Anführungszeichen mit \enquote{...}
 \usepackage{csquotes}
+
 
 
 % Seitenränder
@@ -67,6 +79,7 @@
 
 % Zeilenabstand: 1.5
 \usepackage{setspace}
+\usepackage{caption}
 \setstretch{1.5}
 
 % Literaturverzeichnis
