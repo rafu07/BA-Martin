@@ -1332,7 +1332,17 @@ INPUT .\text\chapter2.tex
 INPUT text\chapter2.tex
 INPUT .\text\chapter2.tex
 INPUT text\chapter2.tex
+INPUT .\images\\CEA.pdf
+INPUT images\\CEA.pdf
+INPUT .\images\\CEA.pdf
+INPUT .\images\\CEA.pdf
+INPUT .\images\\CEA.pdf
 INPUT C:\Users\I538951\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmri12.tfm
+INPUT .\images\\CEA_K.pdf
+INPUT images\\CEA_K.pdf
+INPUT .\images\\CEA_K.pdf
+INPUT .\images\\CEA_K.pdf
+INPUT .\images\\CEA_K.pdf
 INPUT .\images\\Agile_Cycle.pdf
 INPUT images\\Agile_Cycle.pdf
 INPUT .\images\\Agile_Cycle.pdf

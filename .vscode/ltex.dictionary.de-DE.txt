@@ -1,0 +1,2 @@
+Authorisierungsmechanismen
+Tecnologieunabhänigkeit

@@ -10,20 +10,20 @@
 \contentsline {section}{\numberline {2}Grundlagen und Begriffserklärungen}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Die Composable-Enterprise-Architektur}{2}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Begriffserklärung und Abgrenzung}{2}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Technologische Konzepte des Composable-Enterprises}{2}{subsubsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.2}Integration und Bereitstellung von Softwareentwicklungen}{3}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Agile und DevOps als moderne Anwendungsentwicklungskonzepte}{3}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Pipelines zur Integrations- und Bereitstellungsautomatisierung}{6}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.3}Strategien zur Bereitstellung von Neuentwicklungen}{12}{subsubsection.2.2.3}%
-\contentsline {section}{\numberline {3}Methodische Vorgehensweise}{14}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Prototypische Implementierung der Integrations- und Bereitstellungs-Pipelines}{14}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Evaluation der Integrations- und Bereitstellungs-Pipelines unter Anwendung des Analytischen Hierarchieprozesses}{14}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Semistrukturierte Leitfadeninterviews}{14}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Anwendung der Methodik auf die theoretischen Grundlagen}{15}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Prototypische Implementierung der Integrations- und Bereitstellungs-Pipelines}{15}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Evaluation der Integrations- und Bereitstellungs-Pipelines unter Anwendung des Analytischen Hierarchieprozesses}{15}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Entwicklung einer ganzheitlichen Bereitstellungsstrategie}{15}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Schlussbetrachtung}{16}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Fazit und kritische Reflexion}{16}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Ausblick}{16}{subsection.5.2}%
-\contentsline {section}{Anhang}{XI}{section*.20}%
+\contentsline {subsubsection}{\numberline {2.1.2}Technologische Konzepte des Composable-Enterprises}{4}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Integration und Bereitstellung von Software}{8}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Agile und DevOps als moderne Anwendungsentwicklungskonzepte}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Pipelines zur Integrations- und Bereitstellungsautomatisierung}{11}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Strategien zur Bereitstellung von Neuentwicklungen}{17}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}Methodische Vorgehensweise}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Prototypische Implementierung der Integrations- und Bereitstellungs-Pipelines}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Evaluation der Integrations- und Bereitstellungs-Pipelines unter Anwendung des Analytischen Hierarchieprozesses}{19}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Semistrukturierte Leitfadeninterviews}{19}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Anwendung der Methodik auf die theoretischen Grundlagen}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Prototypische Implementierung der Integrations- und Bereitstellungs-Pipelines}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Evaluation der Integrations- und Bereitstellungs-Pipelines unter Anwendung des Analytischen Hierarchieprozesses}{20}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Entwicklung einer ganzheitlichen Bereitstellungsstrategie}{20}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Schlussbetrachtung}{21}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Fazit und kritische Reflexion}{21}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ausblick}{21}{subsection.5.2}%
+\contentsline {section}{Anhang}{XI}{section*.30}%
