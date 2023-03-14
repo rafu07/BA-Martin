@@ -1,22 +1,23 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'main.blg'
-[184] biber-MSWIN64:340> INFO - === 
-[253] Biber.pm:418> INFO - Reading 'main.bcf'
-[404] Biber.pm:978> INFO - Found 17 citekeys in bib section 0
-[428] Biber.pm:4401> INFO - Processing section 0
-[443] Biber.pm:4592> INFO - Looking for bibtex file 'bib/bibliography.bib' for section 0
-[544] bibtex.pm:1713> INFO - LaTeX decoding ...
-[623] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/bibliography.bib'
-[780] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[781] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[781] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[781] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
-[805] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[816] bbl.pm:757> INFO - Output to main.bbl
-[817] Biber.pm:130> WARN - legacy year field '2023-03-05' in entry 'Qentelli.20230305' is not an integer - this will probably not sort properly.
-[817] Biber.pm:130> WARN - legacy year field '9/27/2021 - 10/1/2021' in entry 'Zampetti.92720211012021' is not an integer - this will probably not sort properly.
-[817] Biber.pm:130> WARN - Entry 'Zampetti.92720211012021' (bib/bibliography.bib): Invalid format '9/27/2021 - 10/1/2021' of date field 'eventdate' - ignoring
-[817] Biber.pm:130> WARN - legacy year field '2023-02-01' in entry '.20230201' is not an integer - this will probably not sort properly.
-[817] Biber.pm:130> WARN - legacy year field '2023-03-08' in entry '.20230308' is not an integer - this will probably not sort properly.
-[817] Biber.pm:130> WARN - legacy year field '2023-02-20' in entry 'Bose.20230220' is not an integer - this will probably not sort properly.
-[817] Biber.pm:132> INFO - WARNINGS: 6
+[199] biber-MSWIN64:340> INFO - === 
+[269] Biber.pm:418> INFO - Reading 'main.bcf'
+[430] Biber.pm:978> INFO - Found 24 citekeys in bib section 0
+[468] Biber.pm:4401> INFO - Processing section 0
+[487] Biber.pm:4592> INFO - Looking for bibtex file 'bib/bibliography.bib' for section 0
+[587] bibtex.pm:1713> INFO - LaTeX decoding ...
+[694] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/bibliography.bib'
+[923] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[923] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[931] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[931] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[967] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[987] bbl.pm:757> INFO - Output to main.bbl
+[988] Biber.pm:130> WARN - legacy year field '10/19/2020 - 10/23/2020' in entry 'Chang.1019202010232020' is not an integer - this will probably not sort properly.
+[988] Biber.pm:130> WARN - Entry 'Chang.1019202010232020' (bib/bibliography.bib): Invalid format '10/19/2020 - 10/23/2020' of date field 'eventdate' - ignoring
+[989] Biber.pm:130> WARN - legacy year field '2023-03-05' in entry 'Qentelli.20230305' is not an integer - this will probably not sort properly.
+[989] Biber.pm:130> WARN - legacy year field '9/27/2021 - 10/1/2021' in entry 'Zampetti.92720211012021' is not an integer - this will probably not sort properly.
+[989] Biber.pm:130> WARN - Entry 'Zampetti.92720211012021' (bib/bibliography.bib): Invalid format '9/27/2021 - 10/1/2021' of date field 'eventdate' - ignoring
+[989] Biber.pm:130> WARN - legacy year field '2023-02-01' in entry '.20230201' is not an integer - this will probably not sort properly.
+[989] Biber.pm:130> WARN - legacy year field '2023-02-20' in entry 'Bose.20230220' is not an integer - this will probably not sort properly.
+[989] Biber.pm:132> INFO - WARNINGS: 7

@@ -104,6 +104,37 @@
       \verb https://www.qentelli.com/thought-leadership/insights/evolution-agile-devops-continuous-delivery
       \endverb
     \endentry
+    \entry{Biehl.2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a097d2bbe56584927038efd12f59c9d9}{%
+           family={Biehl},
+           familyi={B\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {API-University Press}%
+      }
+      \strng{namehash}{a097d2bbe56584927038efd12f59c9d9}
+      \strng{fullhash}{a097d2bbe56584927038efd12f59c9d9}
+      \strng{bibnamehash}{a097d2bbe56584927038efd12f59c9d9}
+      \strng{authorbibnamehash}{a097d2bbe56584927038efd12f59c9d9}
+      \strng{authornamehash}{a097d2bbe56584927038efd12f59c9d9}
+      \strng{authorfullhash}{a097d2bbe56584927038efd12f59c9d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Looking for the big picture of building APIs? This book is for you!{<}/p{>} {<}/p{>} Building APIs that consumers love should certainly be the goal of any API initiative. However, it is easier said than done. It requires getting the architecture for your APIs right. This book equips you with both foundations and best practices for API architecture.{<}/p{>} {<}/p{>} This book is for you if you want to understand the big picture of API design and development, you want to define an API architecture, establish a platform for APIs or simply want to build APIs your consumers love.{<}/p{>} {<}/p{>} This book is NOT for you, if you are looking for a step-by step guide for building APIs, focusing on every detail of the correct application of REST principles. In this case I recommend the book {"}API Design{"} of the API-University Series.{<}/p{>} {<}/p{>} What is API architecture? Architecture spans the bigger picture of APIs and can be seen from several perspectives:{<}/p{>} {<}/p{>} API architecture may refer to the architecture of the complete solution consisting not only of the API itself, but also of an API client such as a mobile app and several other components. API solution architecture explains the components and their relations within the software solution.{<}/p{>} {<}/p{>} API architecture may refer to the technical architecture of the API platform. When building, running and exposing not only one, but several APIs, it becomes clear that certain building blocks of the API, runtime functionality and management functionality for the API need to be used over and over again. An API platform provides an infrastructure for developing, running and managing APIs.{<}/p{>} {<}/p{>} API architecture may refer to the architecture of the API portfolio. The API portfolio contains all APIs of the enterprise and needs to be managed like a product. API portfolio architecture analyzes the functionality of the API and organizes, manages and reuses the APIs.{<}/p{>} {<}/p{>} API architecture may refer to the design decisions for a particular API proxy. To document the design decisions, API description languages are used. We explain the use of API description languages (RAML and Swagger) on many examples.{<}/p{>} {<}/p{>} {<}/p{>} This book covers all of the above perspectives on API architecture. However, to become useful, the architecture needs to be put into practice. This is why this book covers an API methodology for design and development. An API methodology provides practical guidelines for putting API architecture into practice. It explains how to develop an API architecture into an API that consumers love.{<}/p{>} {<}/p{>} A lot of the information on APIs is available on the web. Most of it is published by vendors of API products. I am always a bit suspicious of technical information pushed by product vendors. This book is different. In this book, a product-independent view on API architecture is presented.{<}/p{>} {<}/p{>} The API-University Series is a modular series of books on API-related topics. Each book focuses on a particular API topic, so you can select the topics within APIs, which are relevant for you.{<}/p{>}}
+      \field{isbn}{9781508676645}
+      \field{series}{API-university series}
+      \field{subtitle}{The big picture for building APIs}
+      \field{title}{API architecture}
+      \field{year}{2015}
+    \endentry
     \entry{Bose.20230220}{online}{}
       \name{author}{1}{}{%
         {{hash=8a7f21a41cb00fed7cf6932445aab422}{%
@@ -141,6 +172,108 @@
       \verb{url}
       \verb https://www.browserstack.com/guide/end-to-end-testing
       \endverb
+    \endentry
+    \entry{Bruns.2010}{book}{}
+      \name{author}{2}{}{%
+        {{hash=80ee91ab689385203c6231c6a66f6b96}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=aa75b40f41db5d5170ea4d0413756e11}{%
+           family={Dunkel},
+           familyi={D\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {de}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{5a6b5d2e6800a6a2cd4954c56b5bc084}
+      \strng{fullhash}{5a6b5d2e6800a6a2cd4954c56b5bc084}
+      \strng{bibnamehash}{5a6b5d2e6800a6a2cd4954c56b5bc084}
+      \strng{authorbibnamehash}{5a6b5d2e6800a6a2cd4954c56b5bc084}
+      \strng{authornamehash}{5a6b5d2e6800a6a2cd4954c56b5bc084}
+      \strng{authorfullhash}{5a6b5d2e6800a6a2cd4954c56b5bc084}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Geschäftsprozesse in Unternehmen sind häufig ereignisgesteuert, da im Geschäftsumfeld eine Fülle von Ereignissen auftritt, auf die angemessen und möglichst in Echtzeit reagiert werden muss, etwa in Sensornetzwerken oder im automatischen Wertpapierhandel. Event-Driven Architecture (EDA) ist ein neues Paradigma der Softwarearchitektur, das auf der Verarbeitung von Ereignissen als zentralem Strukturierungskonzept beruht. Das Buch diskutiert die Motive und Grundprinzipien von EDA als Architekturstil aus Unternehmenssicht. Anschlie{ß}end führt es die wichtigsten Konzepte der Ereignisverarbeitung ein und veranschaulicht deren praktische Umsetzung anhand einer Fallstudie. Auf Basis dieser Grundlagen werden mit Entwurfsmustern und Referenzarchitekturen wesentliche Konzepte für den Einsatz von EDA in der betrieblichen Praxis vorgestellt. Das Buch wendet sich an Entscheidungsträger, Praktiker, Studenten und Hochschullehrer, die einen Einblick in die Entwicklung von innovativen Softwarearchitekturen erhalten wollen.}
+      \field{isbn}{9783642024399}
+      \field{series}{Xpert.press}
+      \field{subtitle}{Softwarearchitektur für ereignisgesteuerte Geschäftsprozesse}
+      \field{title}{Event-Driven Architecture}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1007/978-3-642-02439-9
+      \endverb
+    \endentry
+    \entry{Chang.1019202010232020}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=de78f6f4bdfa9118569700c4b5c58f80}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Rong\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=676acfe41d236ea6e4f8285d2102e280}{%
+           family={Bhaskaran},
+           familyi={B\bibinitperiod},
+           given={Kumar},
+           giveni={K\bibinitperiod}}}%
+        {{hash=35793ae5834744d1a6b5b7efb750a23e}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Prasenjit},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a359ca3afe44ac2e4b788e4bb5e06340}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Hsianghan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a4c88c22894333a7d57a013dbf5a32f8}{%
+           family={Takeda},
+           familyi={T\bibinitperiod},
+           given={Seiji},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9dacb3dea73109a49ec83bc65c291527}{%
+           family={Hama},
+           familyi={H\bibinitperiod},
+           given={Toshiyuki},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9500264cc07e1c050e579da2838b5887}
+      \strng{fullhash}{206cbf9f55014cfcc20f362dba5cf910}
+      \strng{bibnamehash}{9500264cc07e1c050e579da2838b5887}
+      \strng{authorbibnamehash}{9500264cc07e1c050e579da2838b5887}
+      \strng{authornamehash}{9500264cc07e1c050e579da2838b5887}
+      \strng{authorfullhash}{206cbf9f55014cfcc20f362dba5cf910}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2020 IEEE 13th International Conference on Cloud Computing (CLOUD)}
+      \field{eventtitle}{2020 IEEE 13th International Conference on Cloud Computing (CLOUD)}
+      \field{isbn}{978-1-7281-8780-8}
+      \field{title}{Realizing A Composable Enterprise Microservices Fabric with AI-Accelerated Material Discovery API Services}
+      \field{venue}{Beijing, China}
+      \field{year}{10/19/2020 - 10/23/2020}
+      \field{pages}{313\bibrangedash 320}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/CLOUD49709.2020.00051
+      \endverb
+      \warn{\item Entry 'Chang.1019202010232020' (bib/bibliography.bib): Invalid format '10/19/2020 - 10/23/2020' of date field 'eventdate' - ignoring}
     \endentry
     \entry{Goll.2015}{book}{}
       \name{author}{2}{}{%
@@ -298,6 +431,46 @@
       \verb https://learning.oreilly.com/library/view/-/9781780172996/?ar
       \endverb
     \endentry
+    \entry{.20230313}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d7c3f6e5a24b5615df6133ec90b8bea4}{%
+           family={Klingberg},
+           familyi={K\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=4bd784c41f96aa8775892a6592a5e631}{%
+           family={Magnolia},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7c3f6e5a24b5615df6133ec90b8bea4}
+      \strng{fullhash}{d7c3f6e5a24b5615df6133ec90b8bea4}
+      \strng{bibnamehash}{d7c3f6e5a24b5615df6133ec90b8bea4}
+      \strng{authorbibnamehash}{d7c3f6e5a24b5615df6133ec90b8bea4}
+      \strng{authornamehash}{d7c3f6e5a24b5615df6133ec90b8bea4}
+      \strng{authorfullhash}{d7c3f6e5a24b5615df6133ec90b8bea4}
+      \strng{editorbibnamehash}{4bd784c41f96aa8775892a6592a5e631}
+      \strng{editornamehash}{4bd784c41f96aa8775892a6592a5e631}
+      \strng{editorfullhash}{4bd784c41f96aa8775892a6592a5e631}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rasch und agil auf sich ständig entwickelnde Märkte und Technologien reagieren: so wird Ihr Unternehmen zum erfolgreichen Composable Enterprise.}
+      \field{title}{Composable Enterprise: Warum das Unternehmen der Zukunft modular aufgebaut ist}
+      \field{urlday}{13}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.magnolia-cms.com/de_DE/blog/composable-enterprise.html
+      \endverb
+      \verb{url}
+      \verb https://www.magnolia-cms.com/de_DE/blog/composable-enterprise.html
+      \endverb
+    \endentry
     \entry{Labouardy.2021}{book}{}
       \name{author}{1}{}{%
         {{hash=3ce69913fa7b2d4c34a04522f0c6e157}{%
@@ -381,6 +554,42 @@
       \verb Loeliger, McCullough 2012 - Version control with git:Attachments/Loeliger, McCullough 2012 - Version control with git.pdf:application/pdf
       \endverb
     \endentry
+    \entry{.2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=69a3cae0ecf450cbd95bdb2d1c54cecd}{%
+           family={Masak},
+           familyi={M\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
+      \strng{fullhash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
+      \strng{bibnamehash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
+      \strng{authorbibnamehash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
+      \strng{authornamehash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
+      \strng{authorfullhash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-540-79129-4}
+      \field{series}{Xpert.press}
+      \field{subtitle}{Serviceorientierung bei dynamisch vernetzten Unternehmen}
+      \field{title}{Digitale Ökosysteme}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1007/978-3-540-79130-0
+      \endverb
+      \verb{file}
+      \verb Digitale {\"O}kosysteme 2009:Attachments/Digitale {\"O}kosysteme 2009.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{.20230305}{online}{}
       \name{editor}{1}{}{%
         {{hash=87c6845cac588f4e93adddfb7e731442}{%
@@ -451,34 +660,111 @@
       \verb https://www.exposit.com/blog/what-unit-testing-software-testing-and-why-it-important/
       \endverb
     \endentry
-    \entry{.20230308}{online}{}
-      \name{editor}{1}{}{%
-        {{hash=a82007c47b25723539a00ff94e8b3d27}{%
-           family={{Red Hat}},
-           familyi={R\bibinitperiod}}}%
+    \entry{Reinheimer.2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7073535727feda14b42389eaba82145f}{%
+           family={Reinheimer},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{a82007c47b25723539a00ff94e8b3d27}
-      \strng{fullhash}{a82007c47b25723539a00ff94e8b3d27}
-      \strng{bibnamehash}{a82007c47b25723539a00ff94e8b3d27}
-      \strng{editorbibnamehash}{a82007c47b25723539a00ff94e8b3d27}
-      \strng{editornamehash}{a82007c47b25723539a00ff94e8b3d27}
-      \strng{editorfullhash}{a82007c47b25723539a00ff94e8b3d27}
+      \list{location}{2}{%
+        {Wiesbaden, Germany}%
+        {Ann Arbor}%
+      }
+      \list{publisher}{2}{%
+        {Springer Vieweg}%
+        {ProQuest EbookCentral}%
+      }
+      \strng{namehash}{7073535727feda14b42389eaba82145f}
+      \strng{fullhash}{7073535727feda14b42389eaba82145f}
+      \strng{bibnamehash}{7073535727feda14b42389eaba82145f}
+      \strng{authorbibnamehash}{7073535727feda14b42389eaba82145f}
+      \strng{authornamehash}{7073535727feda14b42389eaba82145f}
+      \strng{authorfullhash}{7073535727feda14b42389eaba82145f}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labelnamesource}{editor}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{CI/CD automatisiert alle Phasen der Anwendungsentwicklung und umfasst die Konzepte Continuous Integration, Continuous Delivery und Continuous Deployment.}
-      \field{title}{Was ist CI/CD? Konzepte und CI/CD Tools im Überblick}
-      \field{urlday}{8}
+      \field{isbn}{978-3-658-20966-7}
+      \field{series}{Edition HMD}
+      \field{subtitle}{Die Infrastruktur der Digitalisierung}
+      \field{title}{Cloud Computing}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1007/978-3-658-20967-4
+      \endverb
+      \verb{file}
+      \verb Reinheimer 2018 - Cloud Computing:Attachments/Reinheimer 2018 - Cloud Computing.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Schonenstein.20230103}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0d9b797bb1554075379b2e802a18329f}{%
+           family={Schönenstein},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7750c935805a87d4affddb74c738e3ed}{%
+           family={{communicode AG}},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d9b797bb1554075379b2e802a18329f}
+      \strng{fullhash}{0d9b797bb1554075379b2e802a18329f}
+      \strng{bibnamehash}{0d9b797bb1554075379b2e802a18329f}
+      \strng{authorbibnamehash}{0d9b797bb1554075379b2e802a18329f}
+      \strng{authornamehash}{0d9b797bb1554075379b2e802a18329f}
+      \strng{authorfullhash}{0d9b797bb1554075379b2e802a18329f}
+      \strng{editorbibnamehash}{7750c935805a87d4affddb74c738e3ed}
+      \strng{editornamehash}{7750c935805a87d4affddb74c738e3ed}
+      \strng{editorfullhash}{7750c935805a87d4affddb74c738e3ed}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Composable Enterprise Commerce durch MACH Technologie nutzt eine Architektur aus Microservices, dem API-First-Prinzip, Cloud-native und Headless-Frontend-Technologien.}
+      \field{title}{Composable-Business und -Commerce durch MACH-Architektur}
+      \field{urlday}{13}
       \field{urlmonth}{3}
       \field{urlyear}{2023}
-      \field{year}{2023-03-08}
+      \field{year}{2023}
       \field{urldateera}{ce}
+      \verb{file}
+      \verb Sch{\"o}nenstein 2023-01-03 - Composable-Business und -Commerce durch MACH-Architektur:Attachments/Sch{\"o}nenstein 2023-01-03 - Composable-Business und -Commerce durch MACH-Architektur.pdf:application/pdf
+      \endverb
       \verb{urlraw}
-      \verb https://www.redhat.com/de/topics/devops/what-is-ci-cd
+      \verb https://www.communicode.de/blog/work/composable-business-und-commerce-durch-mach-technologie
       \endverb
       \verb{url}
-      \verb https://www.redhat.com/de/topics/devops/what-is-ci-cd
+      \verb https://www.communicode.de/blog/work/composable-business-und-commerce-durch-mach-technologie
+      \endverb
+    \endentry
+    \entry{Sensedia.2020}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=07311a85ce469f1f1a12113268911c81}{%
+           family={Sensedia},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{07311a85ce469f1f1a12113268911c81}
+      \strng{fullhash}{07311a85ce469f1f1a12113268911c81}
+      \strng{bibnamehash}{07311a85ce469f1f1a12113268911c81}
+      \strng{editorbibnamehash}{07311a85ce469f1f1a12113268911c81}
+      \strng{editornamehash}{07311a85ce469f1f1a12113268911c81}
+      \strng{editorfullhash}{07311a85ce469f1f1a12113268911c81}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{How APIs, Microservices and Events are reshaping the next-gen Enterprises}
+      \field{title}{The Future is Composable:}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
+      \endverb
+      \verb{url}
+      \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
       \endverb
     \endentry
     \entry{.20230201}{online}{}
