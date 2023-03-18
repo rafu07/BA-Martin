@@ -1383,6 +1383,16 @@ INPUT .\text\chapter3.tex
 INPUT text\chapter3.tex
 INPUT .\text\chapter3.tex
 INPUT text\chapter3.tex
+INPUT .\images\\AHP_B.pdf
+INPUT images\\AHP_B.pdf
+INPUT .\images\\AHP_B.pdf
+INPUT .\images\\AHP_B.pdf
+INPUT .\images\\AHP_B.pdf
+INPUT .\images\\AHP_H.pdf
+INPUT images\\AHP_H.pdf
+INPUT .\images\\AHP_H.pdf
+INPUT .\images\\AHP_H.pdf
+INPUT .\images\\AHP_H.pdf
 INPUT .\text\chapter4.tex
 INPUT .\text\chapter4.tex
 INPUT .\text\chapter4.tex

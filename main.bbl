@@ -275,6 +275,49 @@
       \endverb
       \warn{\item Entry 'Chang.1019202010232020' (bib/bibliography.bib): Invalid format '10/19/2020 - 10/23/2020' of date field 'eventdate' - ignoring}
     \endentry
+    \entry{Denning.20170210}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4ad2d2a353259fedadd06e77d59517f9}{%
+           family={Denning},
+           familyi={D\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b1e9b36364c855fad4161cfb10d45735}{%
+           family={Forbes},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ad2d2a353259fedadd06e77d59517f9}
+      \strng{fullhash}{4ad2d2a353259fedadd06e77d59517f9}
+      \strng{bibnamehash}{4ad2d2a353259fedadd06e77d59517f9}
+      \strng{authorbibnamehash}{4ad2d2a353259fedadd06e77d59517f9}
+      \strng{authornamehash}{4ad2d2a353259fedadd06e77d59517f9}
+      \strng{authorfullhash}{4ad2d2a353259fedadd06e77d59517f9}
+      \strng{editorbibnamehash}{b1e9b36364c855fad4161cfb10d45735}
+      \strng{editornamehash}{b1e9b36364c855fad4161cfb10d45735}
+      \strng{editorfullhash}{b1e9b36364c855fad4161cfb10d45735}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The main financial gains in Agile will come from strategic Agility, not operational Agility.}
+      \field{title}{Beyond Agile Operations: How To Achieve The Holy Grail Of Strategic Agility}
+      \field{urlday}{16}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2017-02-10}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Denning 2017-02-10 - Beyond Agile Operations:Attachments/Denning 2017-02-10 - Beyond Agile Operations.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.forbes.com/sites/stevedenning/2017/02/10/beyond-agile-operations-how-to-achieve-the-holy-grail-of-strategic-agility/?sh=712d37dc2b6a
+      \endverb
+      \verb{url}
+      \verb https://www.forbes.com/sites/stevedenning/2017/02/10/beyond-agile-operations-how-to-achieve-the-holy-grail-of-strategic-agility/?sh=712d37dc2b6a
+      \endverb
+    \endentry
     \entry{Goll.2015}{book}{}
       \name{author}{2}{}{%
         {{hash=ecf7443c667a529328edec9d962ffb4b}{%
