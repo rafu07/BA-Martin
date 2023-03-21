@@ -306,7 +306,7 @@
       \field{urlday}{16}
       \field{urlmonth}{3}
       \field{urlyear}{2023}
-      \field{year}{2017-02-10}
+      \field{year}{2017}
       \field{urldateera}{ce}
       \verb{file}
       \verb Denning 2017-02-10 - Beyond Agile Operations:Attachments/Denning 2017-02-10 - Beyond Agile Operations.pdf:application/pdf
@@ -316,6 +316,48 @@
       \endverb
       \verb{url}
       \verb https://www.forbes.com/sites/stevedenning/2017/02/10/beyond-agile-operations-how-to-achieve-the-holy-grail-of-strategic-agility/?sh=712d37dc2b6a
+      \endverb
+    \endentry
+    \entry{Gerson.2021}{book}{}
+      \name{author}{2}{}{%
+        {{hash=59be4f81e711f9638d8a45619e6e60b5}{%
+           family={Gerson},
+           familyi={G\bibinitperiod},
+           given={Kathleen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5a86ee366e3a7692cf689ad1c224a1fd}{%
+           family={Damaske},
+           familyi={D\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{899c5eadf7d4ebdcd372085bd600e8e3}
+      \strng{fullhash}{899c5eadf7d4ebdcd372085bd600e8e3}
+      \strng{bibnamehash}{899c5eadf7d4ebdcd372085bd600e8e3}
+      \strng{authorbibnamehash}{899c5eadf7d4ebdcd372085bd600e8e3}
+      \strng{authornamehash}{899c5eadf7d4ebdcd372085bd600e8e3}
+      \strng{authorfullhash}{899c5eadf7d4ebdcd372085bd600e8e3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{"}Qualitative interviewing is one of the most widely used methods in social research, but it is arguably the least well understood. To address that gap, this book offers a theoretically rigorous, empirically rich, and user-friendly set of strategies for conceiving and conducting interview-based research. Much more than a {"}how to{"} manual, the book shows why depth interviewing is an indispensable method for discovering and explaining the social world-shedding light on the hidden patterns and dynamics that take place within institutions, social contexts, relationships, and individual experiences. It offers a step-by-step guide through every stage in the research process, from initially formulating a question, to developing arguments, and presenting the results. To do this, the book shows how to develop a research question, decide on and find an appropriate sample, construct an interview guide, conduct probing, theoretically focused interviews, and systematically analyze the complex material that depth interviews provide-all in the service of finding and presenting important new empirical discoveries and theoretical insights. The book also lays out the ever-present, but rarely discussed challenges that interviewers routinely encounter and then presents grounded, thoughtful ways to respond to them. By addressing the most heated debates about the scientific status of qualitative methods, the book demonstrates how depth interviewing makes unique and essential contributions to the research enterprise. With an emphasis on the integral relationship between carefully crafted research and theory building, the book offers a compelling vision for what the {"}interviewing imagination{"} can and should be{"}--}
+      \field{isbn}{9780199324293}
+      \field{note}{Gerson, Kathleen (VerfasserIn) Damaske, Sarah (VerfasserIn)}
+      \field{pagetotal}{280}
+      \field{title}{The science and art of interviewing}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1093/oso/9780199324286.001.0001
       \endverb
     \endentry
     \entry{Goll.2015}{book}{}
@@ -406,6 +448,7 @@
       \field{abstract}{Intro -- Was Sie in diesem essential finden können -- Vorwort -- Inhaltsverzeichnis -- 1 Einleitung - wozu DevOps? -- 2 Was ist DevOps? - Everything is a Remix -- 2.1 Ursprünge der DevOps-Bewegung -- 2.2 Grundzüge von DevOps -- 2.3 Der Mehrwert von DevOps in einer VUCA-Welt -- 2.4 Late Commitment -- 2.5 Three Ways und Value Streams -- 2.6 Was DevOps nicht ist -- 3 DevOps-Aktivitäten -- 3.1 Aktivitäten -- 3.2 IT Betrieb mal zwei -- 3.3 Automatisierung, DevOps-Tools -- 3.4 KPIs: Messung von Erfolg -- 3.5 Skalierung von DevOps -- 3.6 Ökonomie von DevOps -- 4 Kulturelle, organisationale und kommunikative Aspekte von DevOps -- 4.1 Muster des Scheiterns und Muster des Gelingens -- 4.2 Ideales Organigramm - oder: welche Team-Topologien für DevOps? -- 5 Wie führt man DevOps ein? - oder: Machen ist wie Wollen, nur krasser! -- 5.1 Grundsätze -- 5.2 Schritt 0: Das Fundament legen -- 5.3 Schritt 1: Die Technologie-Landschaft vereinheitlichen -- 5.4 Schritt 2: Varianz entlang der Value Streams verringern -- 5.5 Schritt 3: Die DevOps-Methoden ausweiten -- 5.6 Schritt 4: Automatisieren von Infrastruktur-Bereitstellung -- 5.7 Schritt 5: Die IT stellt dem Business einen umfassenden Service zur Verfügung -- 6 DevOps - Kritik -- 7 Zusammenfassung -- Was Sie aus diesem essential mitnehmen können -- Weiterführende Literatur.}
       \field{editorctype}{collaborator}
       \field{isbn}{9783658314057}
+      \field{note}{Halstenberg, Jürgen (VerfasserIn) Pfitzinger, Bernd (MitwirkendeR) Jestädt, Thomas (MitwirkendeR) Halstenberg, Jürgen (VerfasserIn) Pfitzinger, Bernd (MitwirkendeR) Jestädt, Thomas (MitwirkendeR)}
       \field{pagetotal}{159}
       \field{series}{Essentials Ser}
       \field{subtitle}{Ein Überblick}
@@ -472,6 +515,54 @@
       \endverb
       \verb{url}
       \verb https://learning.oreilly.com/library/view/-/9781780172996/?ar
+      \endverb
+    \endentry
+    \entry{Hildebrandt.2015}{book}{}
+      \name{author}{4}{}{%
+        {{hash=4155f864b3289ee1863ea4be672cac4c}{%
+           family={Hildebrandt},
+           familyi={H\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3c6d23413a553d17d94d604a14e1533f}{%
+           family={Jäckle},
+           familyi={J\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c9d38c6ef49f98bcef3e44122d5e18b8}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Frieder},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ab5f798174ddf20a4e3384503307996a}{%
+           family={Heindl},
+           familyi={H\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{068bfc1e067796ad548340901061c9f0}
+      \strng{fullhash}{f86cd05f298a062fa82095ee91b6beb5}
+      \strng{bibnamehash}{068bfc1e067796ad548340901061c9f0}
+      \strng{authorbibnamehash}{068bfc1e067796ad548340901061c9f0}
+      \strng{authornamehash}{068bfc1e067796ad548340901061c9f0}
+      \strng{authorfullhash}{f86cd05f298a062fa82095ee91b6beb5}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-531-18256-8}
+      \field{note}{Jäckle, Sebastian (author) Wolf, Frieder (author) Heindl, Andreas (author)}
+      \field{subtitle}{Ein Lehrbuch für fortgeschrittene Studierende der Politikwissenschaft}
+      \field{title}{Methodologie, Methoden, Forschungsdesign}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1007/978-3-531-18993-2
       \endverb
     \endentry
     \entry{.20230313}{online}{}
@@ -543,6 +634,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Intro -- inside front cover -- Pipeline as Code -- Copyright -- brief contents -- contents -- front matter -- preface -- acknowledgments -- about this book -- Who should read this book -- How this book is organized -- About the code -- liveBook discussion forum -- Other online resources -- about the author -- about the cover illustration -- Part 1. Getting started with Jenkins -- 1 What's CI/CD? -- 1.1 Going cloud native -- 1.1.1 Monolithic -- 1.1.2 Microservices -- 1.1.3 Cloud native -- 1.1.4 Serverless -- 1.2 Defining continuous integration -- 1.3 Defining continuous deployment -- 1.4 Defining continuous delivery -- 1.5 Embracing CI/CD practices -- 1.6 Using essential CI/CD tools -- 1.6.1 Choosing a CI/CD tool -- 1.6.2 Introducing Jenkins -- Summary -- 2 Pipeline as code with Jenkins -- 2.1 Introducing the Jenkinsfile -- 2.1.1 Blue Ocean plugin -- 2.1.2 Scripted pipeline -- 2.1.3 Declarative pipeline -- 2.2 Understanding multibranch pipelines -- 2.3 Exploring the GitFlow branch model -- 2.4 Test-driven development with Jenkins -- 2.4.1 The Jenkins Replay button -- 2.4.2 Command-line pipeline linter -- 2.4.3 IDE integrations -- Summary -- Part 2. Operating a self-healing Jenkins cluster -- 3 Defining Jenkins architecture -- 3.1 Understanding master-worker architecture -- 3.2 Managing Jenkins workers -- 3.2.1 SSH -- 3.2.2 Command line -- 3.2.3 JNLP -- 3.2.4 Windows service -- 3.3 Architecting Jenkins for scale in AWS -- 3.3.1 Preparing the AWS environment -- 3.3.2 Configuring the AWS CLI -- 3.3.3 Creating and managing the IAM user -- Summary -- 4 Baking machine images with Packer -- 4.1 Immutable infrastructure -- 4.2 Introducing Packer -- 4.2.1 How does it work? -- 4.2.2 Installation and configuration -- 4.2.3 Baking a machine image -- 4.3 Baking the Jenkins master AMI -- 4.3.1 Configuring Jenkins upon startup.}
       \field{isbn}{9781638350378}
+      \field{note}{Labouardy, Mohamed (VerfasserIn) Labouardy, Mohamed, (author.)}
       \field{pagetotal}{1333}
       \field{subtitle}{Continuous delivery with Jenkins, Kubernetes, and Terraform}
       \field{title}{Pipeline as code}
@@ -739,6 +831,38 @@
       \endverb
       \verb{file}
       \verb Reinheimer 2018 - Cloud Computing:Attachments/Reinheimer 2018 - Cloud Computing.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Saaty.2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8d8e5331ceb6bdfae0cfaed9a7690800}{%
+           family={Saaty},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d8e5331ceb6bdfae0cfaed9a7690800}
+      \strng{fullhash}{8d8e5331ceb6bdfae0cfaed9a7690800}
+      \strng{bibnamehash}{8d8e5331ceb6bdfae0cfaed9a7690800}
+      \strng{authorbibnamehash}{8d8e5331ceb6bdfae0cfaed9a7690800}
+      \strng{authornamehash}{8d8e5331ceb6bdfae0cfaed9a7690800}
+      \strng{authorfullhash}{8d8e5331ceb6bdfae0cfaed9a7690800}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1753-1446}
+      \field{journaltitle}{International Journal of Services Sciences}
+      \field{number}{1}
+      \field{pagination}{page}
+      \field{shortjournal}{IJSSCI}
+      \field{title}{Decision making with the analytic hierarchy process}
+      \field{volume}{1}
+      \field{year}{2008}
+      \field{pages}{83}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1504/IJSSCI.2008.017590
       \endverb
     \endentry
     \entry{Schonenstein.20230103}{online}{}

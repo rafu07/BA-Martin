@@ -1,24 +1,23 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'main.blg'
-[170] biber-MSWIN64:340> INFO - === 
-[265] Biber.pm:418> INFO - Reading 'main.bcf'
-[435] Biber.pm:978> INFO - Found 25 citekeys in bib section 0
-[456] Biber.pm:4401> INFO - Processing section 0
-[472] Biber.pm:4592> INFO - Looking for bibtex file 'bib/bibliography.bib' for section 0
-[570] bibtex.pm:1713> INFO - LaTeX decoding ...
-[672] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/bibliography.bib'
-[893] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[893] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[893] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[893] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
-[926] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[944] bbl.pm:757> INFO - Output to main.bbl
-[945] Biber.pm:130> WARN - legacy year field '2017-02-10' in entry 'Denning.20170210' is not an integer - this will probably not sort properly.
-[946] Biber.pm:130> WARN - legacy year field '10/19/2020 - 10/23/2020' in entry 'Chang.1019202010232020' is not an integer - this will probably not sort properly.
-[947] Biber.pm:130> WARN - Entry 'Chang.1019202010232020' (bib/bibliography.bib): Invalid format '10/19/2020 - 10/23/2020' of date field 'eventdate' - ignoring
-[947] Biber.pm:130> WARN - legacy year field '2023-03-05' in entry 'Qentelli.20230305' is not an integer - this will probably not sort properly.
-[947] Biber.pm:130> WARN - legacy year field '9/27/2021 - 10/1/2021' in entry 'Zampetti.92720211012021' is not an integer - this will probably not sort properly.
-[947] Biber.pm:130> WARN - Entry 'Zampetti.92720211012021' (bib/bibliography.bib): Invalid format '9/27/2021 - 10/1/2021' of date field 'eventdate' - ignoring
-[948] Biber.pm:130> WARN - legacy year field '2023-02-01' in entry '.20230201' is not an integer - this will probably not sort properly.
-[948] Biber.pm:130> WARN - legacy year field '2023-02-20' in entry 'Bose.20230220' is not an integer - this will probably not sort properly.
-[948] Biber.pm:132> INFO - WARNINGS: 8
+[202] biber-MSWIN64:340> INFO - === 
+[276] Biber.pm:418> INFO - Reading 'main.bcf'
+[453] Biber.pm:978> INFO - Found 28 citekeys in bib section 0
+[476] Biber.pm:4401> INFO - Processing section 0
+[495] Biber.pm:4592> INFO - Looking for bibtex file 'bib/bibliography.bib' for section 0
+[626] bibtex.pm:1713> INFO - LaTeX decoding ...
+[761] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/bibliography.bib'
+[1130] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1130] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1130] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[1130] Biber.pm:4227> INFO - No sort tailoring available for locale 'de-DE'
+[1187] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1228] bbl.pm:757> INFO - Output to main.bbl
+[1231] Biber.pm:130> WARN - legacy year field '10/19/2020 - 10/23/2020' in entry 'Chang.1019202010232020' is not an integer - this will probably not sort properly.
+[1232] Biber.pm:130> WARN - Entry 'Chang.1019202010232020' (bib/bibliography.bib): Invalid format '10/19/2020 - 10/23/2020' of date field 'eventdate' - ignoring
+[1232] Biber.pm:130> WARN - legacy year field '2023-03-05' in entry 'Qentelli.20230305' is not an integer - this will probably not sort properly.
+[1232] Biber.pm:130> WARN - legacy year field '9/27/2021 - 10/1/2021' in entry 'Zampetti.92720211012021' is not an integer - this will probably not sort properly.
+[1232] Biber.pm:130> WARN - Entry 'Zampetti.92720211012021' (bib/bibliography.bib): Invalid format '9/27/2021 - 10/1/2021' of date field 'eventdate' - ignoring
+[1232] Biber.pm:130> WARN - legacy year field '2023-02-01' in entry '.20230201' is not an integer - this will probably not sort properly.
+[1232] Biber.pm:130> WARN - legacy year field '2023-02-20' in entry 'Bose.20230220' is not an integer - this will probably not sort properly.
+[1233] Biber.pm:132> INFO - WARNINGS: 7
