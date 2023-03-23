@@ -1415,6 +1415,16 @@ INPUT .\text\chapter4.tex
 INPUT text\chapter4.tex
 INPUT .\text\chapter4.tex
 INPUT text\chapter4.tex
+INPUT .\images\\MTA.pdf
+INPUT images\\MTA.pdf
+INPUT .\images\\MTA.pdf
+INPUT .\images\\MTA.pdf
+INPUT .\images\\MTA.pdf
+INPUT .\images\\CTM.pdf
+INPUT images\\CTM.pdf
+INPUT .\images\\CTM.pdf
+INPUT .\images\\CTM.pdf
+INPUT .\images\\CTM.pdf
 INPUT .\text\chapter5.tex
 INPUT .\text\chapter5.tex
 INPUT .\text\chapter5.tex

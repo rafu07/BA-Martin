@@ -1,2 +1,3 @@
 Authorisierungsmechanismen
 Tecnologieunabhänigkeit
+Browserumgebung
