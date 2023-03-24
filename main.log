@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  23 MAR 2023 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  24 MAR 2023 14:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1157,7 +1157,7 @@ although it is yet undefined on input line 7.
 
 
 pdfTeX warning: pdflatex (file ./images//CEA.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CEA.pdf, id=298, 1081.1592pt x 654.40488pt>
+<images//CEA.pdf, id=304, 1081.1592pt x 654.40488pt>
 File: images//CEA.pdf Graphic file (type pdf)
 <use images//CEA.pdf>
 Package pdftex.def Info: images//CEA.pdf  used on input line 11.
@@ -1173,7 +1173,7 @@ although it is yet undefined on input line 20.
  <./images//CEA.pdf>] [3]
 
 pdfTeX warning: pdflatex (file ./images//CEA_K.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CEA_K.pdf, id=340, 794.97pt x 614.295pt>
+<images//CEA_K.pdf, id=346, 794.97pt x 614.295pt>
 File: images//CEA_K.pdf Graphic file (type pdf)
 <use images//CEA_K.pdf>
 Package pdftex.def Info: images//CEA_K.pdf  used on input line 27.
@@ -1204,7 +1204,7 @@ Package acronym Warning: Acronym `BTP' is not defined on input line 34.
 [4 <./images//CEA_K.pdf>] [5] [6]
 
 pdfTeX warning: pdflatex (file ./images//Agile_Cycle.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Agile_Cycle.pdf, id=402, 805.20827pt x 156.585pt>
+<images//Agile_Cycle.pdf, id=408, 805.20827pt x 156.585pt>
 File: images//Agile_Cycle.pdf Graphic file (type pdf)
 <use images//Agile_Cycle.pdf>
 Package pdftex.def Info: images//Agile_Cycle.pdf  used on input line 43.
@@ -1216,7 +1216,7 @@ although it is yet undefined on input line 50.
 [7 <./images//Agile_Cycle.pdf>] [8]
 
 pdfTeX warning: pdflatex (file ./images//TTM.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//TTM.pdf, id=437, 794.97pt x 614.295pt>
+<images//TTM.pdf, id=443, 794.97pt x 614.295pt>
 File: images//TTM.pdf Graphic file (type pdf)
 <use images//TTM.pdf>
 Package pdftex.def Info: images//TTM.pdf  used on input line 55.
@@ -1227,7 +1227,7 @@ although it is yet undefined on input line 65.
 
 
 pdfTeX warning: pdflatex (file ./images//CICD_Cycle.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CICD_Cycle.pdf, id=459, 369.90193pt x 184.89075pt>
+<images//CICD_Cycle.pdf, id=465, 369.90193pt x 184.89075pt>
 File: images//CICD_Cycle.pdf Graphic file (type pdf)
 <use images//CICD_Cycle.pdf>
 Package pdftex.def Info: images//CICD_Cycle.pdf  used on input line 69.
@@ -1237,7 +1237,7 @@ although it is yet undefined on input line 77.
 [10 <./images//CICD_Cycle.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//VCS.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//VCS.pdf, id=481, 540.5796pt x 219.09854pt>
+<images//VCS.pdf, id=487, 540.5796pt x 219.09854pt>
 File: images//VCS.pdf Graphic file (type pdf)
 <use images//VCS.pdf>
 Package pdftex.def Info: images//VCS.pdf  used on input line 81.
@@ -1253,7 +1253,7 @@ although it is yet undefined on input line 87.
 
 
 pdfTeX warning: pdflatex (file ./images//Tests.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Tests.pdf, id=492, 794.97pt x 614.295pt>
+<images//Tests.pdf, id=498, 794.97pt x 614.295pt>
 File: images//Tests.pdf Graphic file (type pdf)
 <use images//Tests.pdf>
 Package pdftex.def Info: images//Tests.pdf  used on input line 91.
@@ -1266,7 +1266,7 @@ although it is yet undefined on input line 98.
  [13 <./images//Tests.pdf>] [14] [15]
 
 pdfTeX warning: pdflatex (file ./images//Deployment_Strategies.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Deployment_Strategies.pdf, id=557, 794.97pt x 614.295pt>
+<images//Deployment_Strategies.pdf, id=563, 794.97pt x 614.295pt>
 File: images//Deployment_Strategies.pdf Graphic file (type pdf)
 <use images//Deployment_Strategies.pdf>
 Package pdftex.def Info: images//Deployment_Strategies.pdf  used on input line 106.
@@ -1281,53 +1281,67 @@ Package pdftex.def Info: images//Deployment_Strategies.pdf  used on input line 1
 ] [20] [21]
 
 pdfTeX warning: pdflatex (file ./images//AHP_B.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_B.pdf, id=612, 739.80388pt x 483.60674pt>
+<images//AHP_B.pdf, id=618, 739.80388pt x 483.60674pt>
 File: images//AHP_B.pdf Graphic file (type pdf)
 <use images//AHP_B.pdf>
-Package pdftex.def Info: images//AHP_B.pdf  used on input line 15.
+Package pdftex.def Info: images//AHP_B.pdf  used on input line 16.
 (pdftex.def)             Requested size: 739.80208pt x 483.60555pt.
 [22 <./images//AHP_B.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//AHP_H.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_H.pdf, id=629, 938.90778pt x 625.97867pt>
+<images//AHP_H.pdf, id=635, 938.90778pt x 625.97867pt>
 File: images//AHP_H.pdf Graphic file (type pdf)
 <use images//AHP_H.pdf>
-Package pdftex.def Info: images//AHP_H.pdf  used on input line 36.
+Package pdftex.def Info: images//AHP_H.pdf  used on input line 37.
 (pdftex.def)             Requested size: 938.90549pt x 625.97714pt.
-[23]) [24 <./images//AHP_H.pdf>]
+[23 <./images//AHP_H.pdf>]) [24]
 \openout2 = `text/chapter4.aux'.
 
  (text/chapter4.tex [25
 
 
 
-] [26] [27]
+]
+
+pdfTeX warning: pdflatex (file ./images//AHP_E.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images//AHP_E.pdf, id=660, 426.75435pt x 625.85822pt>
+File: images//AHP_E.pdf Graphic file (type pdf)
+<use images//AHP_E.pdf>
+Package pdftex.def Info: images//AHP_E.pdf  used on input line 12.
+(pdftex.def)             Requested size: 426.75331pt x 625.85667pt.
+
+Underfull \hbox (badness 2512) in paragraph at lines 13--13
+[][]|\OT1/lmr/m/n/12 AHP-Entscheidungsstruktur zur Be-wer-tung von CI/CD-
+ []
+
+[26 <./images//AHP_E.pdf>] [27]
 
 pdfTeX warning: pdflatex (file ./images//MTA.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//MTA.pdf, id=662, 1280.38347pt x 654.40488pt>
+<images//MTA.pdf, id=699, 1280.38347pt x 654.40488pt>
 File: images//MTA.pdf Graphic file (type pdf)
 <use images//MTA.pdf>
-Package pdftex.def Info: images//MTA.pdf  used on input line 16.
+Package pdftex.def Info: images//MTA.pdf  used on input line 25.
 (pdftex.def)             Requested size: 1280.38036pt x 654.40327pt.
 
-Underfull \hbox (badness 2538) in paragraph at lines 17--17
+Underfull \hbox (badness 2538) in paragraph at lines 26--26
 [][]|\OT1/lmr/m/n/12 Be-reit-stel-lung von MTA-Applikationen in ein Artefakt-
  []
 
-[28]
 Package acronym Info: Label `acro:SAP CTM' newly defined as it shall be overridden
-although it is yet undefined on input line 23.
- [29 <./images//MTA.pdf>]
+although it is yet undefined on input line 32.
+[28 <./images//MTA.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//CTM.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CTM.pdf, id=686, 1138.13205pt x 426.8748pt>
+<images//CTM.pdf, id=718, 1138.13205pt x 426.8748pt>
 File: images//CTM.pdf Graphic file (type pdf)
 <use images//CTM.pdf>
-Package pdftex.def Info: images//CTM.pdf  used on input line 27.
+Package pdftex.def Info: images//CTM.pdf  used on input line 36.
 (pdftex.def)             Requested size: 1138.12927pt x 426.87375pt.
 Package acronym Info: Label `acro:SAP BAS' newly defined as it shall be overridden
-although it is yet undefined on input line 33.
-[30 <./images//CTM.pdf>] [31] [32] [33]) [34]
+although it is yet undefined on input line 44.
+Package acronym Info: Label `acro:JaaS' newly defined as it shall be overridden
+although it is yet undefined on input line 46.
+[29 <./images//CTM.pdf>] [30] [31] [32] [33]) [34]
 \openout2 = `text/chapter5.aux'.
 
  (text/chapter5.tex) [35
@@ -1361,16 +1375,16 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 227A4CF77C3E778B38CA2224D2AF6D08;7809.
+(rerunfilecheck)             Checksum: D8F38ADBAC42D115FCE1E50D6BDDA5BE;7809.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34559 strings out of 475389
- 663157 string characters out of 2776057
- 1446425 words of memory out of 3000000
- 55161 multiletter control sequences out of 15000+600000
+ 34578 strings out of 475389
+ 663482 string characters out of 2776057
+ 1448630 words of memory out of 3000000
+ 55177 multiletter control sequences out of 15000+600000
  512384 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  105i,12n,107p,6524b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1378,9 +1392,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{APIs} has been referenced but does not exist, replaced by a fixed one
 
 {C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (48 pages, 1286585 bytes).
+Output written on main.pdf (48 pages, 1345358 bytes).
 PDF statistics:
- 901 PDF objects out of 1000 (max. 8388607)
- 161 named destinations out of 1000 (max. 500000)
- 315 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 940 PDF objects out of 1000 (max. 8388607)
+ 164 named destinations out of 1000 (max. 500000)
+ 320 words of extra memory for PDF output out of 10000 (max. 10000000)
 
