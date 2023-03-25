@@ -13,8 +13,17 @@
 \thispagestyle{empty}
 
 
+\etocdepthtag.toc{mtchapter}
+\etocsettagdepth{mtchapter}{subsubsection}
+\etocsettagdepth{mtappendix}{none}
+
+
 % Overfull hbox Warnung austellen
 \hfuzz=25.002pt 
+
+% Maximale Spaltenbreite für Kodierung der Experteninterviews
+\newcolumntype{M}{>{\begin{varwidth}{6cm}}l<{\end{varwidth}}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
 \include{template/titlepage}
 \include{template/declaration}
@@ -82,7 +91,23 @@
 %\input{bib/references}
 \newpage
 
+
 % ANHANG
-\include{text/appendix}
+\appendix
+\renewcommand{\contentsname}{Anhangsverzeichnis}
+\renewcommand\appendixpagename{Anhang}
+\renewcommand\appendixtocname{Anhang}
+\renewcommand{\thesection}{\Alph{section}.\arabic{section}}
+
+\begin{appendices}
+	\etocdepthtag.toc{mtappendix}
+	\etocsettagdepth{mtchapter}{none}
+	\etocsettagdepth{mtappendix}{subsection}
+	\tableofcontents
+	\newpage
+	\input{text/appendix}
+\end{appendices}
+
+
  
 \end{document}

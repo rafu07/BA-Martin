@@ -18,6 +18,12 @@
 
 \usepackage{tikz} 
 
+
+% Für Anhang 
+\usepackage[toc,title,page]{appendix}
+\usepackage{etoc}
+
+
 \usepackage{caption}
 \captionsetup{
     format=hang,
@@ -31,6 +37,10 @@
 
 % Tabellen
 \usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{array} % Um neuen Spaltentyp zu definieren
+\usepackage{varwidth} % Für maximale Spaltenbreite
+\usepackage{longtable}
 
 % Anführungszeichen mit \enquote{...}
 \usepackage{csquotes}
@@ -82,6 +92,10 @@
 \usepackage{setspace}
 \usepackage{caption}
 \setstretch{1.5}
+
+% Zeilennummer - Experteninterviews
+\usepackage{lineno, blindtext}
+
 
 % Literaturverzeichnis
 \newcommand{\position}{inline} 
