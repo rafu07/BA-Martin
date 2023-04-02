@@ -19,6 +19,7 @@
 \usepackage{tikz} 
 
 
+
 % Für Anhang 
 \usepackage[toc,title,page]{appendix}
 \usepackage{etoc}
@@ -109,6 +110,12 @@ useprefix=true,
 %	firstinits=true -> Vorname abkürzen
 ]{biblatex}
 \bibliography{bib/bibliography.bib}
+
+
+\DeclareBibliographyCategory{relevant}
+\addtocategory{relevant}{ProductOwnerSAPBTPProd&Infra.}
+\DeclareBibliographyCategory{exclude}
+\addtocategory{exclude}{ProductOwnerSAPBTPProd&Infra.}
 
 %Float-Option H für Grafiken
 \usepackage{float} 

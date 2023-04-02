@@ -20,11 +20,11 @@
 \textbf{Interviewer:} Welche Vorteile hat es, wenn Software kontinuierlich bereitgestellt wird?\\
 \textbf{Experte:} Der Vorteil ist der, dass ich meine Änderungen in kleinen Paketen, die sich auch leichter integrieren lassen, mache. Wenn ich tägliche oder alle zwei drei Tage Changes mache und dann jeweils schaue, ob der Status noch grün ist, birgt das gegenüber dem klassischen Wasserfallmodell sehr viele Vorteile. Wenn ich dann schnell in eine Canary-Umgebung deploye, kann ich natürlich früh Fehler finden, was schließlich auch deutlich günstiger ist.\\
 \textbf{Interviewer:} Welche unterschiedlichen Arten von Pipelines gibt es?\\
-\textbf{Experte:} Das hängt ein wenig von den Anforderungen. Also typischerweise hat man eine sehr kleine Pipeline für Request-Votes. Die sollte dann maximal 10 - 15 Minuten laufen. So soll der Entwickler ein schnelles Feedback bekommen. Dann gibt es da noch die Delivery-Pipelines. Dazu gehört, wenn man ein Artefakt in ein Repository deployed oder man auch tatsächlich releaset. Für solche Pipelines kann entschieden werden, ob entweder alles am Stück gemacht wird oder ob Komponenten aufgeteilt werden. Also, dass ich am Anfang ein paar kleine Unit- und Code-Tests mache und das in mein Artefakt Repository bereitstelle. Zu einem gegebenen Zeitpunkt x kann ich dann sagen, dass ich entsprechend aufwändigere Tests mache.
+\textbf{Experte:} Das hängt ein wenig von den Anforderungen. Also typischerweise hat man eine sehr kleine Pipeline für Request-Votes. Die sollte dann maximal 10 - 15 Minuten laufen. So soll der Entwickler ein schnelles Feedback bekommen. Dann gibt es da noch die Delivery-Pipelines. Dazu gehört, wenn man ein Artefakt in ein Repository deployed oder man auch tatsächlich releaset. Für solche Pipelines kann entschieden werden, ob entweder alles am Stück gemacht wird oder ob Komponenten aufgeteilt werden. Also, dass ich am Anfang ein paar kleine Unit- und Code-Tests mache und das in mein Artefakt Repository bereitstelle. Zu einem gegebenen Zeitpunkt x kann ich dann sagen, dass ich entsprechend aufwändigere Tests mache.\\
 \textbf{Interviewer:} Du hattest Artefakt-Repository genannt. Welche Vorteile bringt das?\\
 \textbf{Experte:} Das spielt gerade in der Composable Enterprise Architektur eine wichtige Rolle. Kleine entwickelte Komponenten können mit Versionierung in das Artefakt-Repository bereitgestellt werden. Andere Entwickler können diese Komponente dann aus dem Artefakt-Repository herausziehen und für eigenen Entwicklungen wiederverwenden.\\
 \textbf{Interviewer:} Welche Stages hat eine typische CI/CD-Pipeline?\\ 
-\textbf{Experte:} Typischerweise beginnt es mit der Build-Stage, bei welcher Unit-Tests ausgeführt werden. Für CAP werden dabei die Frameworks Mocha oder Jest verwendet. Dann haben wir eine Acceptance-Stage, in welcher dann Akzeptanztests laufen. Solche Akzeptanztests können dann z.B. auch Integration-Tests umfassen. Die Integration-Tests werden mit Newman gemacht. Dann gibt es eine Compliance-Stage. In dieser laufen dann Tools wie die SonarQube. Dort wird dann z.B. geprüft, ob ich irgendwelche Lizenzrechte verletze. Dann kommt die Security-Stage. Dort wird nach Vunderabilities und statischen Kontexten geprüft und evaluiert ob Gefahr für Cross-Skripting Null-Pointer-Exceptions etc. besteht. Dann gibt es noch die Release-Stage. Dort wird die Anwendung dann tatsächlich in die Cloud-Plattform bereitgestellt.\\
+\textbf{Experte:} Typischerweise beginnt es mit der Build-Stage, bei welcher Unit-Tests ausgeführt werden. Für CAP werden dabei die Frameworks Mocha oder Jest verwendet. Dann haben wir eine Acceptance-Stage, in welcher dann Akzeptanztests laufen. Solche Akzeptanztests können dann z.B. auch Integration-Tests umfassen. Die Integration-Tests werden mit Newman gemacht. Dann gibt es eine Compliance-Stage. In dieser laufen dann Tools wie die SonarQube. Dort wird dann z.B. geprüft, ob ich irgendwelche Lizenzrechte verletze. Dann kommt die Security-Stage. Dort wird nach Vunderabilities und statischen Kontexten geprüft und evaluiert ob Gefahr für Cross-Skripting Null-Pointer-Exceptions etc. besteht. Dann gibt es noch die Release-Stage. Dort wird die Anwendung dann tatsächlich in die Cloud-Plattform bereitgestellt. Es benötigt einer Unterstützung dieser Stufen, um eine effiziente Bereitstellung von Software zu ermöglichen.\\
 \textbf{Interviewer:} Welche Pipelines werden denn so bei der SAP verwendet?\\
 \textbf{Experte:} Zum einen wird der von der SAP bereitgestellte CI/CD-Service verwendet. Des Weiteren gibt es Jenkins. Diese wird i.d.R. mit Project Piper verwendet. Die Jenkins muss dabei selbst gehostet werden. Für interne Projekte wird dafür das Jenkins-as-a-Service angeboten. Häufig wird für interne Projekte auch Azure DevOps verwendet.\\
 \textbf{Interviewer:} Welche Aspekte sind bei der Wahl eines CI/CD-Pipeline-Tools zu beachten?\\
@@ -40,7 +40,7 @@
 \textbf{Interviewer:} Welche Kosten fallen für die CI/CD-Pipeline an?\\
 \textbf{Experte:} Eine Build-Hour kostet einen Euro.\\
 \textbf{Interviewer:} Sind parallele Builds möglich und ist die Pipeline mit dem Transport Management System integrierbar?\\
-\textbf{Experte:} Nein leider nicht. Aber die Pipeline kann Software auf das Transport Management System bereitstellen.\\
+\textbf{Experte:} Nein leider nicht. Aber die Pipeline kann Software auf das Transport Management System bereitstellen \cite{ProductOwnerSAPBTPProd&Infra.}.\\
 \end{linenumbers}
 \newpage
 \resetlinenumber
@@ -62,13 +62,13 @@
     \textbf{Interviewer:} Wie sind Pipelines aufgebaut?\\
     \textbf{Experte:} Also früher haben wir keine unterschiedlichen Pipelines für CI und CD verwendet. Da haben wir aber gesehen, dass das ziemlich problematisch ist. Wenn alles sequenziell ausgeführt wird und dann in der Mitte irgendwas abbricht, dann haben wir sehr viel Zeit verloren. Nun geht der Trend in Richtung Shift-Left. Die Pipelines werden somit deutlich verkleinert und somit bekommt man auch schneller Feedback.\\
     \textbf{Interviewer:} Welche Kriterien sollte man bei der Auswahl von Pipelines beachten.\\
-    \textbf{Experte:} Es kommt natürlich darauf an, welche Produktstandards vorgegeben sind. Wenn die Standards hoch sind, dann ist die Test-Funktionalität sehr wichtig. Dazu gehören dann, insbesondere Security-Checks, wie mit Fortify. Wenn du in sehr großen Entwicklungen bist, dann ist es natürlich auch sehr wichtig, dass die Pipeline eine gute Performance besitzt. Somit kann Software schneller bereitgestellt werden. Dann ist natürlich auch wichtig, wie gut sich die Pipeline in die Infrastruktur integrieren. Bei dieser Integration ist dann auch wichtig, ob alle Sicherheitsstandards eingehalten werden.\\
+    \textbf{Experte:} Es kommt natürlich darauf an, welche Produktstandards vorgegeben sind. Wenn die Standards hoch sind, dann ist die Test-Funktionalität sehr wichtig. Dazu gehören dann, insbesondere Security-Checks, wie mit Fortify. Wenn du in sehr großen Entwicklungen bist, dann ist es natürlich auch sehr wichtig, dass die Pipeline eine gute Performance besitzt. Somit kann Software schneller bereitgestellt werden. Des Weiteren ist es essenziell, dass die CI/CD-Prozesse überwacht werden können. Gerade bei komplexen Systemen mit vielen Services ist das für DevvOps-Engineers oft die einzige Möglichkeit die Prozesse nachhaltig zu überblicken. Dann ist natürlich auch wichtig, wie gut sich die Pipeline in die Infrastruktur integrieren. Bei dieser Integration ist dann auch wichtig, ob alle Sicherheitsstandards eingehalten werden.\\
     \textbf{Interviewer:} Mit welchen Pipelines hattest du bisher Erfahrung?\\
     \textbf{Experte:} Mit Azure DevOps habe ich bisher noch keine Erfahrung gemacht. In meinem jetzigen Team arbeite ich mit dem Jenkins-as-a-Service. In meinem vorherigen Team habe ich auch Erfahrung mit dem SAP BTP CI/CD-Service gemacht. Ursprünglich wurde das Projekt Piper für Jenkins nur für interne Projekte genutzt. Mittlerweile wurde die Bibliothek als Open-Source veröffentlicht. Für interne Projekte darf der SAP BTP CI/CD aufgrund der derzeitigen Produktstandards nicht verwendet werden. Dieser wird eigentlich nur für Kunden angeboten. Das SAP CI/CD-Tool lohnt sich insbesondere für Kunden, die noch nicht viel DevOps-Expertise besitzen und auch keine teure Infrastruktur betreiben wollen.\\
     \textbf{Interviewer:} Ist in dem CI/CD-Service von der SAP schon der Preis für Tools wie SonarQube mit einberechnet?\\
     \textbf{Experte:} Nein der Preis ist nicht mit drin. Tools wie SonarQube müssen von den Kunden selbst gehostet werden.\\
     \textbf{Interviewer:} Weißt du ob die Tools in das SAP CTM integrierbar sind?\\
-    \textbf{Experte:} Ja sowohl JaaS als auch SAP BTP CI/CD sind in das SAP CTM integrierbar. Intern habe ich noch nicht oft gehört, dass dieser verwendet wird. Aber Kunden können theoretisch auf die CTM bereitstellen. Das CTM ist ebenfalls mit einem Change Management Surface verbunden. Damit kann man einen Change-Auftrag erstellen und dann Artefakte zwischen unterschiedlichen Systemen bereitstellen. Dadurch hat man einfach mehr Transparenz.\\
+    \textbf{Experte:} Ja sowohl JaaS als auch SAP BTP CI/CD sind in das SAP CTM integrierbar. Intern habe ich noch nicht oft gehört, dass dieser verwendet wird. Aber Kunden können theoretisch auf die CTM bereitstellen. Das CTM ist ebenfalls mit einem Change Management Surface verbunden. Damit kann man einen Change-Auftrag erstellen und dann Artefakte zwischen unterschiedlichen Systemen bereitstellen. Dadurch hat man einfach mehr Transparenz. Außerdem bietet das System für Composable-ERP-Systeme einen großen Vorteil. Über das SAP CTM können Abhängigkeiten zwischen verschiedenen Microservices definiert werden.\\
     \textbf{Interviewer:} Welche Überwachungsfunktionalitäten bieten die Pipelines?\\
     \textbf{Experte:} Bei Jenkins weiß ich, dass man Logs auslesen kann und den Workflow somit nachvollziehen kann.
 \end{linenumbers}
@@ -122,12 +122,15 @@
     \textbf{Experte:} Für Unit Tests gibt es verschiedene Frameworks. I.d.R. wird in der SAP Q-Unit für sowas verwendet. Was aber auch noch geht, ist z.B. Mocha. Für Integration-Tests wird OPA5 verwendet. Da wird dann sowas wie die Backend-Anbindung einfach gemockt. Und für System-Tests wird dann i.d.R. WDI5 verwendet. Das kann man dafür verwenden, wenn man jetzt tatsächlich eine gesamte App testet. Das hat den Vorteil, dass ich wie ein End-User teste. Nachteil ist dabei jedoch, dass ich schauen muss, dass die Daten verfügbar sind, Customizings gemacht wurden etc. Aber man muss die Tests natürlich immer gezielt einsetzten. Wir haben damals in unsere Pipeline E2E-Tests eingebaut und dadurch hat die Pipeline um den Faktor 3 länger gebraucht. Noch einmal zur zentralen Aussage der Testpyramide. Die Empfehlung ist möglichst viel auf den unteren Ebenen abzudecken, also mit Unit-Tests und auf den oberen Ebenen nur noch das zu testen, was man nicht mit Unit- und Integration-Tests testen kann.\\
     \textbf{Interviewer:} Werden denn immer alle Tests ausgeführt?\\
     \textbf{Experte:} Also bei einer Pull-Request-Pipeline sollten auf jeden Fall die Unit- und Integration-Tests laufen. Die System-Tests werden dann z.B. einmal am Tag ausgeführt. Manche Teams verwenden auch eine parallele Ausführung von Tests und führen dann eben verschiedene Szenarien gleichzeitig durch. Das läuft dann i.d.R. schneller und dann können solche Tests auch beim Pull-Request ausgeführt werden. Gerade die Compliance und Accessibility-Tests werden dann eher in der Delivery-Pipeline durchgeführt.\\
+    \textbf{Interviewer:} Auf welche Integrationsaspekte muss geachtet werden?\\
+    \textbf{Experte:} In den bisherigen Projekten, in welchen ich gearbeitet habe, wurde die Auswahl einer CI/CD-Pipeline immer sehr stark von dem Repository abhängig gemacht. Die Repositorys, welche von Kunden dabei besonders oft verwendet werden sind GitHub, GitLab und BitBucket.\\ 
     \textbf{Interviewer:} Wie wird der Entwickler über den Erfolg der Tests informiert?\\
     \textbf{Experte:} Da gibt es unterschiedliche Verfahrensweisen. Es gibt da dann z.B. verschiedene Monitoring-Tools in der CI/CD-Pipeline. Ein anderer Weg ist, wenn man die CI/CD-Pipeline über APIs in das Repository integriert. Was auch häufig gemacht wird ist, dass man die Pipelines in den SAP Alert Service integriert, sodass Entwickler dann entsprechend Nachrichten über Mail oder Slack bekommen.
 \end{linenumbers}
 
 
 \subsection{Kodierung der Experteninterviews}
+\label{sec:kodierung}
 \underline{Was ist CI/CD?}\\
 \begin{longtable}{ |C{6cm}|C{3cm}|c|c| }
 	\hline
@@ -340,6 +343,21 @@
         \end{figure}	
     \end{center}
     \newpage
+    \resetlinenumber
+    \begin{linenumbers}
+        \textbf{Interviewer:} Für dich besonders wichtig ist die Funktionalität. Kannst du das begründen?\\
+        \textbf{Experte:} Wenn ich eine Pipeline einbaue, dann ist für mich besonders wichtig, dass die Pipeline bestimmte Funktionalitäten, wie z.B. Tests abdecken. Weniger gewichtig ist da z.B. die Benutzerfreundlichkeit. Ich bin der Meinung, dass ich eine Pipeline einmal einrichte. Da spielt es dann auch weniger die Rolle wie viel Aufwand das beim initialen Einrichten war.\\
+            \textbf{Interviewer:} Von den Subkriterien der Funktionalität war für dich Build Funktionalität besonders wichtig. Kannst du das begründen?\\
+            \textbf{Experte:} Bei Cloud-Native-Projekten werden i.d.R. verschiedene Sprachen und verschiedene Frameworks verwendet. Die Pipeline sollte da einfach alle Build-Packages unterstützen. So muss ich dann nicht hergehen und manuell irgendwelche Deployments ausführen. Tests waren für mich auch sehr wichtig. Es ist wichtig, dass ich die Tests mache, bevor es zu Merges kommt. Natürlich kann ich auch Tests abseits von einer CI/CD-Pipeline ausführen. Bei einem größeren Team von Entwickler ist das jedoch kaum noch kontrollierbar.\\
+            \textbf{Interviewer:} Kommen wir zu den Integrationsmöglichkeiten. Deiner Meinung nach ist die Integration eines Repositorys sehr wichtig. Woran liegt das?\\
+            \textbf{Experte:} Oft ist es so, dass sich der Kunde auf eine oder zwei CI/CD und ein oder zwei Repositorys einschießt. Gerade, wenn da die Abhängigkeit mit dem Repository besteht sollte das natürlich in die CI/CD-Pipeline integrierbar sein.\\
+            \textbf{Interviewer:} Kannst du begründen, warum für dich die Integration- und Delivery-Zeit gleich wichtig ist.\\
+            \textbf{Experte:} Aus meiner Sicht gibt es da kein wichtigeres Kriterium, da sowohl CI als auch CD im Hintergrund läuft. Somit ist es für mich jetzt nicht so wichtig, falls eine der beiden Pipelines länger durchläuft.\\
+            \textbf{Interviewer:} Warum ist für dich der administrative Support wichtiger als der Community-Support?\\
+            \textbf{Experte:} Für mich ist es eben sehr wichtig, dass es eine gute Dokumentation gibt. So kann ich z.B. bevor ich eine Pipeline installiere schon abschätzen, wie gut bestimmte Aspekte funktioniere und bin da nicht davon abhängig, dass ich durch Community-Foren irgendwelche Workarounds bekomme. Außerdem ist es mir natürlich auch sher wichtig, dass die Lösung immer auf dem neusten Stand der Technik ist.\\
+            \textbf{Interviewer:} Sowohl Sicheheitsarchitektur als auch Authentifizierung- und Autorisierungskonzepte sind dir gleich wichtig. Kannst du das begründen?\\
+            \textbf{Experte:} Also es gehört natürlich einfach zur Developer-Experience dazu, wenn man bestimmte Authentifizierung- und Autorisierungskonzepte hat. Dann ist es natürlich aber auch schon wichtig, dass die Pipeline an sich sicher ist. Gerade die Pipeline bietet natürlich eine sehr gute Möglichkeit feindliche Programme in eine Produktionsumgebung einzuführen.\\
+    \end{linenumbers}
     
 
     
@@ -374,6 +392,24 @@
 \end{center}
 \newpage
 
+\resetlinenumber
+\begin{linenumbers}
+    \textbf{Interviewer}: In Tabelle 1 ist für dich besonders wichtig der Support und weniger wichtig sind für dich die Kosten. Warum?\\
+    \textbf{Experte}: Ich als Entwickler habe die Erfahrung, dass Tool noch so toll sein kann. Wenn keine gute Dokumentation vorhanden ist, dann hilft mir das als Entwickler nicht viel. Die Kosten sind mir aus Entwicklersicht egal. Da sind mir erstmal die anderen Kriterien wichtiger\\
+    \textbf{Interviewer}: In Tabelle 2 waren dir die Tests besonders wichtig. Kannst du das begründen.\\
+    \textbf{Experte:} Es spart mir sehr viel Zeit, wenn Tests automatisiert werden. Für mich gehört das automatisierte Ausführen von Tests auch zu den Hauptzwecken einer CI/CD-Pipeline. So kann ich frühzeitig erkennen, wenn eine Änderung etwas kaputt macht.\\
+    \textbf{Interviewer:} Kommen wir zu den Integrationsmöglichkeiten. Warum ist dir die Integration in Repositorys besonders wichtig?\\
+    \textbf{Experte:} Ich sehe, dass als eine sehr grundlegende Funktion. Wenn meine CI/CD-Pipeline nicht mit dem Repository integrierbar ist, dann wird das gesamte Konzept einer Pipeline hinfällig. Die Planungssoftware war mir hingegen kaum wichtig, da ich als Entwickler mit so etwas kaum arbeite.\\
+    \textbf{Interviewer:} Kannst du deine Entscheidungen zur Performance begründen?\\
+    \textbf{Experte:} Für mich ist die Integration-Zeit deutlich wichtiger, einfach um da eine höhere Developer-Experience zu bekommen. Wenn ich ein Pull-Request aufmache, dann möchte ich auch schnell Feedback bekommen, ob alles passt oder eben nicht.\\
+    \textbf{Interviewer:} Kannst du deine Entscheidungen zum Support begründen?\\
+    \textbf{Experte:} Ich finde den Community-Support am wichtigsten. Dabei bekommt man den leichtesten Zugriff als Entwickler auf neues Wissen. Weniger geeignet fände ich, wenn ich jedes mal mit jemanden telefonieren müsste oder immer ein neues Ticket aufmachen müsste.
+    \textbf{Interviewer:} Wie sieht es mit dem Punkt der Sicherheit aus?\\
+    \textbf{Experte:} Ich finde das Authentifizierungs- und Autorisierungs-Konzept am wichtigsten, da dies auch mit der Developer-Experience zusammenhängt. Damit komme ich eben in meinem Entwickleralltag am meisten in Berührung. Wenn die Plattform bspw. SSO enabled ist, dann ist das für mich als Programmierer sehr gemütlich. 
+    \textbf{Interviewer:} Kannst du deine Entscheidung zur Benutzerfreundlichkeit begründen?\\
+    \textbf{Experte:} Sowohl mit Wartung bzw. Installation und mit der gewöhnlichen Bedienbarkeit kommt man gelegentlich in Berührung. Das sollte deshalb beides einigermaßen gut funktionieren.\\
+\end{linenumbers}
+
 \newpage
 \subsection{Expertengewichtung 3}
         \begin{tabular}{ l l }
@@ -404,4 +440,19 @@
 \end{figure}	
 \end{center}
 \newpage
+\resetlinenumber
+\begin{linenumbers}
+    \textbf{Interviewer:} Besonders wichtig ist für dich die Sicherheit. Kannst du das begründen?\\
+    \textbf{Experte:} Sicherheitslücken in unseren Systemen würden einen sehr großen Imageschaden verursachen. Deswegen ist das für mich das absolute Top-Thema. Gerade wenn wir neue Software bereitstellen, darf es nicht passieren, dass eventuell feindliche Programme eingeschleust werden. Nicht so wichtig ist für mich der Support, da dieser ganz schnell zum Bottleneck werden kann. Wichtiger ist da für mich z.B. die Benutzerfreundlichkeit. Man sollte die Nutzer gar nicht erst in die Situation kommen lassen, dass diese Support benötigen.\\
+    \textbf{Interviewer:} Warum ist für dich der administrative Support wichtiger als der Community-Support?\\
+    \textbf{Experte:} Es ist viel wichtiger, dass man eine Community besitzt, welche Fragen beantworten kann. Dies ist eigentlich die einzige Möglichkeit sowas skalierbar zu machen. Man wird niemals ein Support-Team besitzen, was groß genug ist alle Fragen zu beantworten. Man könnte den administrativen Support also nicht gut skalieren.\\
+    \textbf{Interviewer:} Im Kriterium der Funktionalität ist für dich besonders wichtig die Test- und Build-Funktionalität. Warum?\\
+    \textbf{Experte:} Test ist natürlich mein Hintergrund, da ich von dieser Seite her komme. Es ist für mich einfach wichtig, dass ich etwas ausliefere, was auch validiert ist. 
+    \textbf{Interviewer:} Warum ist für dich die Integration-Zeit wichtiger als die Delivery-Zeit?\\
+    \textbf{Experte:} Es kann eben aus Entwicklersicht nicht sein, dass ich eine Änderung im Code mache und dann erst einmal eine halbe Stunde warten muss, bis ich Feedback bekomme. Da geht die Motivation im Team verloren. Und es stapeln sich einfach die Änderungen, bevor ich die Änderungen dann tatsächlich ausliefere.\\
+    \textbf{Interviewer:} Für sind sowohl Authentifizierung bzw. Autorisierung und die Sicherheitsarchitektur gleich wichtig. Kannst du das begründen?\\
+    \textbf{Experte:} Authentifizierung ist natürlich wichtig, damit nicht jemand unberechtigtes ein Deployment durchführen kann, welcher das eigentlich gar nicht sollte.\\
+    \textbf{Interviewer:} Für dich war die Installation und Wartung weniger wichtig als die intuitive Bedienbarkeit?\\
+    \textbf{Experte:} Installation und Wartung betrifft mich einmal beim Setup, während die intuitive Bedienbarkeit kontinuierlich wichtig ist.\\
+\end{linenumbers}
 

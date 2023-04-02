@@ -12,9 +12,9 @@
 \contentsline {section}{\numberline {2}Grundlagen und Begriffserklärungen}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Die Composable-Enterprise-Architektur}{2}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Begriffserklärung und Abgrenzung}{2}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Technologische Konzepte des Composable-Enterprises}{4}{subsubsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.2}Integration und Bereitstellung von Software}{6}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Agile und DevOps als moderne Anwendungsentwicklungskonzepte}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Technologische Konzepte des Composable-Enterprises}{5}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Integration und Bereitstellung von Software}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Agile und DevOps als moderne Anwendungsentwicklungskonzepte}{7}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Pipelines zur Integrations- und Bereitstellungsautomatisierung}{10}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Strategien zur Bereitstellung von Neuentwicklungen}{16}{subsubsection.2.2.3}%
 \contentsline {section}{\numberline {3}Methodische Vorgehensweise}{19}{section.3}%
@@ -25,11 +25,15 @@
 \contentsline {subsection}{\numberline {4.1}Prototypische Implementierung der Integrations- und Bereitstellungs-Pipelines}{25}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Evaluation der Integrations- und Bereitstellungs-Pipelines unter Anwendung des Analytischen Hierarchieprozesses}{25}{subsection.4.2}%
 \contentsline {subsubsection}{\numberline {4.2.1}Festlegung der hierarchischen Entscheidungskriterien}{25}{subsubsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.3}Entwicklung einer ganzheitlichen Bereitstellungsstrategie}{34}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Schlussbetrachtung}{35}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Fazit und kritische Reflexion}{35}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Ausblick}{35}{subsection.5.2}%
-\contentsline {section}{Anhang}{XIII}{section*.41}%
+\contentsline {subsubsection}{\numberline {4.2.2}Festlegung der Bewertungsmetriken}{33}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Gewichtung der Bewertungskriterien}{34}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Bewertung der Entscheidungsalternativen}{34}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Entwicklung einer ganzheitlichen Bereitstellungsstrategie}{42}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Schlussbetrachtung}{43}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Fazit und kritische Reflexion}{43}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ausblick}{43}{subsection.5.2}%
+\contentsline {section}{Literaturverzeichnis}{VIII}{subsection.5.2}%
+\contentsline {section}{Anhang}{XIII}{section*.49}%
 \etoc@depthtag {mtappendix}
 \contentsline {section}{\numberline {A}Allgemeine Ergänzungen}{XIV}{appendix.a.A}%
 \contentsline {section}{\numberline {B}Grafiken}{XV}{appendix.a.B}%
@@ -40,5 +44,5 @@
 \contentsline {subsection}{\numberline {C.4}Experteninterview 4}{XXVI}{subsection.a.C.4}%
 \contentsline {subsection}{\numberline {C.5}Kodierung der Experteninterviews}{XXIX}{subsection.a.C.5}%
 \contentsline {subsection}{\numberline {C.6}Expertengewichtung 1}{XXXIX}{subsection.a.C.6}%
-\contentsline {subsection}{\numberline {C.7}Expertengewichtung 2}{XLII}{subsection.a.C.7}%
-\contentsline {subsection}{\numberline {C.8}Expertengewichtung 3}{XLV}{subsection.a.C.8}%
+\contentsline {subsection}{\numberline {C.7}Expertengewichtung 2}{XLIV}{subsection.a.C.7}%
+\contentsline {subsection}{\numberline {C.8}Expertengewichtung 3}{XLIX}{subsection.a.C.8}%

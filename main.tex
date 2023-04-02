@@ -18,6 +18,7 @@
 \etocsettagdepth{mtappendix}{none}
 
 
+
 % Overfull hbox Warnung austellen
 \hfuzz=25.002pt 
 
@@ -81,10 +82,19 @@
 \setcounter{page}{\value{pageNumber}}
 
 % LITERATURVERZEICHNIS
+% LITERATURVERZEICHNIS
+
+
+
 \newpage
+\addcontentsline{toc}{section}{Literaturverzeichnis}
+
 \printbibheading
-\printbibliography[nottype=online, heading=subbibliography, title={Print-Quellen}]
+\printbibliography[nottype=online,notcategory=relevant, notcategory=exclude, heading=subbibliography, title={Print-Quellen}]
 \printbibliography[type=online, heading=subbibliography, title={Online-Quellen}]
+\printbibliography[type=misc,category=relevant,category=exclude, title={Exerteninterviews}]
+
+
 
 % FALLS DAS LITERATURVERZEICHNIS NACH LITERATURKATEGORIEN UNTERGLIEDERT WERDEN SOLL,
 % BITTE IN DIE FOLGENDE AUSKOMMENTIERTE DATEI SCHAUEN

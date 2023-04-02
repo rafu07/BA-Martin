@@ -112,9 +112,6 @@
            given={Matthias},
            giveni={M\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \list{publisher}{1}{%
         {API-University Press}%
       }
@@ -131,8 +128,7 @@
       \field{abstract}{Looking for the big picture of building APIs? This book is for you!{<}/p{>} {<}/p{>} Building APIs that consumers love should certainly be the goal of any API initiative. However, it is easier said than done. It requires getting the architecture for your APIs right. This book equips you with both foundations and best practices for API architecture.{<}/p{>} {<}/p{>} This book is for you if you want to understand the big picture of API design and development, you want to define an API architecture, establish a platform for APIs or simply want to build APIs your consumers love.{<}/p{>} {<}/p{>} This book is NOT for you, if you are looking for a step-by step guide for building APIs, focusing on every detail of the correct application of REST principles. In this case I recommend the book {"}API Design{"} of the API-University Series.{<}/p{>} {<}/p{>} What is API architecture? Architecture spans the bigger picture of APIs and can be seen from several perspectives:{<}/p{>} {<}/p{>} API architecture may refer to the architecture of the complete solution consisting not only of the API itself, but also of an API client such as a mobile app and several other components. API solution architecture explains the components and their relations within the software solution.{<}/p{>} {<}/p{>} API architecture may refer to the technical architecture of the API platform. When building, running and exposing not only one, but several APIs, it becomes clear that certain building blocks of the API, runtime functionality and management functionality for the API need to be used over and over again. An API platform provides an infrastructure for developing, running and managing APIs.{<}/p{>} {<}/p{>} API architecture may refer to the architecture of the API portfolio. The API portfolio contains all APIs of the enterprise and needs to be managed like a product. API portfolio architecture analyzes the functionality of the API and organizes, manages and reuses the APIs.{<}/p{>} {<}/p{>} API architecture may refer to the design decisions for a particular API proxy. To document the design decisions, API description languages are used. We explain the use of API description languages (RAML and Swagger) on many examples.{<}/p{>} {<}/p{>} {<}/p{>} This book covers all of the above perspectives on API architecture. However, to become useful, the architecture needs to be put into practice. This is why this book covers an API methodology for design and development. An API methodology provides practical guidelines for putting API architecture into practice. It explains how to develop an API architecture into an API that consumers love.{<}/p{>} {<}/p{>} A lot of the information on APIs is available on the web. Most of it is published by vendors of API products. I am always a bit suspicious of technical information pushed by product vendors. This book is different. In this book, a product-independent view on API architecture is presented.{<}/p{>} {<}/p{>} The API-University Series is a modular series of books on API-related topics. Each book focuses on a particular API topic, so you can select the topics within APIs, which are relevant for you.{<}/p{>}}
       \field{isbn}{9781508676645}
       \field{series}{API-university series}
-      \field{subtitle}{The big picture for building APIs}
-      \field{title}{API architecture}
+      \field{title}{API architecture: The big picture for building APIs}
       \field{year}{2015}
     \endentry
     \entry{Bose.20230220}{online}{}
@@ -142,9 +138,6 @@
            familyi={B\bibinitperiod},
            given={Shreya},
            giveni={S\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {BrowserStack}%
       }
       \strng{namehash}{8a7f21a41cb00fed7cf6932445aab422}
       \strng{fullhash}{8a7f21a41cb00fed7cf6932445aab422}
@@ -186,9 +179,6 @@
            given={Jürgen},
            giveni={J\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {de}%
-      }
       \list{location}{1}{%
         {Berlin, Heidelberg}%
       }
@@ -208,8 +198,7 @@
       \field{abstract}{Geschäftsprozesse in Unternehmen sind häufig ereignisgesteuert, da im Geschäftsumfeld eine Fülle von Ereignissen auftritt, auf die angemessen und möglichst in Echtzeit reagiert werden muss, etwa in Sensornetzwerken oder im automatischen Wertpapierhandel. Event-Driven Architecture (EDA) ist ein neues Paradigma der Softwarearchitektur, das auf der Verarbeitung von Ereignissen als zentralem Strukturierungskonzept beruht. Das Buch diskutiert die Motive und Grundprinzipien von EDA als Architekturstil aus Unternehmenssicht. Anschlie{ß}end führt es die wichtigsten Konzepte der Ereignisverarbeitung ein und veranschaulicht deren praktische Umsetzung anhand einer Fallstudie. Auf Basis dieser Grundlagen werden mit Entwurfsmustern und Referenzarchitekturen wesentliche Konzepte für den Einsatz von EDA in der betrieblichen Praxis vorgestellt. Das Buch wendet sich an Entscheidungsträger, Praktiker, Studenten und Hochschullehrer, die einen Einblick in die Entwicklung von innovativen Softwarearchitekturen erhalten wollen.}
       \field{isbn}{9783642024399}
       \field{series}{Xpert.press}
-      \field{subtitle}{Softwarearchitektur für ereignisgesteuerte Geschäftsprozesse}
-      \field{title}{Event-Driven Architecture}
+      \field{title}{Event-Driven Architecture: Softwarearchitektur für ereignisgesteuerte Geschäftsprozesse}
       \field{year}{2010}
       \verb{doi}
       \verb 10.1007/978-3-642-02439-9
@@ -263,17 +252,43 @@
       \field{labeltitlesource}{title}
       \field{bookpagination}{page}
       \field{booktitle}{2020 IEEE 13th International Conference on Cloud Computing (CLOUD)}
-      \field{eventtitle}{2020 IEEE 13th International Conference on Cloud Computing (CLOUD)}
       \field{isbn}{978-1-7281-8780-8}
       \field{title}{Realizing A Composable Enterprise Microservices Fabric with AI-Accelerated Material Discovery API Services}
-      \field{venue}{Beijing, China}
       \field{year}{10/19/2020 - 10/23/2020}
       \field{pages}{313\bibrangedash 320}
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/CLOUD49709.2020.00051
       \endverb
-      \warn{\item Entry 'Chang.1019202010232020' (bib/bibliography.bib): Invalid format '10/19/2020 - 10/23/2020' of date field 'eventdate' - ignoring}
+    \endentry
+    \entry{.20230402}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=2096b15e04f2dd972c8dfdd3562cded1}{%
+           family={Codefresh},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2096b15e04f2dd972c8dfdd3562cded1}
+      \strng{fullhash}{2096b15e04f2dd972c8dfdd3562cded1}
+      \strng{bibnamehash}{2096b15e04f2dd972c8dfdd3562cded1}
+      \strng{editorbibnamehash}{2096b15e04f2dd972c8dfdd3562cded1}
+      \strng{editornamehash}{2096b15e04f2dd972c8dfdd3562cded1}
+      \strng{editorfullhash}{2096b15e04f2dd972c8dfdd3562cded1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{CI/CD Pipelines for Microservices}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-02}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/containers-101/ci-cd-pipelines-for-microservices-ea33fb48dae0
+      \endverb
+      \verb{url}
+      \verb https://medium.com/containers-101/ci-cd-pipelines-for-microservices-ea33fb48dae0
+      \endverb
     \endentry
     \entry{Denning.20170210}{online}{}
       \name{author}{1}{}{%
@@ -318,6 +333,37 @@
       \verb https://www.forbes.com/sites/stevedenning/2017/02/10/beyond-agile-operations-how-to-achieve-the-holy-grail-of-strategic-agility/?sh=712d37dc2b6a
       \endverb
     \endentry
+    \entry{Ellram.1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5da6415a764eaf893f00b85e49d660aa}{%
+           family={Ellram},
+           familyi={E\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{5da6415a764eaf893f00b85e49d660aa}
+      \strng{fullhash}{5da6415a764eaf893f00b85e49d660aa}
+      \strng{bibnamehash}{5da6415a764eaf893f00b85e49d660aa}
+      \strng{authorbibnamehash}{5da6415a764eaf893f00b85e49d660aa}
+      \strng{authornamehash}{5da6415a764eaf893f00b85e49d660aa}
+      \strng{authorfullhash}{5da6415a764eaf893f00b85e49d660aa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10556001}
+      \field{journaltitle}{International Journal of Purchasing and Materials Management}
+      \field{number}{3}
+      \field{pagination}{page}
+      \field{title}{Total Cost of Ownership: Elements and Implementation}
+      \field{volume}{29}
+      \field{year}{1993}
+      \field{pages}{2\bibrangedash 11}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1745-493X.1993.tb00013.x
+      \endverb
+    \endentry
     \entry{Gerson.2021}{book}{}
       \name{author}{2}{}{%
         {{hash=59be4f81e711f9638d8a45619e6e60b5}{%
@@ -330,9 +376,6 @@
            familyi={D\bibinitperiod},
            given={Sarah},
            giveni={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {eng}%
       }
       \list{location}{1}{%
         {New York, NY}%
@@ -352,8 +395,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{{"}Qualitative interviewing is one of the most widely used methods in social research, but it is arguably the least well understood. To address that gap, this book offers a theoretically rigorous, empirically rich, and user-friendly set of strategies for conceiving and conducting interview-based research. Much more than a {"}how to{"} manual, the book shows why depth interviewing is an indispensable method for discovering and explaining the social world-shedding light on the hidden patterns and dynamics that take place within institutions, social contexts, relationships, and individual experiences. It offers a step-by-step guide through every stage in the research process, from initially formulating a question, to developing arguments, and presenting the results. To do this, the book shows how to develop a research question, decide on and find an appropriate sample, construct an interview guide, conduct probing, theoretically focused interviews, and systematically analyze the complex material that depth interviews provide-all in the service of finding and presenting important new empirical discoveries and theoretical insights. The book also lays out the ever-present, but rarely discussed challenges that interviewers routinely encounter and then presents grounded, thoughtful ways to respond to them. By addressing the most heated debates about the scientific status of qualitative methods, the book demonstrates how depth interviewing makes unique and essential contributions to the research enterprise. With an emphasis on the integral relationship between carefully crafted research and theory building, the book offers a compelling vision for what the {"}interviewing imagination{"} can and should be{"}--}
       \field{isbn}{9780199324293}
-      \field{note}{Gerson, Kathleen (VerfasserIn) Damaske, Sarah (VerfasserIn)}
-      \field{pagetotal}{280}
       \field{title}{The science and art of interviewing}
       \field{year}{2021}
       \verb{doi}
@@ -373,9 +414,6 @@
            given={Daniel},
            giveni={D\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {ger}%
-      }
       \list{location}{1}{%
         {Wiesbaden}%
       }
@@ -393,7 +431,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9783658107208}
-      \field{pagetotal}{185}
       \field{title}{Mit Scrum zum gewünschten System}
       \field{year}{2015}
       \verb{doi}
@@ -411,21 +448,6 @@
            given={Jürgen},
            giveni={J\bibinitperiod}}}%
       }
-      \name{editorc}{2}{}{%
-        {{hash=9740a336d62dbed2ed6b11a6ce0e3f5f}{%
-           family={Pfitzinger},
-           familyi={P\bibinitperiod},
-           given={Bernd},
-           giveni={B\bibinitperiod}}}%
-        {{hash=82b8ee81b044391b9a2cff262597acfd}{%
-           family={Jestädt},
-           familyi={J\bibinitperiod},
-           given={Thomas},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {ger}%
-      }
       \list{location}{1}{%
         {Wiesbaden}%
       }
@@ -438,21 +460,14 @@
       \strng{authorbibnamehash}{6f29f22d1ac9f6fb2e36ad4ed0f5ddf3}
       \strng{authornamehash}{6f29f22d1ac9f6fb2e36ad4ed0f5ddf3}
       \strng{authorfullhash}{6f29f22d1ac9f6fb2e36ad4ed0f5ddf3}
-      \strng{editorcbibnamehash}{f849083120ae11a604477b8b3d896de3}
-      \strng{editorcnamehash}{f849083120ae11a604477b8b3d896de3}
-      \strng{editorcfullhash}{f849083120ae11a604477b8b3d896de3}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Intro -- Was Sie in diesem essential finden können -- Vorwort -- Inhaltsverzeichnis -- 1 Einleitung - wozu DevOps? -- 2 Was ist DevOps? - Everything is a Remix -- 2.1 Ursprünge der DevOps-Bewegung -- 2.2 Grundzüge von DevOps -- 2.3 Der Mehrwert von DevOps in einer VUCA-Welt -- 2.4 Late Commitment -- 2.5 Three Ways und Value Streams -- 2.6 Was DevOps nicht ist -- 3 DevOps-Aktivitäten -- 3.1 Aktivitäten -- 3.2 IT Betrieb mal zwei -- 3.3 Automatisierung, DevOps-Tools -- 3.4 KPIs: Messung von Erfolg -- 3.5 Skalierung von DevOps -- 3.6 Ökonomie von DevOps -- 4 Kulturelle, organisationale und kommunikative Aspekte von DevOps -- 4.1 Muster des Scheiterns und Muster des Gelingens -- 4.2 Ideales Organigramm - oder: welche Team-Topologien für DevOps? -- 5 Wie führt man DevOps ein? - oder: Machen ist wie Wollen, nur krasser! -- 5.1 Grundsätze -- 5.2 Schritt 0: Das Fundament legen -- 5.3 Schritt 1: Die Technologie-Landschaft vereinheitlichen -- 5.4 Schritt 2: Varianz entlang der Value Streams verringern -- 5.5 Schritt 3: Die DevOps-Methoden ausweiten -- 5.6 Schritt 4: Automatisieren von Infrastruktur-Bereitstellung -- 5.7 Schritt 5: Die IT stellt dem Business einen umfassenden Service zur Verfügung -- 6 DevOps - Kritik -- 7 Zusammenfassung -- Was Sie aus diesem essential mitnehmen können -- Weiterführende Literatur.}
-      \field{editorctype}{collaborator}
       \field{isbn}{9783658314057}
-      \field{note}{Halstenberg, Jürgen (VerfasserIn) Pfitzinger, Bernd (MitwirkendeR) Jestädt, Thomas (MitwirkendeR) Halstenberg, Jürgen (VerfasserIn) Pfitzinger, Bernd (MitwirkendeR) Jestädt, Thomas (MitwirkendeR)}
-      \field{pagetotal}{159}
       \field{series}{Essentials Ser}
-      \field{subtitle}{Ein Überblick}
-      \field{title}{DevOps}
+      \field{title}{DevOps: Ein Überblick}
       \field{year}{2020}
       \verb{urlraw}
       \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6380828
@@ -461,7 +476,7 @@
       \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6380828
       \endverb
     \endentry
-    \entry{Hambling.2015}{collection}{}
+    \entry{Hambling.2015}{book}{}
       \name{editor}{2}{}{%
         {{hash=51428578def06aa078ac03799d7fa550}{%
            family={Hambling},
@@ -471,16 +486,6 @@
         {{hash=4d236810821e8e83a025f2a83ea31820}{%
            family={Brian},
            familyi={B\bibinitperiod}}}%
-      }
-      \name{editora}{1}{}{%
-        {{hash=51428578def06aa078ac03799d7fa550}{%
-           family={Hambling},
-           familyi={H\bibinitperiod},
-           given={Brian},
-           giveni={B\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {eng}%
       }
       \list{location}{1}{%
         {London, England}%
@@ -494,21 +499,14 @@
       \strng{editorbibnamehash}{da4eb24a515428370f3e9a94ad6e9455}
       \strng{editornamehash}{da4eb24a515428370f3e9a94ad6e9455}
       \strng{editorfullhash}{da4eb24a515428370f3e9a94ad6e9455}
-      \strng{editorabibnamehash}{51428578def06aa078ac03799d7fa550}
-      \strng{editoranamehash}{51428578def06aa078ac03799d7fa550}
-      \strng{editorafullhash}{51428578def06aa078ac03799d7fa550}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{abstract}{The best-selling software testing title is the only official textbook of the ISTQB-BCS Certified Tester Foundation Level. This third edition includes examples and exercises reflecting current technology and applications, such as the use of open source software, component-based and agile development and application building for mobile devices. It is ideal for those with a little experience of software testing who wish to cement their knowledge with industry-recognised techniques and theory. {"}Invaluable for anyone involved in testing and would lift the game of most VV{\&}T staff{"} (IT Training Magazine).}
       \field{edition}{3rd ed.}
-      \field{editoratype}{collaborator}
       \field{isbn}{9781780173016}
-      \field{note}{Hambling, Brian (MitwirkendeR) Brian, (author.) Hambling, Brian, (editor.)}
-      \field{pagetotal}{11}
-      \field{subtitle}{An ISTQB-BCS certified tester foundation guide}
-      \field{title}{Software testing}
+      \field{title}{Software testing: An ISTQB-BCS certified tester foundation guide}
       \field{year}{2015}
       \verb{urlraw}
       \verb https://learning.oreilly.com/library/view/-/9781780172996/?ar
@@ -557,9 +555,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-531-18256-8}
-      \field{note}{Jäckle, Sebastian (author) Wolf, Frieder (author) Heindl, Andreas (author)}
-      \field{subtitle}{Ein Lehrbuch für fortgeschrittene Studierende der Politikwissenschaft}
-      \field{title}{Methodologie, Methoden, Forschungsdesign}
+      \field{title}{Methodologie, Methoden, Forschungsdesign: Ein Lehrbuch für fortgeschrittene Studierende der Politikwissenschaft}
       \field{year}{2015}
       \verb{doi}
       \verb 10.1007/978-3-531-18993-2
@@ -613,9 +609,6 @@
            given={Mohamed},
            giveni={M\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {eng}%
-      }
       \list{location}{1}{%
         {Shelter Island, New York}%
       }
@@ -634,10 +627,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Intro -- inside front cover -- Pipeline as Code -- Copyright -- brief contents -- contents -- front matter -- preface -- acknowledgments -- about this book -- Who should read this book -- How this book is organized -- About the code -- liveBook discussion forum -- Other online resources -- about the author -- about the cover illustration -- Part 1. Getting started with Jenkins -- 1 What's CI/CD? -- 1.1 Going cloud native -- 1.1.1 Monolithic -- 1.1.2 Microservices -- 1.1.3 Cloud native -- 1.1.4 Serverless -- 1.2 Defining continuous integration -- 1.3 Defining continuous deployment -- 1.4 Defining continuous delivery -- 1.5 Embracing CI/CD practices -- 1.6 Using essential CI/CD tools -- 1.6.1 Choosing a CI/CD tool -- 1.6.2 Introducing Jenkins -- Summary -- 2 Pipeline as code with Jenkins -- 2.1 Introducing the Jenkinsfile -- 2.1.1 Blue Ocean plugin -- 2.1.2 Scripted pipeline -- 2.1.3 Declarative pipeline -- 2.2 Understanding multibranch pipelines -- 2.3 Exploring the GitFlow branch model -- 2.4 Test-driven development with Jenkins -- 2.4.1 The Jenkins Replay button -- 2.4.2 Command-line pipeline linter -- 2.4.3 IDE integrations -- Summary -- Part 2. Operating a self-healing Jenkins cluster -- 3 Defining Jenkins architecture -- 3.1 Understanding master-worker architecture -- 3.2 Managing Jenkins workers -- 3.2.1 SSH -- 3.2.2 Command line -- 3.2.3 JNLP -- 3.2.4 Windows service -- 3.3 Architecting Jenkins for scale in AWS -- 3.3.1 Preparing the AWS environment -- 3.3.2 Configuring the AWS CLI -- 3.3.3 Creating and managing the IAM user -- Summary -- 4 Baking machine images with Packer -- 4.1 Immutable infrastructure -- 4.2 Introducing Packer -- 4.2.1 How does it work? -- 4.2.2 Installation and configuration -- 4.2.3 Baking a machine image -- 4.3 Baking the Jenkins master AMI -- 4.3.1 Configuring Jenkins upon startup.}
       \field{isbn}{9781638350378}
-      \field{note}{Labouardy, Mohamed (VerfasserIn) Labouardy, Mohamed, (author.)}
-      \field{pagetotal}{1333}
-      \field{subtitle}{Continuous delivery with Jenkins, Kubernetes, and Terraform}
-      \field{title}{Pipeline as code}
+      \field{title}{Pipeline as code: Continuous delivery with Jenkins, Kubernetes, and Terraform}
       \field{year}{2021}
       \verb{urlraw}
       \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6785307
@@ -659,9 +649,6 @@
            given={Matthew},
            giveni={M\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
       \list{location}{1}{%
         {Sebastopol, CA.}%
       }
@@ -681,9 +668,7 @@
       \field{abstract}{Get up to speed on Git for tracking, branching, merging, and managing code revisions. Through a series of step-by-step tutorials, this practical guide takes you quickly from Git fundamentals to advanced techniques, and provides friendly yet rigorous advice for navigating the many functions of this open source version control system.{<}/p{>} This thoroughly revised edition also includes tips for manipulating trees, extended coverage of the reflog and stash, and a complete introduction to the GitHub repository. Git lets you manage code development in a virtually endless variety of ways, once you understand how to harness the system's flexibility. This book shows you how.{<}/p{>}{<}ul{>}{<}li{>}Learn how to use Git for several real-world development scenarios{<}/li{>}{<}li{>}Gain insight into Git's common-use cases, initial tasks, and basic functions{<}/li{>}{<}li{>}Use the system for both centralized and distributed version control{<}/li{>}{<}li{>}Learn how to manage merges, conflicts, patches, and diffs{<}/li{>}{<}li{>}Apply advanced techniques such as rebasing, hooks, and ways to handle submodules{<}/li{>}{<}li{>}Interact with Subversion (SVN) repositories---including SVN to Git conversions{<}/li{>}{<}li{>}Navigate, use, and contribute to open source projects though GitHub{<}/li{>}{<}/ul{>}}
       \field{edition}{2nd ed.}
       \field{isbn}{9781449345051}
-      \field{pagetotal}{434}
-      \field{subtitle}{Powerful tools and techniques for collaborative software development}
-      \field{title}{Version control with git}
+      \field{title}{Version control with git: Powerful tools and techniques for collaborative software development}
       \field{year}{2012}
       \verb{file}
       \verb Loeliger, McCullough 2012 - Version control with git:Attachments/Loeliger, McCullough 2012 - Version control with git.pdf:application/pdf
@@ -715,8 +700,7 @@
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-540-79129-4}
       \field{series}{Xpert.press}
-      \field{subtitle}{Serviceorientierung bei dynamisch vernetzten Unternehmen}
-      \field{title}{Digitale Ökosysteme}
+      \field{title}{Digitale Ökosysteme: Serviceorientierung bei dynamisch vernetzten Unternehmen}
       \field{year}{2009}
       \verb{doi}
       \verb 10.1007/978-3-540-79130-0
@@ -781,8 +765,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Unit testing is an essential part of the software development process that helps you ensure the high quality of your product: it allows developers to check the performance of each unit and prevent possible problems in advance}
-      \field{subtitle}{Why Unit Testing is Important}
-      \field{title}{What is Unit Testing in Software}
+      \field{title}{What is Unit Testing in Software: Why Unit Testing is Important}
       \field{urlday}{8}
       \field{urlmonth}{3}
       \field{urlyear}{2023}
@@ -794,6 +777,47 @@
       \verb{url}
       \verb https://www.exposit.com/blog/what-unit-testing-software-testing-and-why-it-important/
       \endverb
+    \endentry
+    \entry{ProductManagerSAPHyperspaceCICD.}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=81956aa9fe503ca9583e37b360df6d30}{%
+           family={{Product Manager SAP Hyperspace CI/CD}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{81956aa9fe503ca9583e37b360df6d30}
+      \strng{fullhash}{81956aa9fe503ca9583e37b360df6d30}
+      \strng{bibnamehash}{81956aa9fe503ca9583e37b360df6d30}
+      \strng{editorbibnamehash}{81956aa9fe503ca9583e37b360df6d30}
+      \strng{editornamehash}{81956aa9fe503ca9583e37b360df6d30}
+      \strng{editorfullhash}{81956aa9fe503ca9583e37b360df6d30}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{24.03.2023}
+      \field{title}{Experteninterview 2}
+    \endentry
+    \entry{ProductOwnerSAPBTPProd&Infra.}{misc}{}
+      \name{editor}{2}{}{%
+        {{hash=86eca3a9e5f51bb623206677e788bf99}{%
+           family={{Product Owner SAP BTP Prod{\&}Infra}},
+           familyi={P\bibinitperiod}}}%
+        {{hash=bb18ec7d3ee03da6c38e2e191c37dd7a}{%
+           family={{Experte 1}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5be4c62cdd47c5c03a90cb10a90dde08}
+      \strng{fullhash}{5be4c62cdd47c5c03a90cb10a90dde08}
+      \strng{bibnamehash}{5be4c62cdd47c5c03a90cb10a90dde08}
+      \strng{editorbibnamehash}{5be4c62cdd47c5c03a90cb10a90dde08}
+      \strng{editornamehash}{5be4c62cdd47c5c03a90cb10a90dde08}
+      \strng{editorfullhash}{5be4c62cdd47c5c03a90cb10a90dde08}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{17.03.2023}
+      \field{title}{Experteninterview 1}
     \endentry
     \entry{Reinheimer.2018}{book}{}
       \name{author}{1}{}{%
@@ -823,8 +847,7 @@
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-658-20966-7}
       \field{series}{Edition HMD}
-      \field{subtitle}{Die Infrastruktur der Digitalisierung}
-      \field{title}{Cloud Computing}
+      \field{title}{Cloud Computing: Die Infrastruktur der Digitalisierung}
       \field{year}{2018}
       \verb{doi}
       \verb 10.1007/978-3-658-20967-4
@@ -855,7 +878,6 @@
       \field{journaltitle}{International Journal of Services Sciences}
       \field{number}{1}
       \field{pagination}{page}
-      \field{shortjournal}{IJSSCI}
       \field{title}{Decision making with the analytic hierarchy process}
       \field{volume}{1}
       \field{year}{2008}
@@ -924,14 +946,47 @@
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{subtitle}{How APIs, Microservices and Events are reshaping the next-gen Enterprises}
-      \field{title}{The Future is Composable:}
+      \field{title}{The Future is Composable: How APIs, Microservices and Events are reshaping the next-gen Enterprises}
       \field{year}{2020}
+      \field{dateera}{ce}
       \verb{urlraw}
       \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
       \endverb
       \verb{url}
       \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
+      \endverb
+    \endentry
+    \entry{.20230327}{online}{}
+      \name{author}{2}{}{%
+        {{hash=d83891c31f08f2dbbd6e9adac9e90f97}{%
+           family={Stevens},
+           familyi={S\bibinitperiod}}}%
+        {{hash=95af8bd03b651b7d3d1c376a442f20b4}{%
+           family={Harald},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{387ae91e20baa326efd16b96561d4d70}
+      \strng{fullhash}{387ae91e20baa326efd16b96561d4d70}
+      \strng{bibnamehash}{387ae91e20baa326efd16b96561d4d70}
+      \strng{authorbibnamehash}{387ae91e20baa326efd16b96561d4d70}
+      \strng{authornamehash}{387ae91e20baa326efd16b96561d4d70}
+      \strng{authorfullhash}{387ae91e20baa326efd16b96561d4d70}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Overview Many customers are confused which tools to use when it comes to transporting content in hybrid (cloud and on premise) landscapes. This blog describes our recommendations when to use SAP Cloud Platform}
+      \field{title}{Interplay of SAP Cloud Platform Transport Management, CTS+ and ChaRM in hybrid landscapes}
+      \field{urlday}{27}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2023-03-27}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://blogs.sap.com/2020/01/31/interplay-of-sap-cloud-platform-transport-management-cts-and-charm-in-hybrid-landscapes/
+      \endverb
+      \verb{url}
+      \verb https://blogs.sap.com/2020/01/31/interplay-of-sap-cloud-platform-transport-management-cts-and-charm-in-hybrid-landscapes/
       \endverb
     \endentry
     \entry{.20230201}{online}{}
@@ -962,6 +1017,25 @@
       \verb{url}
       \verb https://www.synopsys.com/glossary/what-is-cicd.html
       \endverb
+    \endentry
+    \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=2bab0ac1d40499ed4e0a946561ef9d14}{%
+           family={{Test Developer SAP Hyperspace Adoption {\&} Onboarding}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bab0ac1d40499ed4e0a946561ef9d14}
+      \strng{fullhash}{2bab0ac1d40499ed4e0a946561ef9d14}
+      \strng{bibnamehash}{2bab0ac1d40499ed4e0a946561ef9d14}
+      \strng{editorbibnamehash}{2bab0ac1d40499ed4e0a946561ef9d14}
+      \strng{editornamehash}{2bab0ac1d40499ed4e0a946561ef9d14}
+      \strng{editorfullhash}{2bab0ac1d40499ed4e0a946561ef9d14}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{22.03.2023}
+      \field{title}{Experteninterview 4}
     \endentry
     \entry{Ugochi.20220503}{online}{}
       \name{author}{1}{}{%
@@ -1026,7 +1100,6 @@
       \field{labeltitlesource}{title}
       \field{issn}{0019-8501}
       \field{journaltitle}{Industrial Marketing Management}
-      \field{note}{PII: 001985019290010Q}
       \field{number}{2}
       \field{pagination}{page}
       \field{title}{Time-to-market: Put speed in product development}
@@ -1051,9 +1124,6 @@
            familyi={V\bibinitperiod},
            given={Wolfgang},
            giveni={W\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {de}%
       }
       \list{publisher}{1}{%
         {Springer, Wiesbaden}%
@@ -1088,23 +1158,13 @@
       \verb https://link.springer.com/chapter/10.1007/978-3-658-08250-5_11
       \endverb
     \endentry
-    \entry{Vivenzio.2013}{collection}{}
+    \entry{Vivenzio.2013}{book}{}
       \name{editor}{1}{}{%
         {{hash=004016e4939d2b21e398ce55bdc5946f}{%
            family={Vivenzio},
            familyi={V\bibinitperiod},
            given={Alberto},
            giveni={A\bibinitperiod}}}%
-      }
-      \name{editora}{1}{}{%
-        {{hash=999ec6248ebf8e02da2a24914c179702}{%
-           family={Vivenzio},
-           familyi={V\bibinitperiod},
-           given={Domenico},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {ger}%
       }
       \list{location}{1}{%
         {Wiesbaden}%
@@ -1118,21 +1178,14 @@
       \strng{editorbibnamehash}{004016e4939d2b21e398ce55bdc5946f}
       \strng{editornamehash}{004016e4939d2b21e398ce55bdc5946f}
       \strng{editorfullhash}{004016e4939d2b21e398ce55bdc5946f}
-      \strng{editorabibnamehash}{999ec6248ebf8e02da2a24914c179702}
-      \strng{editoranamehash}{999ec6248ebf8e02da2a24914c179702}
-      \strng{editorafullhash}{999ec6248ebf8e02da2a24914c179702}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{abstract}{Dieses Fachbuch vermittelt die grundlegenden Kenntnisse des Testmanagements. Von der Strategie und Planung über die verschiedenen Teststufen bis zum Reporting und der Abnahme~geben die Autoren Ihnen einen detaillierten Überblick über das Testen von Software und bieten eine strukturierte Anleitung zum richtigen Testen. Zahlreiche Beispiele zeigen anhand von SAP Banking die Umsetzung und Besonderheiten in der Praxis. Intro -- Vorwort -- Danksagung -- Inhaltsverzeichnis -- 1 Testmanagement! Warum? -- 2 Vorgehensmodelle in der Softwareentwicklung -- 2.1 Vorbemerkungen -- 2.2 Das Wasserfall-Modell -- 2.3 Das V-Modell -- 2.4 RUP - Rational Unified Process -- 3 Teststufen -- 3.1 Komponententest -- 3.2 Integrationstest -- 3.3 Systemtest -- 3.4 Abnahmetest -- 3.5 Generalprobe -- 4 Testprozess -- 4.1 Vorbemerkungen -- 4.2 Die fünf Stufen des allgemeinen Testprozesses -- 4.2.1 Stufe 1: Testplanung und Testüberwachung -- 4.2.2 Stufe 2: Testanalyse und Testentwurf -- 4.2.3 Stufe 3: Testfallerstellung und Testdurchführung -- 4.2.4 Stufe 4: Testinterpretation und Bericht -- 4.2.5 Stufe 5: Beenden der Testaktivität -- 5 Teststrategie -- 5.1 Testziele -- 5.2 Testumfang -- 5.2.1 Testobjekt -- 5.2.2 Testgruppe -- 5.2.3 Testfälle -- 5.3 Testorganisation -- 5.3.1 Rollen und Aufgaben -- 5.3.2 Regelkommunikation -- 5.4 Reporting -- 5.4.1 Berichtswesen -- 5.4.2 Key Performance Indikatoren (KPI´s) im Testmanagement -- 5.5 Testplanung -- 5.5.1 Generischer Testplan -- 5.5.2 Planungsvolatilität -- 6 Testdokumentation -- 6.1 Nutzung von Standards -- 6.2 Der Testplan -- 6.2.1 Test Plan ID -- 6.2.2 Einführung und Referenzen -- 6.2.3 Testobjekte -- 6.2.4 Zu testende Funktionalitäten -- 6.2.5 Nicht zu testende Funktionalitäten -- 6.2.6 Teststrategie -- 6.2.7 Prüfkriterien der Testobjekte -- 6.2.8 Abbruchund Wiederaufnahmekriterien -- 6.2.9 Verfügbare Testdokumente -- 6.2.10 Testaufgaben -- 6.2.11 Ressourcenanforderungen -- 6.2.12 Verantwortlichkeiten -- 6.2.13 Personal und Schulungsbedarf -- 6.2.14 Zeitplan -- 6.2.15 Risikoabschätzung und Möglichkeiten -- 6.2.16 Risiken und Funktionalitätshierarchie -- 6.2.17 Freigabe -- 6.3 Spezifikation des Testdesigns -- 6.4 Die Testfallbeschreibung -- 6.5 Spezifikation des Testablaufs -- 6.6 Konfigurationsbericht des Testobjektes -- 6.7 Der Testbericht.}
       \field{edition}{1st ed.}
-      \field{editoratype}{collaborator}
       \field{isbn}{978-3-8348-1623-8}
-      \field{note}{Vivenzio, Alberto (VerfasserIn) Vivenzio, Domenico (MitwirkendeR)}
-      \field{pagetotal}{1175}
-      \field{subtitle}{Erfolgreich Planen * Steuern * Reporten Bei der Einführung Von SAP-Banking}
-      \field{title}{Testmanagement Bei SAP-Projekten}
+      \field{title}{Testmanagement Bei SAP-Projekten: Erfolgreich Planen * Steuern * Reporten Bei der Einführung Von SAP-Banking}
       \field{year}{2013}
       \verb{doi}
       \verb 10.1007/978-3-8348-2142-3
@@ -1176,17 +1229,14 @@
       \field{labeltitlesource}{title}
       \field{bookpagination}{page}
       \field{booktitle}{2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)}
-      \field{eventtitle}{2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)}
       \field{isbn}{978-1-6654-2882-8}
       \field{title}{CI/CD Pipelines Evolution and Restructuring: A Qualitative and Quantitative Study}
-      \field{venue}{Luxembourg}
       \field{year}{9/27/2021 - 10/1/2021}
       \field{pages}{471\bibrangedash 482}
       \range{pages}{12}
       \verb{doi}
       \verb 10.1109/ICSME52107.2021.00048
       \endverb
-      \warn{\item Entry 'Zampetti.92720211012021' (bib/bibliography.bib): Invalid format '9/27/2021 - 10/1/2021' of date field 'eventdate' - ignoring}
     \endentry
   \enddatalist
 \endrefsection
