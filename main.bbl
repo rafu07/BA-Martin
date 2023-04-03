@@ -364,6 +364,25 @@
       \verb 10.1111/j.1745-493X.1993.tb00013.x
       \endverb
     \endentry
+    \entry{FullStackEntwicklerSAPDTSIntegration.}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=a916ca7695855626463b167caabe0da3}{%
+           family={{Full-Stack-Entwickler SAP DTS Integration}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a916ca7695855626463b167caabe0da3}
+      \strng{fullhash}{a916ca7695855626463b167caabe0da3}
+      \strng{bibnamehash}{a916ca7695855626463b167caabe0da3}
+      \strng{editorbibnamehash}{a916ca7695855626463b167caabe0da3}
+      \strng{editornamehash}{a916ca7695855626463b167caabe0da3}
+      \strng{editorfullhash}{a916ca7695855626463b167caabe0da3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{21.03.2023}
+      \field{title}{Expertengewichtung 2}
+    \endentry
     \entry{Gerson.2021}{book}{}
       \name{author}{2}{}{%
         {{hash=59be4f81e711f9638d8a45619e6e60b5}{%
@@ -778,6 +797,57 @@
       \verb https://www.exposit.com/blog/what-unit-testing-software-testing-and-why-it-important/
       \endverb
     \endentry
+    \entry{StackOverflow.20230403c}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{Posts containing 'azure pipelines' - Stack Overflow}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-03}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://stackoverflow.com/search?q=azure+Pipelines
+      \endverb
+      \verb{url}
+      \verb https://stackoverflow.com/search?q=azure+Pipelines
+      \endverb
+    \endentry
+    \entry{StackOverflow.20230403d}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{Posts containing 'jenkins' - Stack Overflow}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-03}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://stackoverflow.com/search?q=jenkins
+      \endverb
+      \verb{url}
+      \verb https://stackoverflow.com/search?q=jenkins
+      \endverb
+    \endentry
+    \entry{StackOverflow.20230403b}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{Posts containing 'sap ci/cd' - Stack Overflow}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-03}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://stackoverflow.com/search?q=SAP+ci%2FCD
+      \endverb
+      \verb{url}
+      \verb https://stackoverflow.com/search?q=SAP+ci%2FCD
+      \endverb
+    \endentry
     \entry{ProductManagerSAPHyperspaceCICD.}{misc}{}
       \name{editor}{1}{}{%
         {{hash=81956aa9fe503ca9583e37b360df6d30}{%
@@ -954,6 +1024,55 @@
       \endverb
       \verb{url}
       \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
+      \endverb
+    \endentry
+    \entry{SoftwareArchitektSAPDTSIntegration.}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=a73cab71c3c3d78064212e30b6a223e9}{%
+           family={{Software Architekt SAP DTS Integration}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a73cab71c3c3d78064212e30b6a223e9}
+      \strng{fullhash}{a73cab71c3c3d78064212e30b6a223e9}
+      \strng{bibnamehash}{a73cab71c3c3d78064212e30b6a223e9}
+      \strng{editorbibnamehash}{a73cab71c3c3d78064212e30b6a223e9}
+      \strng{editornamehash}{a73cab71c3c3d78064212e30b6a223e9}
+      \strng{editorfullhash}{a73cab71c3c3d78064212e30b6a223e9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{27.03.2023}
+      \field{title}{Expertengewichtung 1}
+    \endentry
+    \entry{StackOverflow.20230403}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=84d7dc19766c446f5e4084e8fce87f82}{%
+           family={{Stack Overflow}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{fullhash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{bibnamehash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{editorbibnamehash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{editornamehash}{84d7dc19766c446f5e4084e8fce87f82}
+      \strng{editorfullhash}{84d7dc19766c446f5e4084e8fce87f82}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Get insights on the world's developers from the largest and most comprehensive survey ever. Demographics. Technologies. Salaries. Career satisfaction.}
+      \field{title}{Stack Overflow Developer Survey 2020}
+      \field{urlday}{3}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://insights.stackoverflow.com/survey/2020
+      \endverb
+      \verb{url}
+      \verb https://insights.stackoverflow.com/survey/2020
       \endverb
     \endentry
     \entry{.20230327}{online}{}
