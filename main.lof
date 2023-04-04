@@ -4,7 +4,7 @@
 \contentsline {figure}{\numberline {3}{\ignorespaces Technische Realisierung der Composable-Enterprise-Architektur}}{5}{figure.caption.10}%
 \contentsline {figure}{\numberline {4}{\ignorespaces Exemplarische Abfolge eines agilen Entwicklungszykluses}}{7}{figure.caption.18}%
 \contentsline {figure}{\numberline {5}{\ignorespaces Zeitliche Darstellung der Herbeiführung von Kundennutzen bei der Entwicklung von IT-Services}}{10}{figure.caption.21}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Aktivitäten im CI/CD-Prozess}}{10}{figure.caption.23}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Aktivitäten im CI/CD-Prozess}}{11}{figure.caption.23}%
 \contentsline {figure}{\numberline {7}{\ignorespaces Versionskontrollsysteme zur Verwaltung von Quellcode}}{12}{figure.caption.25}%
 \contentsline {figure}{\numberline {8}{\ignorespaces Hierarschische Darstellung von Softwaretests}}{13}{figure.caption.27}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Strategien zur Bereitstellung von Software}}{17}{figure.caption.30}%
@@ -14,6 +14,7 @@
 \contentsline {figure}{\numberline {13}{\ignorespaces Bereitstellung von MTA-Applikationen in ein Artefakt-Repository}}{28}{figure.caption.34}%
 \contentsline {figure}{\numberline {14}{\ignorespaces Qualitative Bewertungsmetrik für AHP}}{33}{figure.caption.38}%
 \contentsline {figure}{\numberline {15}{\ignorespaces Quantitative Bewertungsmetrik für AHP}}{34}{figure.caption.39}%
-\contentsline {figure}{\numberline {16}{\ignorespaces SAP Cloud Transportmanagement}}{37}{figure.caption.42}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{38}{figure.caption.43}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{42}{figure.caption.44}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Gewichtungsfaktoren der AHP-Entscheidungskriterien}}{35}{figure.caption.40}%
+\contentsline {figure}{\numberline {17}{\ignorespaces SAP Cloud Transportmanagement}}{39}{figure.caption.43}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{40}{figure.caption.44}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{44}{figure.caption.45}%

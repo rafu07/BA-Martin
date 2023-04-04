@@ -59,6 +59,25 @@
       \verb https://kruschecompany.com/de/agile-softwareentwicklung/
       \endverb
     \endentry
+    \entry{BackendTestDeveloperSAPDTSIntegration.}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=eaca399cfe6d4770041d5dcab28eaf0a}{%
+           family={{Backend Test Developer SAP DTS Integration}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{eaca399cfe6d4770041d5dcab28eaf0a}
+      \strng{fullhash}{eaca399cfe6d4770041d5dcab28eaf0a}
+      \strng{bibnamehash}{eaca399cfe6d4770041d5dcab28eaf0a}
+      \strng{editorbibnamehash}{eaca399cfe6d4770041d5dcab28eaf0a}
+      \strng{editornamehash}{eaca399cfe6d4770041d5dcab28eaf0a}
+      \strng{editorfullhash}{eaca399cfe6d4770041d5dcab28eaf0a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{29.03.2023}
+      \field{title}{Expertengewichtung 4}
+    \endentry
     \entry{Qentelli.20230305}{online}{}
       \name{author}{2}{}{%
         {{hash=d02bddfe2018425ee1a8e77281470e2c}{%
@@ -363,6 +382,46 @@
       \verb{doi}
       \verb 10.1111/j.1745-493X.1993.tb00013.x
       \endverb
+    \endentry
+    \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.b}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=c369de64e83a41ce863718ad97787ffc}{%
+           family={{Frontend Test Developer SAP Hyperspace Adoption {\&} Onboarding}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{fullhash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{bibnamehash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{editorbibnamehash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{editornamehash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{editorfullhash}{c369de64e83a41ce863718ad97787ffc}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{22.03.2023}
+      \field{title}{Expertengewichtung 3}
+    \endentry
+    \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=c369de64e83a41ce863718ad97787ffc}{%
+           family={{Frontend Test Developer SAP Hyperspace Adoption {\&} Onboarding}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{fullhash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{bibnamehash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{editorbibnamehash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{editornamehash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{editorfullhash}{c369de64e83a41ce863718ad97787ffc}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{22.03.2023}
+      \field{title}{Experteninterview 4}
     \endentry
     \entry{FullStackEntwicklerSAPDTSIntegration.}{misc}{}
       \name{editor}{1}{}{%
@@ -848,6 +907,25 @@
       \verb https://stackoverflow.com/search?q=SAP+ci%2FCD
       \endverb
     \endentry
+    \entry{exp8}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=1f8a4ea3a06b46c3b9ac533224d3e81a}{%
+           family={{Product Management CLM}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
+      \strng{fullhash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
+      \strng{bibnamehash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
+      \strng{editorbibnamehash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
+      \strng{editornamehash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
+      \strng{editorfullhash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{29.03.2023}
+      \field{title}{Expertengewichtung 5}
+    \endentry
     \entry{ProductManagerSAPHyperspaceCICD.}{misc}{}
       \name{editor}{1}{}{%
         {{hash=81956aa9fe503ca9583e37b360df6d30}{%
@@ -1136,25 +1214,6 @@
       \verb{url}
       \verb https://www.synopsys.com/glossary/what-is-cicd.html
       \endverb
-    \endentry
-    \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.}{misc}{}
-      \name{editor}{1}{}{%
-        {{hash=2bab0ac1d40499ed4e0a946561ef9d14}{%
-           family={{Test Developer SAP Hyperspace Adoption {\&} Onboarding}},
-           familyi={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{2bab0ac1d40499ed4e0a946561ef9d14}
-      \strng{fullhash}{2bab0ac1d40499ed4e0a946561ef9d14}
-      \strng{bibnamehash}{2bab0ac1d40499ed4e0a946561ef9d14}
-      \strng{editorbibnamehash}{2bab0ac1d40499ed4e0a946561ef9d14}
-      \strng{editornamehash}{2bab0ac1d40499ed4e0a946561ef9d14}
-      \strng{editorfullhash}{2bab0ac1d40499ed4e0a946561ef9d14}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{note}{22.03.2023}
-      \field{title}{Experteninterview 4}
     \endentry
     \entry{Ugochi.20220503}{online}{}
       \name{author}{1}{}{%

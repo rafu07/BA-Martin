@@ -3,6 +3,7 @@
 \section{Grafiken}
 \newpage
 \section{Expertenmaterialien}
+\label{sec:Expertenmaterialien}
 \newpage
 
 \subsection{Experteninterview 1}
@@ -96,7 +97,7 @@
 \resetlinenumber
 \subsection{Experteninterview 4}
 	\begin{tabular}{ l l }
-		Interviewpartner: & Test Developer SAP Hyperspace Adoption \& Onboarding (Experte 4)\\
+		Interviewpartner: & Frontend Test Developer SAP Hyperspace Adoption \& Onboarding (Experte 4)\\
 		Datum: & 22.03.2023\\
 		Interview-Medium: & Microsoft-Teams\\
 \end{tabular}\\\\
@@ -355,7 +356,7 @@
             \textbf{Experte:} Aus meiner Sicht gibt es da kein wichtigeres Kriterium, da sowohl CI als auch CD im Hintergrund läuft. Somit ist es für mich jetzt nicht so wichtig, falls eine der beiden Pipelines länger durchläuft.\\
             \textbf{Interviewer:} Warum ist für dich der administrative Support wichtiger als der Community-Support?\\
             \textbf{Experte:} Für mich ist es eben sehr wichtig, dass es eine gute Dokumentation gibt. So kann ich z.B. bevor ich eine Pipeline installiere schon abschätzen, wie gut bestimmte Aspekte funktioniere und bin da nicht davon abhängig, dass ich durch Community-Foren irgendwelche Workarounds bekomme. Außerdem ist es mir natürlich auch sher wichtig, dass die Lösung immer auf dem neusten Stand der Technik ist.\\
-            \textbf{Interviewer:} Sowohl Sicheheitsarchitektur als auch Authentifizierung- und Autorisierungskonzepte sind dir gleich wichtig. Kannst du das begründen?\\
+            \textbf{Interviewer:} Kannst du noch einmal deine Entscheidung zur Sicherheit begründen?\\
             \textbf{Experte:} Also es gehört natürlich einfach zur Developer-Experience dazu, wenn man bestimmte Authentifizierung- und Autorisierungskonzepte hat. Dann ist es natürlich aber auch schon wichtig, dass die Pipeline an sich sicher ist. Gerade die Pipeline bietet natürlich eine sehr gute Möglichkeit feindliche Programme in eine Produktionsumgebung einzuführen.\\
     \end{linenumbers}
     
@@ -405,7 +406,7 @@
     \textbf{Interviewer:} Kannst du deine Entscheidungen zum Support begründen?\\
     \textbf{Experte:} Ich finde den Community-Support am wichtigsten. Dabei bekommt man den leichtesten Zugriff als Entwickler auf neues Wissen. Weniger geeignet fände ich, wenn ich jedes Mal mit jemanden telefonieren müsste oder immer ein neues Ticket aufmachen müsste. Weiterhin ist es sehr gut, wenn von einer Community Plug-ins bereitgestellt werden. Damit kann ich den Funktionsumfang erweitern. Jedoch besteht hier immer die Gefahr, dass Plug-ins Sicherheitslücken besitzen oder irgendwann nicht mehr richtig gewartet werden können.\\
     \textbf{Interviewer:} Wie sieht es mit dem Punkt der Sicherheit aus?\\
-    \textbf{Experte:} Ich finde das Authentifizierungs- und Autorisierungs-Konzept am wichtigsten, da dies auch mit der Developer-Experience zusammenhängt. Damit komme ich eben in meinem Entwickleralltag am meisten in Berührung. Wenn die Plattform bspw. SSO enabled ist, dann ist das für mich als Programmierer sehr gemütlich.\\ 
+    \textbf{Experte:} Ich finde das Authentifizierungs- und Autorisierungs-Konzept sehr wichtig, da dies mit der Developer-Experience zusammenhängt. Damit komme ich eben in meinem Entwickleralltag am meisten in Berührung. Wenn die Plattform bspw. SSO enabled ist, dann ist das für mich als Programmierer sehr gemütlich.\\ 
     \textbf{Interviewer:} Kannst du deine Entscheidung zur Benutzerfreundlichkeit begründen?\\
     \textbf{Experte:} Sowohl mit Wartung bzw. Installation und mit der gewöhnlichen Bedienbarkeit kommt man gelegentlich in Berührung. Das sollte deshalb beides einigermaßen gut funktionieren.\\
 \end{linenumbers}
@@ -447,12 +448,134 @@
     \textbf{Interviewer:} Warum ist für dich der administrative Support wichtiger als der Community-Support?\\
     \textbf{Experte:} Es ist viel wichtiger, dass man eine Community besitzt, welche Fragen beantworten kann. Dies ist eigentlich die einzige Möglichkeit sowas skalierbar zu machen. Man wird niemals ein Support-Team besitzen, was groß genug ist alle Fragen zu beantworten. Man könnte den administrativen Support also nicht gut skalieren.\\
     \textbf{Interviewer:} Im Kriterium der Funktionalität ist für dich besonders wichtig die Test- und Build-Funktionalität. Warum?\\
-    \textbf{Experte:} Test ist natürlich mein Hintergrund, da ich von dieser Seite her komme. Es ist für mich einfach wichtig, dass ich etwas ausliefere, was auch validiert ist. 
+    \textbf{Experte:} Test ist natürlich mein Hintergrund, da ich von dieser Seite her komme. Es ist für mich einfach wichtig, dass ich etwas ausliefere, was auch validiert ist.\\
     \textbf{Interviewer:} Warum ist für dich die Integration-Zeit wichtiger als die Delivery-Zeit?\\
     \textbf{Experte:} Es kann eben aus Entwicklersicht nicht sein, dass ich eine Änderung im Code mache und dann erst einmal eine halbe Stunde warten muss, bis ich Feedback bekomme. Da geht die Motivation im Team verloren. Und es stapeln sich einfach die Änderungen, bevor ich die Änderungen dann tatsächlich ausliefere.\\
-    \textbf{Interviewer:} Für sind sowohl Authentifizierung bzw. Autorisierung und die Sicherheitsarchitektur gleich wichtig. Kannst du das begründen?\\
+    \textbf{Interviewer:} Kannst du noch einmal deine Entscheidung begründen?\\
     \textbf{Experte:} Authentifizierung ist natürlich wichtig, damit nicht jemand unberechtigtes ein Deployment durchführen kann, welcher das eigentlich gar nicht sollte.\\
     \textbf{Interviewer:} Für dich war die Installation und Wartung weniger wichtig als die intuitive Bedienbarkeit?\\
     \textbf{Experte:} Installation und Wartung betrifft mich einmal beim Setup, während die intuitive Bedienbarkeit kontinuierlich wichtig ist.\\
 \end{linenumbers}
 
+
+
+\newpage
+\subsection{Expertengewichtung 4}
+        \begin{tabular}{ l l }
+    Interviewpartner: & Backend Test Developer SAP DTS Integration (Experte 7)\\
+    Datum: & 22.03.2023\\
+    Interview-Medium: & Microsoft-Teams\\
+\end{tabular}
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.6}{\includegraphics{Adams_1}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.7}{\includegraphics{Adams_2}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
+
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.7}{\includegraphics{Adams_3}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
+\newpage
+\resetlinenumber
+\begin{linenumbers}
+    \textbf{Interviewer:} Fangen wir mit dem Subkriterium Funktionalität an. Kannst du deine Entscheidungen bitte begründen.\\
+    \textbf{Experte:} Also für mich sind fast alle Funktionalitäten gleichgewichtig. Ich benötige alle diese Funktionalitäten, weil meine CI/CD-Pipeline sonst nicht sonderlich nützlich ist. Zu den Tests, der Hauptgrund der CI/CD-Pipeline ist es eigentlich Tests zu automatisieren. Ohne Build, Deploy und Release funktioniert meine Pipeline nicht. Ohne Monitoring kann ich nicht evaluieren, ob etwas fehlschlägt oder nicht. Code-Analysen sind hingegen bei Kundenprojekten oft nicht verpflichtend.\\
+    \textbf{Interviewer:} Machen wir mit den Integrationsmöglichkeiten weiter. Für dich waren sowohl die Integration in das Repository als auch in Planungssoftware wichtig. Warum?\\
+    \textbf{Experte:} Ich benötige auf jeden Fall mein Code für die Pipeline. Deswegen ist die Integration in das Repository eine essenzielle Funktionalität. Planungssoftware ist auch sehr wichtig, da das Business nicht in den Code reinschaut, sondern in eine Planungssoftware. In vielen Projekten, in den ich war werden, die Ergebnisse der Code-Analysen unmittelbar in der Planungssoftware angezeigt.\\
+    \textbf{Interviewer:} Für dich war die Integration-Zeit wichtiger als die Delivery-Zeit. Warum?\\
+    \textbf{Experte:} Die Integration-Zeit ist da einfach wichtig, um einen schnellen Feedback-Zyklus zu haben. Außerdem habe ich bereits in vielen Projekten gearbeitet, die ein Blue-Green-Deployment verwendet haben. So konnte nach Validierung lediglich auf eine neue Version umgeschaltet werden, wobei der Entwickler nicht durchgehend den Delivery-Prozess beobachten muss.\\ 
+    \textbf{Interviewer:} Warum ist für dich sowohl der Community-Support als auch der administrative Support gleichgewichtig?\\
+    \textbf{Experte:} Natürlich ist Community-Support sehr wichtig. Anderseits ist es so, dass es natürlich auch sehr wichtig eine gute Doku und Schulungsunterlagen zu besitzen. \\
+    \textbf{Interviewer:} Kannst du deine Entscheidung zur Benutzerfreundlichkeit begründen?\\
+    \textbf{Experte:} Eigentlich ist es so, dass man ein Pipeline-System einmal aufsetzt und dann nicht mehr. Was i.d.R. häufiger gemacht wird insbesondere in einer Composable-Enterprise-Architektur ist das Aufsetzen von Pipelines.\\
+    \textbf{Interviewer:} Noch einmal zu den Kriterien auf oberster Ebene. Warum ist dir die Sicherheit und die Funktionalität so wichtig?\\
+    \textbf{Experte:} Das Bereitstellen von Software schöpft Wert für das Unternehmen. Deswegen ist es einfach wichtig, dass keine in meine Pipelines eingreifen kann und diesen Prozess stören kann.\\
+    
+\end{linenumbers}
+
+
+\newpage
+\subsection{Expertengewichtung 5}
+        \begin{tabular}{ l l }
+    Interviewpartner: & Product Management CLM  (Experte 8)\\
+    Datum: & 22.03.2023\\
+    Interview-Medium: & Microsoft-Teams\\
+\end{tabular}
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.6}{\includegraphics{Adams_1}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.7}{\includegraphics{Adams_2}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
+
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.7}{\includegraphics{Adams_3}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
+\newpage
+\resetlinenumber
+\begin{linenumbers}
+    \textbf{Interviewer:} Fangen wir auf oberster Ebene an. Besonders wichtig war für die Integration. Warum?\\
+    \textbf{Experte:} Wir haben bei Kunden das Gefühl, dass diese möchten, dass die CI/CD-Tools in ihre Prozesse integrierbar sind. Da spielt es natürlich insbesondere eine sehr große Rolle, wo diese ihr Repository haben. Sicherheit kann dann natürlich auch ein K.O.-Kriterium sein. Wenn da keine angemessenen getroffen werden, kann das natürlich ein Grund sein eine Pipeline nicht zu wählen. \\
+    \textbf{Interviewer:} Machen wir mit dem Subkriterium Funktionalität weiter.\\
+    \textbf{Experte:} Der Build war für mich sehr wichtig. Das liegt einfach daran, dass man ohne den Build gar nicht erst weiter kommt. Natürlich ist der Hauptgrund von CI/CD-Pipelines automatisierte Tests durchzuführen, jedoch funktioniert das ohne den Build erst gar nicht. Es gibt einige Kunden die auch ganz stark auf Compliance achten, weswegen das schon auch gleichwertig wie die Test-Funktionalität ist. Was Deploy und Release angeht, es gibt auch einige Kunden die auch Sachen, dass sie darauf verzichten.\\
+    \textbf{Interviewer:} Kommen wir zur Integration. Für dich ist sehr wichtig die Integration in das Repository. Warum?\\
+    \textbf{Experte:} Ich denke, dass das Repository ziemlich eindeutig ist. Das gehört meiner Meinung nach zur Voraussetzung. Was die Planungssoftware angeht, haben die Kunden meistens isolierte Lösungen.\\ 
+    \textbf{Interviewer:} In der Kategorie der Performance war dir die Integration-Zeit wichtiger. Warum?\\
+    \textbf{Experte:} Meiner Erfahrung nach war es für die Kunden oft in Ordnung, wenn die Delivery-Zeit ein wenig länger dauert. Das liegt auch daran, dass vor dem Deploy noch oft manuelle Schritte gemacht werden.\\
+    \textbf{Interviewer:} Kannst du deine Entscheidung zum Support begründen?\\
+    \textbf{Experte:} Ich habe den administrativen Support jetzt höher gewertet, da ich die Erfahrung gemacht habe, dass Kunden sehr viel Wert auf die SLAs legen. So weiß der Kunde natürlich genau, dass er sich auch am Wochenende melden kann, wenn er ein Problem hat und dann auch entsprechend eine Antwort bekommt. \\
+    \textbf{Interviewer:} Kannst du auch noch deine Entscheidung zur Benutzerfreundlichkeit begründen.\\
+    \textbf{Experte:} Ich habe die Intuitive Bedienbarkeit und Installation und Wartung auf eine Wichtigkeitsstufe gesetzt. Zum einen ist es natürlich so, dass die intuitive Bedienbarkeit etwas ist, mit welchem man alltäglich zu tun hat. Aber gerade bezüglich des Wartens von komplexen Infrastrukturen, war es für viele Kunden der Grund sich dann letztendlich für eine SaaS-Lösung zu entscheiden.\\
+\end{linenumbers}
+
+
+
+\newpage
+\subsection{Expertengewichtung Durchschnitt}
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.6}{\includegraphics{Durchschnitt_1}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.7}{\includegraphics{Durchschnitt_2}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
+
+\begin{center}
+\begin{figure}[H]
+    \centering
+    \scalebox{0.7}{\includegraphics{Durchschnitt_3}}
+    \label{fig:CEA}
+\end{figure}	
+\end{center}
