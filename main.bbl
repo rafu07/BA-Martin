@@ -442,6 +442,41 @@
       \field{note}{21.03.2023}
       \field{title}{Expertengewichtung 2}
     \endentry
+    \entry{Galer.20221019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2bed919074f1b74ff227f73031f7cf31}{%
+           family={Galer},
+           familyi={G\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bed919074f1b74ff227f73031f7cf31}
+      \strng{fullhash}{2bed919074f1b74ff227f73031f7cf31}
+      \strng{bibnamehash}{2bed919074f1b74ff227f73031f7cf31}
+      \strng{authorbibnamehash}{2bed919074f1b74ff227f73031f7cf31}
+      \strng{authornamehash}{2bed919074f1b74ff227f73031f7cf31}
+      \strng{authorfullhash}{2bed919074f1b74ff227f73031f7cf31}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Composable business is the future for cloud ERP software, promising faster innovation for stronger resilience against market disruptions.}
+      \field{title}{Disrupted ERP Systems Rise to Reckoning in the Cloud}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Galer 2022-10-19 - Disrupted ERP Systems Rise:Attachments/Galer 2022-10-19 - Disrupted ERP Systems Rise.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://news.sap.com/2022/10/composable-business-for-disrupted-erp-systems/
+      \endverb
+      \verb{url}
+      \verb https://news.sap.com/2022/10/composable-business-for-disrupted-erp-systems/
+      \endverb
+    \endentry
     \entry{Gerson.2021}{book}{}
       \name{author}{2}{}{%
         {{hash=59be4f81e711f9638d8a45619e6e60b5}{%
@@ -814,6 +849,38 @@
       \endverb
       \verb{url}
       \verb https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design
+      \endverb
+    \endentry
+    \entry{Gartner.20230408}{online}{}
+      \name{author}{1}{}{%
+        {{hash=32391bae3d340062157ba096e75c0c86}{%
+           family={Panetta},
+           familyi={P\bibinitperiod},
+           given={Kasey},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{32391bae3d340062157ba096e75c0c86}
+      \strng{fullhash}{32391bae3d340062157ba096e75c0c86}
+      \strng{bibnamehash}{32391bae3d340062157ba096e75c0c86}
+      \strng{authorbibnamehash}{32391bae3d340062157ba096e75c0c86}
+      \strng{authornamehash}{32391bae3d340062157ba096e75c0c86}
+      \strng{authorfullhash}{32391bae3d340062157ba096e75c0c86}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Among the top strategic predictions for 2022 and beyond are synthetic data, NFTs, composable business and agile development --- and customer breakups.}
+      \field{title}{Top 10 Strategic Predictions for 2022 and Beyond}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gartner.com/en/articles/you-ll-be-breaking-up-with-bad-customers-and-9-other-predictions-for-2022-and-beyond
+      \endverb
+      \verb{url}
+      \verb https://www.gartner.com/en/articles/you-ll-be-breaking-up-with-bad-customers-and-9-other-predictions-for-2022-and-beyond
       \endverb
     \endentry
     \entry{Exposit.2021}{online}{}

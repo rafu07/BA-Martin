@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  4 APR 2023 19:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  8 APR 2023 16:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1075,7 +1075,7 @@ File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 LaTeX Warning: Label `fig:AHP_B' multiply defined.
 
-) (text/chapter4.aux) (text/chapter5.aux)
+) (text/chapter4.aux) (text/chapter5.aux) (text/chapter6.aux)
 
 LaTeX Warning: Label `fig:CEA' multiply defined.
 
@@ -1335,43 +1335,70 @@ LaTeX Warning: Hyper reference `acro:CE' on page V undefined on input line 16.
 LaTeX Warning: Hyper reference `acro:CE' on page V undefined on input line 16.
 
 
-LaTeX Warning: Hyper reference `acro:ERP' on page V undefined on input line 34.
+LaTeX Warning: Hyper reference `acro:AHP' on page V undefined on input line 26.
 
 
-LaTeX Warning: Hyper reference `acro:ERP' on page V undefined on input line 34.
+LaTeX Warning: Hyper reference `acro:AHP' on page V undefined on input line 26.
 
 
-LaTeX Warning: Hyper reference `acro:CRM' on page V undefined on input line 35.
+LaTeX Warning: Hyper reference `acro:ERP' on page V undefined on input line 35.
 
 
-LaTeX Warning: Hyper reference `acro:CRM' on page V undefined on input line 35.
+LaTeX Warning: Hyper reference `acro:ERP' on page V undefined on input line 35.
 
 
-LaTeX Warning: Hyper reference `acro:SSO' on page V undefined on input line 38.
+LaTeX Warning: Hyper reference `acro:CRM' on page V undefined on input line 36.
 
 
-LaTeX Warning: Hyper reference `acro:SSO' on page V undefined on input line 38.
+LaTeX Warning: Hyper reference `acro:CRM' on page V undefined on input line 36.
 
-) [5
 
-] (main.lof)
+LaTeX Warning: Hyper reference `acro:SSO' on page V undefined on input line 39.
+
+
+LaTeX Warning: Hyper reference `acro:SSO' on page V undefined on input line 39.
+
+
+LaTeX Warning: Hyper reference `acro:CIO' on page V undefined on input line 40.
+
+
+LaTeX Warning: Hyper reference `acro:CIO' on page V undefined on input line 40.
+
+[5
+
+]
+
+LaTeX Warning: Hyper reference `acro:SAP DTS' on page VI undefined on input line 41.
+
+
+LaTeX Warning: Hyper reference `acro:SAP DTS' on page VI undefined on input line 41.
+
+) [6] (main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [6
+ [7
 
 
 ] (main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- [7]
+ [8]
 \openout2 = `text/chapter1.aux'.
 
- (text/chapter1.tex) [1
+ (text/chapter1.tex [1
 
 
-]
+] [2]
+
+pdfTeX warning: pdflatex (file ./images//Aufbau.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images//Aufbau.pdf, id=416, 821.34857pt x 513.59879pt>
+File: images//Aufbau.pdf Graphic file (type pdf)
+<use images//Aufbau.pdf>
+Package pdftex.def Info: images//Aufbau.pdf  used on input line 20.
+(pdftex.def)             Requested size: 821.34657pt x 513.59753pt.
+) [3 <./images//Aufbau.pdf>]
 \openout2 = `text/chapter2.aux'.
 
  (text/chapter2.tex
@@ -1380,29 +1407,29 @@ although it is yet undefined on input line 7.
 
 
 pdfTeX warning: pdflatex (file ./images//CEA.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CEA.pdf, id=387, 1081.1592pt x 654.40488pt>
+<images//CEA.pdf, id=436, 1081.1592pt x 654.40488pt>
 File: images//CEA.pdf Graphic file (type pdf)
 <use images//CEA.pdf>
 Package pdftex.def Info: images//CEA.pdf  used on input line 11.
 (pdftex.def)             Requested size: 1081.15656pt x 654.40327pt.
 Package acronym Info: Label `acro:PBC' newly defined as it shall be overridden
 although it is yet undefined on input line 19.
-[2
+[4
 
 
 
  <./images//CEA.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//CERP.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CERP.pdf, id=418, 878.32138pt x 458.07133pt>
+<images//CERP.pdf, id=465, 878.32138pt x 458.07133pt>
 File: images//CERP.pdf Graphic file (type pdf)
 <use images//CERP.pdf>
 Package pdftex.def Info: images//CERP.pdf  used on input line 23.
 (pdftex.def)             Requested size: 878.31924pt x 458.0702pt.
-[3 <./images//CERP.pdf>] [4]
+[5 <./images//CERP.pdf>] [6]
 
 pdfTeX warning: pdflatex (file ./images//CEA_K.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CEA_K.pdf, id=448, 794.97pt x 614.295pt>
+<images//CEA_K.pdf, id=496, 794.97pt x 614.295pt>
 File: images//CEA_K.pdf Graphic file (type pdf)
 <use images//CEA_K.pdf>
 Package pdftex.def Info: images//CEA_K.pdf  used on input line 36.
@@ -1426,10 +1453,10 @@ Package acronym Info: Label `acro:PaaS' newly defined as it shall be overridden
 although it is yet undefined on input line 42.
 Package acronym Info: Label `acro:SAP BTP' newly defined as it shall be overridden
 although it is yet undefined on input line 42.
-[5 <./images//CEA_K.pdf>] [6]
+[7 <./images//CEA_K.pdf>] [8]
 
 pdfTeX warning: pdflatex (file ./images//Agile_Cycle.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Agile_Cycle.pdf, id=504, 805.20827pt x 156.585pt>
+<images//Agile_Cycle.pdf, id=551, 805.20827pt x 156.585pt>
 File: images//Agile_Cycle.pdf Graphic file (type pdf)
 <use images//Agile_Cycle.pdf>
 Package pdftex.def Info: images//Agile_Cycle.pdf  used on input line 51.
@@ -1438,10 +1465,10 @@ Package acronym Info: Label `acro:XP' newly defined as it shall be overridden
 although it is yet undefined on input line 58.
 Package acronym Info: Label `acro:DevOps' newly defined as it shall be overridden
 although it is yet undefined on input line 58.
-[7 <./images//Agile_Cycle.pdf>] [8] [9]
+[9 <./images//Agile_Cycle.pdf>] [10] [11]
 
 pdfTeX warning: pdflatex (file ./images//TTM.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//TTM.pdf, id=548, 794.97pt x 614.295pt>
+<images//TTM.pdf, id=596, 794.97pt x 614.295pt>
 File: images//TTM.pdf Graphic file (type pdf)
 <use images//TTM.pdf>
 Package pdftex.def Info: images//TTM.pdf  used on input line 64.
@@ -1451,18 +1478,18 @@ although it is yet undefined on input line 72.
 
 
 pdfTeX warning: pdflatex (file ./images//CICD_Cycle.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CICD_Cycle.pdf, id=552, 369.90193pt x 184.89075pt>
+<images//CICD_Cycle.pdf, id=600, 369.90193pt x 184.89075pt>
 File: images//CICD_Cycle.pdf Graphic file (type pdf)
 <use images//CICD_Cycle.pdf>
 Package pdftex.def Info: images//CICD_Cycle.pdf  used on input line 76.
 (pdftex.def)             Requested size: 369.90103pt x 184.89027pt.
-[10 <./images//TTM.pdf>]
+[12 <./images//TTM.pdf> <./images//CICD_Cycle.pdf>]
 Package acronym Info: Label `acro:DoD' newly defined as it shall be overridden
 although it is yet undefined on input line 84.
- [11 <./images//CICD_Cycle.pdf>]
+ [13]
 
 pdfTeX warning: pdflatex (file ./images//VCS.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//VCS.pdf, id=588, 540.5796pt x 219.09854pt>
+<images//VCS.pdf, id=635, 540.5796pt x 219.09854pt>
 File: images//VCS.pdf Graphic file (type pdf)
 <use images//VCS.pdf>
 Package pdftex.def Info: images//VCS.pdf  used on input line 88.
@@ -1474,60 +1501,61 @@ Overfull \hbox (5.67291pt too wide) in paragraph at lines 88--89
 
 Package acronym Info: Label `acro:MTA' newly defined as it shall be overridden
 although it is yet undefined on input line 94.
-[12 <./images//VCS.pdf>]
+
 
 pdfTeX warning: pdflatex (file ./images//Tests.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Tests.pdf, id=612, 341.35529pt x 227.6505pt>
+<images//Tests.pdf, id=639, 341.35529pt x 227.6505pt>
 File: images//Tests.pdf Graphic file (type pdf)
 <use images//Tests.pdf>
 Package pdftex.def Info: images//Tests.pdf  used on input line 98.
 (pdftex.def)             Requested size: 341.35443pt x 227.64993pt.
+[14 <./images//VCS.pdf>]
 Package acronym Info: Label `acro:E2E-Tests' newly defined as it shall be overridden
 although it is yet undefined on input line 104.
 Package acronym Info: Label `acro:SAP CI/CD' newly defined as it shall be overridden
 although it is yet undefined on input line 105.
-[13 <./images//Tests.pdf>] [14] [15] [16]
+ [15 <./images//Tests.pdf>] [16] [17] [18]
 
 pdfTeX warning: pdflatex (file ./images//Deployment_Strategies.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Deployment_Strategies.pdf, id=658, 794.97pt x 614.295pt>
+<images//Deployment_Strategies.pdf, id=705, 794.97pt x 614.295pt>
 File: images//Deployment_Strategies.pdf Graphic file (type pdf)
 <use images//Deployment_Strategies.pdf>
 Package pdftex.def Info: images//Deployment_Strategies.pdf  used on input line 113.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
-) [17 <./images//Deployment_Strategies.pdf>] [18]
+) [19 <./images//Deployment_Strategies.pdf>] [20]
 \openout2 = `text/chapter3.aux'.
 
- (text/chapter3.tex [19
+ (text/chapter3.tex [21
 
 
 
-] [20] [21]
+] [22] [23]
 
 pdfTeX warning: pdflatex (file ./images//AHP_B.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_B.pdf, id=709, 938.90778pt x 483.60674pt>
+<images//AHP_B.pdf, id=756, 426.75435pt x 625.85822pt>
 File: images//AHP_B.pdf Graphic file (type pdf)
 <use images//AHP_B.pdf>
 Package pdftex.def Info: images//AHP_B.pdf  used on input line 13.
-(pdftex.def)             Requested size: 938.90549pt x 483.60555pt.
-[22 <./images//AHP_B.pdf>]
+(pdftex.def)             Requested size: 426.75331pt x 625.85667pt.
+[24 <./images//AHP_B.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//AHP_H.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_H.pdf, id=727, 938.90778pt x 625.97867pt>
+<images//AHP_H.pdf, id=795, 938.90778pt x 625.97867pt>
 File: images//AHP_H.pdf Graphic file (type pdf)
 <use images//AHP_H.pdf>
 Package pdftex.def Info: images//AHP_H.pdf  used on input line 39.
 (pdftex.def)             Requested size: 938.90549pt x 625.97714pt.
-) [23 <./images//AHP_H.pdf>] [24]
+[25 <./images//AHP_H.pdf>]) [26]
 \openout2 = `text/chapter4.aux'.
 
- (text/chapter4.tex [25
+ (text/chapter4.tex [27
 
 
 
 ]
 
 pdfTeX warning: pdflatex (file ./images//AHP_E.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_E.pdf, id=753, 426.75435pt x 625.85822pt>
+<images//AHP_E.pdf, id=821, 426.75435pt x 625.85822pt>
 File: images//AHP_E.pdf Graphic file (type pdf)
 <use images//AHP_E.pdf>
 Package pdftex.def Info: images//AHP_E.pdf  used on input line 9.
@@ -1537,10 +1565,10 @@ Underfull \hbox (badness 2512) in paragraph at lines 10--10
 [][]|\OT1/lmr/m/n/12 AHP-Entscheidungsstruktur zur Be-wer-tung von CI/CD-
  []
 
-[26 <./images//AHP_E.pdf>] [27]
+[28 <./images//AHP_E.pdf>] [29]
 
 pdfTeX warning: pdflatex (file ./images//MTA.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//MTA.pdf, id=794, 1280.38347pt x 654.40488pt>
+<images//MTA.pdf, id=863, 1280.38347pt x 654.40488pt>
 File: images//MTA.pdf Graphic file (type pdf)
 <use images//MTA.pdf>
 Package pdftex.def Info: images//MTA.pdf  used on input line 22.
@@ -1556,10 +1584,10 @@ Package acronym Info: Label `acro:SAP BAS' newly defined as it shall be overridd
 although it is yet undefined on input line 32.
 Package acronym Info: Label `acro:TCO' newly defined as it shall be overridden
 although it is yet undefined on input line 34.
-[28 <./images//MTA.pdf>] [29] [30] [31] [32]
+[30 <./images//MTA.pdf>] [31] [32] [33] [34]
 
 pdfTeX warning: pdflatex (file ./images//Metrik.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Metrik.pdf, id=843, 707.5233pt x 257.2812pt>
+<images//Metrik.pdf, id=911, 707.5233pt x 257.2812pt>
 File: images//Metrik.pdf Graphic file (type pdf)
 <use images//Metrik.pdf>
 Package pdftex.def Info: images//Metrik.pdf  used on input line 47.
@@ -1567,348 +1595,395 @@ Package pdftex.def Info: images//Metrik.pdf  used on input line 47.
 
 
 pdfTeX warning: pdflatex (file ./images//metrik_qual.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//metrik_qual.pdf, id=844, 707.5233pt x 257.2812pt>
+<images//metrik_qual.pdf, id=912, 707.5233pt x 257.2812pt>
 File: images//metrik_qual.pdf Graphic file (type pdf)
 <use images//metrik_qual.pdf>
 Package pdftex.def Info: images//metrik_qual.pdf  used on input line 57.
 (pdftex.def)             Requested size: 707.52156pt x 257.28058pt.
-[33 <./images//Metrik.pdf>] [34 <./images//metrik_qual.pdf>]
+[35 <./images//Metrik.pdf>] [36 <./images//metrik_qual.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//AHP_G.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_G.pdf, id=878, 739.80388pt x 682.71057pt>
+<images//AHP_G.pdf, id=947, 739.80388pt x 625.73778pt>
 File: images//AHP_G.pdf Graphic file (type pdf)
 <use images//AHP_G.pdf>
 Package pdftex.def Info: images//AHP_G.pdf  used on input line 70.
-(pdftex.def)             Requested size: 739.80208pt x 682.7089pt.
-[35 <./images//AHP_G.pdf>]
+(pdftex.def)             Requested size: 739.80208pt x 625.73625pt.
+[37 <./images//AHP_G.pdf>]
 Package acronym Info: Label `acro:SAST' newly defined as it shall be overridden
 although it is yet undefined on input line 80.
 Package acronym Info: Label `acro:DAST' newly defined as it shall be overridden
 although it is yet undefined on input line 80.
- [36] [37]
+ [38] [39]
 
 pdfTeX warning: pdflatex (file ./images//CTM.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CTM.pdf, id=935, 1422.6349pt x 426.8748pt>
+<images//CTM.pdf, id=1003, 1422.6349pt x 426.8748pt>
 File: images//CTM.pdf Graphic file (type pdf)
 <use images//CTM.pdf>
 Package pdftex.def Info: images//CTM.pdf  used on input line 84.
 (pdftex.def)             Requested size: 1422.63144pt x 426.87375pt.
-[38]
+[40]
 
 pdfTeX warning: pdflatex (file ./images//kibana.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//kibana.pdf, id=942, 849.77472pt x 342.80069pt>
+<images//kibana.pdf, id=1010, 849.77472pt x 342.80069pt>
 File: images//kibana.pdf Graphic file (type pdf)
 <use images//kibana.pdf>
 Package pdftex.def Info: images//kibana.pdf  used on input line 94.
 (pdftex.def)             Requested size: 849.77264pt x 342.79984pt.
-[39 <./images//CTM.pdf>] [40 <./images//kibana.pdf>] [41] [42] [43]
+[41 <./images//CTM.pdf>] [42 <./images//kibana.pdf>] [43] [44]
+
+pdfTeX warning: pdflatex (file ./images//Szenario.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images//Szenario.pdf, id=1063, 1162.70384pt x 627.30362pt>
+File: images//Szenario.pdf Graphic file (type pdf)
+<use images//Szenario.pdf>
+Package pdftex.def Info: images//Szenario.pdf  used on input line 110.
+(pdftex.def)             Requested size: 1162.701pt x 627.30208pt.
+[45 <./images//Szenario.pdf>]
+
+pdfTeX warning: pdflatex (file ./images//Performance.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images//Performance.pdf, id=1104, 991.90576pt x 542.025pt>
+File: images//Performance.pdf Graphic file (type pdf)
+<use images//Performance.pdf>
+Package pdftex.def Info: images//Performance.pdf  used on input line 120.
+(pdftex.def)             Requested size: 991.90335pt x 542.02367pt.
+[46 <./images//Performance.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Modular.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Modular.pdf, id=1000, 597.432pt x 219.09854pt>
+<images//Modular.pdf, id=1126, 597.432pt x 219.09854pt>
 File: images//Modular.pdf Graphic file (type pdf)
 <use images//Modular.pdf>
-Package pdftex.def Info: images//Modular.pdf  used on input line 109.
+Package pdftex.def Info: images//Modular.pdf  used on input line 130.
 (pdftex.def)             Requested size: 597.43054pt x 219.09799pt.
-[44 <./images//Modular.pdf>] [45] [46] [47]) [48]
+[47 <./images//Modular.pdf>] [48] [49] [50]
+
+pdfTeX warning: pdflatex (file ./images//Ergebnis.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images//Ergebnis.pdf, id=1167, 853.50871pt x 654.16393pt>
+File: images//Ergebnis.pdf Graphic file (type pdf)
+<use images//Ergebnis.pdf>
+Package pdftex.def Info: images//Ergebnis.pdf  used on input line 142.
+(pdftex.def)             Requested size: 853.50664pt x 654.16232pt.
+[51]) [52 <./images//Ergebnis.pdf>]
 \openout2 = `text/chapter5.aux'.
 
- (text/chapter5.tex) [49
+ (text/chapter5.tex) [53
 
 
 
 ]
-Overfull \hbox (33.29901pt too wide) in paragraph at lines 93--93
+\openout2 = `text/chapter6.aux'.
+
+ (text/chapter6.tex) [54
+
+
+
+]
+Overfull \hbox (33.29901pt too wide) in paragraph at lines 98--98
 []\OT1/lmr/m/n/12 Full-Stack-Entwickler SAP DTS In-te-gra-ti-on, Hrsg. \OT1/lmr/m/it/12 Ex-per-ten-ge-wich-tung 2\OT1/lmr/m/n/12 . 21.03.2023. 
  []
 
-[8
+[9
 
 
 
-] [9]
-Overfull \hbox (58.04218pt too wide) in paragraph at lines 93--93
+] [10]
+Overfull \hbox (58.04218pt too wide) in paragraph at lines 98--98
 \OT1/lmr/m/it/12 Events are res-ha-ping the next-gen En-ter-pri-ses\OT1/lmr/m/n/12 . 2020. \OT1/lmr/m/sc/12 url\OT1/lmr/m/n/12 : []$https : / / f . hubspotusercontent30 .
  []
 
-[10] [11]
-Overfull \hbox (26.42084pt too wide) in paragraph at lines 94--94
+[11] [12]
+Overfull \hbox (26.42084pt too wide) in paragraph at lines 99--99
 []\OT1/lmr/m/n/12 J[]org Sch[]onenstein. \OT1/lmr/m/it/12 Composable-Business und -Commerce durch MACH-Architektur\OT1/lmr/m/n/12 .
  []
 
-[12] [13] (text/appendix.tex [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 10--15
+[13] [14] [15] (text/appendix.tex [16]
+<images//J_RiskService.jpg, id=1339, 558.28575pt x 187.29974pt>
+File: images//J_RiskService.jpg Graphic file (type jpg)
+<use images//J_RiskService.jpg>
+Package pdftex.def Info: images//J_RiskService.jpg  used on input line 7.
+(pdftex.def)             Requested size: 558.28438pt x 187.29927pt.
+<images//J_SupplierService.jpg, id=1340, 517.935pt x 177.66376pt>
+File: images//J_SupplierService.jpg Graphic file (type jpg)
+<use images//J_SupplierService.jpg>
+Package pdftex.def Info: images//J_SupplierService.jpg  used on input line 16.
+(pdftex.def)             Requested size: 517.93372pt x 177.66331pt.
+<images//J_PlantService.jpg, id=1341, 537.207pt x 186.09525pt>
+File: images//J_PlantService.jpg Graphic file (type jpg)
+<use images//J_PlantService.jpg>
+Package pdftex.def Info: images//J_PlantService.jpg  used on input line 24.
+(pdftex.def)             Requested size: 537.20569pt x 186.09477pt.
+ [17 <./images//J_RiskService.jpg> <./images//J_SupplierService.jpg> <./images//J_PlantService.jpg>] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--15
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
 
  []
 
 
-Overfull \hbox (43.16344pt too wide) in paragraph at lines 17--45
+Overfull \hbox (43.16344pt too wide) in paragraph at lines 42--70
 \OT1/lmr/bx/n/12 Interviewer: \OT1/lmr/m/n/12 Gibt es in dem SAP CI/CD-Tool ir-gend-wel-che []Uberwachungsfunktionalit[]aten? 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--45
+Underfull \hbox (badness 10000) in paragraph at lines 42--70
 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 45.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 70.
 (C:\Users\I538951\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [17] [18] [19] [20]
-Underfull \hbox (badness 10000) in paragraph at lines 49--75
+) [20] [21] [22] [23]
+Underfull \hbox (badness 10000) in paragraph at lines 74--100
 
  []
 
-[21] [22] [23]
-Underfull \hbox (badness 10000) in paragraph at lines 79--84
+[24] [25] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 104--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--84
+Underfull \hbox (badness 10000) in paragraph at lines 104--109
 
  []
 
-[24] [25]
-Overfull \hbox (104.51813pt too wide) in paragraph at lines 99--104
+[27] [28]
+Overfull \hbox (104.51813pt too wide) in paragraph at lines 124--129
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--104
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--104
+Underfull \hbox (badness 10000) in paragraph at lines 124--129
 
  []
 
-[26] [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
-
- []
-
-[29]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-
- []
-
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
-
- []
-
-[31]
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
+[29] [30] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 [32]
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
-
- []
-
-
-Overfull \hbox (1.8533pt too wide) in paragraph at lines 248--248
- \OT1/lmr/m/n/12 onsm[]oglichkeiten| 
- []
-
-
-Overfull \hbox (1.8533pt too wide) in paragraph at lines 250--250
- \OT1/lmr/m/n/12 onsm[]oglichkeiten 
- []
-
-
-Overfull \hbox (1.8533pt too wide) in paragraph at lines 252--252
- \OT1/lmr/m/n/12 onsm[]oglichkeiten 
- []
-
-[33] [34]
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
 [35]
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
-[36] [37] [38]
+
+Overfull \hbox (1.8533pt too wide) in paragraph at lines 273--273
+ \OT1/lmr/m/n/12 onsm[]oglichkeiten| 
+ []
+
+
+Overfull \hbox (1.8533pt too wide) in paragraph at lines 275--275
+ \OT1/lmr/m/n/12 onsm[]oglichkeiten 
+ []
+
+
+Overfull \hbox (1.8533pt too wide) in paragraph at lines 277--277
+ \OT1/lmr/m/n/12 onsm[]oglichkeiten 
+ []
+
+[36] [37]
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+[39] [40] [41]
 
 pdfTeX warning: pdflatex (file ./images//Soelker_1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Soelker_1.pdf, id=1277, 597.55246pt x 845.07718pt>
+<images//Soelker_1.pdf, id=1461, 597.55246pt x 845.07718pt>
 File: images//Soelker_1.pdf Graphic file (type pdf)
 <use images//Soelker_1.pdf>
-Package pdftex.def Info: images//Soelker_1.pdf  used on input line 327.
+Package pdftex.def Info: images//Soelker_1.pdf  used on input line 352.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
 pdfTeX warning: pdflatex (file ./images//Soelker_2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Soelker_2.pdf, id=1278, 597.55246pt x 845.07718pt>
+<images//Soelker_2.pdf, id=1462, 597.55246pt x 845.07718pt>
 File: images//Soelker_2.pdf Graphic file (type pdf)
 <use images//Soelker_2.pdf>
-Package pdftex.def Info: images//Soelker_2.pdf  used on input line 334.
+Package pdftex.def Info: images//Soelker_2.pdf  used on input line 359.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[39 <./images//Soelker_1.pdf>]
+[42 <./images//Soelker_1.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Soelker_3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Soelker_3.pdf, id=1295, 597.55246pt x 845.07718pt>
+<images//Soelker_3.pdf, id=1479, 597.55246pt x 845.07718pt>
 File: images//Soelker_3.pdf Graphic file (type pdf)
 <use images//Soelker_3.pdf>
-Package pdftex.def Info: images//Soelker_3.pdf  used on input line 342.
+Package pdftex.def Info: images//Soelker_3.pdf  used on input line 367.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[40 <./images//Soelker_2.pdf>] [41 <./images//Soelker_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 349--361
+[43 <./images//Soelker_2.pdf>] [44 <./images//Soelker_3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 374--386
 
  []
 
-[42] [43]
-<images//Trump_1.pdf, id=1335, 597.55246pt x 845.07718pt>
+[45] [46]
+<images//Trump_1.pdf, id=1519, 597.55246pt x 845.07718pt>
 File: images//Trump_1.pdf Graphic file (type pdf)
 <use images//Trump_1.pdf>
-Package pdftex.def Info: images//Trump_1.pdf  used on input line 375.
+Package pdftex.def Info: images//Trump_1.pdf  used on input line 400.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-<images//Trump_2.pdf, id=1336, 597.55246pt x 845.07718pt>
+<images//Trump_2.pdf, id=1520, 597.55246pt x 845.07718pt>
 File: images//Trump_2.pdf Graphic file (type pdf)
 <use images//Trump_2.pdf>
-Package pdftex.def Info: images//Trump_2.pdf  used on input line 382.
+Package pdftex.def Info: images//Trump_2.pdf  used on input line 407.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [44 <./images//Trump_1.pdf>]
-<images//Trump_3.pdf, id=1351, 597.55246pt x 845.07718pt>
+ [47 <./images//Trump_1.pdf>]
+<images//Trump_3.pdf, id=1535, 597.55246pt x 845.07718pt>
 File: images//Trump_3.pdf Graphic file (type pdf)
 <use images//Trump_3.pdf>
-Package pdftex.def Info: images//Trump_3.pdf  used on input line 390.
+Package pdftex.def Info: images//Trump_3.pdf  used on input line 415.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [45 <./images//Trump_2.pdf>] [46 <./images//Trump_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 398--412
+ [48 <./images//Trump_2.pdf>] [49 <./images//Trump_3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 423--437
 
  []
 
-[47] [48]
-Overfull \hbox (54.41948pt too wide) in paragraph at lines 416--421
+[50] [51]
+Overfull \hbox (54.41948pt too wide) in paragraph at lines 441--446
 [] 
  []
 
 
 
 pdfTeX warning: pdflatex (file ./images//Bischoff_1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Bischoff_1.pdf, id=1387, 597.55246pt x 845.07718pt>
+<images//Bischoff_1.pdf, id=1571, 597.55246pt x 845.07718pt>
 File: images//Bischoff_1.pdf Graphic file (type pdf)
 <use images//Bischoff_1.pdf>
-Package pdftex.def Info: images//Bischoff_1.pdf  used on input line 424.
+Package pdftex.def Info: images//Bischoff_1.pdf  used on input line 449.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
 pdfTeX warning: pdflatex (file ./images//Bischoff_2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Bischoff_2.pdf, id=1388, 597.55246pt x 845.07718pt>
+<images//Bischoff_2.pdf, id=1572, 597.55246pt x 845.07718pt>
 File: images//Bischoff_2.pdf Graphic file (type pdf)
 <use images//Bischoff_2.pdf>
-Package pdftex.def Info: images//Bischoff_2.pdf  used on input line 431.
+Package pdftex.def Info: images//Bischoff_2.pdf  used on input line 456.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[49 <./images//Bischoff_1.pdf>]
+[52 <./images//Bischoff_1.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Bischoff_3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Bischoff_3.pdf, id=1405, 597.55246pt x 845.07718pt>
+<images//Bischoff_3.pdf, id=1589, 597.55246pt x 845.07718pt>
 File: images//Bischoff_3.pdf Graphic file (type pdf)
 <use images//Bischoff_3.pdf>
-Package pdftex.def Info: images//Bischoff_3.pdf  used on input line 439.
+Package pdftex.def Info: images//Bischoff_3.pdf  used on input line 464.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[50 <./images//Bischoff_2.pdf>] [51 <./images//Bischoff_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 446--458
+[53 <./images//Bischoff_2.pdf>] [54 <./images//Bischoff_3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 471--483
 
  []
 
-[52] [53]
+[55] [56]
 
 pdfTeX warning: pdflatex (file ./images//Adams_1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Adams_1.pdf, id=1444, 597.55246pt x 845.07718pt>
+<images//Adams_1.pdf, id=1629, 597.55246pt x 845.07718pt>
 File: images//Adams_1.pdf Graphic file (type pdf)
 <use images//Adams_1.pdf>
-Package pdftex.def Info: images//Adams_1.pdf  used on input line 472.
+Package pdftex.def Info: images//Adams_1.pdf  used on input line 497.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
 pdfTeX warning: pdflatex (file ./images//Adams_2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Adams_2.pdf, id=1445, 597.55246pt x 845.07718pt>
+<images//Adams_2.pdf, id=1630, 597.55246pt x 845.07718pt>
 File: images//Adams_2.pdf Graphic file (type pdf)
 <use images//Adams_2.pdf>
-Package pdftex.def Info: images//Adams_2.pdf  used on input line 479.
+Package pdftex.def Info: images//Adams_2.pdf  used on input line 504.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[54 <./images//Adams_1.pdf>]
+[57 <./images//Adams_1.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Adams_3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Adams_3.pdf, id=1463, 597.55246pt x 845.07718pt>
+<images//Adams_3.pdf, id=1647, 597.55246pt x 845.07718pt>
 File: images//Adams_3.pdf Graphic file (type pdf)
 <use images//Adams_3.pdf>
-Package pdftex.def Info: images//Adams_3.pdf  used on input line 487.
+Package pdftex.def Info: images//Adams_3.pdf  used on input line 512.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[55 <./images//Adams_2.pdf>] [56 <./images//Adams_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 494--506
+[58 <./images//Adams_2.pdf>] [59 <./images//Adams_3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 519--531
 
  []
 
-[57] [58]
+[60] [61]
 File: images//Adams_1.pdf Graphic file (type pdf)
 <use images//Adams_1.pdf>
-Package pdftex.def Info: images//Adams_1.pdf  used on input line 520.
+Package pdftex.def Info: images//Adams_1.pdf  used on input line 545.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: images//Adams_2.pdf Graphic file (type pdf)
 <use images//Adams_2.pdf>
-Package pdftex.def Info: images//Adams_2.pdf  used on input line 527.
+Package pdftex.def Info: images//Adams_2.pdf  used on input line 552.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [59]
+ [62]
 File: images//Adams_3.pdf Graphic file (type pdf)
 <use images//Adams_3.pdf>
-Package pdftex.def Info: images//Adams_3.pdf  used on input line 535.
+Package pdftex.def Info: images//Adams_3.pdf  used on input line 560.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [60] [61]
-Underfull \hbox (badness 10000) in paragraph at lines 542--554
+ [63] [64]
+Underfull \hbox (badness 10000) in paragraph at lines 567--579
 
  []
 
-[62] [63]
-<images//Durchschnitt_1.pdf, id=1526, 597.55246pt x 845.07718pt>
+[65] [66]
+<images//Durchschnitt_1.pdf, id=1710, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_1.pdf Graphic file (type pdf)
 <use images//Durchschnitt_1.pdf>
-Package pdftex.def Info: images//Durchschnitt_1.pdf  used on input line 563.
+Package pdftex.def Info: images//Durchschnitt_1.pdf  used on input line 588.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-<images//Durchschnitt_2.pdf, id=1527, 597.55246pt x 845.07718pt>
+<images//Durchschnitt_2.pdf, id=1711, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_2.pdf Graphic file (type pdf)
 <use images//Durchschnitt_2.pdf>
-Package pdftex.def Info: images//Durchschnitt_2.pdf  used on input line 570.
+Package pdftex.def Info: images//Durchschnitt_2.pdf  used on input line 595.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [64 <./images//Durchschnitt_1.pdf>]
-<images//Durchschnitt_3.pdf, id=1542, 597.55246pt x 845.07718pt>
+ [67 <./images//Durchschnitt_1.pdf>]
+<images//Durchschnitt_3.pdf, id=1727, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_3.pdf Graphic file (type pdf)
 <use images//Durchschnitt_3.pdf>
-Package pdftex.def Info: images//Durchschnitt_3.pdf  used on input line 578.
+Package pdftex.def Info: images//Durchschnitt_3.pdf  used on input line 603.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [65 <./images//Durchschnitt_2.pdf>]) [66 <./images//Durchschnitt_3.pdf>] (main.aux (template/titlepage.aux) (template/declaration.aux) (text/acronym.aux) (text/chapter1.aux) (text/chapter2.aux) (text/chapter3.aux) (text/chapter4.aux) (text/chapter5.aux))
+ [68 <./images//Durchschnitt_2.pdf>]) [69 <./images//Durchschnitt_3.pdf>] (main.aux (template/titlepage.aux) (template/declaration.aux) (text/acronym.aux) (text/chapter1.aux) (text/chapter2.aux) (text/chapter3.aux) (text/chapter4.aux) (text/chapter5.aux) (text/chapter6.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -1916,16 +1991,16 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3D08C1A39D29B432DE451673D5B50643;9726.
+(rerunfilecheck)             Checksum: D9433730238671209618CC8C7C56834B;10011.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36459 strings out of 475389
- 699330 string characters out of 2776057
- 1491469 words of memory out of 3000000
- 56885 multiletter control sequences out of 15000+600000
+ 36614 strings out of 475389
+ 703334 string characters out of 2776057
+ 1496190 words of memory out of 3000000
+ 57013 multiletter control sequences out of 15000+600000
  521013 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  105i,12n,107p,6795b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1933,9 +2008,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{APIs} has been referenced but does not exist, replaced by a fixed one
 
 {C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (115 pages, 2401671 bytes).
+Output written on main.pdf (123 pages, 2778396 bytes).
 PDF statistics:
- 1698 PDF objects out of 1728 (max. 8388607)
- 307 named destinations out of 1000 (max. 500000)
- 545 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1886 PDF objects out of 2073 (max. 8388607)
+ 327 named destinations out of 1000 (max. 500000)
+ 580 words of extra memory for PDF output out of 10000 (max. 10000000)
 
