@@ -76,7 +76,7 @@ Für Anwendungen auf einer kritischen IT-Infrastruktur wird i.d.R. die \textit{R
 \textbf{Interviewer:} Welche Pipelines werden denn so bei der SAP verwendet?\\
 \textbf{Experte:} Zum einen wird der von der SAP bereitgestellte CI/CD-Service verwendet. Des Weiteren gibt es Jenkins. Diese wird i.d.R. mit Project Piper verwendet. Die Jenkins muss dabei selbst gehostet werden. Für interne Projekte wird dafür das Jenkins-as-a-Service angeboten. Häufig wird für interne Projekte auch Azure DevOps verwendet.\\
 \textbf{Interviewer:} Welche Aspekte sind bei der Wahl eines CI/CD-Pipeline-Tools zu beachten?\\
-\textbf{Experte:} Zum einen wie viel Wissen habe ich denn jetzt schon. Da sollte evaluiert werden, ob man DevOps-Spezialisten hat die schon häufig Pipelines implementiert haben. Für Abteilungen welche keine DevOps-Spezialisten haben spielt die Benutzerfreundlichkeit eine große Rolle. Weiterhin ist wichtig zu wissen, wie flexibel man bei der Pipeline-Gestaltung sein will. Zudem muss natürlich auch evaluiert werden, welche Funktionalitäten also Tests, Code-Scans und Builds auf der Pipeline ausgeführt werden sollen. Zuletzt sollte dann was die Funktionalität angeht auch noch evaluiert werden auf welcher Plattform die Software bereitgestellt werden soll. Skalierbarkeit spielt dann auch noch eine wichtige Rolle. Da Jenkins selbst gehostet wird, hat das natürlich in diesem Aspekt einen großen Nachteil.\\ 
+\textbf{Experte:} Zum einen wie viel Wissen habe ich denn jetzt schon. Da sollte evaluiert werden, ob man DevOps-Spezialisten hat die schon häufig Pipelines implementiert haben. Für Abteilungen welche keine DevOps-Spezialisten haben spielt die Benutzerfreundlichkeit eine große Rolle. Da ist es zum einen wichtig, wie leicht sich die Tools warten lassen, aber auch wie leicht sich eine Pipeline implementieren lässt. Weiterhin ist wichtig zu wissen, wie flexibel man bei der Pipeline-Gestaltung sein will. Zudem muss natürlich auch evaluiert werden, welche Funktionalitäten also Tests, Code-Scans und Builds auf der Pipeline ausgeführt werden sollen. Zuletzt sollte dann was die Funktionalität angeht auch noch evaluiert werden auf welcher Plattform die Software bereitgestellt werden soll. Skalierbarkeit spielt dann auch noch eine wichtige Rolle. Horizontale Skalierbarkeit umschreibt in diesem Kontext, dass mehrere Build gleichzeitig durchgeführt werden können. Die vertikale Skalierbarkeit bedeutet, dass die Ressourcen einer Pipeline-Instanz flexibel angepasst werden können. Da Jenkins selbst gehostet wird, hat das natürlich in diesem Aspekt einen großen Nachteil. Für unsere Kunden spielt auch die Sicherheit eine wichtige Rolle. Diese ist essenziell, damit in die Produktionsumgebungen keine Maleware eingeschläust wird.\\ 
 \textbf{Interviewer:} Wie sieht es mit der Unterstützung von Tests aus?\\
 \textbf{Experte:} Es ist eigentlich fast alles auf dem SAP BTP CI/CD-Service möglich. Was bisher noch nicht wirklich funktioniert sind API-Tests.\\
 \textbf{Interviewer:} Wie sieht es mit den Integrationsmöglichkeiten aus. Worauf muss da geachtet werden?\\
@@ -110,7 +110,7 @@ Für Anwendungen auf einer kritischen IT-Infrastruktur wird i.d.R. die \textit{R
     \textbf{Interviewer:} Wie sind Pipelines aufgebaut?\\
     \textbf{Experte:} Also früher haben wir keine unterschiedlichen Pipelines für CI und CD verwendet. Da haben wir aber gesehen, dass das ziemlich problematisch ist. Wenn alles sequenziell ausgeführt wird und dann in der Mitte irgendwas abbricht, dann haben wir sehr viel Zeit verloren. Nun geht der Trend in Richtung Shift-Left. Die Pipelines werden somit deutlich verkleinert und somit bekommt man auch schneller Feedback.\\
     \textbf{Interviewer:} Welche Kriterien sollte man bei der Auswahl von Pipelines beachten.\\
-    \textbf{Experte:} Es kommt natürlich darauf an, welche Produktstandards vorgegeben sind. Wenn die Standards hoch sind, dann ist die Test-Funktionalität sehr wichtig. Dazu gehören dann, insbesondere Security-Checks, wie mit Fortify. Wenn du in sehr großen Entwicklungen bist, dann ist es natürlich auch sehr wichtig, dass die Pipeline eine gute Performance besitzt. Somit kann Software schneller bereitgestellt werden. Des Weiteren ist es essenziell, dass die CI/CD-Prozesse überwacht werden können. Gerade bei komplexen Systemen mit vielen Services ist das für DevvOps-Engineers oft die einzige Möglichkeit die Prozesse nachhaltig zu überblicken. Dann ist natürlich auch wichtig, wie gut sich die Pipeline in die Infrastruktur integrieren. Bei dieser Integration ist dann auch wichtig, ob alle Sicherheitsstandards eingehalten werden.\\
+    \textbf{Experte:} Es kommt natürlich darauf an, welche Produktstandards vorgegeben sind. Wenn die Standards hoch sind, dann ist die Test-Funktionalität sehr wichtig. Dazu gehören dann, insbesondere Security-Checks, wie mit Fortify. Wenn du in sehr großen Entwicklungen bist, dann ist es natürlich auch sehr wichtig, dass die Pipeline eine gute Performance besitzt. Somit kann Software schneller bereitgestellt werden. Des Weiteren ist es essenziell, dass die CI/CD-Prozesse überwacht werden können. Gerade bei komplexen Systemen mit vielen Services ist das für DevOps-Engineers oft die einzige Möglichkeit die Prozesse nachhaltig zu überblicken. Dann ist natürlich auch wichtig, wie gut sich die Pipeline in die Infrastruktur integrieren. Bei dieser Integration ist dann auch wichtig, ob alle Sicherheitsstandards eingehalten werden. Insbesondere für kleinere Kunden ist es natürlich auch essenziell, wie viel die Pipeline kostet. Für viele Kunden ist darüber hinaus der Support wichtig. Es sollten dabei kontinierliche Updates, Schulungsmaterial sowie wie eine gute Dokumentation verfügbar sein. Außerdem ist es für Entwickler immer vorteilhaft, wenn für die Tools eine große Community existiert.\\
     \textbf{Interviewer:} Mit welchen Pipelines hattest du bisher Erfahrung?\\
     \textbf{Experte:} Mit Azure DevOps habe ich bisher noch keine Erfahrung gemacht. In meinem jetzigen Team arbeite ich mit dem Jenkins-as-a-Service. In meinem vorherigen Team habe ich auch Erfahrung mit dem SAP BTP CI/CD-Service gemacht. Ursprünglich wurde das Projekt Piper für Jenkins nur für interne Projekte genutzt. Mittlerweile wurde die Bibliothek als Open-Source veröffentlicht. Für interne Projekte darf der SAP BTP CI/CD aufgrund der derzeitigen Produktstandards nicht verwendet werden. Dieser wird eigentlich nur für Kunden angeboten. Das SAP CI/CD-Tool lohnt sich insbesondere für Kunden, die noch nicht viel DevOps-Expertise besitzen und auch keine teure Infrastruktur betreiben wollen.\\
     \textbf{Interviewer:} Ist in dem CI/CD-Service von der SAP schon der Preis für Tools wie SonarQube mit einberechnet?\\
@@ -171,7 +171,7 @@ Für Anwendungen auf einer kritischen IT-Infrastruktur wird i.d.R. die \textit{R
     \textbf{Interviewer:} Werden denn immer alle Tests ausgeführt?\\
     \textbf{Experte:} Also bei einer Pull-Request-Pipeline sollten auf jeden Fall die Unit- und Integration-Tests laufen. Die System-Tests werden dann z.B. einmal am Tag ausgeführt. Manche Teams verwenden auch eine parallele Ausführung von Tests und führen dann eben verschiedene Szenarien gleichzeitig durch. Das läuft dann i.d.R. schneller und dann können solche Tests auch beim Pull-Request ausgeführt werden. Gerade die Compliance und Accessibility-Tests werden dann eher in der Delivery-Pipeline durchgeführt.\\
     \textbf{Interviewer:} Auf welche Integrationsaspekte muss geachtet werden?\\
-    \textbf{Experte:} In den bisherigen Projekten, in welchen ich gearbeitet habe, wurde die Auswahl einer CI/CD-Pipeline immer sehr stark von dem Repository abhängig gemacht. Die Repositorys, welche von Kunden dabei besonders oft verwendet werden sind GitHub, GitLab und BitBucket.\\ 
+    \textbf{Experte:} In den bisherigen Projekten, in welchen ich gearbeitet habe, wurde die Auswahl einer CI/CD-Pipeline immer sehr stark von dem Repository abhängig gemacht. Die Repositorys, welche von Kunden dabei besonders oft verwendet werden sind GitHub, GitLab und BitBucket. Was auch aber eher selten in Kundenprojekten beachtet wird, ist die Integrierbarkeit in Projektmanagement-Tools. Häufig wird dabei Jira verwendet, aber i.d.R. machen die Kunden die Wahl einer CI/CD-Pipeline nicht von der Unterstützung eines spezifischen Tools abhängig. Um einen Überblick über die Bereitstellungsprozesse zu erhalten, müssen Experten somit nicht in den Code schauen, sondern haben alles in einem zentralen Tool.\\ 
     \textbf{Interviewer:} Wie wird der Entwickler über den Erfolg der Tests informiert?\\
     \textbf{Experte:} Da gibt es unterschiedliche Verfahrensweisen. Es gibt da dann z.B. verschiedene Monitoring-Tools in der CI/CD-Pipeline. Ein anderer Weg ist, wenn man die CI/CD-Pipeline über APIs in das Repository integriert. Was auch häufig gemacht wird ist, dass man die Pipelines in den SAP Alert Service integriert, sodass Entwickler dann entsprechend Nachrichten über Mail oder Slack bekommen.
 \end{linenumbers}
@@ -281,7 +281,7 @@ Für Anwendungen auf einer kritischen IT-Infrastruktur wird i.d.R. die \textit{R
         \hline
         Aussage & Kodierung & Experte & Zeilennummer\\
         \hline
-        \enquote{Für Abteilungen welche keine DevOps-Spezialisten haben spielt die Benutzerfreundlichkeit eine große Rolle. } & Benutzerfreundlichkeit & Experte 1 & 63 ff. \\
+        \enquote{Für Abteilungen welche keine DevOps-Spezialisten haben spielt die Benutzerfreundlichkeit eine große Rolle. Da ist es zum einen wichtig, wie leicht sich die Tools warten lassen, aber auch wie leicht sich eine Pipeline implementieren lässt. } & Intuitive Bedienbarkeit und Installation und Wartung & Experte 1 & 63 ff. \\
         \hline
         \hline
         \enquote{Weiterhin ist wichtig zu wissen, wie flexibel man bei der Pipeline-Gestaltung sein will.}& Flexibilität & Experte 1 & 65 ff. \\
@@ -298,10 +298,21 @@ Für Anwendungen auf einer kritischen IT-Infrastruktur wird i.d.R. die \textit{R
         \hline
         \enquote{Sehr selten wird eine CI/CD-Pipeline auch in die Entwicklungsumgebung integriert.} & Integrationsmöglichkeiten von Entwicklungsumgebung & Experte 1 & 81 ff. \\
         \hline
+        \enquote{Was auch aber eher selten in Kundenprojekten beachtet wird, ist die Integrierbarkeit in Projektmanagement-Tools wie Jira.} & Integration in Planungstools & Experte 4 & 89 ff. \\
+        \hline
         \enquote{Wenn du in sehr großen Entwicklungen bist, dann ist es natürlich auch sehr wichtig, dass die Pipeline eine gute Performance besitzt.} & Performance & Experte 2 & 36 ff. \\
         \hline
         \enquote{Des Weiteren ist es essenziell, dass die CI/CD-Prozesse überwacht werden können. } & Monitoring & Experte 2 & 37 ff. \\
         \hline
+        \enquote{Insbesondere für kleinere Kunden ist es natürlich auch essenziell, wie viel die Pipeline kostet.} & Kosten & Experte 2 & 43 ff. \\
+        \hline
+        \enquote{ Für viele Kunden ist darüber hinaus der Support wichtig. Es sollten dabei kontinierliche Updates, Schulungsmaterial sowie wie eine gute Dokumentation verfügbar sein.} & Administrativer Support & Experte 2 & 44 ff. \\
+        \hline
+        \enquote{Außerdem ist es für Entwickler immer vorteilhaft, wenn für die Tools eine große Community existiert.} & Administrativer Support & Experte 2 & 45 ff. \\
+        \hline
+        \enquote{Für unsere Kunden spielt auch die Sicherheit eine wichtige Rolle.} & Sicherheit & Experte 1 & 75 ff. \\
+        \hline
+        
         \end{longtable}
 
         \underline{SAP BTP CI/CD-Service}\\
@@ -365,6 +376,7 @@ Für Anwendungen auf einer kritischen IT-Infrastruktur wird i.d.R. die \textit{R
 
         \newpage
         \subsection{Expertengewichtung 1}
+        \label{sec:Expertengewichtung}
                 \begin{tabular}{ l l }
             Interviewpartner: & Software Architekt SAP DTS Integration (Experte 5)\\
             Datum: & 27.03.2023\\

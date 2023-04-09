@@ -23,12 +23,12 @@
 \contentsline {section}{\numberline {4}Evaluation der Integrations- und Bereitstellungs-Pipelines unter Anwendung des Analytischen Hierarchieprozesses}{25}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Definition der Entscheidungskriterien}{25}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Festlegung der Bewertungsmetriken}{32}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Ermittlung der Gewichtungsfaktoren}{33}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Ermittlung der Gewichtungsfaktoren}{34}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Bewertung der Entscheidungsalternativen}{35}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Entwicklung einer ganzheitlichen Bereitstellungsstrategie}{50}{section.5}%
-\contentsline {section}{\numberline {6}Schlussbetrachtung}{51}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Fazit und kritische Reflexion}{51}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Ausblick auf zukünftige Entwicklungen}{51}{subsection.6.2}%
+\contentsline {section}{\numberline {5}Entwicklung einer ganzheitlichen Bereitstellungsstrategie}{51}{section.5}%
+\contentsline {section}{\numberline {6}Schlussbetrachtung}{52}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Fazit und kritische Reflexion}{52}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Ausblick auf zukünftige Entwicklungen}{52}{subsection.6.2}%
 \contentsline {section}{Literaturverzeichnis}{IX}{subsection.6.2}%
 \contentsline {section}{Anhang}{XV}{section*.52}%
 \etoc@depthtag {mtappendix}
@@ -42,9 +42,9 @@
 \contentsline {subsection}{\numberline {C.3}Experteninterview 3}{XXVIII}{subsection.a.C.3}%
 \contentsline {subsection}{\numberline {C.4}Experteninterview 4}{XXX}{subsection.a.C.4}%
 \contentsline {subsection}{\numberline {C.5}Kodierung der Experteninterviews}{XXXIII}{subsection.a.C.5}%
-\contentsline {subsection}{\numberline {C.6}Expertengewichtung 1}{XLIII}{subsection.a.C.6}%
-\contentsline {subsection}{\numberline {C.7}Expertengewichtung 2}{XLVIII}{subsection.a.C.7}%
-\contentsline {subsection}{\numberline {C.8}Expertengewichtung 3}{LIII}{subsection.a.C.8}%
-\contentsline {subsection}{\numberline {C.9}Expertengewichtung 4}{LVIII}{subsection.a.C.9}%
-\contentsline {subsection}{\numberline {C.10}Expertengewichtung 5}{LXIII}{subsection.a.C.10}%
-\contentsline {subsection}{\numberline {C.11}Expertengewichtung Durchschnitt}{LXVIII}{subsection.a.C.11}%
+\contentsline {subsection}{\numberline {C.6}Expertengewichtung 1}{XLIV}{subsection.a.C.6}%
+\contentsline {subsection}{\numberline {C.7}Expertengewichtung 2}{XLIX}{subsection.a.C.7}%
+\contentsline {subsection}{\numberline {C.8}Expertengewichtung 3}{LIV}{subsection.a.C.8}%
+\contentsline {subsection}{\numberline {C.9}Expertengewichtung 4}{LIX}{subsection.a.C.9}%
+\contentsline {subsection}{\numberline {C.10}Expertengewichtung 5}{LXIV}{subsection.a.C.10}%
+\contentsline {subsection}{\numberline {C.11}Expertengewichtung Durchschnitt}{LXIX}{subsection.a.C.11}%
