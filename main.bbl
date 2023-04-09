@@ -59,6 +59,49 @@
       \verb https://kruschecompany.com/de/agile-softwareentwicklung/
       \endverb
     \endentry
+    \entry{Arora.20200504}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b511a468da37267fd31fc5a5e2b16d90}{%
+           family={Arora},
+           familyi={A\bibinitperiod},
+           given={Shivam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=099f9afbc6d684a8c2aa0cd3919a9f1a}{%
+           family={Simplilearn},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b511a468da37267fd31fc5a5e2b16d90}
+      \strng{fullhash}{b511a468da37267fd31fc5a5e2b16d90}
+      \strng{bibnamehash}{b511a468da37267fd31fc5a5e2b16d90}
+      \strng{authorbibnamehash}{b511a468da37267fd31fc5a5e2b16d90}
+      \strng{authornamehash}{b511a468da37267fd31fc5a5e2b16d90}
+      \strng{authorfullhash}{b511a468da37267fd31fc5a5e2b16d90}
+      \strng{editorbibnamehash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \strng{editornamehash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \strng{editorfullhash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Want to know what is a docker container? Find out how you can deploy an application in a different environment using Docker containers. Click here to know!}
+      \field{title}{What Is and What Are the Benefits of Docker Container?}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Arora 2020-05-04 - What Is and What Are:Attachments/Arora 2020-05-04 - What Is and What Are.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.simplilearn.com/tutorials/docker-tutorial/what-is-docker-container
+      \endverb
+      \verb{url}
+      \verb https://www.simplilearn.com/tutorials/docker-tutorial/what-is-docker-container
+      \endverb
+    \endentry
     \entry{BackendTestDeveloperSAPDTSIntegration.}{misc}{}
       \name{editor}{1}{}{%
         {{hash=eaca399cfe6d4770041d5dcab28eaf0a}{%
@@ -221,6 +264,38 @@
       \field{year}{2010}
       \verb{doi}
       \verb 10.1007/978-3-642-02439-9
+      \endverb
+    \endentry
+    \entry{Atlassian.20230409}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c37c8620c4b76a9ac9e684ee7d693df7}{%
+           family={Buchannan},
+           familyi={B\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c37c8620c4b76a9ac9e684ee7d693df7}
+      \strng{fullhash}{c37c8620c4b76a9ac9e684ee7d693df7}
+      \strng{bibnamehash}{c37c8620c4b76a9ac9e684ee7d693df7}
+      \strng{authorbibnamehash}{c37c8620c4b76a9ac9e684ee7d693df7}
+      \strng{authornamehash}{c37c8620c4b76a9ac9e684ee7d693df7}
+      \strng{authorfullhash}{c37c8620c4b76a9ac9e684ee7d693df7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Feature flags is a software technique that enables teams to make changes without additional code. Read about benefits, use cases and more.}
+      \field{title}{Feature Flags}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-09}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.atlassian.com/continuous-delivery/principles/feature-flags
+      \endverb
+      \verb{url}
+      \verb https://www.atlassian.com/continuous-delivery/principles/feature-flags
       \endverb
     \endentry
     \entry{Chang.1019202010232020}{inproceedings}{}
@@ -851,6 +926,23 @@
       \verb https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design
       \endverb
     \endentry
+    \entry{.20230405b}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{title}{Multitarget Applications in the Cloud Foundry Environment}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/btp/sap-business-technology-platform/multitarget-applications-in-cloud-foundry-environment
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/btp/sap-business-technology-platform/multitarget-applications-in-cloud-foundry-environment
+      \endverb
+    \endentry
     \entry{Gartner.20230408}{online}{}
       \name{author}{1}{}{%
         {{hash=32391bae3d340062157ba096e75c0c86}{%
@@ -1012,6 +1104,25 @@
       \field{note}{24.03.2023}
       \field{title}{Experteninterview 2}
     \endentry
+    \entry{ProductManagerSAPHyperspaceSecurityTools.}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=6ce508d3c0c6725af309b179b823db34}{%
+           family={{Product Manager SAP Hyperspace Security Tools}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ce508d3c0c6725af309b179b823db34}
+      \strng{fullhash}{6ce508d3c0c6725af309b179b823db34}
+      \strng{bibnamehash}{6ce508d3c0c6725af309b179b823db34}
+      \strng{editorbibnamehash}{6ce508d3c0c6725af309b179b823db34}
+      \strng{editornamehash}{6ce508d3c0c6725af309b179b823db34}
+      \strng{editorfullhash}{6ce508d3c0c6725af309b179b823db34}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{22.03.2023}
+      \field{title}{Experteninterview 3}
+    \endentry
     \entry{ProductOwnerSAPBTPProd&Infra.}{misc}{}
       \name{editor}{2}{}{%
         {{hash=86eca3a9e5f51bb623206677e788bf99}{%
@@ -1100,6 +1211,39 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1504/IJSSCI.2008.017590
+      \endverb
+    \endentry
+    \entry{Sarferaz.2022}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=73792d2b055a233154c8517a97bba61b}{%
+           family={Sarferaz},
+           familyi={S\bibinitperiod},
+           given={Siar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{2}{%
+        {Springer International Publishing}%
+        {Imprint: Springer}%
+      }
+      \strng{namehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{fullhash}{73792d2b055a233154c8517a97bba61b}
+      \strng{bibnamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{editorbibnamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{editornamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{editorfullhash}{73792d2b055a233154c8517a97bba61b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st ed. 2022}
+      \field{isbn}{978-3-030-93855-0}
+      \field{title}{Compendium on Enterprise Resource Planning: Market, Functional and Conceptual View based on SAP S/4HANA}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1007/978-3-030-93856-7
       \endverb
     \endentry
     \entry{Schonenstein.20230103}{online}{}
@@ -1434,6 +1578,26 @@
       \field{year}{2013}
       \verb{doi}
       \verb 10.1007/978-3-8348-2142-3
+      \endverb
+    \endentry
+    \entry{.20230405}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is SAP Continuous Integration and Delivery}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-05}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb SAP SE 2023-04-05 - What Is SAP Continuous Integration:Attachments/SAP SE 2023-04-05 - What Is SAP Continuous Integration.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/618ca03fdca24e56924cc87cfbb7673a.html?language=en-US
+      \endverb
+      \verb{url}
+      \verb https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/618ca03fdca24e56924cc87cfbb7673a.html?language=en-US
       \endverb
     \endentry
     \entry{Zampetti.92720211012021}{inproceedings}{}

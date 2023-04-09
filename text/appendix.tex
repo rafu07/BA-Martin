@@ -1,4 +1,26 @@
 \section{Allgemeine Ergänzungen}
+\subsection{DevOps}
+\label{sec:DevOps}
+Prägnant zusammenfassen lässt sich das DevOps-Konzept durch das Akronym CAMS: \textit{Culture (Kultur)}, \textit{Automation (Automatisierung)}, \textit{Measurement (Messung)} und \textit{Sharing (Teilen)} \cite[5]{Halstenberg.2020}. Dabei gilt \textit{Kultur} als das wohl wesentlichste DevOps-Erfolgselement. Diese bezweckt eine Kollaborationsmentalität, welche sich über alle Ebenen eines Unternehmens erstreckt. Operative Entscheidungen sollen dabei auf die Fachebenen herunter delegiert werden, welche aufgrund ihrer spezifischen Expertise am geeignetsten sind, Dispositionen zu verabschieden \cite[5]{Halstenberg.2020}. Eine \textit{Automatisierung} der Softwarebereitstellungsprozesse ermöglicht, sich wiederholende manuelle Arbeit zu eliminieren. Dies kann ebenfalls zur Rationalisierung und damit zur Senkung der IT-Betriebskosten beitragen. Der dabei erzielte Einfluss wird anhand verschiedener DevOps-Kennzahlen bemessen (\textit{Messung}). Neben der Systemverfügbarkeit und der Instandsetzungszeit sind für Softwareentwicklungsunternehmen insbesondere \textit{Time-to-Market} sowie \textit{Time-to-Value} signifikante Metriken \cite[7]{Halstenberg.2020}. 
+Der Time-to-Market beschreibt die Zeitspanne zwischen Entwicklungsentstehungsprozess und der Markteinführung von IT-Services \cite[141]{Vesey.1992}. Auch der \textit{Time-to-Value} erhält zunehmend Bedeutung in der Softwareentwicklung. Im Gegensatz zum Time-to-Market wird hier nicht die Zeit bis zur Komplett-Einführung, sondern das Intervall bis die von dem Softwareunternehmen entwickelte Lösung ersten Kundennutzen herbeiführt, bemessen. Obwohl der im Time-to-Value bereitgestellte IT-Service möglicherweise Verbesserungspotenzial besitzt, überwiegt für Kunden des Unternehmens der mit der initialen Auslieferung herbeigeführte Mehrwert. Eine solche Früheinführung ermöglicht dem Softwareunternehmen ebenfalls einen Vorsprung gegenüber Konkurrenten. So ist diesem bereits gelungen, erste Kunden zu akquirieren, deren Input und Feedback möglichst rasch erfasst und verarbeitet werden kann \cite[9]{Halstenberg.2020}. Softwareunternehmen können IT-Services ab dem Pre-Launch somit sukzessive und ressourcenoptimiert unter Zusammenarbeit mit den Pilotkunden erweitern. Auch Adam Caplan, leitender Strategieberater bei Salesforce, empfiehlt angesichts der bei Softwareintegration entstehenden Komplexität, Anwendungen schnellst möglichst in produktionsähnlichen Umgebungen zu testen \cite{Vesey.1992}. Aus diesen Erfahrungen sollen Best-Practises entwickelt werden, welche innerhalb von Teams und organisationsübergreifend weitergegeben werden (\textit{Teilen}) \cite[7]{Halstenberg.2020}. 
+
+
+\begin{center}
+	\begin{figure}[H]
+		\centering
+		\scalebox{0.34}{\includegraphics{TTM}}
+		\caption[Zeitliche Darstellung der Herbeiführung von Kundennutzen bei der Entwicklung von IT-Services]{Zeitliche Darstellung der Herbeiführung von Kundennutzen bei der Entwicklung von IT-Services \cite[9]{Halstenberg.2020}.}
+		\label{fig:TTM}
+	\end{figure}
+\end{center}
+\vspace*{-15mm}
+
+
+\subsection{Ramped-Deployment}
+Für Anwendungen auf einer kritischen IT-Infrastruktur wird i.d.R. die \textit{Ramped-Deployment-Strategie} verwendet. Diese ermöglicht eine präzise Kontrolle horizontal skalierter Services. Bei einer horizontalen Skalierungen erfolgt die Replizierung identischer Service-Instanzen, wodurch die Ausfallsicherheit einer Anwendung optimiert werden kann. Die neue Softwareversion wird während des Ramped-Deployment-Prozesses schrittweise auf die horizontalen Instanzen ausgerollt. Dabei werden die ersten aktualisierten Instanzen lediglich für bestimmte Anwender, eine sog. \textit{Ramped-Gruppe}, bereitgestellt. Dabei soll das von dieser Anwendergruppe zur Verfügung gestellte Feedback während zukünftiger Planungsprozesse berücksichtigt werden \cite{Ugochi.20220503}.
+
+
+
 \newpage
 \section{Grafiken}
 \begin{center}
@@ -95,8 +117,8 @@
     \textbf{Experte:} Nein der Preis ist nicht mit drin. Tools wie SonarQube müssen von den Kunden selbst gehostet werden.\\
     \textbf{Interviewer:} Weißt du ob die Tools in das SAP CTM integrierbar sind?\\
     \textbf{Experte:} Ja sowohl JaaS als auch SAP BTP CI/CD sind in das SAP CTM integrierbar. Intern habe ich noch nicht oft gehört, dass dieser verwendet wird. Aber Kunden können theoretisch auf die CTM bereitstellen. Das CTM ist ebenfalls mit einem Change Management Surface verbunden. Damit kann man einen Change-Auftrag erstellen und dann Artefakte zwischen unterschiedlichen Systemen bereitstellen. Dadurch hat man einfach mehr Transparenz. Außerdem bietet das System für Composable-ERP-Systeme einen großen Vorteil. Über das SAP CTM können Abhängigkeiten zwischen verschiedenen Microservices definiert werden.\\
-    \textbf{Interviewer:} Welche Überwachungsfunktionalitäten bieten die Pipelines?\\
-    \textbf{Experte:} Bei Jenkins weiß ich, dass man Logs auslesen kann und den Workflow somit nachvollziehen kann.
+    \textbf{Interviewer:} Welche Überwachungsfunktionalitäten bieten die Pipelines und welche Tools werden von Kunden in der Regel verwendet?\\
+    \textbf{Experte:} Bei Jenkins weiß ich, dass man Logs auslesen kann und den Workflow somit nachvollziehen kann. Innerhalb der SAP wird i.d.R. das SAP-Partner-Tool Splunk verwendet. Kunden nutzen häufig auch andere Open-Source-Tools. Ein sehr häfuig verwendetes Tool ist dabei das Kibana-Dasboard.
 \end{linenumbers}
 \newpage
 \resetlinenumber
@@ -115,7 +137,7 @@
     \textbf{Interviewer:} Welche Arten von Security-Tools gibt es\\
     \textbf{Experte:} Es gibt i.d.R. zwei verschiedene Arten von Security-Tools. Es gibt da zum einen die statischen Code-Analysen (SAST). Dort wird insbesondere OS-Scanning betrieben. Dann gibt es noch das Dynamic Application Security Testing. Dort werden dann auch tatsächlich UI-Elemente, APIs sowie Datenbanken gescannt. Somit können dann z.B. Scripting-Attacks oder SQL-Injections verhindert werden. Manchmal wird dann auch noch die Kategorie des Interactive Application Security Testing (IAST) definiert. Dabei wird ein Agent in die Laufzeitumgebung mit integriert, welcher die Insights der Analysen liefert. Dort können dann z.B. Software-Component-Analysen gemacht werden. Dabei werden HTTP-Requests gespooft, um bestimmte Lücken im System zu finden.\\
     \textbf{Interviewer:} Welche Tools werden bei der SAP angewendet?\\
-    \textbf{Experte:} Da haben wir z.B. Foritfy. Das ist insbesondere für Java und Python. Das Tool ist allerdings kaum noch in Verwendung, da es sich historisch nicht weiterentwickelt hat. In näherer Zukunft wird das durch GitHub Advanced Security abgelöst. Für CAP Node wird von der SAP das Tool Checkmarx vorgeschrieben. Für Open-Source ist das Tool Whitesource vorgeschrieben. Für SAP UI5 wird bei der statischen Code-Analyse Checkmarx verwendet. Für Open-Source gibt es keine Vorgabe. Das liegt daran, dass UI5 eigentlich über JavaScript geschrieben wird und somit NPM als Package-Manager bräuchte. Node wird in dieser Technologie jedoch nicht unterstützt.
+    \textbf{Experte:} Da haben wir z.B. Fortify. Das ist insbesondere für Java und Python. Das Tool ist allerdings kaum noch in Verwendung, da es sich historisch nicht weiterentwickelt hat. In näherer Zukunft wird das durch GitHub Advanced Security abgelöst. Für CAP Node wird von der SAP das Tool Checkmarx vorgeschrieben. Für Open-Source ist das Tool Whitesource vorgeschrieben. Für SAP UI5 wird bei der statischen Code-Analyse Checkmarx verwendet. Für Open-Source gibt es keine Vorgabe. Das liegt daran, dass UI5 eigentlich über JavaScript geschrieben wird und somit NPM als Package-Manager bräuchte. Node wird in dieser Technologie jedoch nicht unterstützt. Für statische Codeanalysen wird SonarQube verwendet.
 \end{linenumbers}
 
 \newpage
@@ -144,8 +166,8 @@
     \textbf{Experte:} Das Artefakt-Repository wird verwendet, um das Coding was erzeugt wurde versioniert abzulegen. Dieses wird dann in der Pipeline immer wieder verwendet, um z.B. Tests dagegen auszuführen. Mit diesen Artefakts kann man dann auch noch sehr gut Rollbacks ausführen. Das heißt, wenn man merkt, dass eine neue Version nicht funktioniert, kann man einfach wieder zur alten Version zurückspringen.\\
     \textbf{Interviewer:} Welche Pipelines werden bei der SAP im Regelfall verwendet?\\
     \textbf{Experte:} Auf der Orchestratorseite ist es so, dass ganz viel über Azure-DevOps gemacht wird. Hierbei gibt es jetzt auch einige speziellen Governace-Checks, die darüber möglich sind. Außerdem ist der Wartungsaufwand einfach viel geringer. Das SAP Tools Team hatte dann alles auf einen zentralen Blick und konnte entsprechend sagen, dass wenn für eine Pipeline mehr Kapazität benötigt wird, dass entsprechend Ressourcen zugeschaltet werden. Und die SAP hat da wahrscheinlich einfach auch gute Konditionen bekommen. Andere kleine Teams, wie z.B. das Sports One haben dabei eher eine eigene Pipeline über den JaaS. Aber es ist einfach sehr davon abhängig, welche Technologie du hast.\\
-    \textbf{Interviewer:} Welche Tests werden bei SAP UI5 i.d.R. gemacht?\\
-    \textbf{Experte:} Für Unit Tests gibt es verschiedene Frameworks. I.d.R. wird in der SAP Q-Unit für sowas verwendet. Was aber auch noch geht, ist z.B. Mocha. Für Integration-Tests wird OPA5 verwendet. Da wird dann sowas wie die Backend-Anbindung einfach gemockt. Und für System-Tests wird dann i.d.R. WDI5 verwendet. Das kann man dafür verwenden, wenn man jetzt tatsächlich eine gesamte App testet. Das hat den Vorteil, dass ich wie ein End-User teste. Nachteil ist dabei jedoch, dass ich schauen muss, dass die Daten verfügbar sind, Customizings gemacht wurden etc. Aber man muss die Tests natürlich immer gezielt einsetzten. Wir haben damals in unsere Pipeline E2E-Tests eingebaut und dadurch hat die Pipeline um den Faktor 3 länger gebraucht. Noch einmal zur zentralen Aussage der Testpyramide. Die Empfehlung ist möglichst viel auf den unteren Ebenen abzudecken, also mit Unit-Tests und auf den oberen Ebenen nur noch das zu testen, was man nicht mit Unit- und Integration-Tests testen kann.\\
+    \textbf{Interviewer:} Welche Tests werden bei der SAP gemacht?\\
+    \textbf{Experte:} Bei der SAP werden durch den Produktstandard gemäß ISO 9001 verschiedene Validierungen vorgeschrieben. Für Unit Tests gibt es dafür verschiedene Frameworks. I.d.R. wird bei der SAP Q-Unit für Frontend und Mocha oder Jest für das Backend verwendetverwendet. Für Integration-Tests wird OPA5 verwendet. Da wird dann sowas wie die Backend-Anbindung einfach gemockt. Für Integration-Tests im Backend wird Newmann verwendet, mit welcher Postmann-Tests automatisiert werden können. Und für System-Tests im Frontend wird dann i.d.R. WDI5 verwendet. Das kann man dafür verwenden, wenn man jetzt tatsächlich eine gesamte App testet. Das hat den Vorteil, dass ich wie ein End-User teste. Nachteil ist dabei jedoch, dass ich schauen muss, dass die Daten verfügbar sind, Customizings gemacht wurden etc. Aber man muss die Tests natürlich immer gezielt einsetzten. Wir haben damals in unsere Pipeline E2E-Tests eingebaut und dadurch hat die Pipeline um den Faktor 3 länger gebraucht. Noch einmal zur zentralen Aussage der Testpyramide. Die Empfehlung ist möglichst viel auf den unteren Ebenen abzudecken, also mit Unit-Tests und auf den oberen Ebenen nur noch das zu testen, was man nicht mit Unit- und Integration-Tests testen kann.\\
     \textbf{Interviewer:} Werden denn immer alle Tests ausgeführt?\\
     \textbf{Experte:} Also bei einer Pull-Request-Pipeline sollten auf jeden Fall die Unit- und Integration-Tests laufen. Die System-Tests werden dann z.B. einmal am Tag ausgeführt. Manche Teams verwenden auch eine parallele Ausführung von Tests und führen dann eben verschiedene Szenarien gleichzeitig durch. Das läuft dann i.d.R. schneller und dann können solche Tests auch beim Pull-Request ausgeführt werden. Gerade die Compliance und Accessibility-Tests werden dann eher in der Delivery-Pipeline durchgeführt.\\
     \textbf{Interviewer:} Auf welche Integrationsaspekte muss geachtet werden?\\
@@ -277,6 +299,8 @@
         \enquote{Sehr selten wird eine CI/CD-Pipeline auch in die Entwicklungsumgebung integriert.} & Integrationsmöglichkeiten von Entwicklungsumgebung & Experte 1 & 81 ff. \\
         \hline
         \enquote{Wenn du in sehr großen Entwicklungen bist, dann ist es natürlich auch sehr wichtig, dass die Pipeline eine gute Performance besitzt.} & Performance & Experte 2 & 36 ff. \\
+        \hline
+        \enquote{Des Weiteren ist es essenziell, dass die CI/CD-Prozesse überwacht werden können. } & Monitoring & Experte 2 & 37 ff. \\
         \hline
         \end{longtable}
 

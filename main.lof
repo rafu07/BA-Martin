@@ -4,19 +4,18 @@
 \contentsline {figure}{\numberline {3}{\ignorespaces Bestandteile eines Composable-ERP-Systems}}{5}{figure.caption.10}%
 \contentsline {figure}{\numberline {4}{\ignorespaces Technische Realisierung der Composable-Enterprise-Architektur}}{7}{figure.caption.11}%
 \contentsline {figure}{\numberline {5}{\ignorespaces Exemplarische Abfolge eines agilen Entwicklungszykluses}}{9}{figure.caption.19}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Zeitliche Darstellung der Herbeiführung von Kundennutzen bei der Entwicklung von IT-Services}}{12}{figure.caption.22}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Aktivitäten im CI/CD-Prozess}}{12}{figure.caption.24}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Versionskontrollsysteme zur Verwaltung von Quellcode}}{14}{figure.caption.26}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Hierarschische Darstellung von Softwaretests}}{15}{figure.caption.28}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Strategien zur Bereitstellung von Software}}{19}{figure.caption.31}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Exemplarische Darstellung der Paarvergleichsmatrix im AHP}}{24}{figure.caption.32}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Exemplarische Darstellung der hierarchischen Entscheidungsstruktur im AHP}}{25}{figure.caption.33}%
-\contentsline {figure}{\numberline {13}{\ignorespaces AHP-Entscheidungsstruktur zur Bewertung von CI/CD-Pipelines}}{28}{figure.caption.34}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Bereitstellung von MTA-Applikationen in ein Artefakt-Repository}}{30}{figure.caption.35}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Qualitative Bewertungsmetrik für AHP}}{35}{figure.caption.39}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Quantitative Bewertungsmetrik für AHP}}{36}{figure.caption.40}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Gewichtungsfaktoren der AHP-Entscheidungskriterien}}{37}{figure.caption.41}%
-\contentsline {figure}{\numberline {18}{\ignorespaces SAP Cloud Transportmanagement}}{41}{figure.caption.44}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{42}{figure.caption.45}%
-\contentsline {figure}{\numberline {20}{\ignorespaces CEA-Szenario für Perfomance-Tests}}{45}{figure.caption.46}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{47}{figure.caption.48}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Aktivitäten im CI/CD-Prozess}}{11}{figure.caption.23}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Integration der CI/CD-Pipeline mit dem Versionskontrollsystem}}{12}{figure.caption.24}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Hierarschische Darstellung von Softwaretests}}{13}{figure.caption.26}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Strategien zur Bereitstellung von Software}}{17}{figure.caption.30}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Exemplarische Darstellung der hierarchischen Entscheidungsstruktur im AHP}}{21}{figure.caption.31}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Exemplarische Darstellung der Paarvergleichsmatrix im AHP}}{22}{figure.caption.32}%
+\contentsline {figure}{\numberline {12}{\ignorespaces AHP-Entscheidungsstruktur zur Bewertung von CI/CD-Pipelines}}{26}{figure.caption.33}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Qualitative Bewertungsmetrik für AHP}}{32}{figure.caption.37}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Quantitative Bewertungsmetrik für AHP}}{33}{figure.caption.38}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Gewichtungsfaktoren der AHP-Entscheidungskriterien}}{34}{figure.caption.39}%
+\contentsline {figure}{\numberline {16}{\ignorespaces SAP Cloud Transportmanagement}}{38}{figure.caption.42}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{39}{figure.caption.43}%
+\contentsline {figure}{\numberline {18}{\ignorespaces CEA-Szenario für Perfomance-Tests}}{42}{figure.caption.44}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{44}{figure.caption.46}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Zeitliche Darstellung der Herbeiführung von Kundennutzen bei der Entwicklung von IT-Services}}{XVII}{figure.caption.54}%
