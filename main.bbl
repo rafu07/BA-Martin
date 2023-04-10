@@ -102,6 +102,77 @@
       \verb https://www.simplilearn.com/tutorials/docker-tutorial/what-is-docker-container
       \endverb
     \endentry
+    \entry{Atta.20201012}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5e1da588b8562a3a42532d903bdf0116}{%
+           family={Atta},
+           familyi={A\bibinitperiod},
+           given={Sourav},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e1da588b8562a3a42532d903bdf0116}
+      \strng{fullhash}{5e1da588b8562a3a42532d903bdf0116}
+      \strng{bibnamehash}{5e1da588b8562a3a42532d903bdf0116}
+      \strng{authorbibnamehash}{5e1da588b8562a3a42532d903bdf0116}
+      \strng{authornamehash}{5e1da588b8562a3a42532d903bdf0116}
+      \strng{authorfullhash}{5e1da588b8562a3a42532d903bdf0116}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jenkins is a widely used CI Tool. There may be a large Jenkins instance or several Jenkins instances used in an organization. So, there is a need to monitor the health and performance of these$\ldots$}
+      \field{title}{Monitor Jenkins Application Logs using ELK Stack - Sourav Atta}
+      \field{urlday}{29}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Atta 2020-10-12 - Monitor Jenkins Application Logs using:Attachments/Atta 2020-10-12 - Monitor Jenkins Application Logs using.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://souravatta.medium.com/monitor-jenkins-build-logs-using-elk-stack-697e13b78cb1
+      \endverb
+      \verb{url}
+      \verb https://souravatta.medium.com/monitor-jenkins-build-logs-using-elk-stack-697e13b78cb1
+      \endverb
+    \endentry
+    \entry{.20230410}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Explore the different Azure DevOps pricing options for open source projects, small teams, and teams of all sizes.}
+      \field{title}{Azure DevOps Services Pricing}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+      \endverb
+    \endentry
+    \entry{.20230410d}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{"}{>}{<}meta name=}
+      \field{title}{Azure Pipelines Extensions}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-10}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://marketplace.visualstudio.com/search?target=AzureDevOps&category=Azure%20Pipelines&sortBy=Installs
+      \endverb
+      \verb{url}
+      \verb https://marketplace.visualstudio.com/search?target=AzureDevOps&category=Azure%20Pipelines&sortBy=Installs
+      \endverb
+    \endentry
     \entry{BackendTestDeveloperSAPDTSIntegration.}{misc}{}
       \name{editor}{1}{}{%
         {{hash=eaca399cfe6d4770041d5dcab28eaf0a}{%
@@ -298,6 +369,23 @@
       \verb https://www.atlassian.com/continuous-delivery/principles/feature-flags
       \endverb
     \endentry
+    \entry{.20230406}{online}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{Build Stage - Project {"}Piper{"}: Continuous Delivery for the SAP Ecosystem}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.project-piper.io/stages/build/
+      \endverb
+      \verb{url}
+      \verb https://www.project-piper.io/stages/build/
+      \endverb
+    \endentry
     \entry{Chang.1019202010232020}{inproceedings}{}
       \name{author}{6}{}{%
         {{hash=de78f6f4bdfa9118569700c4b5c58f80}{%
@@ -355,6 +443,23 @@
       \verb 10.1109/CLOUD49709.2020.00051
       \endverb
     \endentry
+    \entry{.20230406c}{online}{}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{cloudFoundryDeploy - Project {"}Piper{"}: Continuous Delivery for the SAP Ecosystem}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.project-piper.io/steps/cloudFoundryDeploy/#additional-hints
+      \endverb
+      \verb{url}
+      \verb https://www.project-piper.io/steps/cloudFoundryDeploy/#additional-hints
+      \endverb
+    \endentry
     \entry{.20230402}{online}{}
       \name{editor}{1}{}{%
         {{hash=2096b15e04f2dd972c8dfdd3562cded1}{%
@@ -383,6 +488,66 @@
       \verb{url}
       \verb https://medium.com/containers-101/ci-cd-pipelines-for-microservices-ea33fb48dae0
       \endverb
+    \endentry
+    \entry{Steved0x.20230410}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8cb92e6068ea1ae363d7090947caa2b7}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{fullhash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{bibnamehash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{authorbibnamehash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{authornamehash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{authorfullhash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Konfigurieren von Pipelinetriggern}
+      \field{title}{Konfigurieren von Pipelinetriggern - Azure Pipelines}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/de-de/azure/devops/pipelines/process/pipeline-triggers?view=azure-devops
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/de-de/azure/devops/pipelines/process/pipeline-triggers?view=azure-devops
+      \endverb
+    \endentry
+    \entry{Steved0x.20230410b}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8cb92e6068ea1ae363d7090947caa2b7}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{fullhash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{bibnamehash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{authorbibnamehash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{authornamehash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \strng{authorfullhash}{8cb92e6068ea1ae363d7090947caa2b7}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn about using the Microsoft-hosted agents provided in Azure Pipelines}
+      \field{title}{Microsoft-hosted agents for Azure Pipelines - Azure Pipelines}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-10}
+      \field{urldateera}{ce}
     \endentry
     \entry{Denning.20170210}{online}{}
       \name{author}{1}{}{%
@@ -589,6 +754,23 @@
       \verb 10.1093/oso/9780199324286.001.0001
       \endverb
     \endentry
+    \entry{.20230410f}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{title}{GitHub Authentication}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://plugins.jenkins.io/github-oauth/
+      \endverb
+      \verb{url}
+      \verb https://plugins.jenkins.io/github-oauth/
+      \endverb
+    \endentry
     \entry{Goll.2015}{book}{}
       \name{author}{2}{}{%
         {{hash=ecf7443c667a529328edec9d962ffb4b}{%
@@ -626,6 +808,38 @@
       \endverb
       \verb{file}
       \verb Goll, Hommel 2015 - Mit Scrum zum gew{\"u}nschten System:Attachments/Goll, Hommel 2015 - Mit Scrum zum gew{\"u}nschten System.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{.20230410c}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d160f1a36a3eba5809c5f585fade967f}{%
+           family={Gosh},
+           familyi={G\bibinitperiod},
+           given={Srijani},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d160f1a36a3eba5809c5f585fade967f}
+      \strng{fullhash}{d160f1a36a3eba5809c5f585fade967f}
+      \strng{bibnamehash}{d160f1a36a3eba5809c5f585fade967f}
+      \strng{authorbibnamehash}{d160f1a36a3eba5809c5f585fade967f}
+      \strng{authornamehash}{d160f1a36a3eba5809c5f585fade967f}
+      \strng{authorfullhash}{d160f1a36a3eba5809c5f585fade967f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Here's a top 10 list of Jenkins plugins of 2023 along with the key features. Also, find Jenkins plugin development [step-by-step], how to get plugin, troubleshooting during installation and more.}
+      \field{title}{Top 10 Jenkins Plugins with Features for 2023}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.knowledgehut.com/blog/devops/jenkins-plugins
+      \endverb
+      \verb{url}
+      \verb https://www.knowledgehut.com/blog/devops/jenkins-plugins
       \endverb
     \endentry
     \entry{Halstenberg.2020}{book}{}
@@ -1182,6 +1396,40 @@
       \verb Reinheimer 2018 - Cloud Computing:Attachments/Reinheimer 2018 - Cloud Computing.pdf:application/pdf
       \endverb
     \endentry
+    \entry{.20230406b}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{title}{Release Stage - Project {"}Piper{"}: Continuous Delivery for the SAP Ecosystem}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.project-piper.io/stages/release/
+      \endverb
+      \verb{url}
+      \verb https://www.project-piper.io/stages/release/
+      \endverb
+    \endentry
+    \entry{.20230410g}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{title}{Role-based Authorization Strategy}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://plugins.jenkins.io/role-strategy/
+      \endverb
+      \verb{url}
+      \verb https://plugins.jenkins.io/role-strategy/
+      \endverb
+    \endentry
     \entry{Saaty.2008}{article}{}
       \name{author}{1}{}{%
         {{hash=8d8e5331ceb6bdfae0cfaed9a7690800}{%
@@ -1426,6 +1674,45 @@
       \verb https://www.synopsys.com/glossary/what-is-cicd.html
       \endverb
     \endentry
+    \entry{Executech.20230308}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{abstract}{I'm sure you've heard about the many benefits of moving to the cloud. Things such as improved scalability, flexibility, and security are all notable advantages of cloud computing. But what about the cost? Some individuals promote the cost savings offered by the cloud, while others maintain that on-premise systems are, in fact, cheaper. In this [$\ldots$]}
+      \field{title}{The Cloud vs. On-Premise Cost: Which One is Cheaper?}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.executech.com/insights/the-cloud-vs-on-premise-cost-comparison/
+      \endverb
+      \verb{url}
+      \verb https://www.executech.com/insights/the-cloud-vs-on-premise-cost-comparison/
+      \endverb
+    \endentry
+    \entry{Blog.20170419}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We've shared pieces of Netflix's container story in the past, but this blog post will discuss containers at Netflix in depth.}
+      \field{title}{The Evolution of Container Usage at Netflix - Netflix TechBlog}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Blog 2017-04-19 - The Evolution of Container Usage:Attachments/Blog 2017-04-19 - The Evolution of Container Usage.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://netflixtechblog.com/the-evolution-of-container-usage-at-netflix-3abfc096781b
+      \endverb
+      \verb{url}
+      \verb https://netflixtechblog.com/the-evolution-of-container-usage-at-netflix-3abfc096781b
+      \endverb
+    \endentry
     \entry{Ugochi.20220503}{online}{}
       \name{author}{1}{}{%
         {{hash=bc85f4a085332eb41e579b60a7b92e09}{%
@@ -1467,6 +1754,41 @@
       \endverb
       \verb{url}
       \verb https://www.plutora.com/blog/deployment-strategies-6-explained-in-depth
+      \endverb
+    \endentry
+    \entry{.20230410b}{online}{}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labeltitlesource}{title}
+      \field{title}{Using Jenkins agents}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023-04-10}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.jenkins.io/doc/book/using/using-agents/
+      \endverb
+      \verb{url}
+      \verb https://www.jenkins.io/doc/book/using/using-agents/
+      \endverb
+    \endentry
+    \entry{.20230410e}{online}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Vergleichen Sie die Features der Azure-Supportpläne für verschiedenste Kunden: von Entwicklern, die gerade erst in die Cloud einsteigen, bis hin zu Unternehmen, die kritische und strategische Anwendungen bereitstellen.}
+      \field{title}{Vergleich der Azure-Supportpläne}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/de-de/support/plans
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/de-de/support/plans
       \endverb
     \endentry
     \entry{Vesey.1992}{article}{}
