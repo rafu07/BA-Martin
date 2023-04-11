@@ -19,6 +19,24 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{GoogleCloud.20230313}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{DevOps tools, practices, and research to help you get the agility, without compromising on quality or stability.}
+      \field{title}{2022 State of DevOps Report - Google Cloud}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cloud.google.com/devops/state-of-devops
+      \endverb
+      \verb{url}
+      \verb https://cloud.google.com/devops/state-of-devops
+      \endverb
+    \endentry
     \entry{K&C.2021}{online}{}
       \name{author}{1}{}{%
         {{hash=bed39189b812b1b9fa2aaaa30c2257ad}{%
@@ -164,7 +182,7 @@
       \field{urlday}{10}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023-04-10}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://marketplace.visualstudio.com/search?target=AzureDevOps&category=Azure%20Pipelines&sortBy=Installs
@@ -228,7 +246,7 @@
       \field{urlday}{5}
       \field{urlmonth}{3}
       \field{urlyear}{2023}
-      \field{year}{2023-03-05}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.qentelli.com/thought-leadership/insights/evolution-agile-devops-continuous-delivery
@@ -287,7 +305,7 @@
       \field{urlday}{8}
       \field{urlmonth}{3}
       \field{urlyear}{2023}
-      \field{year}{2023-02-20}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{file}
       \verb Bose 2023-02-20 - What is End To End:Attachments/Bose 2023-02-20 - What is End To End.pdf:application/pdf
@@ -360,7 +378,7 @@
       \field{urlday}{9}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023-04-09}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.atlassian.com/continuous-delivery/principles/feature-flags
@@ -386,7 +404,7 @@
       \verb https://www.project-piper.io/stages/build/
       \endverb
     \endentry
-    \entry{Chang.1019202010232020}{inproceedings}{}
+    \entry{Chang.1019202010232020}{incollection}{}
       \name{author}{6}{}{%
         {{hash=de78f6f4bdfa9118569700c4b5c58f80}{%
            family={Chang},
@@ -419,9 +437,6 @@
            given={Toshiyuki},
            giveni={T\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
       \strng{namehash}{9500264cc07e1c050e579da2838b5887}
       \strng{fullhash}{206cbf9f55014cfcc20f362dba5cf910}
       \strng{bibnamehash}{9500264cc07e1c050e579da2838b5887}
@@ -433,10 +448,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{bookpagination}{page}
-      \field{booktitle}{2020 IEEE 13th International Conference on Cloud Computing (CLOUD)}
-      \field{isbn}{978-1-7281-8780-8}
+      \field{booktitle}{2020 IEEE 13th International Conference - 10/23/2020}
       \field{title}{Realizing A Composable Enterprise Microservices Fabric with AI-Accelerated Material Discovery API Services}
-      \field{year}{10/19/2020 - 10/23/2020}
       \field{pages}{313\bibrangedash 320}
       \range{pages}{8}
       \verb{doi}
@@ -480,7 +493,7 @@
       \field{urlday}{2}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023-04-02}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://medium.com/containers-101/ci-cd-pipelines-for-microservices-ea33fb48dae0
@@ -546,7 +559,7 @@
       \field{urlday}{10}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023-04-10}
+      \field{year}{2023}
       \field{urldateera}{ce}
     \endentry
     \entry{Denning.20170210}{online}{}
@@ -1237,7 +1250,7 @@
       \field{urlday}{3}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023-04-03}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://stackoverflow.com/search?q=azure+Pipelines
@@ -1254,7 +1267,7 @@
       \field{urlday}{3}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023-04-03}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://stackoverflow.com/search?q=jenkins
@@ -1271,7 +1284,7 @@
       \field{urlday}{3}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023-04-03}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://stackoverflow.com/search?q=SAP+ci%2FCD
@@ -1636,7 +1649,7 @@
       \field{urlday}{27}
       \field{urlmonth}{3}
       \field{urlyear}{2023}
-      \field{year}{2023-03-27}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://blogs.sap.com/2020/01/31/interplay-of-sap-cloud-platform-transport-management-cts-and-charm-in-hybrid-landscapes/
@@ -1665,7 +1678,7 @@
       \field{urlday}{8}
       \field{urlmonth}{3}
       \field{urlyear}{2023}
-      \field{year}{2023-02-01}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.synopsys.com/glossary/what-is-cicd.html
@@ -1910,7 +1923,7 @@
       \field{urlday}{9}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023-04-05}
+      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{file}
       \verb SAP SE 2023-04-05 - What Is SAP Continuous Integration:Attachments/SAP SE 2023-04-05 - What Is SAP Continuous Integration.pdf:application/pdf
@@ -1922,7 +1935,7 @@
       \verb https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/618ca03fdca24e56924cc87cfbb7673a.html?language=en-US
       \endverb
     \endentry
-    \entry{Zampetti.92720211012021}{inproceedings}{}
+    \entry{Zampetti.92720211012021}{incollection}{}
       \name{author}{4}{}{%
         {{hash=9f26881606b33421acb3ab5da8de4711}{%
            family={Zampetti},
@@ -1945,9 +1958,6 @@
            given={Massimiliano},
            giveni={M\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
       \strng{namehash}{aec3ad9d3e0929aa99d3468885cc2301}
       \strng{fullhash}{3d5a4c9fc482e9ccbd42803d95699765}
       \strng{bibnamehash}{aec3ad9d3e0929aa99d3468885cc2301}
@@ -1959,10 +1969,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{bookpagination}{page}
-      \field{booktitle}{2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)}
-      \field{isbn}{978-1-6654-2882-8}
+      \field{booktitle}{2021 IEEE International Conference 9/27/2021 - 2021}
       \field{title}{CI/CD Pipelines Evolution and Restructuring: A Qualitative and Quantitative Study}
-      \field{year}{9/27/2021 - 10/1/2021}
       \field{pages}{471\bibrangedash 482}
       \range{pages}{12}
       \verb{doi}
