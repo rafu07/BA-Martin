@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  11 APR 2023 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  13 APR 2023 08:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1622,16 +1622,16 @@ pdfTeX warning: pdflatex (file ./images//Modular.pdf): PDF inclusion: found PDF 
 <images//Modular.pdf, id=1157, 597.432pt x 219.09854pt>
 File: images//Modular.pdf Graphic file (type pdf)
 <use images//Modular.pdf>
-Package pdftex.def Info: images//Modular.pdf  used on input line 103.
+Package pdftex.def Info: images//Modular.pdf  used on input line 104.
 (pdftex.def)             Requested size: 597.43054pt x 219.09799pt.
 [46 <./images//Modular.pdf>] [47] [48] [49]
 
 pdfTeX warning: pdflatex (file ./images//Ergebnis.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Ergebnis.pdf, id=1204, 853.50871pt x 654.16393pt>
+<images//Ergebnis.pdf, id=1204, 853.50871pt x 711.01634pt>
 File: images//Ergebnis.pdf Graphic file (type pdf)
 <use images//Ergebnis.pdf>
-Package pdftex.def Info: images//Ergebnis.pdf  used on input line 113.
-(pdftex.def)             Requested size: 853.50664pt x 654.16232pt.
+Package pdftex.def Info: images//Ergebnis.pdf  used on input line 114.
+(pdftex.def)             Requested size: 853.50664pt x 711.0146pt.
 ) [50 <./images//Ergebnis.pdf>]
 \openout2 = `text/chapter5.aux'.
 
@@ -1704,125 +1704,125 @@ File: images//S_PlantService.pdf Graphic file (type pdf)
 Package pdftex.def Info: images//S_PlantService.pdf  used on input line 71.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 [21] [22 <./images//S_PlantService.pdf>] [23] [24]
-Underfull \hbox (badness 10000) in paragraph at lines 82--87
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--87
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
 
  []
 
 
-Overfull \hbox (43.16344pt too wide) in paragraph at lines 89--119
+Overfull \hbox (43.16344pt too wide) in paragraph at lines 93--123
 \OT1/lmr/bx/n/12 Interviewer: \OT1/lmr/m/n/12 Gibt es in dem SAP CI/CD-Tool ir-gend-wel-che []Uberwachungsfunktionalit[]aten? 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--119
+Underfull \hbox (badness 10000) in paragraph at lines 93--123
 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 119.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 123.
 (C:\Users\I538951\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [25] [26] [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 123--149
+Underfull \hbox (badness 10000) in paragraph at lines 127--153
 
  []
 
 [29] [30] [31]
-Underfull \hbox (badness 10000) in paragraph at lines 153--158
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--158
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
 
  []
 
 [32] [33]
-Overfull \hbox (104.51813pt too wide) in paragraph at lines 173--178
+Overfull \hbox (104.51813pt too wide) in paragraph at lines 177--182
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--178
+Underfull \hbox (badness 10000) in paragraph at lines 177--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--178
+Underfull \hbox (badness 10000) in paragraph at lines 177--182
 
  []
 
 [34] [35] [36]
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
 
  []
 
 [37]
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
  []
 
 [38]
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
 
  []
 
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
- []
-
-
-Overfull \hbox (1.8533pt too wide) in paragraph at lines 322--322
- \OT1/lmr/m/n/12 onsm[]oglichkeiten| 
- []
-
-
-Overfull \hbox (1.8533pt too wide) in paragraph at lines 324--324
- \OT1/lmr/m/n/12 onsm[]oglichkeiten 
  []
 
 
 Overfull \hbox (1.8533pt too wide) in paragraph at lines 326--326
+ \OT1/lmr/m/n/12 onsm[]oglichkeiten| 
+ []
+
+
+Overfull \hbox (1.8533pt too wide) in paragraph at lines 328--328
+ \OT1/lmr/m/n/12 onsm[]oglichkeiten 
+ []
+
+
+Overfull \hbox (1.8533pt too wide) in paragraph at lines 330--330
  \OT1/lmr/m/n/12 onsm[]oglichkeiten 
  []
 
 [42] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 
  []
 
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
 
  []
 
 [45]
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
@@ -1832,7 +1832,7 @@ pdfTeX warning: pdflatex (file ./images//Soelker_1.pdf): PDF inclusion: found PD
 <images//Soelker_1.pdf, id=1538, 597.55246pt x 845.07718pt>
 File: images//Soelker_1.pdf Graphic file (type pdf)
 <use images//Soelker_1.pdf>
-Package pdftex.def Info: images//Soelker_1.pdf  used on input line 415.
+Package pdftex.def Info: images//Soelker_1.pdf  used on input line 419.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -1840,7 +1840,7 @@ pdfTeX warning: pdflatex (file ./images//Soelker_2.pdf): PDF inclusion: found PD
 <images//Soelker_2.pdf, id=1539, 597.55246pt x 845.07718pt>
 File: images//Soelker_2.pdf Graphic file (type pdf)
 <use images//Soelker_2.pdf>
-Package pdftex.def Info: images//Soelker_2.pdf  used on input line 422.
+Package pdftex.def Info: images//Soelker_2.pdf  used on input line 426.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 [48 <./images//Soelker_1.pdf>]
 
@@ -1848,10 +1848,10 @@ pdfTeX warning: pdflatex (file ./images//Soelker_3.pdf): PDF inclusion: found PD
 <images//Soelker_3.pdf, id=1556, 597.55246pt x 845.07718pt>
 File: images//Soelker_3.pdf Graphic file (type pdf)
 <use images//Soelker_3.pdf>
-Package pdftex.def Info: images//Soelker_3.pdf  used on input line 430.
+Package pdftex.def Info: images//Soelker_3.pdf  used on input line 434.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 [49 <./images//Soelker_2.pdf>] [50 <./images//Soelker_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 437--449
+Underfull \hbox (badness 10000) in paragraph at lines 441--453
 
  []
 
@@ -1859,26 +1859,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 437--449
 <images//Trump_1.pdf, id=1596, 597.55246pt x 845.07718pt>
 File: images//Trump_1.pdf Graphic file (type pdf)
 <use images//Trump_1.pdf>
-Package pdftex.def Info: images//Trump_1.pdf  used on input line 463.
+Package pdftex.def Info: images//Trump_1.pdf  used on input line 467.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 <images//Trump_2.pdf, id=1597, 597.55246pt x 845.07718pt>
 File: images//Trump_2.pdf Graphic file (type pdf)
 <use images//Trump_2.pdf>
-Package pdftex.def Info: images//Trump_2.pdf  used on input line 470.
+Package pdftex.def Info: images//Trump_2.pdf  used on input line 474.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [53 <./images//Trump_1.pdf>]
 <images//Trump_3.pdf, id=1612, 597.55246pt x 845.07718pt>
 File: images//Trump_3.pdf Graphic file (type pdf)
 <use images//Trump_3.pdf>
-Package pdftex.def Info: images//Trump_3.pdf  used on input line 478.
+Package pdftex.def Info: images//Trump_3.pdf  used on input line 482.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [54 <./images//Trump_2.pdf>] [55 <./images//Trump_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 486--500
+Underfull \hbox (badness 10000) in paragraph at lines 490--504
 
  []
 
 [56] [57]
-Overfull \hbox (54.41948pt too wide) in paragraph at lines 504--509
+Overfull \hbox (54.41948pt too wide) in paragraph at lines 508--513
 [] 
  []
 
@@ -1888,7 +1888,7 @@ pdfTeX warning: pdflatex (file ./images//Bischoff_1.pdf): PDF inclusion: found P
 <images//Bischoff_1.pdf, id=1648, 597.55246pt x 845.07718pt>
 File: images//Bischoff_1.pdf Graphic file (type pdf)
 <use images//Bischoff_1.pdf>
-Package pdftex.def Info: images//Bischoff_1.pdf  used on input line 512.
+Package pdftex.def Info: images//Bischoff_1.pdf  used on input line 516.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -1896,7 +1896,7 @@ pdfTeX warning: pdflatex (file ./images//Bischoff_2.pdf): PDF inclusion: found P
 <images//Bischoff_2.pdf, id=1649, 597.55246pt x 845.07718pt>
 File: images//Bischoff_2.pdf Graphic file (type pdf)
 <use images//Bischoff_2.pdf>
-Package pdftex.def Info: images//Bischoff_2.pdf  used on input line 519.
+Package pdftex.def Info: images//Bischoff_2.pdf  used on input line 523.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 [58 <./images//Bischoff_1.pdf>]
 
@@ -1904,10 +1904,10 @@ pdfTeX warning: pdflatex (file ./images//Bischoff_3.pdf): PDF inclusion: found P
 <images//Bischoff_3.pdf, id=1666, 597.55246pt x 845.07718pt>
 File: images//Bischoff_3.pdf Graphic file (type pdf)
 <use images//Bischoff_3.pdf>
-Package pdftex.def Info: images//Bischoff_3.pdf  used on input line 527.
+Package pdftex.def Info: images//Bischoff_3.pdf  used on input line 531.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 [59 <./images//Bischoff_2.pdf>] [60 <./images//Bischoff_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 534--546
+Underfull \hbox (badness 10000) in paragraph at lines 538--550
 
  []
 
@@ -1917,7 +1917,7 @@ pdfTeX warning: pdflatex (file ./images//Adams_1.pdf): PDF inclusion: found PDF 
 <images//Adams_1.pdf, id=1705, 597.55246pt x 845.07718pt>
 File: images//Adams_1.pdf Graphic file (type pdf)
 <use images//Adams_1.pdf>
-Package pdftex.def Info: images//Adams_1.pdf  used on input line 560.
+Package pdftex.def Info: images//Adams_1.pdf  used on input line 564.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -1925,7 +1925,7 @@ pdfTeX warning: pdflatex (file ./images//Adams_2.pdf): PDF inclusion: found PDF 
 <images//Adams_2.pdf, id=1706, 597.55246pt x 845.07718pt>
 File: images//Adams_2.pdf Graphic file (type pdf)
 <use images//Adams_2.pdf>
-Package pdftex.def Info: images//Adams_2.pdf  used on input line 567.
+Package pdftex.def Info: images//Adams_2.pdf  used on input line 571.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 [63 <./images//Adams_1.pdf>]
 
@@ -1933,29 +1933,29 @@ pdfTeX warning: pdflatex (file ./images//Adams_3.pdf): PDF inclusion: found PDF 
 <images//Adams_3.pdf, id=1724, 597.55246pt x 845.07718pt>
 File: images//Adams_3.pdf Graphic file (type pdf)
 <use images//Adams_3.pdf>
-Package pdftex.def Info: images//Adams_3.pdf  used on input line 575.
+Package pdftex.def Info: images//Adams_3.pdf  used on input line 579.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 [64 <./images//Adams_2.pdf>] [65 <./images//Adams_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 582--594
+Underfull \hbox (badness 10000) in paragraph at lines 586--598
 
  []
 
 [66] [67]
 File: images//Adams_1.pdf Graphic file (type pdf)
 <use images//Adams_1.pdf>
-Package pdftex.def Info: images//Adams_1.pdf  used on input line 608.
+Package pdftex.def Info: images//Adams_1.pdf  used on input line 612.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: images//Adams_2.pdf Graphic file (type pdf)
 <use images//Adams_2.pdf>
-Package pdftex.def Info: images//Adams_2.pdf  used on input line 615.
+Package pdftex.def Info: images//Adams_2.pdf  used on input line 619.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [68]
 File: images//Adams_3.pdf Graphic file (type pdf)
 <use images//Adams_3.pdf>
-Package pdftex.def Info: images//Adams_3.pdf  used on input line 623.
+Package pdftex.def Info: images//Adams_3.pdf  used on input line 627.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [69] [70]
-Underfull \hbox (badness 10000) in paragraph at lines 630--642
+Underfull \hbox (badness 10000) in paragraph at lines 634--646
 
  []
 
@@ -1963,18 +1963,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 630--642
 <images//Durchschnitt_1.pdf, id=1787, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_1.pdf Graphic file (type pdf)
 <use images//Durchschnitt_1.pdf>
-Package pdftex.def Info: images//Durchschnitt_1.pdf  used on input line 651.
+Package pdftex.def Info: images//Durchschnitt_1.pdf  used on input line 655.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 <images//Durchschnitt_2.pdf, id=1788, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_2.pdf Graphic file (type pdf)
 <use images//Durchschnitt_2.pdf>
-Package pdftex.def Info: images//Durchschnitt_2.pdf  used on input line 658.
+Package pdftex.def Info: images//Durchschnitt_2.pdf  used on input line 662.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [73 <./images//Durchschnitt_1.pdf>]
 <images//Durchschnitt_3.pdf, id=1803, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_3.pdf Graphic file (type pdf)
 <use images//Durchschnitt_3.pdf>
-Package pdftex.def Info: images//Durchschnitt_3.pdf  used on input line 666.
+Package pdftex.def Info: images//Durchschnitt_3.pdf  used on input line 670.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
  [74 <./images//Durchschnitt_2.pdf>]) [75 <./images//Durchschnitt_3.pdf>] (main.aux (template/titlepage.aux) (template/declaration.aux) (text/acronym.aux) (text/chapter1.aux) (text/chapter2.aux) (text/chapter3.aux) (text/chapter4.aux) (text/chapter5.aux) (text/chapter6.aux))
 
@@ -1992,7 +1992,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  36624 strings out of 475389
  703092 string characters out of 2776057
- 1500294 words of memory out of 3000000
+ 1500293 words of memory out of 3000000
  56995 multiletter control sequences out of 15000+600000
  521013 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -2115,7 +2115,7 @@ pdfTeX warning (dest): name{cite.0@Galer.20221019} has been referenced but does 
 pdfTeX warning (dest): name{cite.0@.20230313} has been referenced but does not exist, replaced by a fixed one
 
 {C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (127 pages, 2769785 bytes).
+Output written on main.pdf (127 pages, 2771017 bytes).
 PDF statistics:
  1964 PDF objects out of 2073 (max. 8388607)
  355 named destinations out of 1000 (max. 500000)
