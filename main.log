@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  13 APR 2023 08:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  14 APR 2023 18:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1243,7 +1243,7 @@ Package hyperref Info: Link coloring OFF on input line 5.
 \openout2 = `template/titlepage.aux'.
 
  (template/titlepage.tex
-<images//company_logo.png, id=189, 414.1071pt x 205.0059pt>
+<images//company_logo.png, id=193, 414.1071pt x 205.0059pt>
 File: images//company_logo.png Graphic file (type png)
 <use images//company_logo.png>
 Package pdftex.def Info: images//company_logo.png  used on input line 5.
@@ -1274,7 +1274,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
  (C:\Users\I538951\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<images//dhbw_logo.jpg, id=191, 154.176pt x 78.5334pt>
+<images//dhbw_logo.jpg, id=195, 154.176pt x 78.5334pt>
 File: images//dhbw_logo.jpg Graphic file (type jpg)
 <use images//dhbw_logo.jpg>
 Package pdftex.def Info: images//dhbw_logo.jpg  used on input line 9.
@@ -1389,7 +1389,7 @@ although it is yet undefined on input line 4.
 ] [2] [3]
 
 pdfTeX warning: pdflatex (file ./images//Aufbau.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Aufbau.pdf, id=427, 821.34857pt x 513.59879pt>
+<images//Aufbau.pdf, id=435, 821.34857pt x 513.59879pt>
 File: images//Aufbau.pdf Graphic file (type pdf)
 <use images//Aufbau.pdf>
 Package pdftex.def Info: images//Aufbau.pdf  used on input line 19.
@@ -1403,7 +1403,7 @@ although it is yet undefined on input line 7.
 
 
 pdfTeX warning: pdflatex (file ./images//CEA.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CEA.pdf, id=446, 1081.1592pt x 654.40488pt>
+<images//CEA.pdf, id=454, 1081.1592pt x 654.40488pt>
 File: images//CEA.pdf Graphic file (type pdf)
 <use images//CEA.pdf>
 Package pdftex.def Info: images//CEA.pdf  used on input line 11.
@@ -1417,7 +1417,7 @@ although it is yet undefined on input line 19.
  <./images//CEA.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//CERP.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CERP.pdf, id=476, 878.32138pt x 458.07133pt>
+<images//CERP.pdf, id=484, 878.32138pt x 458.07133pt>
 File: images//CERP.pdf Graphic file (type pdf)
 <use images//CERP.pdf>
 Package pdftex.def Info: images//CERP.pdf  used on input line 23.
@@ -1425,7 +1425,7 @@ Package pdftex.def Info: images//CERP.pdf  used on input line 23.
 [6 <./images//CERP.pdf>] [7]
 
 pdfTeX warning: pdflatex (file ./images//CEA_K.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CEA_K.pdf, id=509, 853.50871pt x 682.83109pt>
+<images//CEA_K.pdf, id=517, 853.50871pt x 682.83109pt>
 File: images//CEA_K.pdf Graphic file (type pdf)
 <use images//CEA_K.pdf>
 Package pdftex.def Info: images//CEA_K.pdf  used on input line 36.
@@ -1452,7 +1452,7 @@ although it is yet undefined on input line 42.
 [8 <./images//CEA_K.pdf>] [9]
 
 pdfTeX warning: pdflatex (file ./images//Agile_Cycle.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Agile_Cycle.pdf, id=558, 805.20827pt x 156.585pt>
+<images//Agile_Cycle.pdf, id=566, 805.20827pt x 156.585pt>
 File: images//Agile_Cycle.pdf Graphic file (type pdf)
 <use images//Agile_Cycle.pdf>
 Package pdftex.def Info: images//Agile_Cycle.pdf  used on input line 51.
@@ -1464,7 +1464,7 @@ although it is yet undefined on input line 58.
 [10 <./images//Agile_Cycle.pdf>] [11]
 
 pdfTeX warning: pdflatex (file ./images//CICD_Cycle.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CICD_Cycle.pdf, id=594, 369.90193pt x 184.89075pt>
+<images//CICD_Cycle.pdf, id=602, 369.90193pt x 184.89075pt>
 File: images//CICD_Cycle.pdf Graphic file (type pdf)
 <use images//CICD_Cycle.pdf>
 Package pdftex.def Info: images//CICD_Cycle.pdf  used on input line 66.
@@ -1472,7 +1472,7 @@ Package pdftex.def Info: images//CICD_Cycle.pdf  used on input line 66.
 [12 <./images//CICD_Cycle.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//VCS.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//VCS.pdf, id=615, 540.5796pt x 176.45926pt>
+<images//VCS.pdf, id=623, 540.5796pt x 176.45926pt>
 File: images//VCS.pdf Graphic file (type pdf)
 <use images//VCS.pdf>
 Package pdftex.def Info: images//VCS.pdf  used on input line 78.
@@ -1487,7 +1487,7 @@ although it is yet undefined on input line 84.
 [13 <./images//VCS.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Tests.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Tests.pdf, id=639, 341.35529pt x 227.6505pt>
+<images//Tests.pdf, id=647, 341.35529pt x 227.6505pt>
 File: images//Tests.pdf Graphic file (type pdf)
 <use images//Tests.pdf>
 Package pdftex.def Info: images//Tests.pdf  used on input line 88.
@@ -1501,7 +1501,7 @@ although it is yet undefined on input line 95.
 [14 <./images//Tests.pdf>] [15] [16] [17]
 
 pdfTeX warning: pdflatex (file ./images//Deployment_Strategies.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Deployment_Strategies.pdf, id=690, 569.0058pt x 446.74904pt>
+<images//Deployment_Strategies.pdf, id=698, 569.0058pt x 446.74904pt>
 File: images//Deployment_Strategies.pdf Graphic file (type pdf)
 <use images//Deployment_Strategies.pdf>
 Package pdftex.def Info: images//Deployment_Strategies.pdf  used on input line 103.
@@ -1516,7 +1516,7 @@ Package pdftex.def Info: images//Deployment_Strategies.pdf  used on input line 1
 ] [21]
 
 pdfTeX warning: pdflatex (file ./images//AHP_H.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_H.pdf, id=737, 938.90778pt x 625.97867pt>
+<images//AHP_H.pdf, id=739, 938.90778pt x 625.97867pt>
 File: images//AHP_H.pdf Graphic file (type pdf)
 <use images//AHP_H.pdf>
 Package pdftex.def Info: images//AHP_H.pdf  used on input line 12.
@@ -1524,7 +1524,7 @@ Package pdftex.def Info: images//AHP_H.pdf  used on input line 12.
 [22 <./images//AHP_H.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//AHP_B.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_B.pdf, id=752, 938.90778pt x 483.60674pt>
+<images//AHP_B.pdf, id=754, 938.90778pt x 483.60674pt>
 File: images//AHP_B.pdf Graphic file (type pdf)
 <use images//AHP_B.pdf>
 Package pdftex.def Info: images//AHP_B.pdf  used on input line 22.
@@ -1539,7 +1539,7 @@ Package pdftex.def Info: images//AHP_B.pdf  used on input line 22.
 ]
 
 pdfTeX warning: pdflatex (file ./images//AHP_E.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_E.pdf, id=788, 426.75435pt x 625.85822pt>
+<images//AHP_E.pdf, id=790, 426.75435pt x 625.85822pt>
 File: images//AHP_E.pdf Graphic file (type pdf)
 <use images//AHP_E.pdf>
 Package pdftex.def Info: images//AHP_E.pdf  used on input line 9.
@@ -1558,7 +1558,7 @@ although it is yet undefined on input line 16.
 [27 <./images//AHP_E.pdf>] [28] [29] [30] [31] [32]
 
 pdfTeX warning: pdflatex (file ./images//Metrik.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Metrik.pdf, id=897, 707.5233pt x 257.2812pt>
+<images//Metrik.pdf, id=899, 707.5233pt x 257.2812pt>
 File: images//Metrik.pdf Graphic file (type pdf)
 <use images//Metrik.pdf>
 Package pdftex.def Info: images//Metrik.pdf  used on input line 24.
@@ -1566,7 +1566,7 @@ Package pdftex.def Info: images//Metrik.pdf  used on input line 24.
 [33 <./images//Metrik.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//metrik_qual.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//metrik_qual.pdf, id=914, 707.5233pt x 257.2812pt>
+<images//metrik_qual.pdf, id=916, 707.5233pt x 257.2812pt>
 File: images//metrik_qual.pdf Graphic file (type pdf)
 <use images//metrik_qual.pdf>
 Package pdftex.def Info: images//metrik_qual.pdf  used on input line 35.
@@ -1574,7 +1574,7 @@ Package pdftex.def Info: images//metrik_qual.pdf  used on input line 35.
 [34 <./images//metrik_qual.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//AHP_G.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//AHP_G.pdf, id=933, 739.80388pt x 625.73778pt>
+<images//AHP_G.pdf, id=935, 739.80388pt x 625.73778pt>
 File: images//AHP_G.pdf Graphic file (type pdf)
 <use images//AHP_G.pdf>
 Package pdftex.def Info: images//AHP_G.pdf  used on input line 49.
@@ -1587,7 +1587,7 @@ although it is yet undefined on input line 59.
  [36] [37] [38]
 
 pdfTeX warning: pdflatex (file ./images//CTM.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//CTM.pdf, id=1005, 1422.6349pt x 426.8748pt>
+<images//CTM.pdf, id=1007, 1422.6349pt x 426.8748pt>
 File: images//CTM.pdf Graphic file (type pdf)
 <use images//CTM.pdf>
 Package pdftex.def Info: images//CTM.pdf  used on input line 63.
@@ -1595,7 +1595,7 @@ Package pdftex.def Info: images//CTM.pdf  used on input line 63.
 [39 <./images//CTM.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//kibana.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//kibana.pdf, id=1032, 935.29424pt x 342.80069pt>
+<images//kibana.pdf, id=1034, 935.29424pt x 342.80069pt>
 File: images//kibana.pdf Graphic file (type pdf)
 <use images//kibana.pdf>
 Package pdftex.def Info: images//kibana.pdf  used on input line 73.
@@ -1603,46 +1603,67 @@ Package pdftex.def Info: images//kibana.pdf  used on input line 73.
 [40 <./images//kibana.pdf>] [41] [42] [43]
 
 pdfTeX warning: pdflatex (file ./images//Szenario.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Szenario.pdf, id=1090, 1162.70384pt x 627.30362pt>
+<images//Szenario.pdf, id=1092, 1162.70384pt x 627.30362pt>
 File: images//Szenario.pdf Graphic file (type pdf)
 <use images//Szenario.pdf>
 Package pdftex.def Info: images//Szenario.pdf  used on input line 83.
 (pdftex.def)             Requested size: 1162.701pt x 627.30208pt.
-
+[44 <./images//Szenario.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Performance.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Performance.pdf, id=1092, 991.90576pt x 542.025pt>
+<images//Performance.pdf, id=1136, 991.90576pt x 542.025pt>
 File: images//Performance.pdf Graphic file (type pdf)
 <use images//Performance.pdf>
 Package pdftex.def Info: images//Performance.pdf  used on input line 93.
 (pdftex.def)             Requested size: 991.90335pt x 542.02367pt.
-[44 <./images//Szenario.pdf>] [45 <./images//Performance.pdf>]
+[45 <./images//Performance.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Modular.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Modular.pdf, id=1157, 597.432pt x 219.09854pt>
+<images//Modular.pdf, id=1160, 597.432pt x 219.09854pt>
 File: images//Modular.pdf Graphic file (type pdf)
 <use images//Modular.pdf>
-Package pdftex.def Info: images//Modular.pdf  used on input line 104.
+Package pdftex.def Info: images//Modular.pdf  used on input line 103.
 (pdftex.def)             Requested size: 597.43054pt x 219.09799pt.
 [46 <./images//Modular.pdf>] [47] [48] [49]
 
 pdfTeX warning: pdflatex (file ./images//Ergebnis.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Ergebnis.pdf, id=1204, 853.50871pt x 711.01634pt>
+<images//Ergebnis.pdf, id=1208, 853.50871pt x 711.01634pt>
 File: images//Ergebnis.pdf Graphic file (type pdf)
 <use images//Ergebnis.pdf>
-Package pdftex.def Info: images//Ergebnis.pdf  used on input line 114.
+Package pdftex.def Info: images//Ergebnis.pdf  used on input line 113.
 (pdftex.def)             Requested size: 853.50664pt x 711.0146pt.
-) [50 <./images//Ergebnis.pdf>]
+[50]) [51 <./images//Ergebnis.pdf>]
 \openout2 = `text/chapter5.aux'.
 
- (text/chapter5.tex) [51
+ (text/chapter5.tex [52
 
 
 
-]
+] [53]
+
+pdfTeX warning: pdflatex (file ./images//Error.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images//Error.pdf, id=1259, 622.24469pt x 229.0959pt>
+File: images//Error.pdf Graphic file (type pdf)
+<use images//Error.pdf>
+Package pdftex.def Info: images//Error.pdf  used on input line 8.
+(pdftex.def)             Requested size: 622.24318pt x 229.09534pt.
+[54 <./images//Error.pdf>] [55] [56]
+
+pdfTeX warning: pdflatex (file ./images//Entscheidungsbaum.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images//Entscheidungsbaum.pdf, id=1285, 1020.45241pt x 399.6531pt>
+File: images//Entscheidungsbaum.pdf Graphic file (type pdf)
+<use images//Entscheidungsbaum.pdf>
+Package pdftex.def Info: images//Entscheidungsbaum.pdf  used on input line 18.
+(pdftex.def)             Requested size: 1020.44992pt x 399.65211pt.
+
+Overfull \hbox (83.43361pt too wide) in paragraph at lines 18--19
+ [][] 
+ []
+
+) [57 <./images//Entscheidungsbaum.pdf>] [58] [59]
 \openout2 = `text/chapter6.aux'.
 
- (text/chapter6.tex) [52
+ (text/chapter6.tex) [60
 
 
 
@@ -1658,152 +1679,147 @@ Overfull \hbox (58.04218pt too wide) in paragraph at lines 98--98
 [11] [12] [13] (text/appendix.tex [14]
 
 pdfTeX warning: pdflatex (file ./images//TTM.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//TTM.pdf, id=1335, 794.97pt x 614.295pt>
+<images//TTM.pdf, id=1402, 794.97pt x 614.295pt>
 File: images//TTM.pdf Graphic file (type pdf)
 <use images//TTM.pdf>
 Package pdftex.def Info: images//TTM.pdf  used on input line 11.
 (pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
-[15 <./images//TTM.pdf>]
-<images//J_RiskService.jpg, id=1352, 558.28575pt x 187.29974pt>
+[15 <./images//TTM.pdf>] [16]
+<images//J_RiskService.jpg, id=1424, 558.28575pt x 187.29974pt>
 File: images//J_RiskService.jpg Graphic file (type jpg)
 <use images//J_RiskService.jpg>
-Package pdftex.def Info: images//J_RiskService.jpg  used on input line 29.
+Package pdftex.def Info: images//J_RiskService.jpg  used on input line 31.
 (pdftex.def)             Requested size: 558.28438pt x 187.29927pt.
-<images//J_SupplierService.jpg, id=1353, 517.935pt x 177.66376pt>
+<images//J_SupplierService.jpg, id=1425, 517.935pt x 177.66376pt>
 File: images//J_SupplierService.jpg Graphic file (type jpg)
 <use images//J_SupplierService.jpg>
-Package pdftex.def Info: images//J_SupplierService.jpg  used on input line 38.
+Package pdftex.def Info: images//J_SupplierService.jpg  used on input line 40.
 (pdftex.def)             Requested size: 517.93372pt x 177.66331pt.
-<images//J_PlantService.jpg, id=1354, 537.207pt x 186.09525pt>
+<images//J_PlantService.jpg, id=1426, 537.207pt x 186.09525pt>
 File: images//J_PlantService.jpg Graphic file (type jpg)
 <use images//J_PlantService.jpg>
-Package pdftex.def Info: images//J_PlantService.jpg  used on input line 46.
+Package pdftex.def Info: images//J_PlantService.jpg  used on input line 48.
 (pdftex.def)             Requested size: 537.20569pt x 186.09477pt.
- [16 <./images//J_RiskService.jpg> <./images//J_SupplierService.jpg> <./images//J_PlantService.jpg>]
+ [17 <./images//J_RiskService.jpg> <./images//J_SupplierService.jpg> <./images//J_PlantService.jpg>]
 
 pdfTeX warning: pdflatex (file ./images//S_RiskService.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//S_RiskService.pdf, id=1361, 597.55246pt x 845.07718pt>
+<images//S_RiskService.pdf, id=1433, 597.55246pt x 845.07718pt>
 File: images//S_RiskService.pdf Graphic file (type pdf)
 <use images//S_RiskService.pdf>
-Package pdftex.def Info: images//S_RiskService.pdf  used on input line 54.
+Package pdftex.def Info: images//S_RiskService.pdf  used on input line 56.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[17] [18 <./images//S_RiskService.pdf>]
+[18] [19 <./images//S_RiskService.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//S_SupplierService.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//S_SupplierService.pdf, id=1381, 597.55246pt x 845.07718pt>
+<images//S_SupplierService.pdf, id=1454, 597.55246pt x 845.07718pt>
 File: images//S_SupplierService.pdf Graphic file (type pdf)
 <use images//S_SupplierService.pdf>
-Package pdftex.def Info: images//S_SupplierService.pdf  used on input line 63.
+Package pdftex.def Info: images//S_SupplierService.pdf  used on input line 65.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[19] [20 <./images//S_SupplierService.pdf>]
+[20] [21 <./images//S_SupplierService.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//S_PlantService.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//S_PlantService.pdf, id=1401, 597.55246pt x 845.07718pt>
+<images//S_PlantService.pdf, id=1474, 597.55246pt x 845.07718pt>
 File: images//S_PlantService.pdf Graphic file (type pdf)
 <use images//S_PlantService.pdf>
-Package pdftex.def Info: images//S_PlantService.pdf  used on input line 71.
+Package pdftex.def Info: images//S_PlantService.pdf  used on input line 73.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[21] [22 <./images//S_PlantService.pdf>] [23] [24]
-Underfull \hbox (badness 10000) in paragraph at lines 86--91
+[22] [23 <./images//S_PlantService.pdf>] [24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 88--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--91
+Underfull \hbox (badness 10000) in paragraph at lines 88--93
 
  []
 
 
-Overfull \hbox (43.16344pt too wide) in paragraph at lines 93--123
+Overfull \hbox (43.16344pt too wide) in paragraph at lines 95--125
 \OT1/lmr/bx/n/12 Interviewer: \OT1/lmr/m/n/12 Gibt es in dem SAP CI/CD-Tool ir-gend-wel-che []Uberwachungsfunktionalit[]aten? 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--123
+Underfull \hbox (badness 10000) in paragraph at lines 95--125
 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 123.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 125.
 (C:\Users\I538951\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [25] [26] [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 127--153
+) [26] [27] [28] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 129--155
 
  []
 
-[29] [30] [31]
-Underfull \hbox (badness 10000) in paragraph at lines 157--162
+[30] [31] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 159--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--162
+Underfull \hbox (badness 10000) in paragraph at lines 159--164
 
  []
 
-[32] [33]
-Overfull \hbox (104.51813pt too wide) in paragraph at lines 177--182
+[33] [34]
+Overfull \hbox (104.51813pt too wide) in paragraph at lines 179--184
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--182
+Underfull \hbox (badness 10000) in paragraph at lines 179--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--182
+Underfull \hbox (badness 10000) in paragraph at lines 179--184
 
  []
 
-[34] [35] [36]
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
-
- []
-
-[37]
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+[35] [36] [37]
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
 [38]
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 
  []
 
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 
  []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
  []
 
 
-Overfull \hbox (1.8533pt too wide) in paragraph at lines 326--326
- \OT1/lmr/m/n/12 onsm[]oglichkeiten| 
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
  []
 
 
 Overfull \hbox (1.8533pt too wide) in paragraph at lines 328--328
- \OT1/lmr/m/n/12 onsm[]oglichkeiten 
+ \OT1/lmr/m/n/12 onsm[]oglichkeiten| 
  []
 
 
@@ -1811,172 +1827,177 @@ Overfull \hbox (1.8533pt too wide) in paragraph at lines 330--330
  \OT1/lmr/m/n/12 onsm[]oglichkeiten 
  []
 
-[42] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
 
+Overfull \hbox (1.8533pt too wide) in paragraph at lines 332--332
+ \OT1/lmr/m/n/12 onsm[]oglichkeiten 
  []
 
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
+[43] [44]
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
 [45]
-Underfull \hbox (badness 10000) in paragraph at lines 387--388
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
-[46] [47]
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+
+ []
+
+[47] [48]
 
 pdfTeX warning: pdflatex (file ./images//Soelker_1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Soelker_1.pdf, id=1538, 597.55246pt x 845.07718pt>
+<images//Soelker_1.pdf, id=1610, 597.55246pt x 845.07718pt>
 File: images//Soelker_1.pdf Graphic file (type pdf)
 <use images//Soelker_1.pdf>
-Package pdftex.def Info: images//Soelker_1.pdf  used on input line 419.
+Package pdftex.def Info: images//Soelker_1.pdf  used on input line 421.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
 pdfTeX warning: pdflatex (file ./images//Soelker_2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Soelker_2.pdf, id=1539, 597.55246pt x 845.07718pt>
+<images//Soelker_2.pdf, id=1611, 597.55246pt x 845.07718pt>
 File: images//Soelker_2.pdf Graphic file (type pdf)
 <use images//Soelker_2.pdf>
-Package pdftex.def Info: images//Soelker_2.pdf  used on input line 426.
+Package pdftex.def Info: images//Soelker_2.pdf  used on input line 428.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[48 <./images//Soelker_1.pdf>]
+[49 <./images//Soelker_1.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Soelker_3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Soelker_3.pdf, id=1556, 597.55246pt x 845.07718pt>
+<images//Soelker_3.pdf, id=1629, 597.55246pt x 845.07718pt>
 File: images//Soelker_3.pdf Graphic file (type pdf)
 <use images//Soelker_3.pdf>
-Package pdftex.def Info: images//Soelker_3.pdf  used on input line 434.
+Package pdftex.def Info: images//Soelker_3.pdf  used on input line 436.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[49 <./images//Soelker_2.pdf>] [50 <./images//Soelker_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 441--453
+[50 <./images//Soelker_2.pdf>] [51 <./images//Soelker_3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 443--455
 
  []
 
-[51] [52]
-<images//Trump_1.pdf, id=1596, 597.55246pt x 845.07718pt>
+[52] [53]
+<images//Trump_1.pdf, id=1668, 597.55246pt x 845.07718pt>
 File: images//Trump_1.pdf Graphic file (type pdf)
 <use images//Trump_1.pdf>
-Package pdftex.def Info: images//Trump_1.pdf  used on input line 467.
+Package pdftex.def Info: images//Trump_1.pdf  used on input line 469.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-<images//Trump_2.pdf, id=1597, 597.55246pt x 845.07718pt>
+<images//Trump_2.pdf, id=1669, 597.55246pt x 845.07718pt>
 File: images//Trump_2.pdf Graphic file (type pdf)
 <use images//Trump_2.pdf>
-Package pdftex.def Info: images//Trump_2.pdf  used on input line 474.
+Package pdftex.def Info: images//Trump_2.pdf  used on input line 476.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [53 <./images//Trump_1.pdf>]
-<images//Trump_3.pdf, id=1612, 597.55246pt x 845.07718pt>
+ [54 <./images//Trump_1.pdf>]
+<images//Trump_3.pdf, id=1684, 597.55246pt x 845.07718pt>
 File: images//Trump_3.pdf Graphic file (type pdf)
 <use images//Trump_3.pdf>
-Package pdftex.def Info: images//Trump_3.pdf  used on input line 482.
+Package pdftex.def Info: images//Trump_3.pdf  used on input line 484.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [54 <./images//Trump_2.pdf>] [55 <./images//Trump_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 490--504
+ [55 <./images//Trump_2.pdf>] [56 <./images//Trump_3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 492--506
 
  []
 
-[56] [57]
-Overfull \hbox (54.41948pt too wide) in paragraph at lines 508--513
+[57] [58]
+Overfull \hbox (54.41948pt too wide) in paragraph at lines 510--515
 [] 
  []
 
 
 
 pdfTeX warning: pdflatex (file ./images//Bischoff_1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Bischoff_1.pdf, id=1648, 597.55246pt x 845.07718pt>
+<images//Bischoff_1.pdf, id=1720, 597.55246pt x 845.07718pt>
 File: images//Bischoff_1.pdf Graphic file (type pdf)
 <use images//Bischoff_1.pdf>
-Package pdftex.def Info: images//Bischoff_1.pdf  used on input line 516.
+Package pdftex.def Info: images//Bischoff_1.pdf  used on input line 518.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
 pdfTeX warning: pdflatex (file ./images//Bischoff_2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Bischoff_2.pdf, id=1649, 597.55246pt x 845.07718pt>
+<images//Bischoff_2.pdf, id=1721, 597.55246pt x 845.07718pt>
 File: images//Bischoff_2.pdf Graphic file (type pdf)
 <use images//Bischoff_2.pdf>
-Package pdftex.def Info: images//Bischoff_2.pdf  used on input line 523.
+Package pdftex.def Info: images//Bischoff_2.pdf  used on input line 525.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[58 <./images//Bischoff_1.pdf>]
+[59 <./images//Bischoff_1.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Bischoff_3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Bischoff_3.pdf, id=1666, 597.55246pt x 845.07718pt>
+<images//Bischoff_3.pdf, id=1738, 597.55246pt x 845.07718pt>
 File: images//Bischoff_3.pdf Graphic file (type pdf)
 <use images//Bischoff_3.pdf>
-Package pdftex.def Info: images//Bischoff_3.pdf  used on input line 531.
+Package pdftex.def Info: images//Bischoff_3.pdf  used on input line 533.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[59 <./images//Bischoff_2.pdf>] [60 <./images//Bischoff_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 538--550
+[60 <./images//Bischoff_2.pdf>] [61 <./images//Bischoff_3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 540--552
 
  []
 
-[61] [62]
+[62] [63]
 
 pdfTeX warning: pdflatex (file ./images//Adams_1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Adams_1.pdf, id=1705, 597.55246pt x 845.07718pt>
+<images//Adams_1.pdf, id=1778, 597.55246pt x 845.07718pt>
 File: images//Adams_1.pdf Graphic file (type pdf)
 <use images//Adams_1.pdf>
-Package pdftex.def Info: images//Adams_1.pdf  used on input line 564.
+Package pdftex.def Info: images//Adams_1.pdf  used on input line 566.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
 pdfTeX warning: pdflatex (file ./images//Adams_2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Adams_2.pdf, id=1706, 597.55246pt x 845.07718pt>
+<images//Adams_2.pdf, id=1779, 597.55246pt x 845.07718pt>
 File: images//Adams_2.pdf Graphic file (type pdf)
 <use images//Adams_2.pdf>
-Package pdftex.def Info: images//Adams_2.pdf  used on input line 571.
+Package pdftex.def Info: images//Adams_2.pdf  used on input line 573.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[63 <./images//Adams_1.pdf>]
+[64 <./images//Adams_1.pdf>]
 
 pdfTeX warning: pdflatex (file ./images//Adams_3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//Adams_3.pdf, id=1724, 597.55246pt x 845.07718pt>
+<images//Adams_3.pdf, id=1796, 597.55246pt x 845.07718pt>
 File: images//Adams_3.pdf Graphic file (type pdf)
 <use images//Adams_3.pdf>
-Package pdftex.def Info: images//Adams_3.pdf  used on input line 579.
+Package pdftex.def Info: images//Adams_3.pdf  used on input line 581.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-[64 <./images//Adams_2.pdf>] [65 <./images//Adams_3.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 586--598
+[65 <./images//Adams_2.pdf>] [66 <./images//Adams_3.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 588--600
 
  []
 
-[66] [67]
+[67] [68]
 File: images//Adams_1.pdf Graphic file (type pdf)
 <use images//Adams_1.pdf>
-Package pdftex.def Info: images//Adams_1.pdf  used on input line 612.
+Package pdftex.def Info: images//Adams_1.pdf  used on input line 614.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: images//Adams_2.pdf Graphic file (type pdf)
 <use images//Adams_2.pdf>
-Package pdftex.def Info: images//Adams_2.pdf  used on input line 619.
+Package pdftex.def Info: images//Adams_2.pdf  used on input line 621.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [68]
+ [69]
 File: images//Adams_3.pdf Graphic file (type pdf)
 <use images//Adams_3.pdf>
-Package pdftex.def Info: images//Adams_3.pdf  used on input line 627.
+Package pdftex.def Info: images//Adams_3.pdf  used on input line 629.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [69] [70]
-Underfull \hbox (badness 10000) in paragraph at lines 634--646
+ [70] [71]
+Underfull \hbox (badness 10000) in paragraph at lines 636--648
 
  []
 
-[71] [72]
-<images//Durchschnitt_1.pdf, id=1787, 597.55246pt x 845.07718pt>
+[72] [73]
+<images//Durchschnitt_1.pdf, id=1860, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_1.pdf Graphic file (type pdf)
 <use images//Durchschnitt_1.pdf>
-Package pdftex.def Info: images//Durchschnitt_1.pdf  used on input line 655.
+Package pdftex.def Info: images//Durchschnitt_1.pdf  used on input line 657.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-<images//Durchschnitt_2.pdf, id=1788, 597.55246pt x 845.07718pt>
+<images//Durchschnitt_2.pdf, id=1861, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_2.pdf Graphic file (type pdf)
 <use images//Durchschnitt_2.pdf>
-Package pdftex.def Info: images//Durchschnitt_2.pdf  used on input line 662.
+Package pdftex.def Info: images//Durchschnitt_2.pdf  used on input line 664.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [73 <./images//Durchschnitt_1.pdf>]
-<images//Durchschnitt_3.pdf, id=1803, 597.55246pt x 845.07718pt>
+ [74 <./images//Durchschnitt_1.pdf>]
+<images//Durchschnitt_3.pdf, id=1876, 597.55246pt x 845.07718pt>
 File: images//Durchschnitt_3.pdf Graphic file (type pdf)
 <use images//Durchschnitt_3.pdf>
-Package pdftex.def Info: images//Durchschnitt_3.pdf  used on input line 670.
+Package pdftex.def Info: images//Durchschnitt_3.pdf  used on input line 672.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
- [74 <./images//Durchschnitt_2.pdf>]) [75 <./images//Durchschnitt_3.pdf>] (main.aux (template/titlepage.aux) (template/declaration.aux) (text/acronym.aux) (text/chapter1.aux) (text/chapter2.aux) (text/chapter3.aux) (text/chapter4.aux) (text/chapter5.aux) (text/chapter6.aux))
+ [75 <./images//Durchschnitt_2.pdf>]) [76 <./images//Durchschnitt_3.pdf>] (main.aux (template/titlepage.aux) (template/declaration.aux) (text/acronym.aux) (text/chapter1.aux) (text/chapter2.aux) (text/chapter3.aux) (text/chapter4.aux) (text/chapter5.aux) (text/chapter6.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -1984,19 +2005,22 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 851E21193AD2E6B2818AAA09860D3078;10252.
+(rerunfilecheck)             Checksum: 349A24D23918523DB37E2DEB1EB5D490;10285.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36624 strings out of 475389
- 703092 string characters out of 2776057
- 1500293 words of memory out of 3000000
- 56995 multiletter control sequences out of 15000+600000
+ 36657 strings out of 475389
+ 703776 string characters out of 2776057
+ 1500495 words of memory out of 3000000
+ 57016 multiletter control sequences out of 15000+600000
  521013 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  105i,12n,107p,10097b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{cite.0@Atlassian.20230409} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{cite.0@.20230410g} has been referenced but does not exist, replaced by a fixed one
 
@@ -2067,9 +2091,6 @@ pdfTeX warning (dest): name{cite.0@Arora.20200504} has been referenced but does 
 pdfTeX warning (dest): name{cite.0@.20230405b} has been referenced but does not exist, replaced by a fixed one
 
 
-pdfTeX warning (dest): name{cite.0@Atlassian.20230409} has been referenced but does not exist, replaced by a fixed one
-
-
 pdfTeX warning (dest): name{cite.0@Ugochi.20220503} has been referenced but does not exist, replaced by a fixed one
 
 
@@ -2115,9 +2136,9 @@ pdfTeX warning (dest): name{cite.0@Galer.20221019} has been referenced but does 
 pdfTeX warning (dest): name{cite.0@.20230313} has been referenced but does not exist, replaced by a fixed one
 
 {C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmsc.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/I538951/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (127 pages, 2771017 bytes).
+Output written on main.pdf (136 pages, 2833416 bytes).
 PDF statistics:
- 1964 PDF objects out of 2073 (max. 8388607)
- 355 named destinations out of 1000 (max. 500000)
- 606 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2039 PDF objects out of 2073 (max. 8388607)
+ 367 named destinations out of 1000 (max. 500000)
+ 624 words of extra memory for PDF output out of 10000 (max. 10000000)
 

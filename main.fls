@@ -1581,6 +1581,16 @@ INPUT .\text\chapter5.tex
 INPUT text\chapter5.tex
 INPUT .\text\chapter5.tex
 INPUT text\chapter5.tex
+INPUT .\images\\Error.pdf
+INPUT images\\Error.pdf
+INPUT .\images\\Error.pdf
+INPUT .\images\\Error.pdf
+INPUT .\images\\Error.pdf
+INPUT .\images\\Entscheidungsbaum.pdf
+INPUT images\\Entscheidungsbaum.pdf
+INPUT .\images\\Entscheidungsbaum.pdf
+INPUT .\images\\Entscheidungsbaum.pdf
+INPUT .\images\\Entscheidungsbaum.pdf
 INPUT .\text\chapter6.tex
 INPUT .\text\chapter6.tex
 INPUT .\text\chapter6.tex
