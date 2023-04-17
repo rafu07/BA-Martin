@@ -2,9 +2,9 @@
 \babel@toc {ngerman}{}\relax 
 \etoc@depthtag {mtchapter}
 \contentsline {section}{Selbstständigkeitserklärung}{II}{section*.1}%
-\contentsline {section}{Abkürzungsverzeichnis}{V}{section*.3}%
-\contentsline {section}{Abbildungsverzeichnis}{VII}{section*.4}%
-\contentsline {section}{Tabellenverzeichnis}{VIII}{section*.5}%
+\contentsline {section}{Abkürzungsverzeichnis}{VI}{section*.4}%
+\contentsline {section}{Abbildungsverzeichnis}{VIII}{section*.5}%
+\contentsline {section}{Tabellenverzeichnis}{IX}{section*.6}%
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Motivation und Problemstellung}{1}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Zielsetzung und Abgrenzung}{2}{subsection.1.2}%
@@ -17,35 +17,35 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Agile und DevOps als moderne Softwareentwicklungskonzepte}{10}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Automatisierung der Integrations- und Bereitstellungsprozesse}{12}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Strategien zur Bereitstellung von Neuentwicklungen}{18}{subsubsection.2.2.3}%
-\contentsline {section}{\numberline {3}Methodische Vorgehensweise}{20}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Semistrukturierte Leitfadeninterviews zur Erhebung qualitativer Daten}{20}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Evaluation von Integrations- und Bereitstellungs-Tools unter Anwendung des Analytischen Hierarchieprozesses}{22}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Evaluation der Integrations- und Bereitstellungs-Pipelines unter Anwendung des Analytischen Hierarchieprozesses}{26}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Definition der Entscheidungskriterien}{26}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Festlegung der Bewertungsmetriken}{33}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Ermittlung der Gewichtungsfaktoren}{34}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Bewertung der Entscheidungsalternativen}{36}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Entwicklung einer Handlungsempfehlung}{52}{section.5}%
-\contentsline {section}{\numberline {6}Schlussbetrachtung}{60}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Fazit und kritische Reflexion}{60}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Ausblick auf zukünftige Entwicklungen}{60}{subsection.6.2}%
-\contentsline {section}{Literaturverzeichnis}{IX}{subsection.6.2}%
-\contentsline {section}{Anhang}{XIII}{section*.53}%
+\contentsline {section}{\numberline {3}Methodische Vorgehensweise}{21}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Semistrukturierte Leitfadeninterviews zur Erhebung qualitativer Daten}{21}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Evaluation von Integrations- und Bereitstellungs-Tools unter Anwendung des Analytischen Hierarchieprozesses}{23}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Evaluation der Integrations- und Bereitstellungs-Pipelines unter Anwendung des Analytischen Hierarchieprozesses}{27}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Definition der Entscheidungskriterien}{27}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Festlegung der Bewertungsmetriken}{34}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Ermittlung der Gewichtungsfaktoren}{36}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Bewertung der Entscheidungsalternativen}{37}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Entwicklung einer Handlungsempfehlung}{53}{section.5}%
+\contentsline {section}{\numberline {6}Schlussbetrachtung}{61}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Fazit und kritische Reflexion}{61}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Ausblick auf zukünftige Entwicklungen}{63}{subsection.6.2}%
+\contentsline {section}{Literaturverzeichnis}{X}{subsection.6.2}%
+\contentsline {section}{Anhang}{XVIII}{section*.55}%
 \etoc@depthtag {mtappendix}
-\contentsline {section}{\numberline {A}Allgemeine Ergänzungen}{XIV}{appendix.a.A}%
-\contentsline {subsection}{\numberline {A.1}DevOps}{XIV}{subsection.a.A.1}%
-\contentsline {subsection}{\numberline {A.2}Ramped-Deployment}{XV}{subsection.a.A.2}%
-\contentsline {subsection}{\numberline {A.3}Feauture Flags}{XVI}{subsection.a.A.3}%
-\contentsline {section}{\numberline {B}Grafiken}{XVII}{appendix.a.B}%
-\contentsline {section}{\numberline {C}Expertenmaterialien}{XXV}{appendix.a.C}%
-\contentsline {subsection}{\numberline {C.1}Experteninterview 1}{XXVI}{subsection.a.C.1}%
-\contentsline {subsection}{\numberline {C.2}Experteninterview 2}{XXX}{subsection.a.C.2}%
-\contentsline {subsection}{\numberline {C.3}Experteninterview 3}{XXXIII}{subsection.a.C.3}%
-\contentsline {subsection}{\numberline {C.4}Experteninterview 4}{XXXV}{subsection.a.C.4}%
-\contentsline {subsection}{\numberline {C.5}Kodierung der Experteninterviews}{XXXVIII}{subsection.a.C.5}%
-\contentsline {subsection}{\numberline {C.6}Expertengewichtung 1}{XLIX}{subsection.a.C.6}%
-\contentsline {subsection}{\numberline {C.7}Expertengewichtung 2}{LIV}{subsection.a.C.7}%
-\contentsline {subsection}{\numberline {C.8}Expertengewichtung 3}{LIX}{subsection.a.C.8}%
-\contentsline {subsection}{\numberline {C.9}Expertengewichtung 4}{LXIV}{subsection.a.C.9}%
-\contentsline {subsection}{\numberline {C.10}Expertengewichtung 5}{LXIX}{subsection.a.C.10}%
-\contentsline {subsection}{\numberline {C.11}Expertengewichtung Durchschnitt}{LXXIV}{subsection.a.C.11}%
+\contentsline {section}{\numberline {A}Allgemeine Ergänzungen}{XIX}{appendix.a.A}%
+\contentsline {subsection}{\numberline {A.1}DevOps}{XIX}{subsection.a.A.1}%
+\contentsline {subsection}{\numberline {A.2}Ramped-Deployment}{XX}{subsection.a.A.2}%
+\contentsline {subsection}{\numberline {A.3}Feauture Flags}{XXI}{subsection.a.A.3}%
+\contentsline {section}{\numberline {B}Grafiken}{XXII}{appendix.a.B}%
+\contentsline {section}{\numberline {C}Expertenmaterialien}{XXX}{appendix.a.C}%
+\contentsline {subsection}{\numberline {C.1}Experteninterview 1}{XXXI}{subsection.a.C.1}%
+\contentsline {subsection}{\numberline {C.2}Experteninterview 2}{XXXV}{subsection.a.C.2}%
+\contentsline {subsection}{\numberline {C.3}Experteninterview 3}{XXXVIII}{subsection.a.C.3}%
+\contentsline {subsection}{\numberline {C.4}Experteninterview 4}{XL}{subsection.a.C.4}%
+\contentsline {subsection}{\numberline {C.5}Kodierung der Experteninterviews}{XLIII}{subsection.a.C.5}%
+\contentsline {subsection}{\numberline {C.6}Expertengewichtung 1}{LIV}{subsection.a.C.6}%
+\contentsline {subsection}{\numberline {C.7}Expertengewichtung 2}{LIX}{subsection.a.C.7}%
+\contentsline {subsection}{\numberline {C.8}Expertengewichtung 3}{LXIV}{subsection.a.C.8}%
+\contentsline {subsection}{\numberline {C.9}Expertengewichtung 4}{LXIX}{subsection.a.C.9}%
+\contentsline {subsection}{\numberline {C.10}Expertengewichtung 5}{LXXIV}{subsection.a.C.10}%
+\contentsline {subsection}{\numberline {C.11}Expertengewichtung Durchschnitt}{LXXIX}{subsection.a.C.11}%

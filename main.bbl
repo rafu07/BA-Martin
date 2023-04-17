@@ -391,7 +391,7 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labeltitlesource}{title}
-      \field{title}{Build Stage - Project {"}Piper{"}: Continuous Delivery for the SAP Ecosystem}
+      \field{title}{Build Stage - Project Piper: Continuous Delivery for the SAP Ecosystem}
       \field{urlday}{10}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
@@ -460,7 +460,7 @@
       \field{sortinit}{c}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labeltitlesource}{title}
-      \field{title}{cloudFoundryDeploy - Project {"}Piper{"}: Continuous Delivery for the SAP Ecosystem}
+      \field{title}{cloudFoundryDeploy - Project Piper: Continuous Delivery for the SAP Ecosystem}
       \field{urlday}{10}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
@@ -636,6 +636,38 @@
       \verb 10.1111/j.1745-493X.1993.tb00013.x
       \endverb
     \endentry
+    \entry{Exterman.2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3845e914284a0349be9151d0bcfcef2e}{%
+           family={Exterman},
+           familyi={E\bibinitperiod},
+           given={Dori},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3845e914284a0349be9151d0bcfcef2e}
+      \strng{fullhash}{3845e914284a0349be9151d0bcfcef2e}
+      \strng{bibnamehash}{3845e914284a0349be9151d0bcfcef2e}
+      \strng{authorbibnamehash}{3845e914284a0349be9151d0bcfcef2e}
+      \strng{authornamehash}{3845e914284a0349be9151d0bcfcef2e}
+      \strng{authorfullhash}{3845e914284a0349be9151d0bcfcef2e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{AI and machine learning have gained a stronger presence in the tech industry by changing how DevOps teams build and manage their resources.}
+      \field{title}{DevOps and AI - A Match Made in Heaven}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.incredibuild.com/blog/devops-and-ai-a-match-made-in-heaven
+      \endverb
+      \verb{url}
+      \verb https://www.incredibuild.com/blog/devops-and-ai-a-match-made-in-heaven
+      \endverb
+    \endentry
     \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.b}{misc}{}
       \name{editor}{1}{}{%
         {{hash=c369de64e83a41ce863718ad97787ffc}{%
@@ -694,6 +726,24 @@
       \field{labeltitlesource}{title}
       \field{note}{21.03.2023}
       \field{title}{Expertengewichtung 2}
+    \endentry
+    \entry{Foundation.2022}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Read what the CDF Ambassadors have to say about the future of Continuous Delivery}
+      \field{title}{Future of Continuous Delivery Trends - CD Foundation}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cd.foundation/blog/2022/04/01/future-of-continuous-delivery-trends/
+      \endverb
+      \verb{url}
+      \verb https://cd.foundation/blog/2022/04/01/future-of-continuous-delivery-trends/
+      \endverb
     \endentry
     \entry{Galer.20221019}{online}{}
       \name{author}{1}{}{%
@@ -1202,6 +1252,39 @@
       \verb https://www.gartner.com/en/articles/you-ll-be-breaking-up-with-bad-customers-and-9-other-predictions-for-2022-and-beyond
       \endverb
     \endentry
+    \entry{.c}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=1a26015fe99b05b04692cfe4294ecb12}{%
+           family={{Panorama Consulting Solutions}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a26015fe99b05b04692cfe4294ecb12}
+      \strng{fullhash}{1a26015fe99b05b04692cfe4294ecb12}
+      \strng{bibnamehash}{1a26015fe99b05b04692cfe4294ecb12}
+      \strng{editorbibnamehash}{1a26015fe99b05b04692cfe4294ecb12}
+      \strng{editornamehash}{1a26015fe99b05b04692cfe4294ecb12}
+      \strng{editorfullhash}{1a26015fe99b05b04692cfe4294ecb12}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The 2019 ERP Report}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb The 2019 ERP Report:Attachments/The 2019 ERP Report.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.panorama-consulting.com/resource-center/erp-software-research-and-reports/panorama-consulting-solutions-2019-erp-report/
+      \endverb
+      \verb{url}
+      \verb https://www.panorama-consulting.com/resource-center/erp-software-research-and-reports/panorama-consulting-solutions-2019-erp-report/
+      \endverb
+    \endentry
     \entry{Exposit.2021}{online}{}
       \name{author}{1}{}{%
         {{hash=ba2f7607ff078739f3154a853c30d35a}{%
@@ -1413,7 +1496,7 @@
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
-      \field{title}{Release Stage - Project {"}Piper{"}: Continuous Delivery for the SAP Ecosystem}
+      \field{title}{Release Stage - Project Piper: Continuous Delivery for the SAP Ecosystem}
       \field{urlday}{10}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
@@ -1574,6 +1657,37 @@
       \endverb
       \verb{url}
       \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
+      \endverb
+    \endentry
+    \entry{.20230415}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0e31e38f4ca4082da53bcf84e409f402}{%
+           family={Silverthorne},
+           familyi={S\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e31e38f4ca4082da53bcf84e409f402}
+      \strng{fullhash}{0e31e38f4ca4082da53bcf84e409f402}
+      \strng{bibnamehash}{0e31e38f4ca4082da53bcf84e409f402}
+      \strng{authorbibnamehash}{0e31e38f4ca4082da53bcf84e409f402}
+      \strng{authornamehash}{0e31e38f4ca4082da53bcf84e409f402}
+      \strng{authorfullhash}{0e31e38f4ca4082da53bcf84e409f402}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why AI in DevOps is here to stay}
+      \field{urlday}{16}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://about.gitlab.com/blog/2022/09/15/why-ai-in-devops-is-here-to-stay/
+      \endverb
+      \verb{url}
+      \verb https://about.gitlab.com/blog/2022/09/15/why-ai-in-devops-is-here-to-stay/
       \endverb
     \endentry
     \entry{SoftwareArchitektSAPDTSIntegration.}{misc}{}

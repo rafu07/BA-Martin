@@ -29,6 +29,8 @@
 \include{template/titlepage}
 \include{template/declaration}
 
+\include{text/abstract.tex}
+
 \ifblockingnotice
 \include{template/blockingNotice}
 \fi
@@ -96,7 +98,9 @@
 
 \printbibheading
 \printbibliography[nottype=online,notcategory=relevant, notcategory=exclude, heading=subbibliography, title={Print-Quellen}]
+\printbibliography[type=online,notcategory=relevant, notcategory=exclude, heading=subbibliography, title={Online-Quellen}]
 \printbibliography[type=misc,category=relevant,category=exclude, title={Exerteninterviews}]
+
 
 
 

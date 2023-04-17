@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  10 APR 2023 22:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2023.3.9)  15 APR 2023 14:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1062,10 +1062,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip119
 )
-c:/Users/I538951/Documents/BA/BA-Martin/config/preamble.tex:128: Undefined control sequence.
+c:/Users/I538951/Documents/BA/BA-Martin/config/preamble.tex:147: Undefined control sequence.
 <argument> \thesisTitle 
                         
-l.128 ...le = {\thesisTitle}, pdfauthor = {\name}}
+l.147 ...le = {\thesisTitle}, pdfauthor = {\name}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1073,10 +1073,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/I538951/Documents/BA/BA-Martin/config/preamble.tex:128: Undefined control sequence.
+c:/Users/I538951/Documents/BA/BA-Martin/config/preamble.tex:147: Undefined control sequence.
 <argument> \name 
                  
-l.128 ...le = {\thesisTitle}, pdfauthor = {\name}}
+l.147 ...le = {\thesisTitle}, pdfauthor = {\name}}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1095,7 +1095,7 @@ and I'll forget about whatever was undefined.
 Here is how much of TeX's memory you used:
  33247 strings out of 475389
  629920 string characters out of 2776057
- 1139018 words of memory out of 3000000
+ 1141444 words of memory out of 3000000
  54146 multiletter control sequences out of 15000+600000
  469557 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
