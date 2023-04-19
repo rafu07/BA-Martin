@@ -19,24 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{GoogleCloud.20230313}{online}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labeltitlesource}{title}
-      \field{abstract}{DevOps tools, practices, and research to help you get the agility, without compromising on quality or stability.}
-      \field{title}{2022 State of DevOps Report - Google Cloud}
-      \field{urlday}{11}
-      \field{urlmonth}{4}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://cloud.google.com/devops/state-of-devops
-      \endverb
-      \verb{url}
-      \verb https://cloud.google.com/devops/state-of-devops
-      \endverb
-    \endentry
     \entry{K&C.2021}{online}{}
       \name{author}{1}{}{%
         {{hash=bed39189b812b1b9fa2aaaa30c2257ad}{%
@@ -404,56 +386,38 @@
       \verb https://www.project-piper.io/stages/build/
       \endverb
     \endentry
-    \entry{Chang.1019202010232020}{incollection}{}
-      \name{author}{6}{}{%
-        {{hash=de78f6f4bdfa9118569700c4b5c58f80}{%
-           family={Chang},
+    \entry{.d}{online}{}
+      \name{author}{1}{}{%
+        {{hash=565b46af8657183742e5b786bcb7a755}{%
+           family={Cecchini},
            familyi={C\bibinitperiod},
-           given={Rong\bibnamedelima N.},
-           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=676acfe41d236ea6e4f8285d2102e280}{%
-           family={Bhaskaran},
-           familyi={B\bibinitperiod},
-           given={Kumar},
-           giveni={K\bibinitperiod}}}%
-        {{hash=35793ae5834744d1a6b5b7efb750a23e}{%
-           family={Dey},
-           familyi={D\bibinitperiod},
-           given={Prasenjit},
-           giveni={P\bibinitperiod}}}%
-        {{hash=a359ca3afe44ac2e4b788e4bb5e06340}{%
-           family={Hsu},
-           familyi={H\bibinitperiod},
-           given={Hsianghan},
-           giveni={H\bibinitperiod}}}%
-        {{hash=a4c88c22894333a7d57a013dbf5a32f8}{%
-           family={Takeda},
-           familyi={T\bibinitperiod},
-           given={Seiji},
-           giveni={S\bibinitperiod}}}%
-        {{hash=9dacb3dea73109a49ec83bc65c291527}{%
-           family={Hama},
-           familyi={H\bibinitperiod},
-           given={Toshiyuki},
-           giveni={T\bibinitperiod}}}%
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{9500264cc07e1c050e579da2838b5887}
-      \strng{fullhash}{206cbf9f55014cfcc20f362dba5cf910}
-      \strng{bibnamehash}{9500264cc07e1c050e579da2838b5887}
-      \strng{authorbibnamehash}{9500264cc07e1c050e579da2838b5887}
-      \strng{authornamehash}{9500264cc07e1c050e579da2838b5887}
-      \strng{authorfullhash}{206cbf9f55014cfcc20f362dba5cf910}
+      \strng{namehash}{565b46af8657183742e5b786bcb7a755}
+      \strng{fullhash}{565b46af8657183742e5b786bcb7a755}
+      \strng{bibnamehash}{565b46af8657183742e5b786bcb7a755}
+      \strng{authorbibnamehash}{565b46af8657183742e5b786bcb7a755}
+      \strng{authornamehash}{565b46af8657183742e5b786bcb7a755}
+      \strng{authorfullhash}{565b46af8657183742e5b786bcb7a755}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{bookpagination}{page}
-      \field{booktitle}{2020 IEEE 13th International Conference - 10/23/2020}
-      \field{title}{Realizing A Composable Enterprise Microservices Fabric with AI-Accelerated Material Discovery API Services}
-      \field{pages}{313\bibrangedash 320}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1109/CLOUD49709.2020.00051
+      \field{title}{What It Is and Why It's Important - Part 2}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb What It Is and Why It's Important - Part 2 - ITPFED:Attachments/What It Is and Why It's Important - Part 2 - ITPFED.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://itpfed.com/composable-erp-what-it-is-and-why-its-important-part-2/
+      \endverb
+      \verb{url}
+      \verb https://itpfed.com/composable-erp-what-it-is-and-why-its-important-part-2/
       \endverb
     \endentry
     \entry{.20230406c}{online}{}
@@ -603,6 +567,36 @@
       \endverb
       \verb{url}
       \verb https://www.forbes.com/sites/stevedenning/2017/02/10/beyond-agile-operations-how-to-achieve-the-holy-grail-of-strategic-agility/?sh=712d37dc2b6a
+      \endverb
+    \endentry
+    \entry{GoogleCloud.20230313}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=affa5249363911dd655e5a7cfacb49e6}{%
+           family={Dora},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{affa5249363911dd655e5a7cfacb49e6}
+      \strng{fullhash}{affa5249363911dd655e5a7cfacb49e6}
+      \strng{bibnamehash}{affa5249363911dd655e5a7cfacb49e6}
+      \strng{editorbibnamehash}{affa5249363911dd655e5a7cfacb49e6}
+      \strng{editornamehash}{affa5249363911dd655e5a7cfacb49e6}
+      \strng{editorfullhash}{affa5249363911dd655e5a7cfacb49e6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{DevOps tools, practices, and research to help you get the agility, without compromising on quality or stability.}
+      \field{title}{2022 State of DevOps Report - Google Cloud}
+      \field{urlday}{11}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cloud.google.com/devops/state-of-devops
+      \endverb
+      \verb{url}
+      \verb https://cloud.google.com/devops/state-of-devops
       \endverb
     \endentry
     \entry{Ellram.1993}{article}{}
@@ -778,6 +772,53 @@
       \endverb
       \verb{url}
       \verb https://news.sap.com/2022/10/composable-business-for-disrupted-erp-systems/
+      \endverb
+    \endentry
+    \entry{Gartner.20230418}{online}{}
+      \name{author}{4}{}{%
+        {{hash=fa46e63708ee900e66fc91951175d29e}{%
+           family={Gaughan},
+           familyi={G\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{hash=35b1f0bcd34a1052a892bbf1813ee23a}{%
+           family={Natis},
+           familyi={N\bibinitperiod},
+           given={Yefim},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b7fe634483bdb55db26eb68c84e24b87}{%
+           family={Alvarez},
+           familyi={A\bibinitperiod},
+           given={Gene},
+           giveni={G\bibinitperiod}}}%
+        {{hash=fe07b09a708b95919d02b1fad20d648d}{%
+           family={O'Neill},
+           familyi={O\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c69577e82e18a04e4f3ae086b63c09cb}
+      \strng{fullhash}{b64ddffd079694d97b2b5d170f6ab9fe}
+      \strng{bibnamehash}{c69577e82e18a04e4f3ae086b63c09cb}
+      \strng{authorbibnamehash}{c69577e82e18a04e4f3ae086b63c09cb}
+      \strng{authornamehash}{c69577e82e18a04e4f3ae086b63c09cb}
+      \strng{authorfullhash}{b64ddffd079694d97b2b5d170f6ab9fe}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To deliver on digital transformation, your organization needs applications that can be assembled, reassembled and extended. This will allow you to innovate and adapt to the changing needs of your business. You need to begin to enable the composable enterprise, and you need to start now.}
+      \field{title}{Future of Applications: Delivering the Composable Enterprise}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gartner.com/en/doc/465932-future-of-applications-delivering-the-composable-enterprise
+      \endverb
+      \verb{url}
+      \verb https://www.gartner.com/en/doc/465932-future-of-applications-delivering-the-composable-enterprise
       \endverb
     \endentry
     \entry{Gerson.2021}{book}{}
@@ -1555,39 +1596,6 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1504/IJSSCI.2008.017590
-      \endverb
-    \endentry
-    \entry{Sarferaz.2022}{book}{}
-      \name{editor}{1}{}{%
-        {{hash=73792d2b055a233154c8517a97bba61b}{%
-           family={Sarferaz},
-           familyi={S\bibinitperiod},
-           given={Siar},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cham}%
-      }
-      \list{publisher}{2}{%
-        {Springer International Publishing}%
-        {Imprint: Springer}%
-      }
-      \strng{namehash}{73792d2b055a233154c8517a97bba61b}
-      \strng{fullhash}{73792d2b055a233154c8517a97bba61b}
-      \strng{bibnamehash}{73792d2b055a233154c8517a97bba61b}
-      \strng{editorbibnamehash}{73792d2b055a233154c8517a97bba61b}
-      \strng{editornamehash}{73792d2b055a233154c8517a97bba61b}
-      \strng{editorfullhash}{73792d2b055a233154c8517a97bba61b}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{edition}{1st ed. 2022}
-      \field{isbn}{978-3-030-93855-0}
-      \field{title}{Compendium on Enterprise Resource Planning: Market, Functional and Conceptual View based on SAP S/4HANA}
-      \field{year}{2022}
-      \verb{doi}
-      \verb 10.1007/978-3-030-93856-7
       \endverb
     \endentry
     \entry{Schonenstein.20230103}{online}{}

@@ -2355,14 +2355,14 @@
     <bcf:citekey order="4" intorder="1">GoogleCloud.20230313</bcf:citekey>
     <bcf:citekey order="5" intorder="1">Denning.20170210</bcf:citekey>
     <bcf:citekey order="6" intorder="1">Schonenstein.20230103</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">.20230313</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Gartner.20230418</bcf:citekey>
     <bcf:citekey order="8" intorder="1">.20230313</bcf:citekey>
     <bcf:citekey order="9" intorder="1">.20230313</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">Chang.1019202010232020</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Gartner.20230418</bcf:citekey>
     <bcf:citekey order="11" intorder="1">Sensedia.2020</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">Sarferaz.2022</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">.2009</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">Sarferaz.2022</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">.d</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">.d</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">.20230313</bcf:citekey>
     <bcf:citekey order="15" intorder="1">.20230313</bcf:citekey>
     <bcf:citekey order="16" intorder="1">.20230313</bcf:citekey>
     <bcf:citekey order="17" intorder="1">.2009</bcf:citekey>
@@ -2420,7 +2420,7 @@
     <bcf:citekey order="69" intorder="1">Saaty.2008</bcf:citekey>
     <bcf:citekey order="70" intorder="1">Saaty.2008</bcf:citekey>
     <bcf:citekey order="71" intorder="1">ProductOwnerSAPBTPProd&amp;Infra.</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">SoftwareArchitektSAPDTSIntegration.</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">ProductOwnerSAPBTPProd&amp;Infra.</bcf:citekey>
     <bcf:citekey order="73" intorder="1">TestDeveloperSAPHyperspaceAdoption&amp;Onboarding.b</bcf:citekey>
     <bcf:citekey order="74" intorder="1">TestDeveloperSAPHyperspaceAdoption&amp;Onboarding.b</bcf:citekey>
     <bcf:citekey order="75" intorder="1">ProductOwnerSAPBTPProd&amp;Infra.</bcf:citekey>
@@ -2497,32 +2497,31 @@
     <bcf:citekey order="146" intorder="1">StackOverflow.20230403c</bcf:citekey>
     <bcf:citekey order="147" intorder="1">.20230410f</bcf:citekey>
     <bcf:citekey order="148" intorder="1">.20230410g</bcf:citekey>
-    <bcf:citekey order="149" intorder="1">SoftwareArchitektSAPDTSIntegration.</bcf:citekey>
-    <bcf:citekey order="150" intorder="1">.c</bcf:citekey>
-    <bcf:citekey order="151" intorder="1">Halstenberg.2020</bcf:citekey>
+    <bcf:citekey order="149" intorder="1">.c</bcf:citekey>
+    <bcf:citekey order="150" intorder="1">Halstenberg.2020</bcf:citekey>
+    <bcf:citekey order="151" intorder="1">SoftwareArchitektSAPDTSIntegration.</bcf:citekey>
     <bcf:citekey order="152" intorder="1">SoftwareArchitektSAPDTSIntegration.</bcf:citekey>
-    <bcf:citekey order="153" intorder="1">SoftwareArchitektSAPDTSIntegration.</bcf:citekey>
-    <bcf:citekey order="154" intorder="1">ProductManagerSAPHyperspaceSecurityTools.</bcf:citekey>
-    <bcf:citekey order="155" intorder="1">TestDeveloperSAPHyperspaceAdoption&amp;Onboarding.</bcf:citekey>
+    <bcf:citekey order="153" intorder="1">ProductManagerSAPHyperspaceSecurityTools.</bcf:citekey>
+    <bcf:citekey order="154" intorder="1">TestDeveloperSAPHyperspaceAdoption&amp;Onboarding.</bcf:citekey>
+    <bcf:citekey order="155" intorder="1">ProductOwnerSAPBTPProd&amp;Infra.</bcf:citekey>
     <bcf:citekey order="156" intorder="1">ProductOwnerSAPBTPProd&amp;Infra.</bcf:citekey>
-    <bcf:citekey order="157" intorder="1">ProductOwnerSAPBTPProd&amp;Infra.</bcf:citekey>
+    <bcf:citekey order="157" intorder="1">TestDeveloperSAPHyperspaceAdoption&amp;Onboarding.</bcf:citekey>
     <bcf:citekey order="158" intorder="1">TestDeveloperSAPHyperspaceAdoption&amp;Onboarding.</bcf:citekey>
-    <bcf:citekey order="159" intorder="1">TestDeveloperSAPHyperspaceAdoption&amp;Onboarding.</bcf:citekey>
-    <bcf:citekey order="160" intorder="1">Foundation.2022</bcf:citekey>
+    <bcf:citekey order="159" intorder="1">Foundation.2022</bcf:citekey>
+    <bcf:citekey order="160" intorder="1">.20230415</bcf:citekey>
     <bcf:citekey order="161" intorder="1">.20230415</bcf:citekey>
-    <bcf:citekey order="162" intorder="1">.20230415</bcf:citekey>
+    <bcf:citekey order="162" intorder="1">Exterman.2022</bcf:citekey>
     <bcf:citekey order="163" intorder="1">Exterman.2022</bcf:citekey>
-    <bcf:citekey order="164" intorder="1">Exterman.2022</bcf:citekey>
+    <bcf:citekey order="164" intorder="1">Halstenberg.2020</bcf:citekey>
     <bcf:citekey order="165" intorder="1">Halstenberg.2020</bcf:citekey>
     <bcf:citekey order="166" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="167" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="168" intorder="1">Vesey.1992</bcf:citekey>
-    <bcf:citekey order="169" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="170" intorder="1">Vesey.1992</bcf:citekey>
+    <bcf:citekey order="167" intorder="1">Vesey.1992</bcf:citekey>
+    <bcf:citekey order="168" intorder="1">Halstenberg.2020</bcf:citekey>
+    <bcf:citekey order="169" intorder="1">Vesey.1992</bcf:citekey>
+    <bcf:citekey order="170" intorder="1">Halstenberg.2020</bcf:citekey>
     <bcf:citekey order="171" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="172" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="173" intorder="1">Ugochi.20220503</bcf:citekey>
-    <bcf:citekey order="174" intorder="1">Atlassian.20230409</bcf:citekey>
+    <bcf:citekey order="172" intorder="1">Ugochi.20220503</bcf:citekey>
+    <bcf:citekey order="173" intorder="1">Atlassian.20230409</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
