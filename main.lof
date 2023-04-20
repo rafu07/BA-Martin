@@ -1,19 +1,19 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces Aufbau der Arbeit}}{4}{figure.caption.8}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Entstehung einer Composable-Enterprise-Architektur}}{5}{figure.caption.10}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Bestandteile eines Composable-ERP-Systems}}{6}{figure.caption.12}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Technische Realisierung der Composable-Enterprise-Architektur}}{8}{figure.caption.13}%
-\contentsline {figure}{\numberline {5}{\ignorespaces Exemplarische Abfolge eines agilen Entwicklungszykluses}}{10}{figure.caption.21}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Aktivitäten im CI/CD-Prozess}}{12}{figure.caption.24}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Integration der CI/CD-Pipeline mit dem Versionskontrollsystem}}{13}{figure.caption.25}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Hierarchische Darstellung von Softwaretests}}{14}{figure.caption.27}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Aufbau der Arbeit}}{4}{figure.caption.10}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Entstehung einer Composable-Enterprise-Architektur}}{5}{figure.caption.12}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Bestandteile eines Composable-ERP-Systems}}{6}{figure.caption.14}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Technische Realisierung der Composable-Enterprise-Architektur}}{8}{figure.caption.15}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Exemplarische Abfolge eines agilen Entwicklungszykluses}}{10}{figure.caption.22}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Aktivitäten im CI/CD-Prozess}}{13}{figure.caption.25}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Integration der CI/CD-Pipeline mit dem Versionskontrollsystem}}{13}{figure.caption.26}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Hierarchische Darstellung von Softwaretests}}{15}{figure.caption.29}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Strategien zur Bereitstellung von Software}}{19}{figure.caption.31}%
 \contentsline {figure}{\numberline {10}{\ignorespaces Exemplarische Darstellung der hierarchischen Entscheidungsstruktur im AHP}}{23}{figure.caption.32}%
 \contentsline {figure}{\numberline {11}{\ignorespaces AHP-Entscheidungsstruktur zur Bewertung von CI/CD-Pipelines}}{28}{figure.caption.34}%
 \contentsline {figure}{\numberline {12}{\ignorespaces Qualitative Bewertungsmetrik für AHP}}{34}{figure.caption.38}%
 \contentsline {figure}{\numberline {13}{\ignorespaces Quantitative Bewertungsmetrik für AHP}}{35}{figure.caption.39}%
 \contentsline {figure}{\numberline {14}{\ignorespaces Gewichtungsfaktoren der AHP-Entscheidungskriterien}}{36}{figure.caption.40}%
-\contentsline {figure}{\numberline {15}{\ignorespaces SAP Cloud Transportmanagement}}{40}{figure.caption.43}%
+\contentsline {figure}{\numberline {15}{\ignorespaces SAP Cloud Transport Management}}{40}{figure.caption.43}%
 \contentsline {figure}{\numberline {16}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{41}{figure.caption.44}%
 \contentsline {figure}{\numberline {17}{\ignorespaces CEA-Szenario für Performance-Tests}}{45}{figure.caption.45}%
 \contentsline {figure}{\numberline {18}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{47}{figure.caption.47}%

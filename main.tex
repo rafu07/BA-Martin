@@ -13,6 +13,10 @@
 \thispagestyle{empty}
 
 
+\defbibheading{bibliography}[\bibname]{%
+  \section*{\textbf{Literaturverzeichnis}}}
+
+
 \etocdepthtag.toc{mtchapter}
 \etocsettagdepth{mtchapter}{subsubsection}
 \etocsettagdepth{mtappendix}{none}
@@ -26,6 +30,7 @@
 
 \include{template/titlepage}
 \include{template/declaration}
+\include{text/genderdisclamer}
 
 \include{text/abstract.tex}
 
@@ -97,7 +102,7 @@
 \printbibheading
 \printbibliography[nottype=online,notcategory=relevant, notcategory=exclude, heading=subbibliography, title={Print-Quellen}]
 \printbibliography[type=online,notcategory=relevant, notcategory=exclude, heading=subbibliography, title={Online-Quellen}]
-\printbibliography[type=misc,category=relevant,category=exclude, title={Exerteninterviews}]
+\printbibliography[type=abcd,category=relevant,category=exclude, title={Exerteninterviews}]
 
 
 

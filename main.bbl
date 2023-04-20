@@ -19,6 +19,41 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{abdalslam.20230128}{online}{}
+      \name{author}{1}{}{%
+        {{hash=78465bb1c99e50c530a3c53f9333de87}{%
+           family={abdalslam},
+           familyi={a\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Abdalasam}%
+      }
+      \strng{namehash}{78465bb1c99e50c530a3c53f9333de87}
+      \strng{fullhash}{78465bb1c99e50c530a3c53f9333de87}
+      \strng{bibnamehash}{78465bb1c99e50c530a3c53f9333de87}
+      \strng{authorbibnamehash}{78465bb1c99e50c530a3c53f9333de87}
+      \strng{authornamehash}{78465bb1c99e50c530a3c53f9333de87}
+      \strng{authorfullhash}{78465bb1c99e50c530a3c53f9333de87}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Continuous Integration (CI) Statistics, Trends And Facts 2023}
+      \field{urlday}{20}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb abdalslam 2023-01-28 - Continuous Integration CI Statistics:Attachments/abdalslam 2023-01-28 - Continuous Integration CI Statistics.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://abdalslam.com/continuous-integration-ci-statistics?utm_content=cmp-true
+      \endverb
+      \verb{url}
+      \verb https://abdalslam.com/continuous-integration-ci-statistics?utm_content=cmp-true
+      \endverb
+    \endentry
     \entry{K&C.2021}{online}{}
       \name{author}{1}{}{%
         {{hash=bed39189b812b1b9fa2aaaa30c2257ad}{%
@@ -27,10 +62,8 @@
            given={John},
            giveni={J\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=da218e2bb3f6d65744371ce8bcbd90ac}{%
-           family={K{\&}C},
-           familyi={K\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {K{\&}C}%
       }
       \strng{namehash}{bed39189b812b1b9fa2aaaa30c2257ad}
       \strng{fullhash}{bed39189b812b1b9fa2aaaa30c2257ad}
@@ -38,9 +71,6 @@
       \strng{authorbibnamehash}{bed39189b812b1b9fa2aaaa30c2257ad}
       \strng{authornamehash}{bed39189b812b1b9fa2aaaa30c2257ad}
       \strng{authorfullhash}{bed39189b812b1b9fa2aaaa30c2257ad}
-      \strng{editorbibnamehash}{da218e2bb3f6d65744371ce8bcbd90ac}
-      \strng{editornamehash}{da218e2bb3f6d65744371ce8bcbd90ac}
-      \strng{editorfullhash}{da218e2bb3f6d65744371ce8bcbd90ac}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
@@ -59,6 +89,66 @@
       \verb https://kruschecompany.com/de/agile-softwareentwicklung/
       \endverb
     \endentry
+    \entry{Aghamanoukjan.2009}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=1c260ce7f5082deac198160953e20ef9}{%
+           family={Aghamanoukjan},
+           familyi={A\bibinitperiod},
+           given={Anahid},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b53c3d82a00d26e532087e7934b230b5}{%
+           family={Buber},
+           familyi={B\bibinitperiod},
+           given={Renate},
+           giveni={R\bibinitperiod}}}%
+        {{hash=77204ef7a14a221ea8f3278cd0d02beb}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b53c3d82a00d26e532087e7934b230b5}{%
+           family={Buber},
+           familyi={B\bibinitperiod},
+           given={Renate},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5817b1a4f99352255d4115d61641cdff}{%
+           family={Holzmüller},
+           familyi={H\bibinitperiod},
+           given={Hartmut},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Gabler Verlag / GWV Fachverlage GmbH, Wiesbaden}%
+      }
+      \strng{namehash}{1c3ce68f7379624ccf9e67eed22166a9}
+      \strng{fullhash}{1c3ce68f7379624ccf9e67eed22166a9}
+      \strng{bibnamehash}{1c3ce68f7379624ccf9e67eed22166a9}
+      \strng{authorbibnamehash}{1c3ce68f7379624ccf9e67eed22166a9}
+      \strng{authornamehash}{1c3ce68f7379624ccf9e67eed22166a9}
+      \strng{authorfullhash}{1c3ce68f7379624ccf9e67eed22166a9}
+      \strng{editorbibnamehash}{baa59633cc6d503a81b9da52b9e0ba6c}
+      \strng{editornamehash}{baa59633cc6d503a81b9da52b9e0ba6c}
+      \strng{editorfullhash}{baa59633cc6d503a81b9da52b9e0ba6c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{Qualitative Marktforschung}
+      \field{isbn}{978-3-8349-0976-3}
+      \field{title}{Qualitative Interviews}
+      \field{year}{2009}
+      \field{pages}{415\bibrangedash 436}
+      \range{pages}{22}
+      \verb{file}
+      \verb Aghamanoukjan, Buber et al. 2009 - Qualitative Interviews:Attachments/Aghamanoukjan, Buber et al. 2009 - Qualitative Interviews.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{Arora.20200504}{online}{}
       \name{author}{1}{}{%
         {{hash=b511a468da37267fd31fc5a5e2b16d90}{%
@@ -67,10 +157,8 @@
            given={Shivam},
            giveni={S\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=099f9afbc6d684a8c2aa0cd3919a9f1a}{%
-           family={Simplilearn},
-           familyi={S\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {Simplilearn}%
       }
       \strng{namehash}{b511a468da37267fd31fc5a5e2b16d90}
       \strng{fullhash}{b511a468da37267fd31fc5a5e2b16d90}
@@ -78,9 +166,6 @@
       \strng{authorbibnamehash}{b511a468da37267fd31fc5a5e2b16d90}
       \strng{authornamehash}{b511a468da37267fd31fc5a5e2b16d90}
       \strng{authorfullhash}{b511a468da37267fd31fc5a5e2b16d90}
-      \strng{editorbibnamehash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
-      \strng{editornamehash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
-      \strng{editorfullhash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
@@ -137,7 +222,59 @@
       \verb https://souravatta.medium.com/monitor-jenkins-build-logs-using-elk-stack-697e13b78cb1
       \endverb
     \endentry
+    \entry{Attardi.2020b}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1d53838e9455e3fffd87203d2d79d83d}{%
+           family={Attardi},
+           familyi={A\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1d53838e9455e3fffd87203d2d79d83d}{%
+           family={Attardi},
+           familyi={A\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley, Kalifornien}%
+      }
+      \list{publisher}{2}{%
+        {Apress}%
+        {Imprint: Apress}%
+      }
+      \strng{namehash}{1d53838e9455e3fffd87203d2d79d83d}
+      \strng{fullhash}{1d53838e9455e3fffd87203d2d79d83d}
+      \strng{bibnamehash}{1d53838e9455e3fffd87203d2d79d83d}
+      \strng{authorbibnamehash}{1d53838e9455e3fffd87203d2d79d83d}
+      \strng{authornamehash}{1d53838e9455e3fffd87203d2d79d83d}
+      \strng{authorfullhash}{1d53838e9455e3fffd87203d2d79d83d}
+      \strng{editorbibnamehash}{1d53838e9455e3fffd87203d2d79d83d}
+      \strng{editornamehash}{1d53838e9455e3fffd87203d2d79d83d}
+      \strng{editorfullhash}{1d53838e9455e3fffd87203d2d79d83d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{Using Gatsby and Netlify CMS}
+      \field{isbn}{978-1-4842-6296-2}
+      \field{title}{Introduction to Netlify CMS}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-1-4842-6297-9_1
+      \endverb
+      \verb{file}
+      \verb Attardi 2020 - Introduction to Netlify CMS:Attachments/Attardi 2020 - Introduction to Netlify CMS.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{.20230410}{online}{}
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
@@ -156,6 +293,9 @@
       \endverb
     \endentry
     \entry{.20230410d}{online}{}
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
@@ -173,24 +313,132 @@
       \verb https://marketplace.visualstudio.com/search?target=AzureDevOps&category=Azure%20Pipelines&sortBy=Installs
       \endverb
     \endentry
-    \entry{BackendTestDeveloperSAPDTSIntegration.}{misc}{}
+    \entry{BackendTestDeveloperSAPDTSIntegration.}{abcd}{}
       \name{editor}{1}{}{%
-        {{hash=eaca399cfe6d4770041d5dcab28eaf0a}{%
-           family={{Backend Test Developer SAP DTS Integration}},
+        {{hash=878b1e5d96c06bfb60b5660332fe07f4}{%
+           family={{Backend-Test-Entwickler SAP DTS Integration - Experte 7}},
            familyi={B\bibinitperiod}}}%
       }
-      \strng{namehash}{eaca399cfe6d4770041d5dcab28eaf0a}
-      \strng{fullhash}{eaca399cfe6d4770041d5dcab28eaf0a}
-      \strng{bibnamehash}{eaca399cfe6d4770041d5dcab28eaf0a}
-      \strng{editorbibnamehash}{eaca399cfe6d4770041d5dcab28eaf0a}
-      \strng{editornamehash}{eaca399cfe6d4770041d5dcab28eaf0a}
-      \strng{editorfullhash}{eaca399cfe6d4770041d5dcab28eaf0a}
+      \strng{namehash}{878b1e5d96c06bfb60b5660332fe07f4}
+      \strng{fullhash}{878b1e5d96c06bfb60b5660332fe07f4}
+      \strng{bibnamehash}{878b1e5d96c06bfb60b5660332fe07f4}
+      \strng{editorbibnamehash}{878b1e5d96c06bfb60b5660332fe07f4}
+      \strng{editornamehash}{878b1e5d96c06bfb60b5660332fe07f4}
+      \strng{editorfullhash}{878b1e5d96c06bfb60b5660332fe07f4}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{note}{29.03.2023}
       \field{title}{Expertengewichtung 4}
+    \endentry
+    \entry{Balalaie.2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a4966694bd105389775f241d574902e2}{%
+           family={Balalaie},
+           familyi={B\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9b90b9d31b772ceaf0479147aaa44237}{%
+           family={Heydarnoori},
+           familyi={H\bibinitperiod},
+           given={Abbas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ac3fa7065c9e1283af5f18092faf6d64}{%
+           family={Jamshidi},
+           familyi={J\bibinitperiod},
+           given={Pooyan},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b1652116dafa2411c771c4e35041784}
+      \strng{fullhash}{9b1652116dafa2411c771c4e35041784}
+      \strng{bibnamehash}{9b1652116dafa2411c771c4e35041784}
+      \strng{authorbibnamehash}{9b1652116dafa2411c771c4e35041784}
+      \strng{authornamehash}{9b1652116dafa2411c771c4e35041784}
+      \strng{authorfullhash}{9b1652116dafa2411c771c4e35041784}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0740-7459}
+      \field{journaltitle}{IEEE Software}
+      \field{number}{3}
+      \field{pagination}{page}
+      \field{title}{Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture}
+      \field{volume}{33}
+      \field{year}{2016}
+      \field{pages}{42\bibrangedash 52}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/MS.2016.64
+      \endverb
+    \endentry
+    \entry{Belmont.2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5b0b6c4d7de84ac17c83c50faee749c6}{%
+           family={Belmont},
+           familyi={B\bibinitperiod},
+           given={Jean-Marcel},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Birmingham, England}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing}%
+      }
+      \strng{namehash}{5b0b6c4d7de84ac17c83c50faee749c6}
+      \strng{fullhash}{5b0b6c4d7de84ac17c83c50faee749c6}
+      \strng{bibnamehash}{5b0b6c4d7de84ac17c83c50faee749c6}
+      \strng{authorbibnamehash}{5b0b6c4d7de84ac17c83c50faee749c6}
+      \strng{authornamehash}{5b0b6c4d7de84ac17c83c50faee749c6}
+      \strng{authorfullhash}{5b0b6c4d7de84ac17c83c50faee749c6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{<}b{>}Understand various tools and practices for building a continuous integration and delivery pipeline effectively{<}/b{>}{<}/p{>}Key FeaturesGet up and running with the patterns of continuous integrationLearn Jenkins UI for developing plugins and build an effective Jenkins pipelineAutomate CI/CD with command-line tools and scriptsBook Description Hands-On Continuous Integration and Delivery starts with the fundamentals of continuous integration (CI) and continuous delivery (CD) and where it fits in the DevOps ecosystem. You will explore the importance of stakeholder collaboration as part of CI/CD.{<}/p{>} As you make your way through the chapters, you will get to grips with Jenkins UI, and learn to install Jenkins on different platforms, add plugins, and write freestyle scripts. Next, you will gain hands-on experience of developing plugins with Jenkins UI, building the Jenkins 2.0 pipeline, and performing Docker integration. In the concluding chapters, you will install Travis CI and Circle CI and carry out scripting, logging, and debugging, helping you to acquire a broad knowledge of CI/CD with Travis CI and CircleCI.{<}/p{>} By the end of this book, you will have a detailed understanding of best practices for CI/CD systems and be able to implement them with confidence.{<}/p{>}What you will learnInstall Jenkins on multiple operating systemsWork with Jenkins freestyle scripts, pipeline syntax, and methodologyExplore Travis CI build life cycle events and multiple build languagesMaster the Travis CI CLI (command-line interface) and automate tasks with the CLIUse CircleCI CLI jobs and work with pipelinesAutomate tasks using CircleCI CLI and learn to debug and troubleshootLearn open source tooling such as Git and GitHubInstall Docker and learn concepts in shell scriptingWho this book is for Hands-On Continuous Integration and Delivery is for system administrators, DevOps engineers, and build and release engineers who want to understand the concept of CI and gain hands-on experience working with prominent tools in the CI ecosystem. Basic knowledge of software delivery is an added advantage.{<}/p{>}}
+      \field{isbn}{9781789133073}
+      \field{title}{Hands-on continuous integration and delivery: Build and release quality software at scale with Jenkins, Travis CI, and CircleCI}
+      \field{year}{2018}
+    \endentry
+    \entry{Berry.20220725}{online}{}
+      \name{author}{1}{}{%
+        {{hash=64c5b1ec50c20017df3e3394dcd4f7c0}{%
+           family={Berry},
+           familyi={B\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {LevelUp}%
+      }
+      \strng{namehash}{64c5b1ec50c20017df3e3394dcd4f7c0}
+      \strng{fullhash}{64c5b1ec50c20017df3e3394dcd4f7c0}
+      \strng{bibnamehash}{64c5b1ec50c20017df3e3394dcd4f7c0}
+      \strng{authorbibnamehash}{64c5b1ec50c20017df3e3394dcd4f7c0}
+      \strng{authornamehash}{64c5b1ec50c20017df3e3394dcd4f7c0}
+      \strng{authorfullhash}{64c5b1ec50c20017df3e3394dcd4f7c0}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{If you are working in the software or IT industry, you may have come across the terms continuous integration and continuous delivery, or even better, you practice it daily! Now the CD foundation has$\ldots$}
+      \field{title}{State of CD Report 2022 Review}
+      \field{urlday}{13}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Berry 2022-07-25 - State of CD Report 2022:Attachments/Berry 2022-07-25 - State of CD Report 2022.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://levelup.gitconnected.com/state-of-cd-report-2022-review-e7afb6bc24e6
+      \endverb
+      \verb{url}
+      \verb https://levelup.gitconnected.com/state-of-cd-report-2022-review-e7afb6bc24e6
+      \endverb
     \endentry
     \entry{Qentelli.20230305}{online}{}
       \name{author}{2}{}{%
@@ -205,10 +453,8 @@
            given={Abby},
            giveni={A\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=a15aeb9aec12b0100fdd9a0d65a0e8b9}{%
-           family={Qentelli},
-           familyi={Q\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {Qentelli}%
       }
       \strng{namehash}{b04d9f5fe98374adda07ce51fc61abff}
       \strng{fullhash}{b04d9f5fe98374adda07ce51fc61abff}
@@ -216,9 +462,6 @@
       \strng{authorbibnamehash}{b04d9f5fe98374adda07ce51fc61abff}
       \strng{authornamehash}{b04d9f5fe98374adda07ce51fc61abff}
       \strng{authorfullhash}{b04d9f5fe98374adda07ce51fc61abff}
-      \strng{editorbibnamehash}{a15aeb9aec12b0100fdd9a0d65a0e8b9}
-      \strng{editornamehash}{a15aeb9aec12b0100fdd9a0d65a0e8b9}
-      \strng{editorfullhash}{a15aeb9aec12b0100fdd9a0d65a0e8b9}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
@@ -264,6 +507,64 @@
       \field{title}{API architecture: The big picture for building APIs}
       \field{year}{2015}
     \endentry
+    \entry{.20230417c}{online}{}
+      \list{organization}{1}{%
+        {Jenkins}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitbucket OAuth}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://plugins.jenkins.io/bitbucket-oauth/
+      \endverb
+      \verb{url}
+      \verb https://plugins.jenkins.io/bitbucket-oauth/
+      \endverb
+    \endentry
+    \entry{Blischak.2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2f5e7eff1ecea61dc6faa885ab2fdf03}{%
+           family={Blischak},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=563b1377731d4156367a12b2a6a53ed7}{%
+           family={Davenport},
+           familyi={D\bibinitperiod},
+           given={Emily\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=fda30198609a1ab29a82b93d4e8f347b}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{fullhash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{bibnamehash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{authorbibnamehash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{authornamehash}{475717815cde8b823fb8ad2c659e33e2}
+      \strng{authorfullhash}{475717815cde8b823fb8ad2c659e33e2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS computational biology}
+      \field{title}{A Quick Introduction to Version Control with Git and GitHub}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1004668
+      \endverb
+      \verb{file}
+      \verb Blischak, Davenport et al. 2016 - A Quick Introduction to Version:Attachments/Blischak, Davenport et al. 2016 - A Quick Introduction to Version.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{Bose.20230220}{online}{}
       \name{author}{1}{}{%
         {{hash=8a7f21a41cb00fed7cf6932445aab422}{%
@@ -271,6 +572,9 @@
            familyi={B\bibinitperiod},
            given={Shreya},
            giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {BrowserStack}%
       }
       \strng{namehash}{8a7f21a41cb00fed7cf6932445aab422}
       \strng{fullhash}{8a7f21a41cb00fed7cf6932445aab422}
@@ -345,6 +649,9 @@
            given={Ian},
            giveni={I\bibinitperiod}}}%
       }
+      \list{organization}{1}{%
+        {Atlassian}%
+      }
       \strng{namehash}{c37c8620c4b76a9ac9e684ee7d693df7}
       \strng{fullhash}{c37c8620c4b76a9ac9e684ee7d693df7}
       \strng{bibnamehash}{c37c8620c4b76a9ac9e684ee7d693df7}
@@ -370,6 +677,9 @@
       \endverb
     \endentry
     \entry{.20230406}{online}{}
+      \list{organization}{1}{%
+        {Project Piper}%
+      }
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labeltitlesource}{title}
@@ -393,6 +703,9 @@
            familyi={C\bibinitperiod},
            given={Anthony},
            giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ITPFED}%
       }
       \strng{namehash}{565b46af8657183742e5b786bcb7a755}
       \strng{fullhash}{565b46af8657183742e5b786bcb7a755}
@@ -420,7 +733,31 @@
       \verb https://itpfed.com/composable-erp-what-it-is-and-why-its-important-part-2/
       \endverb
     \endentry
+    \entry{Codefresh.20230419}{online}{}
+      \list{organization}{1}{%
+        {Codefresh}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn about continuous integration (CI), continuous delivery (CD), how to build CI/CD pipelines, and how CI/CD works in a modern cloud native GitOps environment.}
+      \field{title}{CI/CD Pipelines Archives}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://codefresh.io/learn/ci-cd-pipelines/
+      \endverb
+      \verb{url}
+      \verb https://codefresh.io/learn/ci-cd-pipelines/
+      \endverb
+    \endentry
     \entry{.20230406c}{online}{}
+      \list{organization}{1}{%
+        {Project Piper}%
+      }
       \field{sortinit}{c}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labeltitlesource}{title}
@@ -435,6 +772,26 @@
       \endverb
       \verb{url}
       \verb https://www.project-piper.io/steps/cloudFoundryDeploy/#additional-hints
+      \endverb
+    \endentry
+    \entry{.20230419d}{online}{}
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Predict bugs in your source code by using a machine learning AI classifier that identifies high-risk patterns in your code base.}
+      \field{title}{Code Defect AI from Microsoft AI Lab}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/ai/ai-lab-code-defect
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/ai/ai-lab-code-defect
       \endverb
     \endentry
     \entry{.20230402}{online}{}
@@ -474,6 +831,9 @@
            given={Steve},
            giveni={S\bibinitperiod}}}%
       }
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
       \strng{namehash}{8cb92e6068ea1ae363d7090947caa2b7}
       \strng{fullhash}{8cb92e6068ea1ae363d7090947caa2b7}
       \strng{bibnamehash}{8cb92e6068ea1ae363d7090947caa2b7}
@@ -507,6 +867,9 @@
            given={Steve},
            giveni={S\bibinitperiod}}}%
       }
+      \list{organization}{1}{%
+        {Microsoft}%
+      }
       \strng{namehash}{8cb92e6068ea1ae363d7090947caa2b7}
       \strng{fullhash}{8cb92e6068ea1ae363d7090947caa2b7}
       \strng{bibnamehash}{8cb92e6068ea1ae363d7090947caa2b7}
@@ -525,6 +888,46 @@
       \field{urlyear}{2023}
       \field{year}{2023}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops&tabs=ms-hosted
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops&tabs=ms-hosted
+      \endverb
+    \endentry
+    \entry{Lauretis.1027201910302019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=5f6f3ee4b82fbd32953ee88eba2e02cb}{%
+           family={Lauretis},
+           familyi={L\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5f6f3ee4b82fbd32953ee88eba2e02cb}
+      \strng{fullhash}{5f6f3ee4b82fbd32953ee88eba2e02cb}
+      \strng{bibnamehash}{5f6f3ee4b82fbd32953ee88eba2e02cb}
+      \strng{authorbibnamehash}{5f6f3ee4b82fbd32953ee88eba2e02cb}
+      \strng{authornamehash}{5f6f3ee4b82fbd32953ee88eba2e02cb}
+      \strng{authorfullhash}{5f6f3ee4b82fbd32953ee88eba2e02cb}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2019 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)}
+      \field{isbn}{978-1-7281-5138-0}
+      \field{title}{From Monolithic Architecture to Microservices Architecture}
+      \field{year}{10/27/2019 - 10/30/2019}
+      \field{pages}{93\bibrangedash 96}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ISSREW.2019.00050
+      \endverb
     \endentry
     \entry{Denning.20170210}{online}{}
       \name{author}{1}{}{%
@@ -534,10 +937,8 @@
            given={Steve},
            giveni={S\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=b1e9b36364c855fad4161cfb10d45735}{%
-           family={Forbes},
-           familyi={F\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {Forbes}%
       }
       \strng{namehash}{4ad2d2a353259fedadd06e77d59517f9}
       \strng{fullhash}{4ad2d2a353259fedadd06e77d59517f9}
@@ -545,9 +946,6 @@
       \strng{authorbibnamehash}{4ad2d2a353259fedadd06e77d59517f9}
       \strng{authornamehash}{4ad2d2a353259fedadd06e77d59517f9}
       \strng{authorfullhash}{4ad2d2a353259fedadd06e77d59517f9}
-      \strng{editorbibnamehash}{b1e9b36364c855fad4161cfb10d45735}
-      \strng{editornamehash}{b1e9b36364c855fad4161cfb10d45735}
-      \strng{editorfullhash}{b1e9b36364c855fad4161cfb10d45735}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{author}
@@ -567,36 +965,6 @@
       \endverb
       \verb{url}
       \verb https://www.forbes.com/sites/stevedenning/2017/02/10/beyond-agile-operations-how-to-achieve-the-holy-grail-of-strategic-agility/?sh=712d37dc2b6a
-      \endverb
-    \endentry
-    \entry{GoogleCloud.20230313}{online}{}
-      \name{editor}{1}{}{%
-        {{hash=affa5249363911dd655e5a7cfacb49e6}{%
-           family={Dora},
-           familyi={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{affa5249363911dd655e5a7cfacb49e6}
-      \strng{fullhash}{affa5249363911dd655e5a7cfacb49e6}
-      \strng{bibnamehash}{affa5249363911dd655e5a7cfacb49e6}
-      \strng{editorbibnamehash}{affa5249363911dd655e5a7cfacb49e6}
-      \strng{editornamehash}{affa5249363911dd655e5a7cfacb49e6}
-      \strng{editorfullhash}{affa5249363911dd655e5a7cfacb49e6}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{DevOps tools, practices, and research to help you get the agility, without compromising on quality or stability.}
-      \field{title}{2022 State of DevOps Report - Google Cloud}
-      \field{urlday}{11}
-      \field{urlmonth}{4}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://cloud.google.com/devops/state-of-devops
-      \endverb
-      \verb{url}
-      \verb https://cloud.google.com/devops/state-of-devops
       \endverb
     \endentry
     \entry{Ellram.1993}{article}{}
@@ -630,50 +998,139 @@
       \verb 10.1111/j.1745-493X.1993.tb00013.x
       \endverb
     \endentry
-    \entry{Exterman.2022}{online}{}
-      \name{author}{1}{}{%
-        {{hash=3845e914284a0349be9151d0bcfcef2e}{%
-           family={Exterman},
+    \entry{Engstrom.2010}{article}{}
+      \name{author}{3}{}{%
+        {{hash=af0a0364376d7d13418908af11636c66}{%
+           family={Engström},
            familyi={E\bibinitperiod},
-           given={Dori},
-           giveni={D\bibinitperiod}}}%
+           given={Emelie},
+           giveni={E\bibinitperiod}}}%
+        {{hash=306f73791e107dd9b83d45ee22e6b523}{%
+           family={Runeson},
+           familyi={R\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b9ecfddde7436d0c9f108a86fff47f07}{%
+           family={Skoglund},
+           familyi={S\bibinitperiod},
+           given={Mats},
+           giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{3845e914284a0349be9151d0bcfcef2e}
-      \strng{fullhash}{3845e914284a0349be9151d0bcfcef2e}
-      \strng{bibnamehash}{3845e914284a0349be9151d0bcfcef2e}
-      \strng{authorbibnamehash}{3845e914284a0349be9151d0bcfcef2e}
-      \strng{authornamehash}{3845e914284a0349be9151d0bcfcef2e}
-      \strng{authorfullhash}{3845e914284a0349be9151d0bcfcef2e}
+      \strng{namehash}{f422f54c6ef5d643f2ba2acd86859fac}
+      \strng{fullhash}{f422f54c6ef5d643f2ba2acd86859fac}
+      \strng{bibnamehash}{f422f54c6ef5d643f2ba2acd86859fac}
+      \strng{authorbibnamehash}{f422f54c6ef5d643f2ba2acd86859fac}
+      \strng{authornamehash}{f422f54c6ef5d643f2ba2acd86859fac}
+      \strng{authorfullhash}{f422f54c6ef5d643f2ba2acd86859fac}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{AI and machine learning have gained a stronger presence in the tech industry by changing how DevOps teams build and manage their resources.}
-      \field{title}{DevOps and AI - A Match Made in Heaven}
-      \field{urlday}{16}
-      \field{urlmonth}{4}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{urldateera}{ce}
+      \field{issn}{0950-5849}
+      \field{journaltitle}{Information and Software Technology}
+      \field{number}{1}
+      \field{pagination}{page}
+      \field{title}{A systematic review on regression test selection techniques}
+      \field{volume}{52}
+      \field{year}{2010}
+      \field{pages}{14\bibrangedash 30}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.infsof.2009.07.001
+      \endverb
+      \verb{file}
+      \verb Engstr{\"o}m, Runeson et al. 2010 - A systematic review on regression:Attachments/Engstr{\"o}m, Runeson et al. 2010 - A systematic review on regression.pdf:application/pdf
+      \endverb
       \verb{urlraw}
-      \verb https://www.incredibuild.com/blog/devops-and-ai-a-match-made-in-heaven
+      \verb https://www.sciencedirect.com/science/article/pii/s0950584909001219
       \endverb
       \verb{url}
-      \verb https://www.incredibuild.com/blog/devops-and-ai-a-match-made-in-heaven
+      \verb https://www.sciencedirect.com/science/article/pii/s0950584909001219
       \endverb
     \endentry
-    \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.b}{misc}{}
+    \entry{Fernandes.20210223}{online}{}
+      \name{author}{1}{}{%
+        {{hash=42b5b2b91802f76dbd36f0135f02d74a}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {QALead}%
+      }
+      \strng{namehash}{42b5b2b91802f76dbd36f0135f02d74a}
+      \strng{fullhash}{42b5b2b91802f76dbd36f0135f02d74a}
+      \strng{bibnamehash}{42b5b2b91802f76dbd36f0135f02d74a}
+      \strng{authorbibnamehash}{42b5b2b91802f76dbd36f0135f02d74a}
+      \strng{authornamehash}{42b5b2b91802f76dbd36f0135f02d74a}
+      \strng{authorfullhash}{42b5b2b91802f76dbd36f0135f02d74a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{AI in test automation is the next big wave to impact testing and QA teams. Find out how AI and machine learning are impacting and enhancing test automation.}
+      \field{title}{AI In Test Automation: Here's How It Works}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Fernandes 2021-02-23 - AI In Test Automation:Attachments/Fernandes 2021-02-23 - AI In Test Automation.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://theqalead.com/automation-ai/ai-test-automation/
+      \endverb
+      \verb{url}
+      \verb https://theqalead.com/automation-ai/ai-test-automation/
+      \endverb
+    \endentry
+    \entry{.20230407}{online}{}
+      \name{author}{1}{}{%
+        {{hash=312ac886938a9b2be4f8eb607567fe4c}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {MartinFowler}%
+      }
+      \strng{namehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{fullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{bibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorbibnamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authornamehash}{312ac886938a9b2be4f8eb607567fe4c}
+      \strng{authorfullhash}{312ac886938a9b2be4f8eb607567fe4c}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Continuous Integration}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://martinfowler.com/articles/continuousIntegration.html
+      \endverb
+      \verb{url}
+      \verb https://martinfowler.com/articles/continuousIntegration.html
+      \endverb
+    \endentry
+    \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.b}{abcd}{}
       \name{editor}{1}{}{%
-        {{hash=c369de64e83a41ce863718ad97787ffc}{%
-           family={{Frontend Test Developer SAP Hyperspace Adoption {\&} Onboarding}},
+        {{hash=1d04a2aa54f6da4ce8d6e493a79a2c3c}{%
+           family={{Frontend-Test-Entwickler SAP Hyperspace Adoption {\&} Onboarding - Experte 4}},
            familyi={F\bibinitperiod}}}%
       }
-      \strng{namehash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{fullhash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{bibnamehash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{editorbibnamehash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{editornamehash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{editorfullhash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{namehash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{fullhash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{bibnamehash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{editorbibnamehash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{editornamehash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{editorfullhash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
       \field{extraname}{1}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
@@ -682,18 +1139,18 @@
       \field{note}{22.03.2023}
       \field{title}{Expertengewichtung 3}
     \endentry
-    \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.}{misc}{}
+    \entry{TestDeveloperSAPHyperspaceAdoption&Onboarding.}{abcd}{}
       \name{editor}{1}{}{%
-        {{hash=c369de64e83a41ce863718ad97787ffc}{%
-           family={{Frontend Test Developer SAP Hyperspace Adoption {\&} Onboarding}},
+        {{hash=1d04a2aa54f6da4ce8d6e493a79a2c3c}{%
+           family={{Frontend-Test-Entwickler SAP Hyperspace Adoption {\&} Onboarding - Experte 4}},
            familyi={F\bibinitperiod}}}%
       }
-      \strng{namehash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{fullhash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{bibnamehash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{editorbibnamehash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{editornamehash}{c369de64e83a41ce863718ad97787ffc}
-      \strng{editorfullhash}{c369de64e83a41ce863718ad97787ffc}
+      \strng{namehash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{fullhash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{bibnamehash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{editorbibnamehash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{editornamehash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
+      \strng{editorfullhash}{1d04a2aa54f6da4ce8d6e493a79a2c3c}
       \field{extraname}{2}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
@@ -702,18 +1159,18 @@
       \field{note}{22.03.2023}
       \field{title}{Experteninterview 4}
     \endentry
-    \entry{FullStackEntwicklerSAPDTSIntegration.}{misc}{}
+    \entry{FullStackEntwicklerSAPDTSIntegration.}{abcd}{}
       \name{editor}{1}{}{%
-        {{hash=a916ca7695855626463b167caabe0da3}{%
-           family={{Full-Stack-Entwickler SAP DTS Integration}},
+        {{hash=2fdb83c06a230e60be8e1c002a1a3b38}{%
+           family={{Full-Stack-Entwickler SAP DTS Integration - Experte 6}},
            familyi={F\bibinitperiod}}}%
       }
-      \strng{namehash}{a916ca7695855626463b167caabe0da3}
-      \strng{fullhash}{a916ca7695855626463b167caabe0da3}
-      \strng{bibnamehash}{a916ca7695855626463b167caabe0da3}
-      \strng{editorbibnamehash}{a916ca7695855626463b167caabe0da3}
-      \strng{editornamehash}{a916ca7695855626463b167caabe0da3}
-      \strng{editorfullhash}{a916ca7695855626463b167caabe0da3}
+      \strng{namehash}{2fdb83c06a230e60be8e1c002a1a3b38}
+      \strng{fullhash}{2fdb83c06a230e60be8e1c002a1a3b38}
+      \strng{bibnamehash}{2fdb83c06a230e60be8e1c002a1a3b38}
+      \strng{editorbibnamehash}{2fdb83c06a230e60be8e1c002a1a3b38}
+      \strng{editornamehash}{2fdb83c06a230e60be8e1c002a1a3b38}
+      \strng{editorfullhash}{2fdb83c06a230e60be8e1c002a1a3b38}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{editor}
@@ -722,6 +1179,9 @@
       \field{title}{Expertengewichtung 2}
     \endentry
     \entry{Foundation.2022}{online}{}
+      \list{organization}{1}{%
+        {The Linux Foundation}%
+      }
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labeltitlesource}{title}
@@ -746,6 +1206,9 @@
            familyi={G\bibinitperiod},
            given={Susan},
            giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {SAP}%
       }
       \strng{namehash}{2bed919074f1b74ff227f73031f7cf31}
       \strng{fullhash}{2bed919074f1b74ff227f73031f7cf31}
@@ -797,6 +1260,9 @@
            given={Mark},
            giveni={M\bibinitperiod}}}%
       }
+      \list{organization}{1}{%
+        {Gartner}%
+      }
       \strng{namehash}{c69577e82e18a04e4f3ae086b63c09cb}
       \strng{fullhash}{b64ddffd079694d97b2b5d170f6ab9fe}
       \strng{bibnamehash}{c69577e82e18a04e4f3ae086b63c09cb}
@@ -821,44 +1287,10 @@
       \verb https://www.gartner.com/en/doc/465932-future-of-applications-delivering-the-composable-enterprise
       \endverb
     \endentry
-    \entry{Gerson.2021}{book}{}
-      \name{author}{2}{}{%
-        {{hash=59be4f81e711f9638d8a45619e6e60b5}{%
-           family={Gerson},
-           familyi={G\bibinitperiod},
-           given={Kathleen},
-           giveni={K\bibinitperiod}}}%
-        {{hash=5a86ee366e3a7692cf689ad1c224a1fd}{%
-           family={Damaske},
-           familyi={D\bibinitperiod},
-           given={Sarah},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York, NY}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{899c5eadf7d4ebdcd372085bd600e8e3}
-      \strng{fullhash}{899c5eadf7d4ebdcd372085bd600e8e3}
-      \strng{bibnamehash}{899c5eadf7d4ebdcd372085bd600e8e3}
-      \strng{authorbibnamehash}{899c5eadf7d4ebdcd372085bd600e8e3}
-      \strng{authornamehash}{899c5eadf7d4ebdcd372085bd600e8e3}
-      \strng{authorfullhash}{899c5eadf7d4ebdcd372085bd600e8e3}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{{"}Qualitative interviewing is one of the most widely used methods in social research, but it is arguably the least well understood. To address that gap, this book offers a theoretically rigorous, empirically rich, and user-friendly set of strategies for conceiving and conducting interview-based research. Much more than a {"}how to{"} manual, the book shows why depth interviewing is an indispensable method for discovering and explaining the social world-shedding light on the hidden patterns and dynamics that take place within institutions, social contexts, relationships, and individual experiences. It offers a step-by-step guide through every stage in the research process, from initially formulating a question, to developing arguments, and presenting the results. To do this, the book shows how to develop a research question, decide on and find an appropriate sample, construct an interview guide, conduct probing, theoretically focused interviews, and systematically analyze the complex material that depth interviews provide-all in the service of finding and presenting important new empirical discoveries and theoretical insights. The book also lays out the ever-present, but rarely discussed challenges that interviewers routinely encounter and then presents grounded, thoughtful ways to respond to them. By addressing the most heated debates about the scientific status of qualitative methods, the book demonstrates how depth interviewing makes unique and essential contributions to the research enterprise. With an emphasis on the integral relationship between carefully crafted research and theory building, the book offers a compelling vision for what the {"}interviewing imagination{"} can and should be{"}--}
-      \field{isbn}{9780199324293}
-      \field{title}{The science and art of interviewing}
-      \field{year}{2021}
-      \verb{doi}
-      \verb 10.1093/oso/9780199324286.001.0001
-      \endverb
-    \endentry
     \entry{.20230410f}{online}{}
+      \list{organization}{1}{%
+        {Jenkins}%
+      }
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labeltitlesource}{title}
@@ -873,6 +1305,76 @@
       \endverb
       \verb{url}
       \verb https://plugins.jenkins.io/github-oauth/
+      \endverb
+    \endentry
+    \entry{Gloger.2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b0163d7108498eccd9b0c1d6657ac8d0}{%
+           family={Gloger},
+           familyi={G\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{fullhash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{bibnamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{authorbibnamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{authornamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{authorfullhash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0170-6012}
+      \field{journaltitle}{Informatik-Spektrum}
+      \field{number}{2}
+      \field{pagination}{page}
+      \field{title}{Scrum}
+      \field{volume}{33}
+      \field{year}{2010}
+      \field{pages}{195\bibrangedash 200}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s00287-010-0426-6
+      \endverb
+      \verb{file}
+      \verb Gloger 2010 - Scrum:Attachments/Gloger 2010 - Scrum.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Gloger.2016b}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b0163d7108498eccd9b0c1d6657ac8d0}{%
+           family={Gloger},
+           familyi={G\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {Hanser}%
+      }
+      \strng{namehash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{fullhash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{bibnamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{authorbibnamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{authornamehash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \strng{authorfullhash}{b0163d7108498eccd9b0c1d6657ac8d0}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Scrum in der Praxis einführen und leben Boris Gloger beschreibt leicht verständlich die Werte, Regeln, Strukturen und Rollen von Scrum. Egal ob Sie als Kunde, Führungskraft, ScrumMaster, Product Owner oder Teammitglied an einem Scrum-Projekt beteiligt sind oder aber erst wissen wollen, was Scrum eigentlich ist: - Sie erfahren, wie Teams durch weitgehende Selbstorganisation und kontinuierliches Planen Produkte schneller und erfolgreicher liefern können. - Umfassend wird dargestellt, wie Scrum mit mehreren Teams, die über viele Standorte verteilt sind, eingesetzt wird. - Zudem ist dieses Praxisbuch eine hervorragende Unterstützung für die Zertifizierung zum ScrumMaster. Hier erhalten Sie einen umfassenden Überblick und wertvolle Tipps, wie Sie Scrum in der Praxis einführen und leben können. Boris Gloger ist Deutschlands und Österreichs bekanntester Scrum-Berater. Namhafte deutsche und internationale Unternehmen setzen auf seinen Rat, wenn es darum geht, Scrum richtig einzusetzen. Seine Standards bei der Umsetzung von Scrum haben sich durchgesetzt.}
+      \field{edition}{5. Auflage}
+      \field{isbn}{9783446448360}
+      \field{series}{Hanser eLibrary}
+      \field{title}{Scrum: Produkte zuverlässig und schnell entwickeln}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.3139/9783446448360
       \endverb
     \endentry
     \entry{Goll.2015}{book}{}
@@ -922,6 +1424,9 @@
            given={Srijani},
            giveni={S\bibinitperiod}}}%
       }
+      \list{organization}{1}{%
+        {Knowledgehut}%
+      }
       \strng{namehash}{d160f1a36a3eba5809c5f585fade967f}
       \strng{fullhash}{d160f1a36a3eba5809c5f585fade967f}
       \strng{bibnamehash}{d160f1a36a3eba5809c5f585fade967f}
@@ -944,6 +1449,40 @@
       \endverb
       \verb{url}
       \verb https://www.knowledgehut.com/blog/devops/jenkins-plugins
+      \endverb
+    \endentry
+    \entry{.20230419e}{online}{}
+      \name{author}{1}{}{%
+        {{hash=178bba81a60d7b02783ccdfe3dd5def4}{%
+           family={Guss},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Coherence}%
+      }
+      \strng{namehash}{178bba81a60d7b02783ccdfe3dd5def4}
+      \strng{fullhash}{178bba81a60d7b02783ccdfe3dd5def4}
+      \strng{bibnamehash}{178bba81a60d7b02783ccdfe3dd5def4}
+      \strng{authorbibnamehash}{178bba81a60d7b02783ccdfe3dd5def4}
+      \strng{authornamehash}{178bba81a60d7b02783ccdfe3dd5def4}
+      \strng{authorfullhash}{178bba81a60d7b02783ccdfe3dd5def4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AI and the future of DevOps}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.withcoherence.com/post/ai-and-the-future-of-devops
+      \endverb
+      \verb{url}
+      \verb https://www.withcoherence.com/post/ai-and-the-future-of-devops
       \endverb
     \endentry
     \entry{Halstenberg.2020}{book}{}
@@ -982,89 +1521,231 @@
       \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6380828
       \endverb
     \endentry
-    \entry{Hambling.2015}{book}{}
-      \name{editor}{2}{}{%
-        {{hash=51428578def06aa078ac03799d7fa550}{%
-           family={Hambling},
+    \entry{Guru99.2020}{online}{}
+      \name{author}{1}{}{%
+        {{hash=be7db481c2ccccc1a56786c2d91c6897}{%
+           family={Hamilton},
            familyi={H\bibinitperiod},
-           given={Brian},
-           giveni={B\bibinitperiod}}}%
-        {{hash=4d236810821e8e83a025f2a83ea31820}{%
-           family={Brian},
-           familyi={B\bibinitperiod}}}%
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {London, England}%
+      \list{organization}{1}{%
+        {Guru99}%
       }
-      \list{publisher}{1}{%
-        {BCS Learning {\&} Development Limited}%
-      }
-      \strng{namehash}{da4eb24a515428370f3e9a94ad6e9455}
-      \strng{fullhash}{da4eb24a515428370f3e9a94ad6e9455}
-      \strng{bibnamehash}{da4eb24a515428370f3e9a94ad6e9455}
-      \strng{editorbibnamehash}{da4eb24a515428370f3e9a94ad6e9455}
-      \strng{editornamehash}{da4eb24a515428370f3e9a94ad6e9455}
-      \strng{editorfullhash}{da4eb24a515428370f3e9a94ad6e9455}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The best-selling software testing title is the only official textbook of the ISTQB-BCS Certified Tester Foundation Level. This third edition includes examples and exercises reflecting current technology and applications, such as the use of open source software, component-based and agile development and application building for mobile devices. It is ideal for those with a little experience of software testing who wish to cement their knowledge with industry-recognised techniques and theory. {"}Invaluable for anyone involved in testing and would lift the game of most VV{\&}T staff{"} (IT Training Magazine).}
-      \field{edition}{3rd ed.}
-      \field{isbn}{9781780173016}
-      \field{title}{Software testing: An ISTQB-BCS certified tester foundation guide}
-      \field{year}{2015}
-      \verb{urlraw}
-      \verb https://learning.oreilly.com/library/view/-/9781780172996/?ar
-      \endverb
-      \verb{url}
-      \verb https://learning.oreilly.com/library/view/-/9781780172996/?ar
-      \endverb
-    \endentry
-    \entry{Hildebrandt.2015}{book}{}
-      \name{author}{4}{}{%
-        {{hash=4155f864b3289ee1863ea4be672cac4c}{%
-           family={Hildebrandt},
-           familyi={H\bibinitperiod},
-           given={Achim},
-           giveni={A\bibinitperiod}}}%
-        {{hash=3c6d23413a553d17d94d604a14e1533f}{%
-           family={Jäckle},
-           familyi={J\bibinitperiod},
-           given={Sebastian},
-           giveni={S\bibinitperiod}}}%
-        {{hash=c9d38c6ef49f98bcef3e44122d5e18b8}{%
-           family={Wolf},
-           familyi={W\bibinitperiod},
-           given={Frieder},
-           giveni={F\bibinitperiod}}}%
-        {{hash=ab5f798174ddf20a4e3384503307996a}{%
-           family={Heindl},
-           familyi={H\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
-      }
-      \strng{namehash}{068bfc1e067796ad548340901061c9f0}
-      \strng{fullhash}{f86cd05f298a062fa82095ee91b6beb5}
-      \strng{bibnamehash}{068bfc1e067796ad548340901061c9f0}
-      \strng{authorbibnamehash}{068bfc1e067796ad548340901061c9f0}
-      \strng{authornamehash}{068bfc1e067796ad548340901061c9f0}
-      \strng{authorfullhash}{f86cd05f298a062fa82095ee91b6beb5}
+      \strng{namehash}{be7db481c2ccccc1a56786c2d91c6897}
+      \strng{fullhash}{be7db481c2ccccc1a56786c2d91c6897}
+      \strng{bibnamehash}{be7db481c2ccccc1a56786c2d91c6897}
+      \strng{authorbibnamehash}{be7db481c2ccccc1a56786c2d91c6897}
+      \strng{authornamehash}{be7db481c2ccccc1a56786c2d91c6897}
+      \strng{authorfullhash}{be7db481c2ccccc1a56786c2d91c6897}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-3-531-18256-8}
-      \field{title}{Methodologie, Methoden, Forschungsdesign: Ein Lehrbuch für fortgeschrittene Studierende der Politikwissenschaft}
-      \field{year}{2015}
+      \field{abstract}{Manual Testing Tutorial: This tutorial is helpful for beginners to learn manual software testing concepts with practical examples, types of manual testing, Myths and tools to automate manual testing, etc.}
+      \field{title}{Manual Testing Tutorial: What is, Types, Concepts}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.guru99.com/manual-testing.html
+      \endverb
+      \verb{url}
+      \verb https://www.guru99.com/manual-testing.html
+      \endverb
+    \endentry
+    \entry{Huttermann.2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=51936fd3c9912adfe4a226d69a4b4884}{%
+           family={Hüttermann},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley, Kalifornien}%
+      }
+      \list{publisher}{2}{%
+        {Apress}%
+        {Imprint: Apress}%
+      }
+      \strng{namehash}{51936fd3c9912adfe4a226d69a4b4884}
+      \strng{fullhash}{51936fd3c9912adfe4a226d69a4b4884}
+      \strng{bibnamehash}{51936fd3c9912adfe4a226d69a4b4884}
+      \strng{authorbibnamehash}{51936fd3c9912adfe4a226d69a4b4884}
+      \strng{authornamehash}{51936fd3c9912adfe4a226d69a4b4884}
+      \strng{authorfullhash}{51936fd3c9912adfe4a226d69a4b4884}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{DevOps for Developers delivers a practical, thorough introduction to approaches, processes and tools to foster collaboration between software development and operations. Efforts of Agile software development often end at the transition phase from development to operations. This book covers the delivery of software, this means ``the last mile'', with lean practices for shipping the software to production and making it available to the end users, together with the integration of operations with earlier project phases (elaboration, construction, transition). DevOps for Developers describes how to streamline the software delivery process and improve the cycle time (that is the time from inception to delivery). It will enable you to deliver software faster, in better quality and more aligned with individual requirements and basic conditions. And above all, work that is aligned with the ``DevOps'' approach makes even more fun! {<}ul{>} {<}li{>}Provides patterns and toolchains to integrate software development and operations {<}/li{>} {<}li{>}Delivers an one-stop shop for kick-starting with DevOps {<}/li{>} {<}li{>}Provides guidance how to streamline the software delivery process {<}/li{>} {<}/ul{>}}
+      \field{isbn}{9781430245704}
+      \field{series}{The expert's voice in Web development DevOps for developers}
+      \field{title}{DevOps for Developers}
+      \field{year}{2012}
+    \endentry
+    \entry{.2023}{online}{}
+      \list{organization}{1}{%
+        {IBM}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{abstract}{From the IBM Cloud Pak for Data web client, you can monitor the services that are running on the platform, understand how you are using cluster resources, and be aware of issues as they arise. You can also set quotas on the platform, individual services, and on projects to help mitigate unexpected spikes in resource use.}
+      \field{title}{IBM Documentation - Monitoring Platform}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ibm.com/docs/en/cloud-paks/cp-data/4.6.x?topic=2-monitoring-platform
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/docs/en/cloud-paks/cp-data/4.6.x?topic=2-monitoring-platform
+      \endverb
+    \endentry
+    \entry{Ishizaka.2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=403fecc560d56fcdc32c75f76aac357d}{%
+           family={Ishizaka},
+           familyi={I\bibinitperiod},
+           given={Alessio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d46669e10ea0c3c7363e76235288d5e4}{%
+           family={Labib},
+           familyi={L\bibinitperiod},
+           given={Ashraf},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{82110f6e95f3c98c99407a71cdb8ca99}
+      \strng{fullhash}{82110f6e95f3c98c99407a71cdb8ca99}
+      \strng{bibnamehash}{82110f6e95f3c98c99407a71cdb8ca99}
+      \strng{authorbibnamehash}{82110f6e95f3c98c99407a71cdb8ca99}
+      \strng{authornamehash}{82110f6e95f3c98c99407a71cdb8ca99}
+      \strng{authorfullhash}{82110f6e95f3c98c99407a71cdb8ca99}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09574174}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{title}{Review of the main developments in the analytic hierarchy process}
+      \field{year}{2011}
       \verb{doi}
-      \verb 10.1007/978-3-531-18993-2
+      \verb 10.1016/j.eswa.2011.04.143
+      \endverb
+      \verb{file}
+      \verb Ishizaka, Labib 2011 - Review of the main developments:Attachments/Ishizaka, Labib 2011 - Review of the main developments.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Avasant.20220728}{online}{}
+      \list{organization}{1}{%
+        {Computer Economics}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This chapter provides an overview of the key findings from the full study and describes the contents of the subsequent chapters.}
+      \field{title}{IT Spending and Staffing Benchmarks 2022/2023}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://avasant.com/report/it-spending-and-staffing-benchmarks-2022-2023-chapter-1-executive-summary/
+      \endverb
+      \verb{url}
+      \verb https://avasant.com/report/it-spending-and-staffing-benchmarks-2022-2023-chapter-1-executive-summary/
+      \endverb
+    \endentry
+    \entry{Jamil.1122201611242016}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=803aaa6f0a696c27e9c783535f89137f}{%
+           family={Jamil},
+           familyi={J\bibinitperiod},
+           given={Muhammad\bibnamedelima Abid},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4665480355a5929922a1a55929027217}{%
+           family={Arif},
+           familyi={A\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4a3e487253c244a4083015234c3476e6}{%
+           family={Abubakar},
+           familyi={A\bibinitperiod},
+           given={Normi\bibnamedelimb Sham\bibnamedelima Awang},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c2bfc1d672e4d5cb1d810630fc2b1341}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Akhlaq},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c103df00bb8b257a2d3c8eb86982f6c8}
+      \strng{fullhash}{6b69f1d96bc4783e0ebfa5b7d7d25107}
+      \strng{bibnamehash}{c103df00bb8b257a2d3c8eb86982f6c8}
+      \strng{authorbibnamehash}{c103df00bb8b257a2d3c8eb86982f6c8}
+      \strng{authornamehash}{c103df00bb8b257a2d3c8eb86982f6c8}
+      \strng{authorfullhash}{6b69f1d96bc4783e0ebfa5b7d7d25107}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2016 6th International Conference on Information and Communication Technology for The Muslim World (ICT4M)}
+      \field{isbn}{978-1-5090-4521-1}
+      \field{title}{Software Testing Techniques: A Literature Review}
+      \field{year}{11/22/2016 - 11/24/2016}
+      \field{pages}{177\bibrangedash 182}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICT4M.2016.045
+      \endverb
+    \endentry
+    \entry{Kaiser.2021}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9e72197839231384f03ae8d95edd6293}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{2}{%
+        {Springer Fachmedien Wiesbaden}%
+        {Imprint: Springer VS}%
+      }
+      \strng{namehash}{9e72197839231384f03ae8d95edd6293}
+      \strng{fullhash}{9e72197839231384f03ae8d95edd6293}
+      \strng{bibnamehash}{9e72197839231384f03ae8d95edd6293}
+      \strng{authorbibnamehash}{9e72197839231384f03ae8d95edd6293}
+      \strng{authornamehash}{9e72197839231384f03ae8d95edd6293}
+      \strng{authorfullhash}{9e72197839231384f03ae8d95edd6293}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Einleitung -- Konzeptionelle und methodologische Grundlagen qualitativer Experteninterviews -- Die Planung und Durchführung qualitativer Experteninterviews -- Die Ergebnisse qualitativer Experteninterviews: Auswertung und Interpretation -- Reflektion: Häufige Probleme und Lösungsansätze -- Kommentierte Literaturauswahl. Das Lehrbuch richtet sich primär an Studierende und jüngere Wissenschaftlerinnen und Wissenschaftler und bietet in knapper, aber systematischer Form eine praxisorientierte Handreichung für die Planung und Durchführung qualitativer Experteninterviews in der Politikwissenschaft. Es vermittelt einen methodisch fundierten und anwendungs- bzw. problemorientierten Zugang zu dieser Form der eigenständigen qualitativen Datenerhebung. Für die 2. Auflage wurde das Buch grundlegend aktualisiert und um ein Unterkapitel zur software-basieren Unterstützung der Durchführung von Experteninterviews ergänzt. Zusätzliche Fragen per App: Laden Sie die SN Flashcards App kostenlos herunter und nutzen Sie exklusives Zusatzmaterial, um Ihr Wissen zu prüfen. Der Inhalt Einleitung Konzeptionelle und methodologische Grundlagen qualitativer Experteninterviews Die Planung und Durchführung qualitativer Experteninterviews Die Ergebnisse qualitativer Experteninterviews: Auswertung und Interpretation Reflektion: Häufige Probleme und Lösungsansätze. Der Autor Dr. Robert Kaiser ist Professor für Internationalen Vergleich und Politische Theorie an der Universität Siegen.}
+      \field{edition}{2. Auflage}
+      \field{isbn}{9783658302559}
+      \field{series}{Elemente der Politik}
+      \field{title}{Qualitative Experteninterviews: Konzeptionelle Grundlagen und praktische Durchführung}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1007/978-3-658-30255-9
+      \endverb
+      \verb{file}
+      \verb Kaiser 2021 - Qualitative Experteninterviews:Attachments/Kaiser 2021 - Qualitative Experteninterviews.pdf:application/pdf
       \endverb
     \endentry
     \entry{.20230313}{online}{}
@@ -1075,10 +1756,8 @@
            given={Johannes},
            giveni={J\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=4bd784c41f96aa8775892a6592a5e631}{%
-           family={Magnolia},
-           familyi={M\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {Magnolia}%
       }
       \strng{namehash}{d7c3f6e5a24b5615df6133ec90b8bea4}
       \strng{fullhash}{d7c3f6e5a24b5615df6133ec90b8bea4}
@@ -1086,9 +1765,6 @@
       \strng{authorbibnamehash}{d7c3f6e5a24b5615df6133ec90b8bea4}
       \strng{authornamehash}{d7c3f6e5a24b5615df6133ec90b8bea4}
       \strng{authorfullhash}{d7c3f6e5a24b5615df6133ec90b8bea4}
-      \strng{editorbibnamehash}{4bd784c41f96aa8775892a6592a5e631}
-      \strng{editornamehash}{4bd784c41f96aa8775892a6592a5e631}
-      \strng{editorfullhash}{4bd784c41f96aa8775892a6592a5e631}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
@@ -1107,144 +1783,187 @@
       \verb https://www.magnolia-cms.com/de_DE/blog/composable-enterprise.html
       \endverb
     \endentry
-    \entry{Labouardy.2021}{book}{}
-      \name{author}{1}{}{%
-        {{hash=3ce69913fa7b2d4c34a04522f0c6e157}{%
-           family={Labouardy},
-           familyi={L\bibinitperiod},
-           given={Mohamed},
-           giveni={M\bibinitperiod}}}%
+    \entry{Kratzke.2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=61db158cf56ae354e40dc7a7834ea071}{%
+           family={Kratzke},
+           familyi={K\bibinitperiod},
+           given={Nane},
+           giveni={N\bibinitperiod}}}%
+        {{hash=36cbcc259e50626252580da3d6842746}{%
+           family={Quint},
+           familyi={Q\bibinitperiod},
+           given={Peter-Christian},
+           giveni={P\bibinithyphendelim C\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Shelter Island, New York}%
-      }
-      \list{publisher}{1}{%
-        {Manning Publications Co}%
-      }
-      \strng{namehash}{3ce69913fa7b2d4c34a04522f0c6e157}
-      \strng{fullhash}{3ce69913fa7b2d4c34a04522f0c6e157}
-      \strng{bibnamehash}{3ce69913fa7b2d4c34a04522f0c6e157}
-      \strng{authorbibnamehash}{3ce69913fa7b2d4c34a04522f0c6e157}
-      \strng{authornamehash}{3ce69913fa7b2d4c34a04522f0c6e157}
-      \strng{authorfullhash}{3ce69913fa7b2d4c34a04522f0c6e157}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \strng{namehash}{7e222607451a52951d23b5c13de4b287}
+      \strng{fullhash}{7e222607451a52951d23b5c13de4b287}
+      \strng{bibnamehash}{7e222607451a52951d23b5c13de4b287}
+      \strng{authorbibnamehash}{7e222607451a52951d23b5c13de4b287}
+      \strng{authornamehash}{7e222607451a52951d23b5c13de4b287}
+      \strng{authorfullhash}{7e222607451a52951d23b5c13de4b287}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Intro -- inside front cover -- Pipeline as Code -- Copyright -- brief contents -- contents -- front matter -- preface -- acknowledgments -- about this book -- Who should read this book -- How this book is organized -- About the code -- liveBook discussion forum -- Other online resources -- about the author -- about the cover illustration -- Part 1. Getting started with Jenkins -- 1 What's CI/CD? -- 1.1 Going cloud native -- 1.1.1 Monolithic -- 1.1.2 Microservices -- 1.1.3 Cloud native -- 1.1.4 Serverless -- 1.2 Defining continuous integration -- 1.3 Defining continuous deployment -- 1.4 Defining continuous delivery -- 1.5 Embracing CI/CD practices -- 1.6 Using essential CI/CD tools -- 1.6.1 Choosing a CI/CD tool -- 1.6.2 Introducing Jenkins -- Summary -- 2 Pipeline as code with Jenkins -- 2.1 Introducing the Jenkinsfile -- 2.1.1 Blue Ocean plugin -- 2.1.2 Scripted pipeline -- 2.1.3 Declarative pipeline -- 2.2 Understanding multibranch pipelines -- 2.3 Exploring the GitFlow branch model -- 2.4 Test-driven development with Jenkins -- 2.4.1 The Jenkins Replay button -- 2.4.2 Command-line pipeline linter -- 2.4.3 IDE integrations -- Summary -- Part 2. Operating a self-healing Jenkins cluster -- 3 Defining Jenkins architecture -- 3.1 Understanding master-worker architecture -- 3.2 Managing Jenkins workers -- 3.2.1 SSH -- 3.2.2 Command line -- 3.2.3 JNLP -- 3.2.4 Windows service -- 3.3 Architecting Jenkins for scale in AWS -- 3.3.1 Preparing the AWS environment -- 3.3.2 Configuring the AWS CLI -- 3.3.3 Creating and managing the IAM user -- Summary -- 4 Baking machine images with Packer -- 4.1 Immutable infrastructure -- 4.2 Introducing Packer -- 4.2.1 How does it work? -- 4.2.2 Installation and configuration -- 4.2.3 Baking a machine image -- 4.3 Baking the Jenkins master AMI -- 4.3.1 Configuring Jenkins upon startup.}
-      \field{isbn}{9781638350378}
-      \field{title}{Pipeline as code: Continuous delivery with Jenkins, Kubernetes, and Terraform}
-      \field{year}{2021}
+      \field{issn}{0164-1212}
+      \field{journaltitle}{Journal of Systems and Software}
+      \field{pagination}{page}
+      \field{title}{Understanding cloud-native applications after 10 years of cloud computing - A systematic mapping study}
+      \field{volume}{126}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jss.2017.01.001
+      \endverb
+      \verb{file}
+      \verb Kratzke, Quint 2017 - Understanding cloud-native applications after 10:Attachments/Kratzke, Quint 2017 - Understanding cloud-native applications after 10.pdf:application/pdf
+      \endverb
       \verb{urlraw}
-      \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6785307
+      \verb https://www.sciencedirect.com/science/article/pii/s0164121217300018
       \endverb
       \verb{url}
-      \verb https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=6785307
+      \verb https://www.sciencedirect.com/science/article/pii/s0164121217300018
       \endverb
     \endentry
-    \entry{Loeliger.2012}{book}{}
-      \name{author}{2}{}{%
-        {{hash=796df46c31a6a51e18a1ab65954ae13b}{%
-           family={Loeliger},
+    \entry{Prof.Dr.RalfT.Kreutzer.20180215}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2eed8f871d740f9a6638f9d1953ded32}{%
+           family={Kreutzer},
+           familyi={K\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Gabler Wirtschaftslexikon}%
+      }
+      \strng{namehash}{2eed8f871d740f9a6638f9d1953ded32}
+      \strng{fullhash}{2eed8f871d740f9a6638f9d1953ded32}
+      \strng{bibnamehash}{2eed8f871d740f9a6638f9d1953ded32}
+      \strng{authorbibnamehash}{2eed8f871d740f9a6638f9d1953ded32}
+      \strng{authornamehash}{2eed8f871d740f9a6638f9d1953ded32}
+      \strng{authorfullhash}{2eed8f871d740f9a6638f9d1953ded32}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{1. Begriff (Definition): Die Time-to-Value kennzeichnet die Zeit, die verstreicht, bis eine Produktidee oder ein Serviceangebot bereits ersten Wert für die Kunden generieren kann. 2. Merkmale: Die Time-to-Value wird in Tagen, Wochen, Monaten und/oder Jahren bemessen und kennzeichnet die}
+      \field{title}{Definition: Time-to-Value}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://wirtschaftslexikon.gabler.de/definition/time-value-54272
+      \endverb
+      \verb{url}
+      \verb https://wirtschaftslexikon.gabler.de/definition/time-value-54272
+      \endverb
+    \endentry
+    \entry{Lange.2023}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2712c6e805d672ee2c4bf1099e85eef7}{%
+           family={Lange},
            familyi={L\bibinitperiod},
-           given={Jon},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2d3edb1e97ce1a5679c681b3ceb27aa9}{%
-           family={McCullough},
-           familyi={M\bibinitperiod},
-           given={Matthew},
+           given={Moritz},
            giveni={M\bibinitperiod}}}%
+        {{hash=aa2a10f04d11616cb3ff405570821115}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Kim\bibnamedelima Chi},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=aa586b8cf348ec9889521bb9b54a22b6}{%
+           family={Grunewald},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5132c78177ebee1d7b28c8ff89c0706e}{%
+           family={Koschel},
+           familyi={K\bibinitperiod},
+           given={Arne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8b623ad007676a48392987d2ee8e0a15}{%
+           family={Pakosch},
+           familyi={P\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=785e2c7511981e09a401c7e5a67e93a5}{%
+           family={Astrova},
+           familyi={A\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Sebastopol, CA.}%
-      }
-      \list{publisher}{1}{%
-        {O'Reilly}%
-      }
-      \strng{namehash}{6f6e1a840511606b68933edba4bfe4a8}
-      \strng{fullhash}{6f6e1a840511606b68933edba4bfe4a8}
-      \strng{bibnamehash}{6f6e1a840511606b68933edba4bfe4a8}
-      \strng{authorbibnamehash}{6f6e1a840511606b68933edba4bfe4a8}
-      \strng{authornamehash}{6f6e1a840511606b68933edba4bfe4a8}
-      \strng{authorfullhash}{6f6e1a840511606b68933edba4bfe4a8}
+      \strng{namehash}{d9821e6f6bee04e5c408589b48c73108}
+      \strng{fullhash}{44305e2f8a1e3841dd920e620a010faa}
+      \strng{bibnamehash}{d9821e6f6bee04e5c408589b48c73108}
+      \strng{authorbibnamehash}{d9821e6f6bee04e5c408589b48c73108}
+      \strng{authornamehash}{d9821e6f6bee04e5c408589b48c73108}
+      \strng{authorfullhash}{44305e2f8a1e3841dd920e620a010faa}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Get up to speed on Git for tracking, branching, merging, and managing code revisions. Through a series of step-by-step tutorials, this practical guide takes you quickly from Git fundamentals to advanced techniques, and provides friendly yet rigorous advice for navigating the many functions of this open source version control system.{<}/p{>} This thoroughly revised edition also includes tips for manipulating trees, extended coverage of the reflog and stash, and a complete introduction to the GitHub repository. Git lets you manage code development in a virtually endless variety of ways, once you understand how to harness the system's flexibility. This book shows you how.{<}/p{>}{<}ul{>}{<}li{>}Learn how to use Git for several real-world development scenarios{<}/li{>}{<}li{>}Gain insight into Git's common-use cases, initial tasks, and basic functions{<}/li{>}{<}li{>}Use the system for both centralized and distributed version control{<}/li{>}{<}li{>}Learn how to manage merges, conflicts, patches, and diffs{<}/li{>}{<}li{>}Apply advanced techniques such as rebasing, hooks, and ways to handle submodules{<}/li{>}{<}li{>}Interact with Subversion (SVN) repositories---including SVN to Git conversions{<}/li{>}{<}li{>}Navigate, use, and contribute to open source projects though GitHub{<}/li{>}{<}/ul{>}}
-      \field{edition}{2nd ed.}
-      \field{isbn}{9781449345051}
-      \field{title}{Version control with git: Powerful tools and techniques for collaborative software development}
-      \field{year}{2012}
+      \field{issn}{1877-0509}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{pagination}{page}
+      \field{title}{Modern Build Automation for an Insurance Company Tool Selection}
+      \field{volume}{219}
+      \field{year}{2023}
+      \field{pages}{736\bibrangedash 743}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.procs.2023.01.346
+      \endverb
       \verb{file}
-      \verb Loeliger, McCullough 2012 - Version control with git:Attachments/Loeliger, McCullough 2012 - Version control with git.pdf:application/pdf
+      \verb Lange, Tran et al. 2023 - Modern Build Automation:Attachments/Lange, Tran et al. 2023 - Modern Build Automation.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/s1877050923003551
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/s1877050923003551
       \endverb
     \endentry
-    \entry{.2009}{book}{}
+    \entry{.2013}{book}{}
       \name{author}{1}{}{%
-        {{hash=69a3cae0ecf450cbd95bdb2d1c54cecd}{%
-           family={Masak},
+        {{hash=8e45925817fd72eb0dca756224ad0c05}{%
+           family={Maximini},
            familyi={M\bibinitperiod},
-           given={Dieter},
+           given={Dominik},
            giveni={D\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Berlin, Heidelberg}%
       }
       \list{publisher}{1}{%
-        {Springer Berlin Heidelberg}%
+        {Springer Gabler}%
       }
-      \strng{namehash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
-      \strng{fullhash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
-      \strng{bibnamehash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
-      \strng{authorbibnamehash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
-      \strng{authornamehash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
-      \strng{authorfullhash}{69a3cae0ecf450cbd95bdb2d1c54cecd}
+      \strng{namehash}{8e45925817fd72eb0dca756224ad0c05}
+      \strng{fullhash}{8e45925817fd72eb0dca756224ad0c05}
+      \strng{bibnamehash}{8e45925817fd72eb0dca756224ad0c05}
+      \strng{authorbibnamehash}{8e45925817fd72eb0dca756224ad0c05}
+      \strng{authornamehash}{8e45925817fd72eb0dca756224ad0c05}
+      \strng{authorfullhash}{8e45925817fd72eb0dca756224ad0c05}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-3-540-79129-4}
-      \field{series}{Xpert.press}
-      \field{title}{Digitale Ökosysteme: Serviceorientierung bei dynamisch vernetzten Unternehmen}
-      \field{year}{2009}
-      \verb{doi}
-      \verb 10.1007/978-3-540-79130-0
-      \endverb
-      \verb{file}
-      \verb Digitale {\"O}kosysteme 2009:Attachments/Digitale {\"O}kosysteme 2009.pdf:application/pdf
-      \endverb
-    \endentry
-    \entry{.20230305}{online}{}
-      \name{editor}{1}{}{%
-        {{hash=87c6845cac588f4e93adddfb7e731442}{%
-           family={McKinsey},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{87c6845cac588f4e93adddfb7e731442}
-      \strng{fullhash}{87c6845cac588f4e93adddfb7e731442}
-      \strng{bibnamehash}{87c6845cac588f4e93adddfb7e731442}
-      \strng{editorbibnamehash}{87c6845cac588f4e93adddfb7e731442}
-      \strng{editornamehash}{87c6845cac588f4e93adddfb7e731442}
-      \strng{editorfullhash}{87c6845cac588f4e93adddfb7e731442}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{title}{The business value of design}
-      \field{urlday}{5}
-      \field{urlmonth}{3}
-      \field{urlyear}{2023}
-      \field{year}{2019}
-      \field{urldateera}{ce}
+      \field{edition}{2. Auflage}
+      \field{isbn}{978-3-662-56325-0}
+      \field{title}{Scrum-Einführung in der Unternehmenspraxis}
+      \field{year}{2013}
       \verb{urlraw}
-      \verb https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design
+      \verb https://link.springer.com/content/pdf/10.1007/978-3-662-56326-7.pdf
       \endverb
       \verb{url}
-      \verb https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/the-business-value-of-design
+      \verb https://link.springer.com/content/pdf/10.1007/978-3-662-56326-7.pdf
       \endverb
     \endentry
     \entry{.20230405b}{online}{}
+      \list{organization}{1}{%
+        {SAP SE}%
+      }
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labeltitlesource}{title}
@@ -1261,6 +1980,27 @@
       \verb https://help.sap.com/docs/btp/sap-business-technology-platform/multitarget-applications-in-cloud-foundry-environment
       \endverb
     \endentry
+    \entry{CloudZero.20230419}{online}{}
+      \list{organization}{1}{%
+        {CloudZero}%
+      }
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Discover how much Netflix's AWS bill costs and the efficiency monster behind it all, the Netflix AWS architecture.}
+      \field{title}{Netflix Architecture: How Much Does Netflix's AWS Cost?}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cloudzero.com/blog/netflix-aws
+      \endverb
+      \verb{url}
+      \verb https://www.cloudzero.com/blog/netflix-aws
+      \endverb
+    \endentry
     \entry{Gartner.20230408}{online}{}
       \name{author}{1}{}{%
         {{hash=32391bae3d340062157ba096e75c0c86}{%
@@ -1268,6 +2008,9 @@
            familyi={P\bibinitperiod},
            given={Kasey},
            giveni={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Gartner}%
       }
       \strng{namehash}{32391bae3d340062157ba096e75c0c86}
       \strng{fullhash}{32391bae3d340062157ba096e75c0c86}
@@ -1293,37 +2036,24 @@
       \verb https://www.gartner.com/en/articles/you-ll-be-breaking-up-with-bad-customers-and-9-other-predictions-for-2022-and-beyond
       \endverb
     \endentry
-    \entry{.c}{misc}{}
-      \name{editor}{1}{}{%
-        {{hash=1a26015fe99b05b04692cfe4294ecb12}{%
-           family={{Panorama Consulting Solutions}},
-           familyi={P\bibinitperiod}}}%
+    \entry{.20230417}{online}{}
+      \list{organization}{1}{%
+        {Jenkins}%
       }
-      \strng{namehash}{1a26015fe99b05b04692cfe4294ecb12}
-      \strng{fullhash}{1a26015fe99b05b04692cfe4294ecb12}
-      \strng{bibnamehash}{1a26015fe99b05b04692cfe4294ecb12}
-      \strng{editorbibnamehash}{1a26015fe99b05b04692cfe4294ecb12}
-      \strng{editornamehash}{1a26015fe99b05b04692cfe4294ecb12}
-      \strng{editorfullhash}{1a26015fe99b05b04692cfe4294ecb12}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{title}{The 2019 ERP Report}
-      \field{urlday}{15}
+      \field{title}{Parameterized Trigger}
+      \field{urlday}{19}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2019}
-      \field{dateera}{ce}
+      \field{year}{2023}
       \field{urldateera}{ce}
-      \verb{file}
-      \verb The 2019 ERP Report:Attachments/The 2019 ERP Report.pdf:application/pdf
-      \endverb
       \verb{urlraw}
-      \verb https://www.panorama-consulting.com/resource-center/erp-software-research-and-reports/panorama-consulting-solutions-2019-erp-report/
+      \verb https://plugins.jenkins.io/parameterized-trigger/
       \endverb
       \verb{url}
-      \verb https://www.panorama-consulting.com/resource-center/erp-software-research-and-reports/panorama-consulting-solutions-2019-erp-report/
+      \verb https://plugins.jenkins.io/parameterized-trigger/
       \endverb
     \endentry
     \entry{Exposit.2021}{online}{}
@@ -1334,10 +2064,8 @@
            given={Darya},
            giveni={D\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=c18a32d1344cd576f3a026386d74a6df}{%
-           family={Exposit},
-           familyi={E\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {Exposit}%
       }
       \strng{namehash}{ba2f7607ff078739f3154a853c30d35a}
       \strng{fullhash}{ba2f7607ff078739f3154a853c30d35a}
@@ -1345,15 +2073,12 @@
       \strng{authorbibnamehash}{ba2f7607ff078739f3154a853c30d35a}
       \strng{authornamehash}{ba2f7607ff078739f3154a853c30d35a}
       \strng{authorfullhash}{ba2f7607ff078739f3154a853c30d35a}
-      \strng{editorbibnamehash}{c18a32d1344cd576f3a026386d74a6df}
-      \strng{editornamehash}{c18a32d1344cd576f3a026386d74a6df}
-      \strng{editorfullhash}{c18a32d1344cd576f3a026386d74a6df}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Unit testing is an essential part of the software development process that helps you ensure the high quality of your product: it allows developers to check the performance of each unit and prevent possible problems in advance}
-      \field{title}{What is Unit Testing in Software: Why Unit Testing is Important}
+      \field{title}{What is Unit Testing in Software}
       \field{urlday}{8}
       \field{urlmonth}{3}
       \field{urlyear}{2023}
@@ -1367,6 +2092,9 @@
       \endverb
     \endentry
     \entry{StackOverflow.20230403c}{online}{}
+      \list{organization}{1}{%
+        {Stack Overflow}%
+      }
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labeltitlesource}{title}
@@ -1384,6 +2112,9 @@
       \endverb
     \endentry
     \entry{StackOverflow.20230403d}{online}{}
+      \list{organization}{1}{%
+        {Stack Overflow}%
+      }
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labeltitlesource}{title}
@@ -1401,6 +2132,9 @@
       \endverb
     \endentry
     \entry{StackOverflow.20230403b}{online}{}
+      \list{organization}{1}{%
+        {Stack Overflow}%
+      }
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labeltitlesource}{title}
@@ -1417,18 +2151,18 @@
       \verb https://stackoverflow.com/search?q=SAP+ci%2FCD
       \endverb
     \endentry
-    \entry{exp8}{misc}{}
+    \entry{exp8}{abcd}{}
       \name{editor}{1}{}{%
-        {{hash=1f8a4ea3a06b46c3b9ac533224d3e81a}{%
-           family={{Product Management CLM}},
+        {{hash=3cd4597ec3b6000b2ad8ae67bc0b110b}{%
+           family={{Product Manager SAP CLM - Experte 8}},
            familyi={P\bibinitperiod}}}%
       }
-      \strng{namehash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
-      \strng{fullhash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
-      \strng{bibnamehash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
-      \strng{editorbibnamehash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
-      \strng{editornamehash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
-      \strng{editorfullhash}{1f8a4ea3a06b46c3b9ac533224d3e81a}
+      \strng{namehash}{3cd4597ec3b6000b2ad8ae67bc0b110b}
+      \strng{fullhash}{3cd4597ec3b6000b2ad8ae67bc0b110b}
+      \strng{bibnamehash}{3cd4597ec3b6000b2ad8ae67bc0b110b}
+      \strng{editorbibnamehash}{3cd4597ec3b6000b2ad8ae67bc0b110b}
+      \strng{editornamehash}{3cd4597ec3b6000b2ad8ae67bc0b110b}
+      \strng{editorfullhash}{3cd4597ec3b6000b2ad8ae67bc0b110b}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{editor}
@@ -1436,18 +2170,18 @@
       \field{note}{29.03.2023}
       \field{title}{Expertengewichtung 5}
     \endentry
-    \entry{ProductManagerSAPHyperspaceCICD.}{misc}{}
+    \entry{ProductManagerSAPHyperspaceCICD.}{abcd}{}
       \name{editor}{1}{}{%
-        {{hash=81956aa9fe503ca9583e37b360df6d30}{%
-           family={{Product Manager SAP Hyperspace CI/CD}},
+        {{hash=bd6598a36440c60f98c930a42e7bb367}{%
+           family={{Product Manager SAP Hyperspace CI/CD - Experte 2}},
            familyi={P\bibinitperiod}}}%
       }
-      \strng{namehash}{81956aa9fe503ca9583e37b360df6d30}
-      \strng{fullhash}{81956aa9fe503ca9583e37b360df6d30}
-      \strng{bibnamehash}{81956aa9fe503ca9583e37b360df6d30}
-      \strng{editorbibnamehash}{81956aa9fe503ca9583e37b360df6d30}
-      \strng{editornamehash}{81956aa9fe503ca9583e37b360df6d30}
-      \strng{editorfullhash}{81956aa9fe503ca9583e37b360df6d30}
+      \strng{namehash}{bd6598a36440c60f98c930a42e7bb367}
+      \strng{fullhash}{bd6598a36440c60f98c930a42e7bb367}
+      \strng{bibnamehash}{bd6598a36440c60f98c930a42e7bb367}
+      \strng{editorbibnamehash}{bd6598a36440c60f98c930a42e7bb367}
+      \strng{editornamehash}{bd6598a36440c60f98c930a42e7bb367}
+      \strng{editorfullhash}{bd6598a36440c60f98c930a42e7bb367}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{editor}
@@ -1455,18 +2189,18 @@
       \field{note}{24.03.2023}
       \field{title}{Experteninterview 2}
     \endentry
-    \entry{ProductManagerSAPHyperspaceSecurityTools.}{misc}{}
+    \entry{ProductManagerSAPHyperspaceSecurityTools.}{abcd}{}
       \name{editor}{1}{}{%
-        {{hash=6ce508d3c0c6725af309b179b823db34}{%
-           family={{Product Manager SAP Hyperspace Security Tools}},
+        {{hash=85885c554d9ff26d01c7df1f8462f832}{%
+           family={{Product Manager SAP Hyperspace Security Tools - Experte 3}},
            familyi={P\bibinitperiod}}}%
       }
-      \strng{namehash}{6ce508d3c0c6725af309b179b823db34}
-      \strng{fullhash}{6ce508d3c0c6725af309b179b823db34}
-      \strng{bibnamehash}{6ce508d3c0c6725af309b179b823db34}
-      \strng{editorbibnamehash}{6ce508d3c0c6725af309b179b823db34}
-      \strng{editornamehash}{6ce508d3c0c6725af309b179b823db34}
-      \strng{editorfullhash}{6ce508d3c0c6725af309b179b823db34}
+      \strng{namehash}{85885c554d9ff26d01c7df1f8462f832}
+      \strng{fullhash}{85885c554d9ff26d01c7df1f8462f832}
+      \strng{bibnamehash}{85885c554d9ff26d01c7df1f8462f832}
+      \strng{editorbibnamehash}{85885c554d9ff26d01c7df1f8462f832}
+      \strng{editornamehash}{85885c554d9ff26d01c7df1f8462f832}
+      \strng{editorfullhash}{85885c554d9ff26d01c7df1f8462f832}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{editor}
@@ -1474,27 +2208,74 @@
       \field{note}{22.03.2023}
       \field{title}{Experteninterview 3}
     \endentry
-    \entry{ProductOwnerSAPBTPProd&Infra.}{misc}{}
-      \name{editor}{2}{}{%
-        {{hash=86eca3a9e5f51bb623206677e788bf99}{%
-           family={{Product Owner SAP BTP Prod{\&}Infra}},
+    \entry{ProductOwnerSAPBTPProd&Infra.}{abcd}{}
+      \name{editor}{1}{}{%
+        {{hash=482a5adccd6555e9eeb8daeff36e0c06}{%
+           family={{Product Owner SAP BTP Prod and Infra - Experte 1}},
            familyi={P\bibinitperiod}}}%
-        {{hash=bb18ec7d3ee03da6c38e2e191c37dd7a}{%
-           family={{Experte 1}},
-           familyi={E\bibinitperiod}}}%
       }
-      \strng{namehash}{5be4c62cdd47c5c03a90cb10a90dde08}
-      \strng{fullhash}{5be4c62cdd47c5c03a90cb10a90dde08}
-      \strng{bibnamehash}{5be4c62cdd47c5c03a90cb10a90dde08}
-      \strng{editorbibnamehash}{5be4c62cdd47c5c03a90cb10a90dde08}
-      \strng{editornamehash}{5be4c62cdd47c5c03a90cb10a90dde08}
-      \strng{editorfullhash}{5be4c62cdd47c5c03a90cb10a90dde08}
+      \strng{namehash}{482a5adccd6555e9eeb8daeff36e0c06}
+      \strng{fullhash}{482a5adccd6555e9eeb8daeff36e0c06}
+      \strng{bibnamehash}{482a5adccd6555e9eeb8daeff36e0c06}
+      \strng{editorbibnamehash}{482a5adccd6555e9eeb8daeff36e0c06}
+      \strng{editornamehash}{482a5adccd6555e9eeb8daeff36e0c06}
+      \strng{editorfullhash}{482a5adccd6555e9eeb8daeff36e0c06}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{note}{17.03.2023}
       \field{title}{Experteninterview 1}
+    \endentry
+    \entry{Rangnau.10520201082020}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=5c997712b8132867cc47410714820735}{%
+           family={Rangnau},
+           familyi={R\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1ef41c4658613485be653431415294e0}{%
+           family={Buijtenen},
+           familyi={B\bibinitperiod},
+           given={Remco\bibnamedelima v.},
+           giveni={R\bibinitperiod\bibinitdelim v\bibinitperiod}}}%
+        {{hash=ea57d6d6a7e7fc50de0439578bef923a}{%
+           family={Fransen},
+           familyi={F\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6689e391d916cb115a372ec722a26b12}{%
+           family={Turkmen},
+           familyi={T\bibinitperiod},
+           given={Fatih},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7b409f0b8ad0db2c3c5ec712be222944}
+      \strng{fullhash}{8e3478eb86448a587d5b82d791c67346}
+      \strng{bibnamehash}{7b409f0b8ad0db2c3c5ec712be222944}
+      \strng{authorbibnamehash}{7b409f0b8ad0db2c3c5ec712be222944}
+      \strng{authornamehash}{7b409f0b8ad0db2c3c5ec712be222944}
+      \strng{authorfullhash}{8e3478eb86448a587d5b82d791c67346}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2020 IEEE 24th International Enterprise Distributed Object Computing Conference (EDOC)}
+      \field{isbn}{978-1-7281-6473-1}
+      \field{title}{Continuous Security Testing: A Case Study on Integrating Dynamic Security Testing Tools in CI/CD Pipelines}
+      \field{year}{10/5/2020 - 10/8/2020}
+      \field{pages}{145\bibrangedash 154}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/EDOC49727.2020.00026
+      \endverb
+      \verb{file}
+      \verb Rangnau, Buijtenen et al. 10 5 2020 - 10 8 2020 - Continuous Security Testing:Attachments/Rangnau, Buijtenen et al. 10 5 2020 - 10 8 2020 - Continuous Security Testing.pdf:application/pdf
+      \endverb
     \endentry
     \entry{Reinheimer.2018}{book}{}
       \name{author}{1}{}{%
@@ -1534,6 +2315,9 @@
       \endverb
     \endentry
     \entry{.20230406b}{online}{}
+      \list{organization}{1}{%
+        {Project Piper}%
+      }
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
@@ -1550,7 +2334,48 @@
       \verb https://www.project-piper.io/stages/release/
       \endverb
     \endentry
+    \entry{Reynolds.20220203}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ad73dc861545c745de2fbdccbec17f7f}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Plutora}%
+      }
+      \strng{namehash}{ad73dc861545c745de2fbdccbec17f7f}
+      \strng{fullhash}{ad73dc861545c745de2fbdccbec17f7f}
+      \strng{bibnamehash}{ad73dc861545c745de2fbdccbec17f7f}
+      \strng{authorbibnamehash}{ad73dc861545c745de2fbdccbec17f7f}
+      \strng{authornamehash}{ad73dc861545c745de2fbdccbec17f7f}
+      \strng{authorfullhash}{ad73dc861545c745de2fbdccbec17f7f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Software teams typically integrate a dedicated staging environment into their continuous integration/continuous development pipelines.}
+      \field{title}{What Is a Staging Environment? How to Get It Right}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Reynolds 2022-02-03 - What Is a Staging Environment:Attachments/Reynolds 2022-02-03 - What Is a Staging Environment.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.plutora.com/blog/what-staging-environment-how-get-it-right
+      \endverb
+      \verb{url}
+      \verb https://www.plutora.com/blog/what-staging-environment-how-get-it-right
+      \endverb
+    \endentry
     \entry{.20230410g}{online}{}
+      \list{organization}{1}{%
+        {Jenkins}%
+      }
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labeltitlesource}{title}
@@ -1565,6 +2390,38 @@
       \endverb
       \verb{url}
       \verb https://plugins.jenkins.io/role-strategy/
+      \endverb
+    \endentry
+    \entry{Rudrabhatla.10720201092020}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f7a1033d21001f06a57e7c48081ad711}{%
+           family={Rudrabhatla},
+           familyi={R\bibinitperiod},
+           given={Chaitanya\bibnamedelima K.},
+           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f7a1033d21001f06a57e7c48081ad711}
+      \strng{fullhash}{f7a1033d21001f06a57e7c48081ad711}
+      \strng{bibnamehash}{f7a1033d21001f06a57e7c48081ad711}
+      \strng{authorbibnamehash}{f7a1033d21001f06a57e7c48081ad711}
+      \strng{authornamehash}{f7a1033d21001f06a57e7c48081ad711}
+      \strng{authorfullhash}{f7a1033d21001f06a57e7c48081ad711}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2020 Fourth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)}
+      \field{isbn}{978-1-7281-5464-0}
+      \field{title}{Comparison of zero downtime based deployment techniques in public cloud infrastructure}
+      \field{year}{10/7/2020 - 10/9/2020}
+      \field{pages}{1082\bibrangedash 1086}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/I-SMAC49090.2020.9243605
       \endverb
     \endentry
     \entry{Saaty.2008}{article}{}
@@ -1598,6 +2455,88 @@
       \verb 10.1504/IJSSCI.2008.017590
       \endverb
     \endentry
+    \entry{.20230417b}{online}{}
+      \list{organization}{1}{%
+        {Jenkins}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{SAML Single Sign On(SSO)}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://plugins.jenkins.io/miniorange-saml-sp/
+      \endverb
+      \verb{url}
+      \verb https://plugins.jenkins.io/miniorange-saml-sp/
+      \endverb
+    \endentry
+    \entry{Schmiedmayer.52220225242022}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=1ae0a282645306bb86a75cc0a5e768c8}{%
+           family={Schmiedmayer},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=42d37cc4bccbfa84ad613780417ca050}{%
+           family={Chatley},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5a4d51db9549052b4b199d7766ea5983}{%
+           family={Bernius},
+           familyi={B\bibinitperiod},
+           given={Jan\bibnamedelima Philip},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4a15aa849b8abfaec9b6d44e15a93245}{%
+           family={Krusche},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ae1d9eb19c041c60bf528f85644a7b64}{%
+           family={Chaika},
+           familyi={C\bibinitperiod},
+           given={Konstantin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a21c5938b8399c5171b2f81646a0a6b1}{%
+           family={Krinkin},
+           familyi={K\bibinitperiod},
+           given={Kirill},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b8bdd135888f142755ba93727bce527b}{%
+           family={Bruegge},
+           familyi={B\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9111c9e4e00e83b29e02315c9c22cc9a}
+      \strng{fullhash}{ef6fed46f26e62d34c6ecf0d1b2a1751}
+      \strng{bibnamehash}{9111c9e4e00e83b29e02315c9c22cc9a}
+      \strng{authorbibnamehash}{9111c9e4e00e83b29e02315c9c22cc9a}
+      \strng{authornamehash}{9111c9e4e00e83b29e02315c9c22cc9a}
+      \strng{authorfullhash}{ef6fed46f26e62d34c6ecf0d1b2a1751}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{page}
+      \field{booktitle}{2022 IEEE/ACM 44th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET)}
+      \field{isbn}{978-1-6654-9592-9}
+      \field{title}{Global Software Engineering in a Global Classroom}
+      \field{year}{5/22/2022 - 5/24/2022}
+      \field{pages}{113\bibrangedash 121}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/ICSE-SEET55299.2022.9794211
+      \endverb
+    \endentry
     \entry{Schonenstein.20230103}{online}{}
       \name{author}{1}{}{%
         {{hash=0d9b797bb1554075379b2e802a18329f}{%
@@ -1606,10 +2545,8 @@
            given={Jörg},
            giveni={J\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=7750c935805a87d4affddb74c738e3ed}{%
-           family={{communicode AG}},
-           familyi={c\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {communicode AG}%
       }
       \strng{namehash}{0d9b797bb1554075379b2e802a18329f}
       \strng{fullhash}{0d9b797bb1554075379b2e802a18329f}
@@ -1617,9 +2554,6 @@
       \strng{authorbibnamehash}{0d9b797bb1554075379b2e802a18329f}
       \strng{authornamehash}{0d9b797bb1554075379b2e802a18329f}
       \strng{authorfullhash}{0d9b797bb1554075379b2e802a18329f}
-      \strng{editorbibnamehash}{7750c935805a87d4affddb74c738e3ed}
-      \strng{editornamehash}{7750c935805a87d4affddb74c738e3ed}
-      \strng{editorfullhash}{7750c935805a87d4affddb74c738e3ed}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
@@ -1641,32 +2575,6 @@
       \verb https://www.communicode.de/blog/work/composable-business-und-commerce-durch-mach-technologie
       \endverb
     \endentry
-    \entry{Sensedia.2020}{misc}{}
-      \name{editor}{1}{}{%
-        {{hash=07311a85ce469f1f1a12113268911c81}{%
-           family={Sensedia},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{07311a85ce469f1f1a12113268911c81}
-      \strng{fullhash}{07311a85ce469f1f1a12113268911c81}
-      \strng{bibnamehash}{07311a85ce469f1f1a12113268911c81}
-      \strng{editorbibnamehash}{07311a85ce469f1f1a12113268911c81}
-      \strng{editornamehash}{07311a85ce469f1f1a12113268911c81}
-      \strng{editorfullhash}{07311a85ce469f1f1a12113268911c81}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{title}{The Future is Composable: How APIs, Microservices and Events are reshaping the next-gen Enterprises}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
-      \endverb
-      \verb{url}
-      \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
-      \endverb
-    \endentry
     \entry{.20230415}{online}{}
       \name{author}{1}{}{%
         {{hash=0e31e38f4ca4082da53bcf84e409f402}{%
@@ -1674,6 +2582,9 @@
            familyi={S\bibinitperiod},
            given={Valerie},
            giveni={V\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {GitLab}%
       }
       \strng{namehash}{0e31e38f4ca4082da53bcf84e409f402}
       \strng{fullhash}{0e31e38f4ca4082da53bcf84e409f402}
@@ -1698,18 +2609,18 @@
       \verb https://about.gitlab.com/blog/2022/09/15/why-ai-in-devops-is-here-to-stay/
       \endverb
     \endentry
-    \entry{SoftwareArchitektSAPDTSIntegration.}{misc}{}
+    \entry{SoftwareArchitektSAPDTSIntegration.}{abcd}{}
       \name{editor}{1}{}{%
-        {{hash=a73cab71c3c3d78064212e30b6a223e9}{%
-           family={{Software Architekt SAP DTS Integration}},
+        {{hash=20cdf52202948921f12b37352552d869}{%
+           family={{Software Architekt SAP DTS Integration - Experte 5}},
            familyi={S\bibinitperiod}}}%
       }
-      \strng{namehash}{a73cab71c3c3d78064212e30b6a223e9}
-      \strng{fullhash}{a73cab71c3c3d78064212e30b6a223e9}
-      \strng{bibnamehash}{a73cab71c3c3d78064212e30b6a223e9}
-      \strng{editorbibnamehash}{a73cab71c3c3d78064212e30b6a223e9}
-      \strng{editornamehash}{a73cab71c3c3d78064212e30b6a223e9}
-      \strng{editorfullhash}{a73cab71c3c3d78064212e30b6a223e9}
+      \strng{namehash}{20cdf52202948921f12b37352552d869}
+      \strng{fullhash}{20cdf52202948921f12b37352552d869}
+      \strng{bibnamehash}{20cdf52202948921f12b37352552d869}
+      \strng{editorbibnamehash}{20cdf52202948921f12b37352552d869}
+      \strng{editornamehash}{20cdf52202948921f12b37352552d869}
+      \strng{editorfullhash}{20cdf52202948921f12b37352552d869}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{editor}
@@ -1718,20 +2629,11 @@
       \field{title}{Expertengewichtung 1}
     \endentry
     \entry{StackOverflow.20230403}{online}{}
-      \name{editor}{1}{}{%
-        {{hash=84d7dc19766c446f5e4084e8fce87f82}{%
-           family={{Stack Overflow}},
-           familyi={S\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {Stack Overflow}%
       }
-      \strng{namehash}{84d7dc19766c446f5e4084e8fce87f82}
-      \strng{fullhash}{84d7dc19766c446f5e4084e8fce87f82}
-      \strng{bibnamehash}{84d7dc19766c446f5e4084e8fce87f82}
-      \strng{editorbibnamehash}{84d7dc19766c446f5e4084e8fce87f82}
-      \strng{editornamehash}{84d7dc19766c446f5e4084e8fce87f82}
-      \strng{editorfullhash}{84d7dc19766c446f5e4084e8fce87f82}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{abstract}{Get insights on the world's developers from the largest and most comprehensive survey ever. Demographics. Technologies. Salaries. Career satisfaction.}
       \field{title}{Stack Overflow Developer Survey 2020}
@@ -1748,13 +2650,15 @@
       \endverb
     \endentry
     \entry{.20230327}{online}{}
-      \name{author}{2}{}{%
-        {{hash=d83891c31f08f2dbbd6e9adac9e90f97}{%
+      \name{author}{1}{}{%
+        {{hash=387ae91e20baa326efd16b96561d4d70}{%
            family={Stevens},
-           familyi={S\bibinitperiod}}}%
-        {{hash=95af8bd03b651b7d3d1c376a442f20b4}{%
-           family={Harald},
-           familyi={H\bibinitperiod}}}%
+           familyi={S\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {SAP Blogs}%
       }
       \strng{namehash}{387ae91e20baa326efd16b96561d4d70}
       \strng{fullhash}{387ae91e20baa326efd16b96561d4d70}
@@ -1780,36 +2684,43 @@
       \verb https://blogs.sap.com/2020/01/31/interplay-of-sap-cloud-platform-transport-management-cts-and-charm-in-hybrid-landscapes/
       \endverb
     \endentry
-    \entry{.20230201}{online}{}
-      \name{editor}{1}{}{%
-        {{hash=f02d2fd18e61198dd6c2fbf4509422f8}{%
-           family={Synopsys},
-           familyi={S\bibinitperiod}}}%
+    \entry{.20230419c}{online}{}
+      \name{author}{1}{}{%
+        {{hash=74df0689d5695fc2e1b2f8c4e21ff5fe}{%
+           family={Teusner},
+           familyi={T\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{f02d2fd18e61198dd6c2fbf4509422f8}
-      \strng{fullhash}{f02d2fd18e61198dd6c2fbf4509422f8}
-      \strng{bibnamehash}{f02d2fd18e61198dd6c2fbf4509422f8}
-      \strng{editorbibnamehash}{f02d2fd18e61198dd6c2fbf4509422f8}
-      \strng{editornamehash}{f02d2fd18e61198dd6c2fbf4509422f8}
-      \strng{editorfullhash}{f02d2fd18e61198dd6c2fbf4509422f8}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{editor}
+      \list{organization}{1}{%
+        {HPI}%
+      }
+      \strng{namehash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
+      \strng{fullhash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
+      \strng{bibnamehash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
+      \strng{authorbibnamehash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
+      \strng{authornamehash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
+      \strng{authorfullhash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{What Is CI/CD and How Does It Work?}
-      \field{urlday}{8}
-      \field{urlmonth}{3}
+      \field{title}{Enterprise Software Engineering}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
       \field{urlyear}{2023}
-      \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.synopsys.com/glossary/what-is-cicd.html
+      \verb https://hpi.de/en/plattner/research/enterprise-software-engineering.html
       \endverb
       \verb{url}
-      \verb https://www.synopsys.com/glossary/what-is-cicd.html
+      \verb https://hpi.de/en/plattner/research/enterprise-software-engineering.html
       \endverb
     \endentry
     \entry{Executech.20230308}{online}{}
+      \list{organization}{1}{%
+        {Executech}%
+      }
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labeltitlesource}{title}
@@ -1828,6 +2739,9 @@
       \endverb
     \endentry
     \entry{Blog.20170419}{online}{}
+      \list{organization}{1}{%
+        {Netflixtechblog}%
+      }
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labeltitlesource}{title}
@@ -1848,6 +2762,26 @@
       \verb https://netflixtechblog.com/the-evolution-of-container-usage-at-netflix-3abfc096781b
       \endverb
     \endentry
+    \entry{Sensedia.2020}{online}{}
+      \list{organization}{1}{%
+        {Sensedia}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{The Future is Composable}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
+      \endverb
+      \verb{url}
+      \verb https://f.hubspotusercontent30.net/hubfs/4209582/%5BInternational%5D%20Boardroom%20Nordics/%28EN%29%20Composable%20Enterprises%20-%20Sensedia.pdf
+      \endverb
+    \endentry
     \entry{Ugochi.20220503}{online}{}
       \name{author}{1}{}{%
         {{hash=bc85f4a085332eb41e579b60a7b92e09}{%
@@ -1856,10 +2790,8 @@
            given={Ukpai},
            giveni={U\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=36630bdaaa4d71b44de5d4bb1f2f1071}{%
-           family={Plutora},
-           familyi={P\bibinitperiod}}}%
+      \list{organization}{1}{%
+        {Plutora}%
       }
       \strng{namehash}{bc85f4a085332eb41e579b60a7b92e09}
       \strng{fullhash}{bc85f4a085332eb41e579b60a7b92e09}
@@ -1867,9 +2799,6 @@
       \strng{authorbibnamehash}{bc85f4a085332eb41e579b60a7b92e09}
       \strng{authornamehash}{bc85f4a085332eb41e579b60a7b92e09}
       \strng{authorfullhash}{bc85f4a085332eb41e579b60a7b92e09}
-      \strng{editorbibnamehash}{36630bdaaa4d71b44de5d4bb1f2f1071}
-      \strng{editornamehash}{36630bdaaa4d71b44de5d4bb1f2f1071}
-      \strng{editorfullhash}{36630bdaaa4d71b44de5d4bb1f2f1071}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
@@ -1892,6 +2821,9 @@
       \endverb
     \endentry
     \entry{.20230410b}{online}{}
+      \list{organization}{1}{%
+        {Jenkins}%
+      }
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labeltitlesource}{title}
@@ -1909,6 +2841,9 @@
       \endverb
     \endentry
     \entry{.20230410e}{online}{}
+      \list{organization}{1}{%
+        {Azure}%
+      }
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labeltitlesource}{title}
@@ -2016,7 +2951,7 @@
         {Wiesbaden}%
       }
       \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden GmbH}%
+        {Springer Wiesbaden}%
       }
       \strng{namehash}{004016e4939d2b21e398ce55bdc5946f}
       \strng{fullhash}{004016e4939d2b21e398ce55bdc5946f}
@@ -2029,15 +2964,145 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{abstract}{Dieses Fachbuch vermittelt die grundlegenden Kenntnisse des Testmanagements. Von der Strategie und Planung über die verschiedenen Teststufen bis zum Reporting und der Abnahme~geben die Autoren Ihnen einen detaillierten Überblick über das Testen von Software und bieten eine strukturierte Anleitung zum richtigen Testen. Zahlreiche Beispiele zeigen anhand von SAP Banking die Umsetzung und Besonderheiten in der Praxis. Intro -- Vorwort -- Danksagung -- Inhaltsverzeichnis -- 1 Testmanagement! Warum? -- 2 Vorgehensmodelle in der Softwareentwicklung -- 2.1 Vorbemerkungen -- 2.2 Das Wasserfall-Modell -- 2.3 Das V-Modell -- 2.4 RUP - Rational Unified Process -- 3 Teststufen -- 3.1 Komponententest -- 3.2 Integrationstest -- 3.3 Systemtest -- 3.4 Abnahmetest -- 3.5 Generalprobe -- 4 Testprozess -- 4.1 Vorbemerkungen -- 4.2 Die fünf Stufen des allgemeinen Testprozesses -- 4.2.1 Stufe 1: Testplanung und Testüberwachung -- 4.2.2 Stufe 2: Testanalyse und Testentwurf -- 4.2.3 Stufe 3: Testfallerstellung und Testdurchführung -- 4.2.4 Stufe 4: Testinterpretation und Bericht -- 4.2.5 Stufe 5: Beenden der Testaktivität -- 5 Teststrategie -- 5.1 Testziele -- 5.2 Testumfang -- 5.2.1 Testobjekt -- 5.2.2 Testgruppe -- 5.2.3 Testfälle -- 5.3 Testorganisation -- 5.3.1 Rollen und Aufgaben -- 5.3.2 Regelkommunikation -- 5.4 Reporting -- 5.4.1 Berichtswesen -- 5.4.2 Key Performance Indikatoren (KPI´s) im Testmanagement -- 5.5 Testplanung -- 5.5.1 Generischer Testplan -- 5.5.2 Planungsvolatilität -- 6 Testdokumentation -- 6.1 Nutzung von Standards -- 6.2 Der Testplan -- 6.2.1 Test Plan ID -- 6.2.2 Einführung und Referenzen -- 6.2.3 Testobjekte -- 6.2.4 Zu testende Funktionalitäten -- 6.2.5 Nicht zu testende Funktionalitäten -- 6.2.6 Teststrategie -- 6.2.7 Prüfkriterien der Testobjekte -- 6.2.8 Abbruchund Wiederaufnahmekriterien -- 6.2.9 Verfügbare Testdokumente -- 6.2.10 Testaufgaben -- 6.2.11 Ressourcenanforderungen -- 6.2.12 Verantwortlichkeiten -- 6.2.13 Personal und Schulungsbedarf -- 6.2.14 Zeitplan -- 6.2.15 Risikoabschätzung und Möglichkeiten -- 6.2.16 Risiken und Funktionalitätshierarchie -- 6.2.17 Freigabe -- 6.3 Spezifikation des Testdesigns -- 6.4 Die Testfallbeschreibung -- 6.5 Spezifikation des Testablaufs -- 6.6 Konfigurationsbericht des Testobjektes -- 6.7 Der Testbericht.}
-      \field{edition}{1st ed.}
       \field{isbn}{978-3-8348-1623-8}
-      \field{title}{Testmanagement Bei SAP-Projekten: Erfolgreich Planen * Steuern * Reporten Bei der Einführung Von SAP-Banking}
+      \field{title}{Testmanagement Bei SAP-Projekten: Erfolgreich Planen, Steuern, Reporten Bei der Einführung Von SAP-Banking}
       \field{year}{2013}
       \verb{doi}
       \verb 10.1007/978-3-8348-2142-3
       \endverb
     \endentry
+    \entry{.20230419}{online}{}
+      \list{organization}{1}{%
+        {Scrumevents}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Was ist die Definition of Done (DoD)?}
+      \field{title}{Was ist die Definition of Done (DoD)?}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.scrum-events.de/was-ist-die-definition-of-done-dod.html
+      \endverb
+      \verb{url}
+      \verb https://www.scrum-events.de/was-ist-die-definition-of-done-dod.html
+      \endverb
+    \endentry
+    \entry{.20230419b}{online}{}
+      \list{organization}{1}{%
+        {Red Hat}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sie möchten mehr über die Multi-Cloud erfahren? Erfahren Sie, was die Multi-Cloud ist, wie sie funktioniert und warum dafür Container so wichtig sind.}
+      \field{title}{Was ist eine Multi-Cloud?}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.redhat.com/de/topics/cloud-computing/what-is-multicloud
+      \endverb
+      \verb{url}
+      \verb https://www.redhat.com/de/topics/cloud-computing/what-is-multicloud
+      \endverb
+    \endentry
+    \entry{VMware.2022}{online}{}
+      \list{organization}{1}{%
+        {VMware}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Application Monitoring leverages advances in web server hardware, big data architecture {\&} load balancing on cloud networks for detailed analytics of software code.}
+      \field{title}{What is Application Monitoring? | VMware Glossary}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.vmware.com/topics/glossary/content/application-monitoring.html
+      \endverb
+      \verb{url}
+      \verb https://www.vmware.com/topics/glossary/content/application-monitoring.html
+      \endverb
+    \endentry
+    \entry{Naveen.20230224}{online}{}
+      \list{organization}{1}{%
+        {Intellipaat}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Given that there are significantly fewer IT professionals who are capable of working on the Cloud than there is market demand, it is urgent for people to learn about it and develop their expertise in it. So we have come up with this blog on 'Azure DevOps Pipeline' for our folks!!}
+      \field{title}{What is Azure DevOps Pipeline}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Naveen 2023-02-24 - What is Azure DevOps Pipeline:Attachments/Naveen 2023-02-24 - What is Azure DevOps Pipeline.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://intellipaat.com/blog/azure-devops-pipelines/
+      \endverb
+      \verb{url}
+      \verb https://intellipaat.com/blog/azure-devops-pipelines/
+      \endverb
+    \endentry
+    \entry{.20230201}{online}{}
+      \list{organization}{1}{%
+        {Synopsys}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is CI/CD and How Does It Work?}
+      \field{urlday}{8}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.synopsys.com/glossary/what-is-cicd.html
+      \endverb
+      \verb{url}
+      \verb https://www.synopsys.com/glossary/what-is-cicd.html
+      \endverb
+    \endentry
+    \entry{Datadog.2021}{online}{}
+      \list{organization}{1}{%
+        {Datadog}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn about how infrastructure monitoring allows you to track the health and performance of backend components in cloud, on-premise, and hybrid environments.}
+      \field{title}{What is Infrastructure Monitoring? How it Works and Use Cases}
+      \field{urlday}{19}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.datadoghq.com/knowledge-center/infrastructure-monitoring/
+      \endverb
+      \verb{url}
+      \verb https://www.datadoghq.com/knowledge-center/infrastructure-monitoring/
+      \endverb
+    \endentry
     \entry{.20230405}{online}{}
+      \list{organization}{1}{%
+        {SAP SE}%
+      }
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labeltitlesource}{title}

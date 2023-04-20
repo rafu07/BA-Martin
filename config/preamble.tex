@@ -15,8 +15,10 @@
 \usepackage[nottoc]{tocbibind}
 
 % Für eigene Grafiken
-
 \usepackage{tikz} 
+
+% Für Anpassung Quellen
+\usepackage{xpatch}
 
 
 % Für Code
@@ -102,6 +104,9 @@
 \usepackage{lineno, blindtext}
 
 
+\usepackage{ragged2e} % Für verbesserten Flattersatz (linksbündigen Text)
+
+
 % Literaturverzeichnis
 \newcommand{\position}{inline} 
 \newcommand{\indextype}{numeric}
@@ -111,9 +116,14 @@ autocite=\position,
 defernumbers=true,
 style=\indextype,
 useprefix=true,
+giveninits=true
 %	firstinits=true -> Vorname abkürzen
 ]{biblatex}
 \bibliography{bib/bibliography.bib}
+
+\DeclareNameAlias{default}{family-given}
+
+\AtBeginBibliography{\RaggedRight}
 
 
 \DeclareBibliographyCategory{relevant}
@@ -129,6 +139,7 @@ useprefix=true,
 
 
 \DeclareBibliographyCategory{exclude}
+\addtocategory{exclude}{ProductOwnerSAPBTPProd&Infra.}
 \addtocategory{exclude}{BackendTestDeveloperSAPDTSIntegration.}
 \addtocategory{exclude}{exp8}
 \addtocategory{exclude}{FullStackEntwicklerSAPDTSIntegration.}
@@ -139,6 +150,18 @@ useprefix=true,
 \addtocategory{exclude}{TestDeveloperSAPHyperspaceAdoption&Onboarding.}
 
 
+\DeclareBibliographyDriver{abcd}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \printnames{editor}%
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printfield{note}%
+  \newunit\newblock
+  \usebibmacro{date}%
+  \newunit\newblock
+  \usebibmacro{finentry}}
 
 %Float-Option H für Grafiken
 \usepackage{float} 
