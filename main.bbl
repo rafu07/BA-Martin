@@ -402,44 +402,6 @@
       \field{title}{Hands-on continuous integration and delivery: Build and release quality software at scale with Jenkins, Travis CI, and CircleCI}
       \field{year}{2018}
     \endentry
-    \entry{Berry.20220725}{online}{}
-      \name{author}{1}{}{%
-        {{hash=64c5b1ec50c20017df3e3394dcd4f7c0}{%
-           family={Berry},
-           familyi={B\bibinitperiod},
-           given={Aaron},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {LevelUp}%
-      }
-      \strng{namehash}{64c5b1ec50c20017df3e3394dcd4f7c0}
-      \strng{fullhash}{64c5b1ec50c20017df3e3394dcd4f7c0}
-      \strng{bibnamehash}{64c5b1ec50c20017df3e3394dcd4f7c0}
-      \strng{authorbibnamehash}{64c5b1ec50c20017df3e3394dcd4f7c0}
-      \strng{authornamehash}{64c5b1ec50c20017df3e3394dcd4f7c0}
-      \strng{authorfullhash}{64c5b1ec50c20017df3e3394dcd4f7c0}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{If you are working in the software or IT industry, you may have come across the terms continuous integration and continuous delivery, or even better, you practice it daily! Now the CD foundation has$\ldots$}
-      \field{title}{State of CD Report 2022 Review}
-      \field{urlday}{13}
-      \field{urlmonth}{4}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Berry 2022-07-25 - State of CD Report 2022:Attachments/Berry 2022-07-25 - State of CD Report 2022.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://levelup.gitconnected.com/state-of-cd-report-2022-review-e7afb6bc24e6
-      \endverb
-      \verb{url}
-      \verb https://levelup.gitconnected.com/state-of-cd-report-2022-review-e7afb6bc24e6
-      \endverb
-    \endentry
     \entry{Qentelli.20230305}{online}{}
       \name{author}{2}{}{%
         {{hash=d02bddfe2018425ee1a8e77281470e2c}{%
@@ -1449,40 +1411,6 @@
       \endverb
       \verb{url}
       \verb https://www.knowledgehut.com/blog/devops/jenkins-plugins
-      \endverb
-    \endentry
-    \entry{.20230419e}{online}{}
-      \name{author}{1}{}{%
-        {{hash=178bba81a60d7b02783ccdfe3dd5def4}{%
-           family={Guss},
-           familyi={G\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Coherence}%
-      }
-      \strng{namehash}{178bba81a60d7b02783ccdfe3dd5def4}
-      \strng{fullhash}{178bba81a60d7b02783ccdfe3dd5def4}
-      \strng{bibnamehash}{178bba81a60d7b02783ccdfe3dd5def4}
-      \strng{authorbibnamehash}{178bba81a60d7b02783ccdfe3dd5def4}
-      \strng{authornamehash}{178bba81a60d7b02783ccdfe3dd5def4}
-      \strng{authorfullhash}{178bba81a60d7b02783ccdfe3dd5def4}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{AI and the future of DevOps}
-      \field{urlday}{19}
-      \field{urlmonth}{4}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.withcoherence.com/post/ai-and-the-future-of-devops
-      \endverb
-      \verb{url}
-      \verb https://www.withcoherence.com/post/ai-and-the-future-of-devops
       \endverb
     \endentry
     \entry{Halstenberg.2020}{book}{}
@@ -2682,39 +2610,6 @@
       \endverb
       \verb{url}
       \verb https://blogs.sap.com/2020/01/31/interplay-of-sap-cloud-platform-transport-management-cts-and-charm-in-hybrid-landscapes/
-      \endverb
-    \endentry
-    \entry{.20230419c}{online}{}
-      \name{author}{1}{}{%
-        {{hash=74df0689d5695fc2e1b2f8c4e21ff5fe}{%
-           family={Teusner},
-           familyi={T\bibinitperiod},
-           given={Ralf},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {HPI}%
-      }
-      \strng{namehash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
-      \strng{fullhash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
-      \strng{bibnamehash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
-      \strng{authorbibnamehash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
-      \strng{authornamehash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
-      \strng{authorfullhash}{74df0689d5695fc2e1b2f8c4e21ff5fe}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Enterprise Software Engineering}
-      \field{urlday}{19}
-      \field{urlmonth}{4}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://hpi.de/en/plattner/research/enterprise-software-engineering.html
-      \endverb
-      \verb{url}
-      \verb https://hpi.de/en/plattner/research/enterprise-software-engineering.html
       \endverb
     \endentry
     \entry{Executech.20230308}{online}{}

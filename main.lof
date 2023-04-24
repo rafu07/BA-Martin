@@ -9,12 +9,9 @@
 \contentsline {figure}{\numberline {8}{\ignorespaces Hierarchische Darstellung von Softwaretests}}{15}{figure.caption.29}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Strategien zur Bereitstellung von Software}}{19}{figure.caption.31}%
 \contentsline {figure}{\numberline {10}{\ignorespaces Exemplarische Darstellung der hierarchischen Entscheidungsstruktur im AHP}}{23}{figure.caption.32}%
-\contentsline {figure}{\numberline {11}{\ignorespaces AHP-Entscheidungsstruktur zur Bewertung von CI/CD-Pipelines}}{28}{figure.caption.34}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Qualitative Bewertungsmetrik für AHP}}{34}{figure.caption.38}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Quantitative Bewertungsmetrik für AHP}}{35}{figure.caption.39}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Gewichtungsfaktoren der AHP-Entscheidungskriterien}}{36}{figure.caption.40}%
-\contentsline {figure}{\numberline {15}{\ignorespaces SAP Cloud Transport Management}}{40}{figure.caption.43}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{41}{figure.caption.44}%
-\contentsline {figure}{\numberline {17}{\ignorespaces CEA-Szenario für Performance-Tests}}{45}{figure.caption.45}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{47}{figure.caption.47}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Entscheidungsbaum für die Wahl eines CI/CD-Pipeline-Tools}}{59}{figure.caption.50}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Gewichtungsfaktoren der AHP-Entscheidungskriterien}}{36}{figure.caption.38}%
+\contentsline {figure}{\numberline {12}{\ignorespaces SAP Cloud Transport Management}}{40}{figure.caption.41}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{42}{figure.caption.42}%
+\contentsline {figure}{\numberline {14}{\ignorespaces CEA-Szenario für Performance-Tests}}{45}{figure.caption.43}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{48}{figure.caption.45}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Entscheidungsbaum für die Wahl eines CI/CD-Pipeline-Tools}}{58}{figure.caption.47}%

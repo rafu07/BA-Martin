@@ -23,13 +23,13 @@
 \contentsline {subsection}{\numberline {4.1}Definition der Entscheidungskriterien}{27}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Festlegung der Bewertungsmetriken}{34}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Ermittlung der Gewichtungsfaktoren}{36}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Bewertung der Entscheidungsalternativen}{37}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Entwicklung einer Handlungsempfehlung}{53}{section.5}%
-\contentsline {section}{\numberline {6}Schlussbetrachtung}{61}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Fazit und kritische Reflexion}{61}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Ausblick auf zukünftige Entwicklungen}{63}{subsection.6.2}%
+\contentsline {subsection}{\numberline {4.4}Bewertung der Entscheidungsalternativen}{38}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Entwicklung einer Handlungsempfehlung}{54}{section.5}%
+\contentsline {section}{\numberline {6}Schlussbetrachtung}{60}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Fazit und kritische Reflexion}{60}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Ausblick auf zukünftige Entwicklungen}{62}{subsection.6.2}%
 \contentsline {section}{Literaturverzeichnis}{XI}{subsection.6.2}%
-\contentsline {section}{Anhang}{XXIII}{section*.55}%
+\contentsline {section}{Anhang}{XXIII}{section*.52}%
 \etoc@depthtag {mtappendix}
 \contentsline {section}{\numberline {A}Allgemeine Ergänzungen}{XXIV}{appendix.a.A}%
 \contentsline {subsection}{\numberline {A.1}DevOps}{XXIV}{subsection.a.A.1}%
