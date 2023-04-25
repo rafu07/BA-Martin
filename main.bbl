@@ -2503,40 +2503,6 @@
       \verb https://www.communicode.de/blog/work/composable-business-und-commerce-durch-mach-technologie
       \endverb
     \endentry
-    \entry{.20230415}{online}{}
-      \name{author}{1}{}{%
-        {{hash=0e31e38f4ca4082da53bcf84e409f402}{%
-           family={Silverthorne},
-           familyi={S\bibinitperiod},
-           given={Valerie},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {GitLab}%
-      }
-      \strng{namehash}{0e31e38f4ca4082da53bcf84e409f402}
-      \strng{fullhash}{0e31e38f4ca4082da53bcf84e409f402}
-      \strng{bibnamehash}{0e31e38f4ca4082da53bcf84e409f402}
-      \strng{authorbibnamehash}{0e31e38f4ca4082da53bcf84e409f402}
-      \strng{authornamehash}{0e31e38f4ca4082da53bcf84e409f402}
-      \strng{authorfullhash}{0e31e38f4ca4082da53bcf84e409f402}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Why AI in DevOps is here to stay}
-      \field{urlday}{16}
-      \field{urlmonth}{4}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://about.gitlab.com/blog/2022/09/15/why-ai-in-devops-is-here-to-stay/
-      \endverb
-      \verb{url}
-      \verb https://about.gitlab.com/blog/2022/09/15/why-ai-in-devops-is-here-to-stay/
-      \endverb
-    \endentry
     \entry{SoftwareArchitektSAPDTSIntegration.}{abcd}{}
       \name{editor}{1}{}{%
         {{hash=20cdf52202948921f12b37352552d869}{%
