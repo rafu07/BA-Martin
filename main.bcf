@@ -2531,16 +2531,9 @@
     <bcf:citekey order="180" intorder="1">Foundation.2022</bcf:citekey>
     <bcf:citekey order="181" intorder="1">.20230419d</bcf:citekey>
     <bcf:citekey order="182" intorder="1">Fernandes.20210223</bcf:citekey>
-    <bcf:citekey order="183" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="184" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="185" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="186" intorder="1">Vesey.1992</bcf:citekey>
-    <bcf:citekey order="187" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="188" intorder="1">Vesey.1992</bcf:citekey>
-    <bcf:citekey order="189" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="190" intorder="1">Halstenberg.2020</bcf:citekey>
-    <bcf:citekey order="191" intorder="1">Ugochi.20220503</bcf:citekey>
-    <bcf:citekey order="192" intorder="1">Atlassian.20230409</bcf:citekey>
+    <bcf:citekey order="183" intorder="1">.20230424</bcf:citekey>
+    <bcf:citekey order="184" intorder="1">Ugochi.20220503</bcf:citekey>
+    <bcf:citekey order="185" intorder="1">Atlassian.20230409</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

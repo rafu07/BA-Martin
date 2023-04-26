@@ -1,19 +1,4 @@
 \section{Allgemeine Ergänzungen}
-\subsection{DevOps}
-\label{sec:DevOps}
-Prägnant zusammenfassen lässt sich das DevOps-Konzept durch das Akronym CAMS: \textit{Culture (Kultur)}, \textit{Automation (Automatisierung)}, \textit{Measurement (Messung)} und \textit{Sharing (Teilen)} \cite[5]{Halstenberg.2020}. Dabei gilt \textit{Kultur} als das wohl wesentlichste DevOps-Erfolgselement. Diese bezweckt eine Kollaborationsmentalität, welche sich über alle Ebenen eines Unternehmens erstreckt. Operative Entscheidungen sollen dabei auf die Fachebenen herunter delegiert werden, welche aufgrund ihrer spezifischen Expertise am geeignetsten sind, Dispositionen zu verabschieden \cite[5]{Halstenberg.2020}. Eine \textit{Automatisierung} der Softwarebereitstellungsprozesse ermöglicht, sich wiederholende manuelle Arbeit zu eliminieren. Dies kann ebenfalls zur Rationalisierung und damit zur Senkung der IT-Betriebskosten beitragen. Der dabei erzielte Einfluss wird anhand verschiedener DevOps-Kennzahlen bemessen (\textit{Messung}). Neben der Systemverfügbarkeit und der Instandsetzungszeit sind für Softwareentwicklungsunternehmen insbesondere \textit{Time-to-Market} sowie \textit{Time-to-Value} signifikante Metriken \cite[7]{Halstenberg.2020}. 
-Der Time-to-Market beschreibt die Zeitspanne zwischen Entwicklungsentstehungsprozess und der Markteinführung von IT-Services \cite[141]{Vesey.1992}. Auch der \textit{Time-to-Value} erhält zunehmend Bedeutung in der Softwareentwicklung. Im Gegensatz zum Time-to-Market wird hier nicht die Zeit bis zur Komplett-Einführung, sondern das Intervall bis die von dem Softwareunternehmen entwickelte Lösung ersten Kundennutzen herbeiführt, bemessen. Obwohl der im Time-to-Value bereitgestellte IT-Service möglicherweise Verbesserungspotenzial besitzt, überwiegt für Kunden des Unternehmens der mit der initialen Auslieferung herbeigeführte Mehrwert. Eine solche Früheinführung ermöglicht dem Softwareunternehmen ebenfalls einen Vorsprung gegenüber Konkurrenten. So ist diesem bereits gelungen, erste Kunden zu akquirieren, deren Input und Feedback möglichst rasch erfasst und verarbeitet werden kann \cite[9]{Halstenberg.2020}. Softwareunternehmen können IT-Services ab dem Pre-Launch somit sukzessive und ressourcenoptimiert unter Zusammenarbeit mit den Pilotkunden erweitern. Auch Adam Caplan, leitender Strategieberater bei Salesforce, empfiehlt angesichts der bei Softwareintegration entstehenden Komplexität, Anwendungen schnellst möglichst in produktionsähnlichen Umgebungen zu testen \cite{Vesey.1992}. Aus diesen Erfahrungen sollen Best-Practises entwickelt werden, welche innerhalb von Teams und organisationsübergreifend weitergegeben werden (\textit{Teilen}) \cite[7]{Halstenberg.2020}. 
-
-
-\begin{center}
-	\begin{figure}[H]
-		\centering
-		\scalebox{0.34}{\includegraphics{TTM}}
-		\caption[]{Zeitliche Darstellung der Herbeiführung von Kundennutzen bei der Entwicklung von IT-Services \cite[9]{Halstenberg.2020}.}
-		\label{fig:TTM}
-	\end{figure}
-\end{center}
-\vspace*{-15mm}
 
 
 \subsection{Ramped-Deployment}
@@ -30,160 +15,174 @@ Bei dieser Methode wird die Sichtbarkeit neuer Funktionalitäten an eine \textit
 Die Pipeline-Implementation ist bei allen Services identisch:\\
 
 \begin{lstlisting}[language=Python, breaklines=true, basicstyle=\small\ttfamily, frame=single]
-        trigger:
-        - main
-        
-        jobs:
-          - job: Init
-            pool:
-              vmImage: ubuntu-latest
-            steps:
-            - checkout: none
-            - task: Cache@2
-              inputs:
-                key: piper-go-official
-                path: bin
-                cacheHitVar: FOUND_PIPER
-              displayName: Cache piper go binary
-            - script: |
-                  mkdir -p bin
-                  curl -L --output bin/piper $(Piper_Lib_Url)
-                  chmod +x bin/piper
-              condition: ne(variables.FOUND_PIPER, 'true')
-              displayName: 'Download Piper'
-            - script: bin/piper version
-              displayName: 'Piper Version'
-        
-          - job: build
-            pool:
-              vmImage: 'ubuntu-latest'
-            steps:
-            - task: Cache@2
-              inputs:
-                key: piper-go-official
-                path: bin 
-              displayName: deploy iflow
-            - script: |
-              bin/piper npmExecuteScripts --runScripts=['initlint']
-              displayName: 'Execute npm script'
-            - script: |
-              bin/piper mtaBuild 
-              displayName: 'Execute mbtBuild'
-        
-          - job: Additional_Tests
-            - task: Cache@2
-              inputs:
-                key: piper-go-official
-                path: bin 
-              displayName: deploy iflow
-            displayName: Additional_Tests
-            pool:
-              vmImage: ubuntu-latest
-            steps: 
-            - script: |
-              bin/piper npmExecute --dockerImage=$(Docker-Image-Endpoint) --npmRunCommand='run mykarma:ci'
-              displayName: 'runKarmaTests'
+  trigger:
+  - main
+
+jobs:
+  - job: Init
+    pool:
+      vmImage: ubuntu-latest
+    steps:
+      - checkout: none
+      - task: Cache@2
+        inputs:
+          key: piper-go-official
+          path: bin
+          cacheHitVar: FOUND_PIPER
+        displayName: Cache piper go binary
+      - script: |
+          mkdir -p bin
+          curl -L --output bin/piper $(Piper_Lib_Url)
+          chmod +x bin/piper
+        condition: ne(variables.FOUND_PIPER, 'true')
+        displayName: 'Download Piper'
+      - script: bin/piper version
+        displayName: 'Piper Version'
+
+  - job: Build
+    pool:
+      vmImage: 'ubuntu-latest'
+    container:
+      image: $(Image_Endpoint) 
+    steps:
+      - task: Cache@2
+        inputs:
+          key: piper-go-official
+          path: bin
+        displayName: deploy iflow
+      - script: |
+          bin/piper npmExecuteScripts --runScripts=['initlint']
+        displayName: 'Execute npm script'
+      - script: |
+          bin/piper mtaBuild
+        displayName: 'Execute mbtBuild'
+
+  - job: Additional_Tests
+    displayName: Additional_Tests
+    pool:
+      vmImage: ubuntu-latest
+        container:
+      image: $(Image_Endpoint) 
+    steps:
+      - task: Cache@2
+        inputs:
+          key: piper-go-official
+          path: bin
+        displayName: deploy iflow
+      - script: |
+          bin/piper npmExecute --npmRunCommand='run mykarma:ci'
+        displayName: 'runKarmaTests'
         \end{lstlisting}
  
         \subsubsection{CD-Pipeline-Implementation}
         Die Pipeline-Implementation ist bei allen Services identisch:\\
         
         \begin{lstlisting}[language=Python, breaklines=true, basicstyle=\small\ttfamily, frame=single]
-                trigger:
-                - main
-                
-                jobs:
-                  - job: Init
-                    pool:
-                      vmImage: ubuntu-latest
-                    steps:
-                    - checkout: none
-                    - task: Cache@2
-                      inputs:
-                        key: piper-go-official
-                        path: bin
-                        cacheHitVar: FOUND_PIPER
-                      displayName: Cache piper go binary
-                    - script: |
-                          mkdir -p bin
-                          curl -L --output bin/piper $(Piper_Lib_Url)
-                          chmod +x bin/piper
-                      condition: ne(variables.FOUND_PIPER, 'true')
-                      displayName: 'Download Piper'
-                    - script: bin/piper version
-                      displayName: 'Piper Version'
-                
-                  - job: Build
-                    pool:
-                      vmImage: 'ubuntu-latest'
-                    steps:
-                    - task: Cache@2
-                      inputs:
-                        key: piper-go-official
-                        path: bin 
-                      displayName: deploy iflow
-                    - script: |
-                      bin/piper npmExecuteScripts --runScripts=['initlint']
-                      displayName: 'Execute npm script'
-                    - script: |
-                      bin/piper mtaBuild 
-                      displayName: 'Execute mbtBuild'
-                
-                  - job: Additional_Tests
-                    - task: Cache@2
-                      inputs:
-                        key: piper-go-official
-                        path: bin 
-                      displayName: deploy iflow
-                    displayName: Additional_Tests
-                    pool:
-                      vmImage: ubuntu-latest
-                    steps: 
-                    - script: |
-                      bin/piper npmExecute --dockerImage=$(Docker-Image-Endpoint) --npmRunCommand='run mykarma:ci'
-                      displayName: 'runKarmaTests'
-                
-                  - job: Acceptance
-                    pool:
-                      vmImage: ubuntu-latest
-                    steps:
-                    - task: Cache@2
-                      inputs:
-                        key: piper-go-official
-                        path: bin 
-                      displayName: deploy iflow
-                    - script: |
-                      bin/piper cloudFoundryDeploy 
-                      displayName: 'Deploy'
-                    - script: |
-                      bin/piper uiVeri5ExecuteTests 
-                      displayName: 'Execute WDI5'	  
-                              
-                  - job: Compliance
-                    pool:
-                      vmImage: ubuntu-latest
-                    steps:
-                    - task: Cache@2
-                      inputs:
-                        key: piper-go-official
-                        path: bin 
-                      displayName: deploy iflow
-                    - script: |
-                        bin/piper sonarExecuteScan --branchName='main' --githubToken=$(Github_Token) --token=$(Token) --serverUrl=$(serverUrl)
-                      displayName: 'sonarExecuteScan'
-                            
-                  - job: Release
-                    pool:
-                      vmImage: ubuntu-latest
-                    steps:
-                    - task: Cache@2
-                      inputs:
-                        key: piper-go-official
-                        path: bin 
-                      displayName: deploy iflow piper
-                    - script: |
-                      bin/piper cloudFoundryDeploy 
-                      displayName: 'Deploy' 
+          trigger:
+          - main
+        
+        jobs:
+          - job: Init
+            pool:
+              vmImage: ubuntu-latest
+            steps:
+              - checkout: none
+              - task: Cache@2
+                inputs:
+                  key: piper-go-official
+                  path: bin
+                  cacheHitVar: FOUND_PIPER
+                displayName: Cache piper go binary
+              - script: |
+                  mkdir -p bin
+                  curl -L --output bin/piper $(Piper_Lib_Url)
+                  chmod +x bin/piper
+                condition: ne(variables.FOUND_PIPER, 'true')
+                displayName: 'Download Piper'
+              - script: bin/piper version
+                displayName: 'Piper Version'
+        
+          - job: Build
+            pool:
+              vmImage: 'ubuntu-latest'
+            container:
+              image: $(Image_Endpoint) 
+            steps:
+              - task: Cache@2
+                inputs:
+                  key: piper-go-official
+                  path: bin
+                displayName: deploy iflow
+              - script: |
+                  bin/piper npmExecuteScripts --runScripts=['initlint']
+                displayName: 'Execute npm script'
+              - script: |
+                  bin/piper mtaBuild
+                displayName: 'Execute mbtBuild'
+        
+          - job: Additional_Tests
+            displayName: Additional_Tests
+            pool:
+              vmImage: ubuntu-latest
+                container:
+              image: $(Image_Endpoint) 
+            steps:
+              - task: Cache@2
+                inputs:
+                  key: piper-go-official
+                  path: bin
+                displayName: deploy iflow
+              - script: |
+                  bin/piper npmExecute --dockerImage=$(Docker-Image-Endpoint) --npmRunCommand='run mykarma:ci'
+                displayName: 'runKarmaTests'
+        
+          - job: Acceptance
+            pool:
+              vmImage: ubuntu-latest
+            container:
+              image: $(Image_Endpoint)   
+            steps:
+              - task: Cache@2
+                inputs:
+                  key: piper-go-official
+                  path: bin
+                displayName: deploy iflow
+              - script: |
+                  bin/piper cloudFoundryDeploy
+                displayName: 'Deploy'
+              - script: |
+                  bin/piper uiVeri5ExecuteTests
+                displayName: 'Execute WDI5'
+        
+          - job: Compliance
+            pool:
+              vmImage: ubuntu-latest
+            container:
+              image: $(Image_Endpoint)   
+            steps:
+              - task: Cache@2
+                inputs:
+                  key: piper-go-official
+                  path: bin
+                displayName: deploy iflow
+              - script: |
+                  bin/piper sonarExecuteScan --branchName='main' --githubToken=$(Github_Token) --token=$(Token) --serverUrl=$(serverUrl)
+                displayName: 'sonarExecuteScan'
+        
+          - job: Release
+            pool:
+              vmImage: ubuntu-latest
+            container:
+              image: $(Image_Endpoint)   
+            steps:
+              - task: Cache@2
+                inputs:
+                  key: piper-go-official
+                  path: bin
+                displayName: deploy iflow piper
+              - script: |
+                  bin/piper cloudFoundryDeploy
+                displayName: 'Deploy'
                 \end{lstlisting}
 \subsubsection{Performance-Ergebnisse}                
 \begin{center}
