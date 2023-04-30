@@ -14,7 +14,7 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Technologische Konzepte des Composable-Enterprises}{8}{subsubsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.2}Integration und Bereitstellung einer Cloud-Anwendung}{10}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Agile und DevOps als moderne Softwareentwicklungskonzepte}{10}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Automatisierung der Integrations- und Bereitstellungsprozesse}{12}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2}Automatisierung der Integrations- und Bereitstellungsprozesse}{13}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Strategien zur Bereitstellung von Neuentwicklungen}{19}{subsubsection.2.2.3}%
 \contentsline {section}{\numberline {3}Methodische Vorgehensweise}{22}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Semistrukturierte Leitfadeninterviews zur Erhebung qualitativer Daten}{22}{subsection.3.1}%
@@ -29,33 +29,33 @@
 \contentsline {subsection}{\numberline {6.1}Fazit und kritische Reflexion}{61}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Ausblick auf zukünftige Entwicklungen}{63}{subsection.6.2}%
 \contentsline {section}{Literaturverzeichnis}{XI}{subsection.6.2}%
-\contentsline {section}{Anhang}{XXII}{section*.51}%
+\contentsline {section}{Anhang}{XXIII}{section*.50}%
 \etoc@depthtag {mtappendix}
-\contentsline {section}{\numberline {A}Allgemeine Ergänzungen}{XXIII}{appendix.a.A}%
-\contentsline {subsection}{\numberline {A.1}Ramped-Deployment}{XXIII}{subsection.a.A.1}%
-\contentsline {subsection}{\numberline {A.2}Feauture Flags}{XXIII}{subsection.a.A.2}%
-\contentsline {section}{\numberline {B}Pipeline-Prototyp}{XXIV}{appendix.a.B}%
-\contentsline {subsection}{\numberline {B.1}Azure Pipelines}{XXIV}{subsection.a.B.1}%
-\contentsline {subsubsection}{\numberline {B.1.1}CI-Pipeline-Implementation}{XXIV}{subsubsection.a.B.1.1}%
-\contentsline {subsubsection}{\numberline {B.1.2}CD-Pipeline-Implementation}{XXVI}{subsubsection.a.B.1.2}%
-\contentsline {subsubsection}{\numberline {B.1.3}Performance-Ergebnisse}{XXX}{subsubsection.a.B.1.3}%
-\contentsline {subsection}{\numberline {B.2}Jenkins}{XXXI}{subsection.a.B.2}%
-\contentsline {subsubsection}{\numberline {B.2.1}CI-Pipeline-Implementation}{XXXI}{subsubsection.a.B.2.1}%
-\contentsline {subsubsection}{\numberline {B.2.2}CD-Pipeline-Implementation}{XXXII}{subsubsection.a.B.2.2}%
-\contentsline {subsubsection}{\numberline {B.2.3}Performance-Ergebnisse}{XXXIII}{subsubsection.a.B.2.3}%
-\contentsline {subsection}{\numberline {B.3}SAP CI/CD}{XXXV}{subsection.a.B.3}%
-\contentsline {subsubsection}{\numberline {B.3.1}CI-Pipeline-Konfiguration}{XXXV}{subsubsection.a.B.3.1}%
-\contentsline {subsubsection}{\numberline {B.3.2}CD-Pipeline-Konfiguration}{XXXVI}{subsubsection.a.B.3.2}%
-\contentsline {subsubsection}{\numberline {B.3.3}Performance-Ergebnisse}{XXXVII}{subsubsection.a.B.3.3}%
-\contentsline {section}{\numberline {C}Expertenmaterialien}{XL}{appendix.a.C}%
-\contentsline {subsection}{\numberline {C.1}Experteninterview 1}{XL}{subsection.a.C.1}%
-\contentsline {subsection}{\numberline {C.2}Experteninterview 2}{XLV}{subsection.a.C.2}%
-\contentsline {subsection}{\numberline {C.3}Experteninterview 3}{XLVIII}{subsection.a.C.3}%
-\contentsline {subsection}{\numberline {C.4}Experteninterview 4}{L}{subsection.a.C.4}%
-\contentsline {subsection}{\numberline {C.5}Kodierung der Experteninterviews}{LIV}{subsection.a.C.5}%
-\contentsline {subsection}{\numberline {C.6}Expertengewichtung 1}{LXVI}{subsection.a.C.6}%
-\contentsline {subsection}{\numberline {C.7}Expertengewichtung 2}{LXXI}{subsection.a.C.7}%
-\contentsline {subsection}{\numberline {C.8}Expertengewichtung 3}{LXXVI}{subsection.a.C.8}%
-\contentsline {subsection}{\numberline {C.9}Expertengewichtung 4}{LXXXI}{subsection.a.C.9}%
-\contentsline {subsection}{\numberline {C.10}Expertengewichtung 5}{LXXXVI}{subsection.a.C.10}%
-\contentsline {subsection}{\numberline {C.11}Expertengewichtung Durchschnitt}{XCI}{subsection.a.C.11}%
+\contentsline {section}{\numberline {A}Allgemeine Ergänzungen}{XXIV}{appendix.a.A}%
+\contentsline {subsection}{\numberline {A.1}Ramped-Deployment}{XXIV}{subsection.a.A.1}%
+\contentsline {subsection}{\numberline {A.2}Feauture Flags}{XXIV}{subsection.a.A.2}%
+\contentsline {section}{\numberline {B}Pipeline-Prototyp}{XXV}{appendix.a.B}%
+\contentsline {subsection}{\numberline {B.1}Azure Pipelines}{XXV}{subsection.a.B.1}%
+\contentsline {subsubsection}{\numberline {B.1.1}CI-Pipeline-Implementation}{XXV}{subsubsection.a.B.1.1}%
+\contentsline {subsubsection}{\numberline {B.1.2}CD-Pipeline-Implementation}{XXVII}{subsubsection.a.B.1.2}%
+\contentsline {subsubsection}{\numberline {B.1.3}Performance-Ergebnisse}{XXXI}{subsubsection.a.B.1.3}%
+\contentsline {subsection}{\numberline {B.2}Jenkins}{XXXII}{subsection.a.B.2}%
+\contentsline {subsubsection}{\numberline {B.2.1}CI-Pipeline-Implementation}{XXXII}{subsubsection.a.B.2.1}%
+\contentsline {subsubsection}{\numberline {B.2.2}CD-Pipeline-Implementation}{XXXIII}{subsubsection.a.B.2.2}%
+\contentsline {subsubsection}{\numberline {B.2.3}Performance-Ergebnisse}{XXXIV}{subsubsection.a.B.2.3}%
+\contentsline {subsection}{\numberline {B.3}SAP CI/CD}{XXXVI}{subsection.a.B.3}%
+\contentsline {subsubsection}{\numberline {B.3.1}CI-Pipeline-Konfiguration}{XXXVI}{subsubsection.a.B.3.1}%
+\contentsline {subsubsection}{\numberline {B.3.2}CD-Pipeline-Konfiguration}{XXXVII}{subsubsection.a.B.3.2}%
+\contentsline {subsubsection}{\numberline {B.3.3}Performance-Ergebnisse}{XXXVIII}{subsubsection.a.B.3.3}%
+\contentsline {section}{\numberline {C}Expertenmaterialien}{XLI}{appendix.a.C}%
+\contentsline {subsection}{\numberline {C.1}Experteninterview 1}{XLI}{subsection.a.C.1}%
+\contentsline {subsection}{\numberline {C.2}Experteninterview 2}{XLVI}{subsection.a.C.2}%
+\contentsline {subsection}{\numberline {C.3}Experteninterview 3}{XLIX}{subsection.a.C.3}%
+\contentsline {subsection}{\numberline {C.4}Experteninterview 4}{LI}{subsection.a.C.4}%
+\contentsline {subsection}{\numberline {C.5}Kodierung der Experteninterviews}{LV}{subsection.a.C.5}%
+\contentsline {subsection}{\numberline {C.6}Expertengewichtung 1}{LXVII}{subsection.a.C.6}%
+\contentsline {subsection}{\numberline {C.7}Expertengewichtung 2}{LXXII}{subsection.a.C.7}%
+\contentsline {subsection}{\numberline {C.8}Expertengewichtung 3}{LXXVII}{subsection.a.C.8}%
+\contentsline {subsection}{\numberline {C.9}Expertengewichtung 4}{LXXXII}{subsection.a.C.9}%
+\contentsline {subsection}{\numberline {C.10}Expertengewichtung 5}{LXXXVII}{subsection.a.C.10}%
+\contentsline {subsection}{\numberline {C.11}Expertengewichtung Durchschnitt}{XCII}{subsection.a.C.11}%

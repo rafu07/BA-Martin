@@ -149,6 +149,27 @@
       \verb Aghamanoukjan, Buber et al. 2009 - Qualitative Interviews:Attachments/Aghamanoukjan, Buber et al. 2009 - Qualitative Interviews.pdf:application/pdf
       \endverb
     \endentry
+    \entry{MuleSoft.20230427}{online}{}
+      \list{organization}{1}{%
+        {MuleSoft}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn how to architect the composable enterprise with API-led connectivity, and how businesses can reorganize themselves into agile businesses to able to respond to innovations.}
+      \field{title}{Architecting the composable enterprise}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mulesoft.com/lp/whitepaper/api/architecting-composable
+      \endverb
+      \verb{url}
+      \verb https://www.mulesoft.com/lp/whitepaper/api/architecting-composable
+      \endverb
+    \endentry
     \entry{Arora.20200504}{online}{}
       \name{author}{1}{}{%
         {{hash=b511a468da37267fd31fc5a5e2b16d90}{%
@@ -469,6 +490,44 @@
       \field{title}{API architecture: The big picture for building APIs}
       \field{year}{2015}
     \endentry
+    \entry{.20210609}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7e51fa13213aa470285bfdc6f075b57d}{%
+           family={Biermann},
+           familyi={B\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {mindsquare}%
+      }
+      \strng{namehash}{7e51fa13213aa470285bfdc6f075b57d}
+      \strng{fullhash}{7e51fa13213aa470285bfdc6f075b57d}
+      \strng{bibnamehash}{7e51fa13213aa470285bfdc6f075b57d}
+      \strng{authorbibnamehash}{7e51fa13213aa470285bfdc6f075b57d}
+      \strng{authornamehash}{7e51fa13213aa470285bfdc6f075b57d}
+      \strng{authorfullhash}{7e51fa13213aa470285bfdc6f075b57d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Apps begleiten uns nicht nur im privaten Alltag -- auch in der Berufswelt werden die kleinen Helfer eingesetzt. Bei der Auswahl der Apps sollten Unternehmen u. a. auf eine intuitive Benutzbarkeit achten. Diese erreichen Entwickler im SAP-Bereich mithilfe von SAPUI5. Was genau SAPUI5 ist, erfahren Sie in diesem Artikel. Was ist SAPUI5? SAPUI5 steht für [$\ldots$]}
+      \field{title}{SAPUI5}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb SAPUI5 2021-06-09:Attachments/SAPUI5 2021-06-09.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://mindsquare.de/knowhow/sapui5/
+      \endverb
+      \verb{url}
+      \verb https://mindsquare.de/knowhow/sapui5/
+      \endverb
+    \endentry
     \entry{.20230417c}{online}{}
       \list{organization}{1}{%
         {Jenkins}%
@@ -695,6 +754,41 @@
       \verb https://itpfed.com/composable-erp-what-it-is-and-why-its-important-part-2/
       \endverb
     \endentry
+    \entry{.20230429}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e2f484491bf9d849c28c8188044fa9f8}{%
+           family={Chavan},
+           familyi={C\bibinitperiod},
+           given={Rugved},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {SAP Blogs}%
+      }
+      \strng{namehash}{e2f484491bf9d849c28c8188044fa9f8}
+      \strng{fullhash}{e2f484491bf9d849c28c8188044fa9f8}
+      \strng{bibnamehash}{e2f484491bf9d849c28c8188044fa9f8}
+      \strng{authorbibnamehash}{e2f484491bf9d849c28c8188044fa9f8}
+      \strng{authornamehash}{e2f484491bf9d849c28c8188044fa9f8}
+      \strng{authorfullhash}{e2f484491bf9d849c28c8188044fa9f8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract: Cloud computing has become a significant factor in the technology industry, offering businesses the opportunity to take advantage of on-demand computing resources without the need for physical}
+      \field{title}{A Beginner's Journey to Cloud Computing: SAP BTP, Cloud Foundry and Kyma Demystified.}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://blogs.sap.com/2023/03/03/a-beginners-journey-to-cloud-computing-sap-btp-cloud-foundry-and-kyma-demystified./
+      \endverb
+      \verb{url}
+      \verb https://blogs.sap.com/2023/03/03/a-beginners-journey-to-cloud-computing-sap-btp-cloud-foundry-and-kyma-demystified./
+      \endverb
+    \endentry
     \entry{Codefresh.20230419}{online}{}
       \list{organization}{1}{%
         {Codefresh}%
@@ -714,6 +808,26 @@
       \endverb
       \verb{url}
       \verb https://codefresh.io/learn/ci-cd-pipelines/
+      \endverb
+    \endentry
+    \entry{.20230402}{online}{}
+      \list{organization}{1}{%
+        {Codefresh}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{CI/CD Pipelines for Microservices}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/containers-101/ci-cd-pipelines-for-microservices-ea33fb48dae0
+      \endverb
+      \verb{url}
+      \verb https://medium.com/containers-101/ci-cd-pipelines-for-microservices-ea33fb48dae0
       \endverb
     \endentry
     \entry{.20230406c}{online}{}
@@ -754,35 +868,6 @@
       \endverb
       \verb{url}
       \verb https://www.microsoft.com/en-us/ai/ai-lab-code-defect
-      \endverb
-    \endentry
-    \entry{.20230402}{online}{}
-      \name{editor}{1}{}{%
-        {{hash=2096b15e04f2dd972c8dfdd3562cded1}{%
-           family={Codefresh},
-           familyi={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{2096b15e04f2dd972c8dfdd3562cded1}
-      \strng{fullhash}{2096b15e04f2dd972c8dfdd3562cded1}
-      \strng{bibnamehash}{2096b15e04f2dd972c8dfdd3562cded1}
-      \strng{editorbibnamehash}{2096b15e04f2dd972c8dfdd3562cded1}
-      \strng{editornamehash}{2096b15e04f2dd972c8dfdd3562cded1}
-      \strng{editorfullhash}{2096b15e04f2dd972c8dfdd3562cded1}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{title}{CI/CD Pipelines for Microservices}
-      \field{urlday}{2}
-      \field{urlmonth}{4}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://medium.com/containers-101/ci-cd-pipelines-for-microservices-ea33fb48dae0
-      \endverb
-      \verb{url}
-      \verb https://medium.com/containers-101/ci-cd-pipelines-for-microservices-ea33fb48dae0
       \endverb
     \endentry
     \entry{Steved0x.20230410}{online}{}
@@ -937,17 +1022,17 @@
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labeltitlesource}{title}
       \field{abstract}{Alpacked provides DevOps as a service for startups and enterprises. Our DevOps team helps your business to grow faster and efficiently. Support 24/7. ➤ AWS {\&} DigitalOcean Official Partner.}
-      \field{title}{DevOps Company | Consulting and Managed Services}
+      \field{title}{DevOps Company Consulting and Managed Services}
       \field{urlday}{24}
       \field{urlmonth}{4}
       \field{urlyear}{2023}
       \field{year}{2023}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://alpacked.io/
+      \verb https://alpacked.io/blog/using-blockchain-and-devops-for-secure--continuous-delivery/
       \endverb
       \verb{url}
-      \verb https://alpacked.io/
+      \verb https://alpacked.io/blog/using-blockchain-and-devops-for-secure--continuous-delivery/
       \endverb
     \endentry
     \entry{Ellram.1993}{article}{}
@@ -2564,6 +2649,44 @@
       \verb https://insights.stackoverflow.com/survey/2020
       \endverb
     \endentry
+    \entry{Steckenborn.20210526}{online}{}
+      \name{author}{1}{}{%
+        {{hash=80507bdd87133faf93d902437218fe6a}{%
+           family={Steckenborn},
+           familyi={S\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Consolvis}%
+      }
+      \strng{namehash}{80507bdd87133faf93d902437218fe6a}
+      \strng{fullhash}{80507bdd87133faf93d902437218fe6a}
+      \strng{bibnamehash}{80507bdd87133faf93d902437218fe6a}
+      \strng{authorbibnamehash}{80507bdd87133faf93d902437218fe6a}
+      \strng{authornamehash}{80507bdd87133faf93d902437218fe6a}
+      \strng{authorfullhash}{80507bdd87133faf93d902437218fe6a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{That's the question I asked myself a few months ago. I didn't know that writing a book about the SAP Business Technology Platform would lead me to more questions than I cared to ask. Simple questions weren't so easy to answer. I couldn't detail every topic in the book, but I'd like to share my thoughts with you. It was an exciting experience, and I hope you find it helpful.}
+      \field{title}{What's the SAP Cloud Application Programming Model?}
+      \field{urlday}{29}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Steckenborn 2021-05-26 - What's the SAP Cloud Application:Attachments/Steckenborn 2021-05-26 - What's the SAP Cloud Application.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.consolvis.de/blog/what-is-the-sap-cloud-application-programming-model/
+      \endverb
+      \verb{url}
+      \verb https://www.consolvis.de/blog/what-is-the-sap-cloud-application-programming-model/
+      \endverb
+    \endentry
     \entry{.20230327}{online}{}
       \name{author}{1}{}{%
         {{hash=387ae91e20baa326efd16b96561d4d70}{%
@@ -2998,10 +3121,10 @@
       \verb SAP SE 2023-04-05 - What Is SAP Continuous Integration:Attachments/SAP SE 2023-04-05 - What Is SAP Continuous Integration.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/618ca03fdca24e56924cc87cfbb7673a.html?language=en-US
+      \verb https://rb.gy/rq0zl
       \endverb
       \verb{url}
-      \verb https://help.sap.com/docs/CONTINUOUS_DELIVERY/99c72101f7ee40d0b2deb4df72ba1ad3/618ca03fdca24e56924cc87cfbb7673a.html?language=en-US
+      \verb https://rb.gy/rq0zl
       \endverb
     \endentry
     \entry{Zampetti.92720211012021}{incollection}{}

@@ -3,15 +3,15 @@
 \contentsline {figure}{\numberline {2}{\ignorespaces Entstehung einer Composable-Enterprise-Architektur}}{5}{figure.caption.12}%
 \contentsline {figure}{\numberline {3}{\ignorespaces Bestandteile eines Composable-ERP-Systems}}{7}{figure.caption.14}%
 \contentsline {figure}{\numberline {4}{\ignorespaces Technische Realisierung der Composable-Enterprise-Architektur}}{8}{figure.caption.15}%
-\contentsline {figure}{\numberline {5}{\ignorespaces Exemplarische Abfolge eines agilen Entwicklungszykluses}}{11}{figure.caption.22}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Aktivitäten im CI/CD-Prozess}}{13}{figure.caption.24}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Integration der CI/CD-Pipeline mit dem Versionskontrollsystem}}{14}{figure.caption.25}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Hierarchische Darstellung von Softwaretests}}{15}{figure.caption.28}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Strategien zur Bereitstellung von Software}}{19}{figure.caption.30}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Exemplarische Darstellung der hierarchischen Entscheidungsstruktur im AHP}}{24}{figure.caption.31}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Gewichtungsfaktoren der AHP-Entscheidungskriterien}}{38}{figure.caption.37}%
-\contentsline {figure}{\numberline {12}{\ignorespaces SAP Cloud Transport Management}}{42}{figure.caption.40}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{43}{figure.caption.41}%
-\contentsline {figure}{\numberline {14}{\ignorespaces CEA-Szenario für Performance-Tests}}{47}{figure.caption.42}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{49}{figure.caption.44}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Entscheidungsbaum für die Wahl eines CI/CD-Pipeline-Tools}}{59}{figure.caption.46}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Exemplarische Abfolge eines agilen Entwicklungszykluses}}{11}{figure.caption.21}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Aktivitäten im CI/CD-Prozess}}{13}{figure.caption.23}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Integration der CI/CD-Pipeline mit dem Versionskontrollsystem}}{14}{figure.caption.24}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Hierarchische Darstellung von Softwaretests}}{16}{figure.caption.27}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Strategien zur Bereitstellung von Software}}{20}{figure.caption.29}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Exemplarische Darstellung der hierarchischen Entscheidungsstruktur im AHP}}{24}{figure.caption.30}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Gewichtungsfaktoren der AHP-Entscheidungskriterien}}{38}{figure.caption.36}%
+\contentsline {figure}{\numberline {12}{\ignorespaces SAP Cloud Transport Management}}{42}{figure.caption.39}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Pipeline-Monitoring mit Kibana und Jenkins}}{43}{figure.caption.40}%
+\contentsline {figure}{\numberline {14}{\ignorespaces CEA-Szenario für Performance-Tests}}{47}{figure.caption.41}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Modularer Aufbau einer CI/CD-Pipeline}}{49}{figure.caption.43}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Entscheidungsbaum für die Wahl eines CI/CD-Pipeline-Tools}}{59}{figure.caption.45}%
